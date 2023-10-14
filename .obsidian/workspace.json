@@ -214,11 +214,12 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 618.5
+    "width": 618.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -238,7 +239,7 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "568e6037bad46e20",
+  "active": "5e8a87031e0aee6a",
   "lastOpenFiles": [
     "Zettelkasten/Token git.md",
     "Zettelkasten/cazzoculo.md",

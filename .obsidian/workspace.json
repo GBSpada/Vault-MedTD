@@ -1,0 +1,284 @@
+{
+  "main": {
+    "id": "2ecc0bee04754f06",
+    "type": "split",
+    "children": [
+      {
+        "id": "4535f61efd6701ad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "40c9af2a4a74b56c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "cabc3b7ee773603f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d15025e166b92950",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Libri/Robbins_E_Cotran_Le_Basi_Patologiche 2.pdf"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c6a357b68203d2c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "14a2e795bec73f38",
+        "type": "tabs",
+        "dimension": 56.99999999999999,
+        "children": [
+          {
+            "id": "f97d3cfed9c8a951",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "10385395cd655dc7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Elettromagnetismo",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "45ea08796f45e544",
+        "type": "tabs",
+        "dimension": 43,
+        "children": [
+          {
+            "id": "f8db43a76001cff7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 271.5110321044922,
+    "collapsed": true
+  },
+  "right": {
+    "id": "4ebe4af6d516db54",
+    "type": "split",
+    "children": [
+      {
+        "id": "91675aacfd27c02e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ae4351b16c3fe865",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1d0373882184470a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "83984a49ec6149eb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "2d83eb0b493f2e6f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "6600a32b910026aa",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "f47cb1d9dccce201",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          },
+          {
+            "id": "ef7a27e583f78765",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "5e8a87031e0aee6a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "5b9fbfc75c00330c",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "10b7313d5e6d8691",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 618.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "templates:Insert template": false,
+      "audio-recorder:Start/stop recording": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "flashcards-obsidian:Generate flashcards": false,
+      "obsidian-statusbar-pomo:Start pomodoro": false,
+      "copilot:Copilot Chat": false,
+      "terminal:Open terminal": false
+    }
+  },
+  "active": "f97d3cfed9c8a951",
+  "lastOpenFiles": [
+    "Excalidraw/Scripts/Downloaded/desktop.ini",
+    "Excalidraw/Scripts/Downloaded/Organic Line.svg",
+    "Excalidraw/Scripts/Downloaded/Organic Line.md",
+    "Excalidraw/Scripts/Downloaded/Mindmap format.svg",
+    "Excalidraw/Scripts/Downloaded/Mindmap format.md",
+    "Excalidraw/Scripts/Downloaded/Connect elements.svg",
+    "Excalidraw/Scripts/Downloaded/Connect elements.md",
+    "Excalidraw/Scripts/Downloaded/Auto Layout.svg",
+    "Excalidraw/Scripts/Downloaded/Auto Layout.md",
+    "Excalidraw/Scripts/Downloaded/Add Link to Existing File and Open.svg",
+    "Excalidraw/Scripts/Downloaded/Add Link to Existing File and Open.md",
+    "Excalidraw/Scripts/Downloaded/Add Connector Point.svg",
+    "Excalidraw/Scripts/Downloaded/Add Connector Point.md",
+    "Excalidraw/Scripts/desktop.ini",
+    "Excalidraw/Scripts/Downloaded",
+    "Excalidraw/desktop.ini",
+    "Excalidraw/Trascrizione negli eucarioti.md",
+    "Excalidraw/Trascr eucexcalidraw.md",
+    "Excalidraw/Traduzione.excalidraw.md",
+    "Excalidraw/Topoisomerasi.excalidraw.md",
+    "Excalidraw/Struttura DNA.excalidraw.md",
+    "Excalidraw/Scripts",
+    "Excalidraw/Replicazione.excalidraw.md",
+    "Excalidraw/Regolazione trascrizione.excalidraw.md",
+    "Excalidraw/RNA.excalidraw.md",
+    "Excalidraw/Prova iPad.excalidraw.md",
+    "Excalidraw/Processamento e maturazione dell RNA.excalidraw.md",
+    "Excalidraw/Pressioni sulle pleure.excalidraw.md",
+    "Excalidraw/Leucemia mieloide cronica.excalidraw.md",
+    "Excalidraw/Intro tec programm.excalidraw.png",
+    "Excalidraw/Intro tec programm.excalidraw.md",
+    "Excalidraw/Genetica I.excalidraw.md",
+    "Excalidraw/Drawing 2023-09-06 11.24.03.excalidraw.md",
+    "Excalidraw/Drawing 2023-09-06 00.46.02.excalidraw.md",
+    "Excalidraw/Drawing 2023-01-22 13.38.09.excalidraw.md",
+    "Excalidraw/Drawing 2023-01-16 15.57.28.excalidraw.md",
+    "Excalidraw/Drawing 2023-01-09 19.52.08.excalidraw.md",
+    "Excalidraw",
+    "desktop.ini",
+    "Day Planners/desktop.ini",
+    "Day Planners",
+    "copilot-conversations",
+    "Files/~$ogettazione Logica.docx",
+    "Files/sistema informatico vs informativo.png",
+    "Files/photo_9_2023-03-19_17-27-15.jpg",
+    "Files/photo_8_2023-03-19_17-27-15.jpg",
+    "Zettelkasten/Untitled.canvas",
+    "Zettelkasten/Metabolismo lipoproteine.canvas",
+    "Zettelkasten/Mappa Architetture e Sistemi.canvas",
+    "Zettelkasten/Fisiologia urinario.canvas",
+    "Zettelkasten/Fisiologia endocrino.canvas",
+    "Zettelkasten/Fisiologia Digerente.canvas",
+    "Zettelkasten/Coagulazione.canvas",
+    "Genetica - Lezioni e sbobine.canvas",
+    "L'azione patogena dei batteri.canvas",
+    "Untitled.canvas"
+  ]
+}

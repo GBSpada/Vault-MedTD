@@ -1,0 +1,37 @@
+Processi morfologici
+- **Conversione**
+    - Formare una nuova parola sulla base di un'altra ma in uno specifico contesto sintattico 
+- **Affissazione**
+    - Servono almeno 3 sillabe
+    - ![](https://i.imgur.com/HHqIp6u.png)
+- **Aplologia**
+    - Quando ci sono due suoni simili o identici uno dei due viene eliminato
+    - Solo apostrofo nel genitivo sassone
+- **Reduplication**
+    - Partial
+- **Compounding**
+    - Unione di più basi
+    - Regola della mano d+estra
+    - Distinti in
+        - **Endocentrici**
+        - **Esocentrici*
+- **Coinage**
+    - Costruzione di parole senza il riciclo di parole già esistenti
+        - Es. nylon
+- **Eponyms**
+    - Neologismi creati ampliando il significato di un nome di persona per riferirsi ad un posto, un concetto o un prodotto associato a una persona
+    - Processo di produzione molto fruttifero
+    - Mesmerize da ancunu mesmer
+- **Backformation**
+    - Reinterpretazione della struttura di una parola di modo da rimuovere un pezzo (rianalizzato in quanto affisso)
+    - scavenge - scavenger
+- **Blending**
+    - Miscela di componenti di parole differenti
+    - brunch
+- **Clipping**
+    - Flu - Influenza
+- **Ipocorismo**
+    - Vicky - Victoria
+    - vezzeggiatvo
+- **Acronimi e abbreviazioni**
+    - bbc

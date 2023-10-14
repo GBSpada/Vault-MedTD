@@ -1,0 +1,27 @@
+## Abstract
+- Contesto
+    - Per affrontare la sfida delle comorbidità
+        - Bisogna passare da una visione malattia-centrica ad una paziente centrica
+    - Lo studio vuole sviluppare un framework concettuale per aiutare nello sviluppo e nell'implementazione di programmi di cure integrate
+- Metodi
+    - Scoping review e discussioni tra gli esperti sono state usate per identificare i concetti chiave attinenti al tema
+- Discussioni
+    - Sono state organizzate delle conferenze tra il gruppo di ricerca e rappresentanti di 5 gruppi di stakeholder:
+        - Pazienti
+        - Partner
+        - Professionisti
+        - Finanziatori
+        - Deputati alle strategie
+- Risultati
+    - 11,641 pubblicazioni esaminati
+        - 92 utilizzati per l'estrazione dei dati
+    - Intorno ad un nucleo, i concetti sono stati ragruppati in una versione adattata delle componenti dei sistemi sanitari secondo la WHO
+        - Erogazione dei servizi
+        - Governo e comando
+        - Forza lavoro
+        - Finanze
+        - Tecnologie e attrezzatura medica
+        - Informazione e ricerca
+    - Ogni componente è distinta in micro,meso e macro livelli
+- Conclusioni
+    - Questo schema può essere applicato da diverse parti interessate in numerose fasi

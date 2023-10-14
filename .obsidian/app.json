@@ -1,0 +1,21 @@
+{
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Zettelkasten",
+  "attachmentFolderPath": "Files",
+  "spellcheckLanguages": null,
+  "useTab": true,
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 64
+  },
+  "spellcheck": false,
+  "showLineNumber": false,
+  "showFrontmatter": false,
+  "defaultViewMode": "source",
+  "showUnsupportedFiles": true
+}

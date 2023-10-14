@@ -1,0 +1,51 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#Fisiologia",
+      "color": {
+        "a": 1,
+        "rgb": 7855357
+      }
+    },
+    {
+      "query": "tag:#PatologiaGenerale",
+      "color": {
+        "a": 1,
+        "rgb": 14722386
+      }
+    },
+    {
+      "query": "tag:#Patologia",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "tag:#Microbiologia",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -1.4,
+  "nodeSizeMultiplier": 1.03973127099445,
+  "lineSizeMultiplier": 1.01523318490743,
+  "collapse-forces": false,
+  "centerStrength": 0.0917897039293805,
+  "repelStrength": 8.85416666666667,
+  "linkStrength": 0.397569444444444,
+  "linkDistance": 122,
+  "scale": 0.08732525764964413,
+  "close": true
+}

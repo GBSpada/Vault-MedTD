@@ -1,0 +1,146 @@
+13-04-2023 14:24
+Stato: #ideaLez 
+Tag: #Microbiologia 
+
+# Virologia
+- Intro
+	- Dei virus abbiamo documentazione antica
+	- Oggi possiamo tracciare la documentazione artistica e scritta
+	- Con la messa a punto di strumenti rudimentali si potevano osservare batteri
+		- Per i virus non è stato possibile per lungo tempo
+			- Le persone che si occupavano di questi argomenti avevano comunque capito fossero presenti agenti più piccoli dei batteri
+				- Agenti che sfuggivano alle maglie dei filtri
+		- Primi esperimenti sui virus delle piante
+			- Filtraggio delle piante
+				- Hanno infettato altre piante con questo filtrato
+- Cos'è un virus
+	- Sono esseri viventi che non hanno un metabolismo completo ma necessitano di parassitare degli organismi viventi
+	- Anche alcuni batteri sono dei parassiti 
+	- Il parassitismo non è un'ostacolo all'essere dei "viventi"
+		- Si parla di vita "non autonoma"
+	- Sono viventi perché
+		- Hanno un genoma
+		- Si replicano
+		- Vivono
+		- Muoiono
+	- Organismi viventi acellulari
+- Classificazione dei virus
+	- Rispetto al loro genoma
+		- Virus a DNA
+		- Virus a RNA
+			- Rompono un dogma della genetica
+				- Percorso obbligato DNA-RNA-Proteine
+			- Sfruttati per il vaccino
+	- Caratteristiche del genoma
+		- Numero filamenti
+			- SS
+				- Single strand
+			- DS
+				- Double strand
+		- + o -
+			- Verso del filamento
+			- I virus a polarità positiva entrati in cellula possono direttamente far partire la traduzione
+		- Seg
+			- Sta per segmentato
+			- 8 seg
+				- Ortho myxo virus
+		- Forma
+			- Circolare
+			- Lineare
+	- Capside
+		- Icosaedrico
+		- Elicoidale
+	- Presenza o assenza di: *peplos*/envelope/membrana pericapsidica
+		- Si parla di virus nudi/rivestiti
+- Modifiche genomiche
+	- I virus sono in grado di mutare molto spesso il loro genotipo ed il loro fenotipo 
+		- Una modifica genetica non implica una modifica fenotipica
+- Struttura del virus
+	- Nucleo capside
+		- Il capside infatti raccoglie il materiale genetico
+		- Formato quindi da
+			- Capside
+				- Formato da proteine ripetute: *capsomeri*
+				- Possibili **simmetrie**
+					- Elicoidale
+						- Protomeri elicoidali proteggono il genoma
+						- Rhabdovirus
+					- Icosaedrica
+						- Icosaedro
+							- 20 facce triangolari equilatere
+					- Complessa
+						- Pox virus
+						- Batteriofagi
+							- Testa simil icosaedrica
+			- Materiale genetico
+	- Envelope
+		- Fosfolipidico perché staccato da membrana cellulare durante la gemmazione del virione
+	- Spicole/Spike
+		- Strutture proteiche fortemente antigeniche
+	- Proteine di matrice
+		- Tra il nucleo capside e l'envelope
+- Proteine nei virus
+	- Funzionali
+		- Proteine che di fatto hanno attività enzimatica o in generale regolatoria
+			- Di diverso tipo
+				- Trascrittasi inversa
+				- Proteine transattivanti
+	- Strutturali
+		- Ruolo "statico"
+		- Quelle del capside o delle spicole
+			- Che sicuramente hanno un ruolo ed una funzione
+				- Ad esempio il capside:
+					- Protezione
+						- Danno fisico
+						- Danno enzimatico
+					- Packaging, assemblaggio del genoma virale
+						- Le proteine tendono a prendere contatto tra di loro formando a cascata la struttura finale
+						- Processo che permette di ridurre gli errori dovuti a traduzione etc
+					- Interazioni con cellule ospiti
+- Test molecolare covid
+	- Non permette di capire la quantità di virus e soprattutto la sua capacità replicativa
+- Chiedere ad amelia
+	- I genomi virali sono open reading frame essendo così piccolo il genoma non conteiene geni non necessari
+	- ha geni che codificano per proteine strutturali e funzionali non per l'envelope che è di derivazione cellulari
+	- I visrus nudi hanno solo componente virale I virus capsulati anche cellulari
+		- Importanti conseguenze patogenetiche
+- Componenti dell'envelope
+	- Glicocalice
+		- Glicoproteine sono antirecettori si legano a recettori cellulari per consentire ingresso al virus in cellula
+		- A volte il glicocalice si proietta all'interno fino ad assumere contatti con il capside
+		- Glicosilazione
+			- Gli zuccheri sono coprenti le parti più antigeniche
+	- Proteine 
+		- M1/M2
+			- Proteine di matrice negli orthomyxovirus
+		- Proteine di superficie con attività enzimatica
+			- Neuroaminidasi (NA)
+		- Enzimi virali
+			- Polimerasi
+			- Proteasi
+			- Integrasi
+				- Integrano il genoma virale
+			- Regolatorie
+				- Nel ciclo replicativo virale
+		- Non strutturali
+			- Conseguenze neoplastiche
+				- Papilloma virus
+					- Carcinoma della cervice uterina
+						- NB: non tutti i genotipi di PAPV sono oncogenici
+							- Alberi filogenetici
+- Recettori 
+	- Molecole espresse su una cellula per svolgere funzioni proprie della cellula
+	- Strutture sfruttate dai virus per riconoscere ed inserirsi all'interno delle cellule
+		- Il virus si sostituisce al ligando del recettore come un grimaldello 
+	- Sulla base dei possibili legami del virus possiamo dire che i virus hanno un **tropismo**
+		- ES: rhinovirus e raffreddori per quanto riguarda le vie aeree
+		- Molto importante !!!!!
+			- Mentre ad un batterio serve solamente del nutrimento che può trovare ovunque e quindi causare sepsi
+			- Ad un virus serve un target specifico quindi raramente infetta una cellula non bersaglio 
+			- **PISTRELOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO**
+
+
+
+---
+# References
+[[Microbiologia - Lezioni]]

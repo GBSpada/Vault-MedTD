@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "title": "Patologia Generale - Maggiolini + Robins",
+      "path": "Risorse/Patologia Generale - Maggiolini + Robins.md"
+    },
+    {
+      "type": "file",
+      "title": "Microbiologia - Lezioni",
+      "path": "Risorse/Microbiologia - Lezioni.md"
+    },
+    {
+      "type": "file",
+      "title": "Robbins pt.1",
+      "path": "Zettelkasten/Robbins pt.1.md"
+    },
+    {
+      "type": "file",
+      "title": "La placa - microbiologia",
+      "path": "Zettelkasten/La placa - microbiologia.md"
+    },
+    {
+      "type": "file",
+      "title": "Goals",
+      "path": "Zettelkasten/Goals.md"
+    }
+  ]
+}

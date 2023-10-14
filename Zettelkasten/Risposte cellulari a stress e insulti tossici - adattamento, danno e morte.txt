@@ -1,0 +1,364 @@
+09-05-2023 18:54\\
+Stato: #IdeaLez\\
+Tag: #PatologiaGenerale
+
+===== Introduzione alla patologia =====
+
+Tradizionalmente lo studio della patologia si divide in //generale// e //sistemica//, nel primo caso si trattano le reazioni a livello cellulare o tissutale in risposta ad una noxa patogena, nel secondo si analizzano le singole alterazioni dei vari apparati/sistemi/tessuti specializzati. In genere si analizzano quattro elementi di ogni patologia.
+
+==== Eziologia o causa ====
+
+I fattori principali sono due: di natura genetica e fattori eziologici acquisiti. In alcuni casi però le origini sono multifattoriali.
+
+==== Patogenesi ====
+
+Studio degli eventi che si verificano dallo stimolo iniziale all'espressione ultima della malattia. Con i progressi tecnologici conoscere le alterazioni correlate alle patologie è sempre più semplice e di conseguenza lo è lo sviluppo di terapie specifiche.
+
+==== Alterazioni molecolari e morfologiche ====
+
+Fondamentali nella diagnostica, negli ultimi anni però la diagnosi puramente morfologica si accompagna sempre di più a tecniche di biologia molecolare (fondamentale nella stadiazione e nella conferma delle diagnosi)
+
+==== Alterazioni funzionali e manifestazioni cliniche ====
+
+Risultato ultimo dello sviluppo delle patologie.
+
+===== Risposte cellulari a stress e a stimoli dannosi =====
+
+{{https://i.imgur.com/eooD6e8.png|omeostasi danno adattamento}}\\
+Le cellule in condizioni normali si trovano in uno stato di equilibrio detto di //omeostasi//, se sottoposte a stress svilupperanno i cosiddetti //adattamenti//, etc etc, **basta seguire l'immagine.**
+
+===== Adattamenti della crescita e del differenziamento cellulare =====
+
+> Modificazioni reversibili nella dimensione, numero, fenotipo, attività metabolica o funzione delle cellule in risposta a cambiamenti ambientali.
+
+==== Ipertrofia ====
+
+> Aumento del volume cellulare e delle dimensioni d'organo
+
+  * Negli organi in assenza di fenomeni mitotici è l'unico modo per ottenere un aumento di volume
+  * La distinguiamo in
+    * Fisiologica
+    * Patologica
+  * Causata da una aumentata richiesta funzionale o da stimolazioni dal punto di vista molecolare
+  * Esempi
+    * Utero, muscolo cardiaco, muscolo scheletrico
+
+=== Meccanismi di ipertrofia ===
+
+> Fondamentalmente è il risultato di una incrementata produzione di proteine cellulari\\
+> {{https://i.imgur.com/1zVwFAx.png|Meccanismi molecolari ipertrofia}}
+
+== 3 cause principali ==
+
+  * Stiramento meccanico
+  * Fattori di crescita
+    * TGF, IGF
+  * Agenti vasoattivi
+    * Endotelina 1, Angiotensina
+
+== Vie di trasduzione del segnale implicate ==
+
+PKB, GPCR e PKA
+
+= Fattori embrionali ed espressione genica =
+
+  * L'ipertrofia viene spesso associata ad una modificazione nell'espressione delle proteine contrattili dalla forma adulta a quella fetale o neonatale
+  * Esempi
+    * Isoforma alfa della catena pesante della miosina
+      * Espressa in età adulta
+    * Isoforma beta [...]
+      * Più lenta ed economica dal punto di vista energetico
+      * Fetale
+
+== Ipertrofia selettiva ==
+
+<HTML><ul></HTML>
+<HTML><li></HTML>Avviene a carico di singoli organelli<HTML></li></HTML>
+<HTML><li></HTML>Come nel caso del REL negli epatociti dei soggetti trattati con barbiturici\\
+- Questa risposta avviene per accrescere la quantità di P-450
+{{data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAAAXNSR0IArs4c6QAAArVJREFUaEPtmUEyBTEQhv/nAliwxQlwApwAN+AE7NhhaYW9KpyAG+AEOAG2LHAC6lfzplpXZtLp5NXMq5LNq3qTzPxfuvtPJjPAmLfBmOvHP0DXERxFBKYA7ADYAjBfAT4CuAFwBuCzJHRpgCUA10K41kqQTQAvpSBKAnDmbwEQoq0RYrmPAIcADozCjgCwf3YrFQHm+rNScwVgFwAjcwlgRVxnHSyUqIdSAMz7DSHwtUqlYcESgnk/KfoQkIWe1UoArFa5L4VsV7Mu/2M0TpRa1gJrwt1KADyowr0HQKhQYxTmxIU7AGtu9UD2SswUuFACKIjCQi0ULdoq1whXy4kA85qFy99hs+Q14WRBMyosaFfLAdC2+VWlUmyRCjmW21a9ALkiTqvtxnDW3bbqBYjZJoXRiY4rhXuqVorZqgfAaptvAGYqgHcAsyrJi9iqB8Bqm99KcOhZ2baaCpBimxaAbFtNAUi1TQsAg5RlqykAqbZpBchyNCuA5yFWAEbBbatWAItt6pU0BcBtqxYAq23mAHCsy1YtAFbbzAXg+GRbjQGk2KYGiC1kRXarbQCptqkFtW0l2naeSbbaBpBqm67tcGBQkuM1ASTdpJRycR+zrTYBeGyzJIfZVkMAXtssCWC21RCA1zabingCwD6Acwdh1FY1QI5tttko37imHQDR3aoEyLXNUQBEd6sSQM++9SW9aWKH60BOCvHeIUesj2IkAM9m1oUa90mBI1ViQ7St1sc3EuBDnfEwZ4t+jIipbLmuo1CfJUkAipWHr30G4OHx79efthTikTjTKHZQlTGxpqEUyoVVfjgJplDIQk1P6KBTsIhpo9wJLnYgKOWRTzIaeiFjmJg6fYWgeH5IqdM6tJVgJPh6x459AeE3B9o8J/ePM8beyFJC20nff4BOpl08dOwj8AOhR7sxwV/TIgAAAABJRU5ErkJggg==?24x24}}
+
+Nota bene :
+
+
+<HTML><p></HTML>L'azione della P-450 non sempre porta a detossificazione, spesso vengono generati composti dannosi e ROS<HTML></p></HTML>
+
+<HTML></li></HTML><HTML></ul></HTML>
+
+==== Iperplasia ====
+
+> Aumento del numero di cellule all'interno di un organo o di un tessuto, generalmente risultate in un accrescimento della massa dell'organo o del tessuto in questione
+
+=== Iperplasia fisiologica ===
+
+== Ormonale ==
+
+  * In risposta ad una necessità
+  * Ad esempio nel caso dell'epitelio ghiandolare della mammella femminile in pubertà ed in gravidanza
+
+== Compensatoria ==
+
+  * In risposta ad un danno o ad una parziale asportazione del tessuto o dell'organo
+  * Ad esempio: epatociti e mito di prometeo
+    * L'epatectomia parziale è il caso "moderno"
+
+=== Iperplasia patologica ===
+
+> La causa principale sono ormoni e fattori di crescita in eccesso
+
+  * Regredisce al cessare degli stimoli ormonali e data l'assenza di aberrazioni genetiche non genera necessariamente proliferazioni incontrollate.
+  * Comunque anche se non è direttamente correlata al cancro fornisce un terreno fertile per esso
+
+== Endometriale ==
+
+  * In condizioni fisiologiche, dopo il ciclo mestruale, a livello dell'epitelio endometriale si verifica un aumento dell'attività proliferativa
+    * Subito dopo viene bloccata da un aumento dei livelli di progesterone
+  * Quando questo equilibrio tra estrogeni e progestinici è alterato con un aumento degli estrogeni si ha iperplasia
+
+== Prostatica ==
+
+Indotta dagli androgeni
+
+== Virale ==
+
+  * Associata a papillomavirus
+
+=== Meccanismi di iperplasia ===
+
+Può essere indotta da fattori di crescita nelle cellule mature e nelle cellule staminali
+
+==== Atrofia ====
+
+> Riduzione del volume di un organo o di un tessuto per effetto di una diminuzione delle dimensioni e del numero di cellule
+
+  * La distinguiamo in due tipi principali
+    * Fisiologica
+      * Durante l'embriogenesi ad esempio nel caso della notocorda e del dotto tireoglosso
+    * Patologica
+      * Generale e localizzata
+
+=== Le principali cause: ===
+
+  * **Riduzione del carico di lavoro**
+    * Atrofia da disuso
+    * Può sfociare in osteoporosi
+  * **Perdita dell'innervazione**
+    * Il muscolo scheletrico ad esempio dipende strettamente dalla sua innervazione
+    * SLA
+  * **Riduzione dell'apporto ematico**
+    * Ischemia, dovuta al lento sviluppo di una malattia arteriosa occlusiva
+    * Nel caso in cui avvenga nel cervello in tarda età si parla di atrofia senile
+  * **Nutrizione inadeguata**
+    * Nel caso di una grave malnutrizione (Marasma), si consumano le riserve di grassi ed infine muscolari.
+    * La conseguenza ultima è la Cachessia
+      * Si osserva anche durante il cancro o malattie croniche infiammatorie, probabilmente dovuta al TNF
+  * **Perdita della stimolazione endocrina**
+    * Soprattutto in tessuti sensibili agli ormoni come la mammella e gli organi riproduttivi
+  * **Pressione**
+    * L'espansione di un tumore benigno ad esempio può generare pressione sul microcircolo causando danni per ischemia
+
+=== Manifestazioni citologiche ===
+
+  * Ridotte dimensioni delle dimensioni delle cellule e degli organelli
+  * In particolare sono presenti meno mitocondri, meno RE e meno miofilamenti
+
+=== Meccanismi di atrofia ===
+
+  - Ridotta sintesi proteica
+  - Aumentata degradazione delle proteine
+    * Via dell'ubiquitina-proteasoma
+      * Stimolata anche nella cachessia neoplastica
+  - Autofagia
+    * Aumento dei vacuoli autofagici
+    * In alcuni casi il materiale del vacuolo persiste e permane come corpo residuo
+      * Ad esempio: **granuli di lipofuscina**
+
+==== Metaplasia ====
+
+> Trasformazione reversibile di un tipo cellulare in un altro
+
+=== Esempi a livello epiteliale ===
+
+== Da cilindrico a squamoso ==
+
+> Il caso più comune
+
+  * Nell'apparato respiratorio
+    * In risposta a stimoli irritativi cronici come il fumo
+    * In caso di carenza da vitamina A
+  * Nei dotti escretori delle ghiandole esocrine
+    * A causa di calcolosi
+
+= Conseguenze =
+
+  * Perdita di funzione, soprattutto nel caso dell'epitelio respiratorio dove la secrezione di muco è un fattore fondamentale.
+  * In caso di persistenza dello stimolo "metaplastico" il rischio di neoplasia è maggiore
+
+== Da squamoso a cilindrico ==
+
+  * Come nel caso dell'Esofago di Barrett
+    * L'epitelio esofageo squamoso viene sostituito da cellule cilindriche di tipo intestinale a causa del reflusso acido gastrico
+    * Spesso precursore di adenocarcinomi ghiandolari
+
+== Del connettivo ==
+
+  * Formazione di connettivo dove non dovrebbe essere presente
+  * Miosite ossificante
+
+=== Meccanismi di metaplasia ===
+
+<HTML><blockquote>
+Riprogrammazione delle cellule staminali presenti nei tessuti nomarli o delle cellule mesenchimali indifferenziate presenti nel tessuto connettivo
+
+{{data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAAAXNSR0IArs4c6QAAAxtJREFUaEPVmkvITkEYx38fOyEWJGUlIrfYKZbEilxyXZBCERtiaUmfDVGIWLjmEitiSdmRW0RWSmJByM6lv875ejyd9z1z5swpM7vvvPPMPL+Z5zYz3wCZt4HM9ScVwAhgETAfmANMBiYAI4sF+g58AN4CT4CHwD3gR9sFbAuwDNgIrITGi/EbuA6cB27FgsQCrAf2AHNjJ3Zyj4HDwMWm4zUFmAkMAkuaThTY/w6wF3ge2L/Rtm8FTvQxlVfA3cK+XwDvgK+FIqOBScCMwk8WA9N6KCnT2g6cCoEI3YGDwL4eA54DzgAPQiY0fRYAW4BNPeQOAfvrxgwBOAbsqBjoBnAAeFY3Sc3vs4pxVlT0Ow7s7CdfB9Br5bXFJ1sq7sW3FSbqv/fdiX4Asnmv5HtgTYS5hLLKrK4AE52A4Cp9oheAos1T57BSXtGnrcnUwcikFI0shBx7dlV06gVwuyJULuxw5T2UduK++yiopb5jFYCS1AXXsQubr9uJKp/Y4JNdFcAjl2EVbVQqNG2bATngsCIcnm46QFFq2OikjD3PjuMBVNvcdBPJ9mLs/iMwrhjrCzA2AkD+IF+0bbmtnTzAVWCV6a0kpZWMaSkANO9Zl+yuAatLhSyASmKVvfZbG8dNYULS0zu0IpLK9L+luFXWm49qm+kxS9+BzEtXOw2ZkQXwWfcosLsDZWKGPALsMoJD2dkC+Ni/DrgcM1sHMmuBS2bcoZxgAV4DU0yn2OjTgf74aPQGmOp9QLX7KDO7wp7CX2wrnVjyKsUVTWLbGOCzEf4G6IzxjxP/cn8PB/Qtttkw+gkYHztQkQx/GnlFIiXITgE0iW11pXs/PilbC5DahFICBJlQaidOCRDkxKnDaEqAoDCaOpGlBAhKZKlLiZQAQaVE6mIuFUBwMacwlrKcTgUQXE4LoKsDTWwia3ygEUTqI2WbUkK3142OlJos+0O9ILK+VhFA9hdbgsj6arGsDLO+3C0hsr5er9sJ/f7fP3CUEFk/MZUQWT/y2SNfts+s/tya7UO3B8n2Xw1a3JSkEW1z1ZFGg5aj/AEWY+AxruADZgAAAABJRU5ErkJggg==?24x24}}
+
+Deficit da vitamina A
+
+
+Poiché l'acido retinoico regola la trascrizione genica delle sequenze che si occupano di regolare la differenziazione dei progenitori
+
+
+</blockquote></HTML>
+===== Danno e morte cellulare =====
+
+> Si verifica in 3 casi: quando le cellule non riescono ad adattarsi ad uno stress, quando un agente esterno causa il danno, se il danno è già presente
+
+==== Danno Reversibile ====
+
+  * Le principali caratteristiche a livello citologico sono
+    * La deplezione di ATP
+    * La riduzione della fosforilazione ossidativa
+    * Il rigonfiamento cellulare causato da alterazioni della concentrazione ionica
+
+==== Morte cellulare ====
+
+  * Con il perdurare del danno la cellula diventa incapace di recuperare e muore
+  * Le due vie principali sono l'apoptosi e la necrosi
+    * La necrosi è un processo sempre patologico, l'apoptosi non è necessariamente associata a danno cellulare
+  * Ci sarebbe anche l'autofagia ma comunque ad un certo punto tutte queste vie si sovrappongono parzialmente o si susseguono
+
+===== Cause di danno cellulare =====
+
+==== Carenza di ossigeno: ipossia ====
+
+  * Tra le cause di ipossia troviamo:
+    * Ischemia
+    * Inadeguata ossigenazione sanguigna
+      * A causa di un insufficienza cardiorespiratoria o di una ridotta capacità di trasporto ematico dell'ossigeno
+    * Perdite ingenti di sangue
+  * Inizialmente il tessuto ipossico può adattarsi diventando atrofico
+
+==== Agenti fisici ====
+
+  * Traumi meccanici, temperature estreme, radiazioni, shock elettrico, pressione atmosferica
+
+==== Agenti chimici e farmaci ====
+
+==== Agenti infettivi ====
+
+==== Reazioni immunologiche ====
+
+==== Alterazioni genetiche ====
+
+==== Squilibri nutrizionali ====
+
+  * Eccessi e deficit nutrizionali rimangono una delle cause più comuni di danno cellulare
+
+===== Alterazioni morfologiche nel danno cellulare =====
+
+{{https://i.imgur.com/AMwGOur.png|Danno cellulare in base alla durata}}
+
+==== Danno reversibile ====
+
+==== Necrosi ====
+
+=== Quadri di necrosi tissutale ===
+
+===== Meccanismi di danno cellulare =====
+
+==== Deplezione di ATP ====
+
+==== Danno mitocondriale ====
+
+==== Ingresso intracellulare di calcio e perdita dell’omeostasi del calcio ====
+
+==== Accumulo di specie reattive e radicali liberi dell'ossigeno (stress ossidativo) ====
+
+==== Difetti della permeabilità di membrana ====
+
+==== Danno del DNA e delle proteine ====
+
+===== Correlazioni clinico-patologiche: esempi selezionati di danno cellulare e necrosi =====
+
+==== Danno ischemico e ipossico ====
+
+=== Meccanismi di danno cellulare ischemico ===
+
+==== Danno da ischemia-riperfusione ====
+
+==== Danno chimico (tossico) ====
+
+===== Apoptosi =====
+
+==== Cause di apoptosi ====
+
+=== L‘apoptosi in situazioni fisiologiche ===
+
+=== L'apoptosi in condizioni patologiche ===
+
+==== Cambiamenti morfologici e biochimici nell’apoptosi ====
+
+=== Caratteristiche biochimiche dell'apoptosi ===
+
+==== Meccanismi di apoptosi ====
+
+=== La via di apoptosi intrinseca (mitocondriale) ===
+
+=== La via di apoptosi estrinseca (innescata dai recettori di morte) ===
+
+=== La fase effettrice dell'apoptosi ===
+
+=== Rimozione delle cellule morte ===
+
+==== Correlazioni clinico-patologiche: l'apoptosi in condizioni fisiologiche e patologiche ====
+
+=== Esempi di apoptosi ===
+
+=== Patologie associate a disregolazione dell'apoptosi ===
+
+===== Autofagia =====
+
+===== Accumuli intracellulari =====
+
+==== Lipidi ====
+
+=== Steatosi (degenerazione grassa) ===
+
+=== Colesterolo ed esteri del colesterolo ===
+
+==== Proteine ====
+
+==== Modificazioni ialine ====
+
+==== Glicogeno ====
+
+==== Pigmenti ====
+
+=== Pigmenti esogeni ===
+
+=== Pigmenti endogeni ===
+
+===== Calcificazione patologica =====
+
+==== Calcificazione distrofica ====
+
+==== Calcificazione metastatica ====
+
+===== Invecchiamento cellulare =====
+
+
+----
+
+====== References ======
+
+Patologia Generale - Lezioni

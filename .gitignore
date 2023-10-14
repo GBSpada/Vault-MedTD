@@ -1,0 +1,15 @@
+Libri/
+
+
+# Ignore Smart Connections folder because embeddings file is large and updated frequently
+.smart-connections
+
+# to exclude workspace cache specific to mobile devices
+.obsidian/workspace-mobile.json
+
+# Add below lines to exclude OS settings and caches
+.trash/
+.DS_Store
+
+# to only exclude plugin configuration. Might be useful to prevent some plugin from exposing sensitive data
+.obsidian/plugins

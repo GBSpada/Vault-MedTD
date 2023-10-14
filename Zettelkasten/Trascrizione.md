@@ -1,0 +1,322 @@
+2023-07-13 12:31
+Stato: #Idealezione 
+Tag: #Biologiamolecolare 
+
+---
+# Trascrizione
+- Processo mediante il quale l'informazione contenuta in un gene viene copiata in una sequenza complementare di RNA dall'enzima **RNA polimerasi**.
+	- **Trascrittomica**: insieme di tutte le molecole di RNA prodotte dalla cellula in un particolare momento o in una particolare condizione metabolica.
+- Nei procarioti, avviene nel citoplasma e, negli eucarioti, nel nucleo. Richiede:
+	- Un *filamento stampo* (o *antisenso*);
+	- La *RNA polimerasi*, l'enzima principale del processo di trascrizione;
+	- I *nucleotidi trifosfati*.
+- Quale dei due filamenti viene trascritto?
+	- Il *filamento senso*, con stessa sequenza dell'RNA trascritto, ma che non partecipa alla trascrizione, in quanto complementare al filamento stampo (anche detto "antisenso").
+	- Il filamento stampo viene letto in direzione 3'-5', poiché la RNA polimerasi sintetizza sempre in *direzione 5'-3'*. Quale dei filamenti fungerà da stampo dipende dall'orientamento su cui si posiziona l'enzima polimerasi su quel tratto di DNA.
+		- ![Trascrizione, direzione della polimerasi](https://i.imgur.com/tHLgMD8.png)
+## Trascrizione nei procarioti
+- Elementi necessari:
+	- **unità di trascrizione**: sequenza di DNA trascritta in un singolo RNA. Essa è delimitata da *promotore* e *terminatore*. Nei procarioti, un'unità di trascrizione può comprendere più di un gene, negli eucarioti è specifica per un singolo.
+		- Il punto d'inizio della trascrizione (*TSS*, indicato con +1) divide la regione in
+			- sequenze "a monte", a sx del punto d'inizio (*upstream*), in cui  le base sono numerate negativamente;
+			- sequenze "a valle", a dx del punto d'inizio (*downstream*), in cui le basi sono numerate coi numeri positivi.
+		- ![Trascrizione, unità di trascrizione](https://i.imgur.com/2i8wbQU.png)
+	- **promotore**: sequenza di DNA che lega l'RNA polimerasi per iniziare la trascrizione. Essenzialmente comunica tre cose alla polimerasi: dove iniziare, quale filamento leggere e la direzione da prendere.
+		- I promotori batterici presentano due *frequenze consenso*, ovvero frequenze con cui si legherà la polimerasi:
+			- *sequenza TATAAT* (o *Pribnow box*), a -10,
+			- sequenza a -35, che rappresenta il sito di denaturazione, dove si aprirà la doppia elica.
+			- ![Trascrizione, promotore e sequenze consenso](https://i.imgur.com/4Ey3PuO.png)
+		- La frequenza relativa d'inizio è indicata come *forza del promotore* ed è correlata all'affinità dell'RNA polimerasi per la regione del promotore.
+			- Alcuni promotori contengono anche un elemento aggiuntivo, detto *elemento UP*, che aumenta la capacità di attrarre l'RNA polimerasi.
+	- **RNA polimerasi**: catalizza la polimerizzazione di ribonucleotidil-5'-trifosfato da uno stampo di DNA (non necessita di un primer).
+		- ![RNA polimerasi, struttura](https://i.imgur.com/OK2YyaD.png)
+		- Struttura: 'insieme delle due parti che lo costituiscono è detto *oloenzima* e si divide in
+			- *core*: contiene il sito catalitico ed è formato da 5 subunità (2α, 1β, 1β' e 1ω). Ha forma simile alla chela di un granchio che afferra lo stampo di DNA. Contiene un sito catalitico e due canali:
+				- ![RNA polimerasi, core](https://i.imgur.com/SIDBOt5.png)
+				- 
+				- all'interno delle due pinze di forma un sito catalitico, che ospita il filamento di DNA;
+				- nel primo (più grande), passa il DNA; contiene 2 ioni Mg2+:
+					- uno per aumentare la capacità nucleofila del 3'OH,
+					- uno per stabilizzare le cariche negative del pirofosfato rilasciato;
+				- il secondo conduce i nucleotidi trifosfato.
+			- *fattore σ*: necessario per il legame specifico dell'RNA polimerasi. Esso è responsabile del riconoscimento del promotore.
+				- Si divide in due famiglie: σ54 e σ70 (la più abbondante ed efficiente);
+				- I fattori σ batterici svolgono tre funzioni chiave:
+					1. indirizzano l'oloenzima delle RNA polimerasi su promotori specifici;
+					2. separano il DNA a doppio filamento nella regione -10 del promotore e lo stabilizzano nella forma di "complesso aperto";
+					3. interagiscono con altri fattori di trascrizione.
+		- Funzione: scorre il DNA in *maniera aspecifica* (non sa da dove iniziare, glielo dice il fattore σ).
+			- ![RNA polimerasi, core 1](https://i.imgur.com/jmZZrgj.png)
+- Processo:
+	- ![DNA, trascrizione nei procarioti](https://i.imgur.com/Hdn3G5c.png)
+	- **Inizio della trascrizione**: l'RNA polimerasi trova un promotore, ma come? Attraverso una fase esplorativa, in cui scorre il filamento del DNA stampo finché non trova la sequenza *TATA box* (-10 e -35) e vi si lega. Le "chele" consentono l'ingresso del DNA, che viene lasciato scorrere finché il fattore σ non riconosce le sequenze e vi si lega. Le chele si chiudono e trattengono il filamento di DNA. Cinque passaggi fondamentali:
+		- ![DNA, inizio della trascrizione](https://i.imgur.com/kAX47TV.png)
+		- *Esplorazione del DNA, riconoscimento e legame*: l'oloenzima si lega alle sequenze -35 e -10 e si ha la formazione del complesso di preinizio del promotore chiuso;
+		- *Complesso di preinizio del promotore chiuso*: il DNA è a doppio filamento; dunque non è ancora stato svolto;
+		- *Complesso di preinizio del promotore aperto*:
+			- si apre il doppio filamento e si ha lo svolgimento di ca. 12-24 bp ad opera dell'RNA polimerasi (attività elicasica);
+			- si lega al promotore e provoca l'apertura della doppia elica, con formazione di una zona denaturata, detta *bolla di trascrizione* (senza necessità dell'idrolisi di ATP);
+			- l'avanzamento della polimerasi provoca tensioni nella doppia elica, che si manifestano tramite dei superavvolgimenti positivi;
+			- intervengono le topoisomerasi, che allentano le tensioni e riportano la topologia originaria del DNA;
+			- ha inizio la trascrizione, tramite l'introduzione di nucleotidi trifosfati.
+		- *Trascrizione abortiva*: vengono prodotti corti trascritti di RNA (max 2-15 nucleotidi) a causa dell'ingombro dato dalla subunità σ, che crea ingombro, bloccando il canale;
+		- *Evasione del promotore*: avviene la rottura dell'interazione fra fattore σ e core dell'enzima. Ciò determina transizione alla fase di allungamento.
+	- **Allungamento della trascrizione**: la trascrizione prosegue, vengono aggiunti nucleotidi e si forma una regione ibrida di DNA/RNA di 9-12 bp.
+		- Il sito catalitico della polimerasi possiede due siti:
+			- un *sottosito di legame*, che lega i nucleotidi trifosfato in ingresso,
+			- un *sottosito di legame del prodotto*, in cui si posiziona l'estremità 3' della catena in crescita.
+		- Si crea un legame fosfodiesterico fra il 3'OH dell'ultimo nucleotide del filamento in crescita e il fosfato in α del ribonucleotide trifosfato.
+		- Durante l'allungamento, la polimerasi rimane associata allo stampo; quindi, completata l'aggiunta del nucleotide, si sposta in avanti, continuando a determinare la bolla di trascrizione di 9-12 bp.
+		- L'RNA polimerasi procede a singhiozzo, facendo pause di oltre 1s, che sono funzionali a facilitare l'accoppiamento della trascrizione con la traduzione e il completo ripiegamento dell'RNA.
+		- ![DNA, allungamento della trascrizione](https://i.imgur.com/DnGhwxL.png)
+		- **Effettori degli errori delle polimerasi**: si ha un meccanismo proof-reading simile a quello della DNA polimerasi, ma
+			- mentre la DNA pol presentava due siti (uno catalitico ed uno con attività esonucleasica), l'RNA pol no; quindi la correzione di bozze risulterà meno efficiente.
+				- La DNA pol presenta 1:10 milioni di errori;
+				- La RNA pol presenta 1:10mila errori.
+			- ![DNA, trascrizione ed effettori degli errori delle polimerasi](https://i.imgur.com/4REdllQ.png)
+	- **Terminazione della trascrizione**: il core dell'RNA pol continuerà a muoversi lungo il filamento finché non troverà un segnale di stop (*sequenza di terminazione*), che determina arresto della trascrizione, rilascio dell'RNA dalla polimerasi e dissociazione di quest'ultima dallo stampo.
+		- Tipologie di terminatori:
+			- *Terminatore intrinseco* (*Rho-indipendente*): presenta due coppie ripetute di sequenze appaiate, tra loro invertite, seguite, sul filamento stampo, da una coda di *poliA*. In sostanza, c'è una sequenza ripetuta e invertita ricca di citosine e guanine, seguita da una coda di poliA.
+				- Motivazioni che causano la terminazione:
+					- le sequenze di terminazione, una volta trascritte, tendono a formare una forcina, che impedisce alla polimerasi di proseguire;
+					- si formano degli appaiamenti A-U, che danno origine ad un'elica destabilizzante il complesso di allungamento.
+					- ![DNA, trascrizione e struttura di un terminatore intrinseco](https://i.imgur.com/Lf1Uqqw.png)
+			- *Terminatore Rho-dipendente*: brevi sequenze ripetute e invertite, precedute, a distanza variabile, dalla *sequenza Rut* (ricca di C). Questa struttura è controllata dalla capacità della  *proteina Rho* di accedere all'mRNA e legarsi al sito Rut.
+				- Funzionamento della proteina Rho:
+					- dominio di legame all'RNA e un dominio ATPasico;
+					- si lega alla sequenza terminatore sull'RNA;
+					- una volta legato, idrolizza ATP e utilizza quest'energia per separare l'RNA dalla RNA polimerasi e dallo stampo a DNA.
+					- ![DNA, trascrizione e terminatore Rho-dipendente](https://i.imgur.com/4XRR23I.png)
+### Accoppiamento trascrizione/traduzione nei procarioti
+- Il trascritto viene subito tradotto in proteina, infatti si producono più copie dell'mRNA.
+- **Polisoma**: struttura costituita da un mRNA cui si legano più ribosomi.
+	- ![DNA, polisoma](https://i.imgur.com/4mqGEV2.png)
+	- Negli eucarioti, l'accoppiamento trascrizione/traduzione in simultanea non avviene.
+## Regolazione della trascrizione nei procarioti
+- Nei procarioti, avviene preferenzialmente al livello della trascrizione e rappresenta il primo livello di regolazione dell'espressione genica. Si ha, dunque, **espressione genica selettiva**:
+	- nei procarioti:
+		- consente alle cellule di risparmiare energia (la cellula deve adattarsi ai vari cambiamenti ambientali che sopraggiungono);
+		- i geni sono organizzati funzionalmente in operoni e trascritti insieme in un'unica molecola di mRNA policistronico;
+		- viene modulata la fase iniziale della trascrizione.
+	- negli eucarioti:
+		- consente alle cellule di svolgere ruoli specializzati (un cardiomiocita è differente da un epatocita);
+		- gli mRNA sono monocistronici;
+		- la regolazione avviene a vari livelli (non solo all'inizio della trascrizione).
+- Nei procarioti, si hanno
+	- *geni costitutivi*, costantemente attivi (es. geni che codificano per gli enzimi della glicolisi);
+	- *geni regolati*, la cui espressione è regolata in modo che la quantità del corrispondente prodotto sia controllata in relazione al fabbisogno cellulare.
+- FINALITÀ: rispondere rapidamente ai cambiamenti ambientali;
+- LOGICA: risparmio di energia.
+### Fattori di trascrizione
+- I **fattori di regolazione della trascrizione** si dividono in **repressori** (bloccano il legame tra RNA polimerasi e DNA) o **attivatori** (favoriscono il legame tra RNA polimerasi e DNA).
+	- ![DNA, attivatori e repressori della trascrizione](https://i.imgur.com/KxyEH0w.png)
+- I batteri utilizzano strategie diverse per regolare la sintesi degli enzimi:
+	- *Vie cataboliche*: induzione da substrato (es. **lattosio**);
+	- *Vie anaboliche*: repressione da prodotto finale (es. **triptofano**).
+	- Caratteristiche comuni ai due processi:
+		- il controllo è effettuato a livello genomico;
+		- il controllo è indotto da effettori (repressori/induttori), che modificano la conformazione di molecole preposte al controllo dell'espressione genica;
+#### Vie cataboliche e induzione da substrato
+- Studi di **Francois Jacob** e **Jacques Monod**: negli anni 50 condussero studi sulla regolazione trascrizionale (Nobel nel 1965), grazie a cui compresero il modo in cui E. coli risponde alla disponibilità di diversi nutrienti.
+	- **Operone lac**: considerato ancora oggi il modello di regolazione genica dei procarioti.
+- **Lattosio**: disaccaride
+	- metabolismo peculiare:
+		- la *β-galattosidasi*
+			- scinde il lattosio in galattosio e glucosio,
+			- opera la conversione del lattosio in *allolattosio*, vero induttore del sistema;
+		- la *galattoside-permeasi* lo trasporta all'interno delle cellule;
+		- la *transacetilasi* inattiva i tiogalattosidi, tossici e che potrebbero, altrimenti, sfruttare il meccanismo delle permeasi per introdursi nella cellula.
+	- *Isopropilgalattoside*: altro analogo del lattosio, con emivita più lunga, perché non viene scisso dalla β-galattosidasi.
+	- ![Lattosio ed enzimi che regolano il suo metabolismo](https://i.imgur.com/JyXLu1Y.png)
+- **Operone**: unica trascrizionale che comprende sia l'unità di espressione che di regolazione ed è composta da diversi geni. Nei procarioti, infatti, i geni codificanti per proteine con funzioni correlate sono organizzati in "cluster" sotto il dominio di un unico promotore.
+	- Costituzione: più geni strutturali adiacenti (trascritto → mRNA policistronico)
+		- *gene promotore* (*P*), che lega l'RNA polimerasi a monte della serie di geni strutturali;
+		- *gene operatore* (*O*), che lega una proteina regolatrice che interferisce col legame dell'RNA polimerasi.
+			- ![Operone, repressore attivo](https://i.imgur.com/zOox4cL.png)
+				- Il repressore attivo si lega all'operatore. La RNA polimerasi NON può seguire la trascrizione;
+			- ![Operone, repressore inattivo](https://i.imgur.com/kGaKPAY.png)
+				- Il repressore inattivo non si lega all'operatore. La RNA polimerasi PUÒ proseguire la trascrizione.
+			- **N.B.**: il sito operatore non viene trascritto e non codifica per nessuna proteina.
+		- *geni strutturali*, codificano per la proteina d'interesse;
+		- *gene regolatore* (*R*), che codifica per la proteina regolatrice
+			- si lega direttamente al DNA operatore, creando una barriera fisica al proseguimento della trascrizione.
+		- ![Operone, costituzione](https://i.imgur.com/L2svBgp.png)
+	- **Operone del lattosio**: operone **inducibile** dal suo substrato.
+		- Esempio di **controllo negativo**, in quanto il legame del repressore blocca la trascrizione.
+		- Organizzazione:
+			- 3 geni strutturali: 
+				- *lacZ*, codifica per la *β-galattosidasi*;
+				- *lacY*, codifica per la *galattoside permeasi*;
+				- *lacA*, codifica per la *transacetilasi*;
+			- sito operatore (O), cui si lega il repressore;
+			- promotore (P) per i geni strutturali cui si lega l'RNA polimerasi;
+			- *lacI*, gene regolatore codificante per il repressore. Quest'ultimo presenta due domini:
+				- uno riconosce le sequenze di DNA dell'operatore,
+				- l'altro lega delle molecole segnale, che agiranno da induttore.
+			- ![DNA, operone lac](https://i.imgur.com/v8uSxBL.png)
+		- *Stato represso dell'operone lac*: il lattosio è assente; dunque lacI codifica per il repressore (si dice che **l'operone è represso**).
+			- ![DNA, stato represso dell'operone lac](https://i.imgur.com/ePRzhry.png)
+		- *Stato indotto dell'operone lac*: presenza dell'induttore, ovvero l'**allolattosio** (reale induttore).
+			- Processo:
+				- l'allolattosio si lega al repressore, causandone un cambiamento conformazionale inibente;
+				- l'RNA pol è libera di legarsi al promotore (attraverso le sequenze -35 e -10).
+			- Funzionamento:
+				- in sostanza, **l'operone è de-represso**, ovvero indotto dal suo substrato.
+				- Il risultato è la sintesi di β-galattosidasi, permeasi e transacetilasi.
+		- Relazione con GLUCOSIO/LATTOSIO:
+			- In *presenza di glucosio e lattosio*: il batterio prediligerà il glucosio e si avrà **basso livello di trascrizione** → pochi enzimi metabolizzanti il lattosio;
+			- In *presenza di glucosio e assenza di lattosio*: la **trascrizione è inibita**, perché si ha attivazione del repressore;
+			- In *assenza di glucosio e presenza di lattosio*: la **trascrizione è attivata**, poiché l'operone è indotto dal lattosio.
+		- **Controllo positivo**: quello svolto in assenza di glucosio. La trascrizione è attivata da una *proteina CAP* (*Catabolism Activated Protein*), a sua volta attivata da cAMP, inibito dall'α-chetoglutarato. Per farla easy:
+			- Presenza di glucosio → metabolizzato in *α-chetoglutarato* → blocco dell'*adenilato-ciclasi* → zero cAMP → mancata attivazione della CAP.
+				- Assenza di lattosio = zero trascrizione;
+				- Presenza di lattosio = scarsa quantità di trascritto;
+			- Assenza di glucosio → assenza di α-chetoglutarato → attivazione dell'adenilato-ciclasi → cAMP → attivazione della CAP → trascrizione.
+			- ![DNA, operone lac e relazione con glucosio/lattosio](https://i.imgur.com/8BbVzO8.png)
+			- ![DNA, operone lac e relazione con glucosio/lattosio 2](https://i.imgur.com/J0UIysW.png)
+#### Via anabolica e repressione da prodotto finale
+- Per le vie anaboliche, si hanno due tipi di regolazione:
+	- Regolazione dell'espressione genica,
+	- Regolazione dell'attività enzimatica.
+- Costituzione dell'operone:
+	- cinque geni (*a, b, c, d, e*) a valle del promotore dell'operone, codificanti ognuno per diversi enzimi.
+- Azione in relazione al triptofano:
+	- **Presenza di triptofano**:
+		- il triptofano funge da co-repressore, legandosi al repressore ed attivandolo;
+		- il repressore attivato si lega all'operatore, inibendo il legame dell'mRNA polimerasi e impedendo la trascrizione dei geni strutturali.
+		- ![DNA, operone trp in presenza di triptofano](https://i.imgur.com/JGEh0eN.png)
+	- **Assenza di triptofano**:
+		- il repressore rimane inattivo, in quanto manca il co-repressore;
+		- l'operone è de-represso e la mRNA-polimerasi procede la trascrizione.
+			- Si ha produzione di
+				- *antranilato sintetasi*,
+				- *antranilato transferasi*,
+				- *PRA-isomerasi(IGP-sintetasi*,
+				- *sintetasi di tipo A*,
+				- *sintetasi di tipo B*,
+				- **sequenza leader**, che esprimerà un *sito attenuatore* (regolazione post-trascrizionale, vedere sotto).
+		- ![DNA, operone trp in assenza di triptofano](https://i.imgur.com/HKVt3oU.png)
+- ![DNA, operone reprimibile negativamente](https://i.imgur.com/3IQF4AW.png)
+- *Regolazione dell'operone trp*:
+	- Classico esempio di **attenuazione della trascrizione**: avviene nel caso in cui trascrizione e traduzione siano accoppiate (nel caso dei procarioti).
+	- *Gene trpL*: codifica la **sequenza leader**, che contiene quattro domini di sequenza, con vari metodi d'appaiamento:
+		- terminazione (presenza di triptofano):
+			- *sequenza 1* + *sequenza 2*;
+			- *sequenza 3* + *sequenza 4* (ricca di U, determina una sequenza di terminazione della traduzione).
+		- alternativa (assenza o poca presenza di triptofano):
+			- *sequenza 2* + *sequenza 3* = no terminazione della traduzione.
+#### IN DEFINITIVA
+- **Induzione a controllo negativo**: es. operone lac, poiché il repressore blocca la trascrizione tramite legame e il lattosio induce (assenza di glucosio);
+- **Induzione a controllo positivo**: regolazione esercitata dalla proteina CAP sulla trascrizione dell'operone lac;
+- **Repressione a controllo negativo**: operone del triptofano: blocco della trascrizione in presenza del triptofano (co-repressore), causa attivazione del repressore;
+- **Repressione a controllo positivo**: NON ESISTE, ma, eventualmente, sarebbe dovuto ad un attivatore attivato dall'interazione col co-repressore.
+## Trascrizione negli eucarioti
+- RNA polimerasi eucariotiche:
+	- Tipologie:
+		- **RNA polimerasi I**: trascrive i geni delle specie più grandi di *rRNA*;
+		- **RNA polimerasi II**: trascrive i geni codificanti per proteine (*mRNA*, *miRNA*, *snRNA*);
+		- **RNA polimerasi III**: trascrive i geni delle specie più piccole degli rRNA (*rRNA 5S*) e tutti gli *tRNA*.
+	- Costituzione: 12 subunità:
+		- le prime cinque (*1*, *2*, *3*, *6*, *11*) sono omologhe alle cinque della RNA pol procariotica;
+		- *5*, *8*, *10*, *12*;
+		- tre subunità specifiche, ognuna per ciascuna polimerasi.
+		- ![RNA polimerasi eucariotiche, costituzione](https://i.imgur.com/gL7aIcf.png)
+- Fattori di trascrizione facilitanti l'interazione tra RNA pol e DNA:
+	- **fattori generali di trascrizione**, necessari per la trascrizione costitutiva, detti **housekeeping**:
+		- "*general transcription factors*" (*GFTs*), che formano un complesso multiproteico con la polimerasi; sono richiesti per l'inizio della trascrizione;
+		- "*upstream factors*", aiutano il processo di allungamento da parte della RNA polimerasi;
+	- **fattori specifici**, per le proteine regolatrici:
+		- *fattori inducibili* da stimoli extracellulari e/o tessuto-specifici, partecipano alla formazione di un complesso attivo di pre-inizio.
+- **Promotore eucariote**: sequenza riconosciuta dall'RNA polimerasi, è organizzato in una serie di elementi promotori. Le sequenze più comuni sono
+	- *TATA box*, a -25/30 dall'inizio della trascrizione, presente nel 50% dei promotori dell'RNA pol II;
+	- Elementi di controllo prossimali:
+		- *CAAT box*, a -80 dall'inizio della trascrizione;
+		- *GC*, a -100 dall'inizio della trascrizione.
+	- ![DNA, promotore eucariote della RNA polimerasi](https://i.imgur.com/EUSLVyR.png)
+- Processo:
+	- **Fase d'inizio**:
+		- Il *riconoscimento del promotore* viene coadiuvato dai fattori generali di trascrizione (prima enunciati), in quanto la RNA pol non riesce autonomamente;
+		- *RNA pol I e promotori di classe I*:
+			- Promotore:
+				- **TSS** (nucleo del promotore): costituisce il core, intervallo (-45, +20);
+				- **UPE** (o **UCE**): elemento a monte, intervallo (-180, -107).
+				- ![RNA pol I e promotore I](https://i.imgur.com/1cx3g81.png)
+			- Funzionamento:
+				- Un fattore ==**UBF**== si lega a **UCE** e a **TSS**, promuovendo la formazione di un'ansa sul DNA, che avvicina le due sequenze;
+				- UBF, una volta legato, richiama ==**SL1**== (costituito da *TBP* (proteina che lega il TATA box) + fattori *TAF*), che richiama a sua volta la pol I;
+				- Viene prodotto pre-rRNA 45S, maturato per produrre gli rRNA 28S, 18S e 5,8S.
+				- ![DNA, funzionamento promotore I e attacco RNA pol I](https://i.imgur.com/lwZorvL.png)
+		- *RNA pol II e promotori di classe II*:
+			- Promotore:
+				- *TATA box*: intervallo (-31, -26);
+				- **UAS**, riconosciuto da attivatori specifici.
+				- ![RNA poli I e promotore I](https://i.imgur.com/FH3ito1.png)
+			- Organizzazione negli organismi multicellulari:
+				- core, che contiene le sequenze di riconoscimento;
+				- elementi prossimali, localizzati a -200 dal sito d'inizio, riconosciuti da attivatori trascrizionali;
+				- elementi distali (*sequenze enhancer* o *silencer*), posizionati a -1000 dal sito d'inizio. 
+				- ![DNA, organizzazione sequenze trascrizione nei procarioti](https://i.imgur.com/0zms3Uh.png)
+			- Funzionamento:
+				- In vitro:
+					- I fattori di trascrizione (==**TFII**==) si legano al promotore prima che si leghi l'enzima;
+						- Entra in gioco ==*TFIID*== (*TBP*+*TAF*), che lega TATA box.
+					- Si legano *TFIIA* e *TFIIB*;
+					- L'RNA pol II viene reclutata sul promotore assieme a ==*TFIIF*==;
+					- Si legano ==*TFIIE*== e ==*TFIIH*==, quest'ultimo ha
+						- attività elicasica e apre il DNA → *Complesso aperto*,
+						- fosforila il dominio carbossi-terminale (**CTD**) della pol II → distacco dal promotore e prosegue con l'allungamento.
+					- ![RNA pol II e fattori di trascrizione](https://i.imgur.com/d9G6chs.png)
+				- In vivo:
+					- Same thing, ma con la presenza di un **mediatore**:
+						- complesso di proteine che, interagendo coi fattori di trascrizione generali e con la RNA pol II, stimola la trascrizione.
+						- forma una sorta di "ponte levatoio" molecolare tra domini di trans-attivazione +  vari fattori di trascrizione e l'RNA pol II.
+						- ![RNA pol II e mediatore](https://i.imgur.com/LU4Np7V.png)
+		- *RNA pol e promotori di classe III*:
+			- promotori localizzati a valle della TSS:
+				- promotori per il tRNA → *box A* (+8, +20) + *box B* (+50, +61),
+				- promotori per l'rRNA 5s → *box A* (inizia a +40) + *box C* (finisce a +80).
+				- ![DNA, trascrizione, promotori di classe III](https://i.imgur.com/AAbJ6e5.png)
+			- Funzionamento:
+				- Formazione del *complesso per rRNA 5S*:
+					-  ==**TFIIIA**== si lega alla *box A*, 
+					- viene indotto il legame di ==*TFIIIC*== alla *box C*;
+					- ==*TFIIIC*== richiama ==*TFIIIB*== (*TAF*+*TBP*)
+						- TFIIIB si posiziona a monte e consente l'inizio della trascrizione.
+					- ![DNA, complesso per rRNA 5S](https://i.imgur.com/LcYRwAn.png)
+				- Formazione del *complesso per tRNA*:
+					- ==**TFIIIC**== si lega contemporaneamente a *box A* e *box B*;
+					- ==*TFIIIB*== (contiene *TBP*) viene richiamato;
+					- viene reclutata la RNA pol.
+					- ![DNA, complesso per tRNA](https://i.imgur.com/SRnyRY2.png)
+	- **Fase di allungamento**:
+		- l'allungamento è facilitato dai fattori di allungamento, dopo che si sono dissociati *TFIIE* e *TFIIH*;
+		- la fase di allungamento è molto simile a quella dei procarioti e avviene in direzione 5'-3'.
+		- le sequenze ripetute della coda **CTD** sono fosforilate durante ciascuna fase della trascrizione.
+	- **Fase di terminazione**:
+		- i fattori di allungamento si dissociano e il **CTD** viene defosforilato appena terminata la trascrizione;
+		- non sono state individuate sequenze specifiche indicanti la *fine della trascrizione* negli eucarioti;
+		- per l'RNA pol II, la terminazione avviene ca. 1000 bp a valle della sequenza consenso ==**5'-AAUAAA-3'**==.
+- **Regolazione della trascrizione**:
+	- Solo alcuni geni vengono trascritti costituzionalmente (*geni housekeeping*), mentre gli altri vengono regolati da sequenze regolatrici (o **elementi di controllo**), che si dividono in
+		- **elementi che agiscono in cis**: controllano solamente l'espressione dei geni adiacenti;
+		- **elementi che agiscono in trans**: possono controllare anche l'espressione dei geni posti su altri cromosomi cellulari.
+	- Potenziali punti di controllo:
+		- Livello pre-trascrizionale → controllo della cromatina;
+		- Controllo trascrizionale → esercitato da interruttori molecolari, fattori di trascrizione, proteine che si legano al DNA o altre sequenze regolatrici (enhancers/silencers).
+			- **Enhancers**: sequenze regolatrici poste lontano dal sito d'inizio (anche 10-20 kb).
+				- Funzionamento:
+					- La loro attività non dipende né dalla distanza né dall'orientamento né dalla posizione;
+					- Funzionano legando fattori di trascrizione regolanti l'RNA pol (ciò è possibile grazie al ripiegamento del DNA);
+					- gli attivatori (legati agli enhancers) riconoscono alcuni componenti del *mediatore*.
+				- Regolano l'espressione tessuto specifica:
+					- Es. l'albumina è molto più espressa dagli epatociti che dai neuroni.
+				- **Isolatori**: sequenze di DNA cui si legano specifiche proteine influenzanti l'azione degli enhancer.
+	- Regolazione farmacologica:
+		- ==**Actinomicina D**== → antibiotico che impedisce il movimento della polimerasi batterica lungo lo stampo durante la fase di allungamento;
+		- ==**Rifampicina**== → antibiotico utilizzato nella terapia contro la tubercolosi (TBC): inibisce la sintesi di RNA batterico, impedendo il distacco del promotore della trascrizione;
+		- ==**Amanita**== → fungo producente l'==*α-amanitina*==, che impedisce la trascrizione nelle cellule animali, bloccando la RNA pol II e anche la RNA pol II (a maggiori concentrazioni).
+
+
+---
+# References
+[[Biologia molecolare - Lezioni]]

@@ -1,18 +1,89 @@
  
 # Spesa
 
+## Casa
+Scottex 
+Buste plastica 
+Acqua
+Buste freezer
+
+## Alimenti
+
+### Colazione 
+- [ ] Latte
+- [x] Biscotti
+- [ ] Uova
+### Merenda
+- [ ] Affettati
+- [x] Yogurt/fiocchi di latte
+- [x] Frutta
+- [x] Frutta secca
+### Pasti
+#### Proteine
+##### Carne
+- [x] Carne rossa spezzatino
+- [x] Sovracosce di pollo
+- [x] Petto di pollo
+- [ ] Bistecche di maiale
+##### Pesce
+- [x] Merluzzo
+- [x] Gamberetti
+- [ ] Tonno
+
+##### Legumi
+- [x] Lenticchie
+- [ ] Piselli
+- [x] Fagioli
+
+#### Verdura
+- [ ] Per spaghettini/riso
+- [ ] Per pasta e tonno
+- [ ] Per insalata
+- [ ] Patate
+- [x] Cipolla
+- [ ] Aglio
+- [ ] Sedano
+- [ ] Carote
+#### Carbo
+- [x] Pasta
+- [x] Riso
+- [x] Pane
+- [ ] Patate
+- [ ] Spaghettini
+- [ ] Cous cous
 
 
 
+
+
+#### Grassi
+- [x] Olio
+- [ ] Burro
+- [ ] Pancette/guanciali/lardo
 
 # Dieta
-| Dieta     | Lunedì              | Martedì                         | Mercoledì                    | Giovedì                      | Venerdì                          | Sabato         | Domenica            |
-| --------- | ------------------- | ------------------------------- | ---------------------------- | ---------------------------- | -------------------------------- | -------------- | ------------------- |
-| Colazione | Latte e cereali     | Uova strapazzate                | Latte e biscotti             | Uova strapazzate             | Latte e pb&j                     | Latte e cose   | Latte e cose        |
-| Spuntino  | Mela e frutta secca | Mela e frutta secca             | Mela e frutta secca          | Mela e frutta secca          | Mela e frutta secca              |                |                     |
-| Pranzo    | Minestra legumi     | Spaghettini pollo verza e porro | Pasta con tonno e pomodorini | Risotto ai funghi e pecorino | Minestra legumi                  |                |                     |
-| Merenda   | Pane e prosciutto   | Yogurt e frutta                 | Pane e prosciutto            | Yogurt e frutta              | Fiocchi di latte                 |                |                     |
-| Cena      | Spezzatino purè     | Insalata coi gamberetti         | Bistecche coi piselli        | Merluzzo gratinato           | Sovracoscia e polpette di patate | Pollo al forno | Spezzatino e patate |
+| Dieta     | Lunedì              | Martedì                           | Mercoledì                    | Giovedì                         | Venerdì                               | Sabato         | Domenica            |
+| --------- | ------------------- | --------------------------------- | ---------------------------- | ------------------------------- | ------------------------------------- | -------------- | ------------------- |
+| Colazione | Latte e cereali     | Uova strapazzate                  | Latte e biscotti             | Uova strapazzate                | Latte e pb&j                          | Latte e cose   | Latte e cose        |
+| Spuntino  | Mela e frutta secca | Mela e frutta secca               | Mela e frutta secca          | Mela e frutta secca             | Mela e frutta secca                   |                |                     |
+| Pranzo    | Minestra legumi     | riso pollo verza e porro          | Pasta con tonno e pomodorini | Rice bowl bistecca funghi zucca | Minestra legumi                       |                |                     |
+| Merenda   | Pane e prosciutto   | Yogurt e frutta                   | Pane e prosciutto            | Yogurt e frutta                 | Fiocchi di latte                      |                |                     |
+| Cena      | Spezzatino patate   | Insalata coi gamberetti e fresine | Bistecche patate e piselli   | Merluzzo gratinato              | Spaghettini verdure sovracoscia pollo | Pollo al forno | Spezzatino e patate |
+
+
+
+# Preparazione
+
+## Domenica
+- [ ] Prepara spezzatino
+- [ ] Prepara legumi 
+- [ ] Prepara purè
+
+
+
+
+
+# vecchio
 ## Lunedì
 ### Colazione
 #### Latte e cereali

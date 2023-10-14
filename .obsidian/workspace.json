@@ -21,25 +21,18 @@
             }
           },
           {
-            "id": "ba9738f1db2ef91f",
+            "id": "568e6037bad46e20",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/cazzoculo.md",
+                "file": "Zettelkasten/Cibo.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "cabc3b7ee773603f",
-        "type": "tabs",
-        "children": [
+          },
           {
             "id": "d15025e166b92950",
             "type": "leaf",
@@ -50,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -136,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/cazzoculo.md",
+                "file": "Zettelkasten/Cibo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/cazzoculo.md",
+                "file": "Zettelkasten/Cibo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -165,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/cazzoculo.md"
+                "file": "Zettelkasten/Cibo.md"
               }
             }
           },
@@ -245,10 +239,12 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "ba9738f1db2ef91f",
+  "active": "568e6037bad46e20",
   "lastOpenFiles": [
-    "Zettelkasten/cazzoculo.md",
     "Zettelkasten/Token git.md",
+    "Zettelkasten/cazzoculo.md",
+    "Zettelkasten/Cibo.md",
+    "Zettelkasten/Untitled.md",
     "Excalidraw/Scripts/Downloaded/desktop.ini",
     "Excalidraw/Scripts/Downloaded/Organic Line.svg",
     "Excalidraw/Scripts/Downloaded/Organic Line.md",
@@ -283,8 +279,6 @@
     "Excalidraw/Genetica I.excalidraw.md",
     "Excalidraw/Drawing 2023-09-06 11.24.03.excalidraw.md",
     "Excalidraw/Drawing 2023-09-06 00.46.02.excalidraw.md",
-    "Excalidraw/Drawing 2023-01-22 13.38.09.excalidraw.md",
-    "Excalidraw/Drawing 2023-01-16 15.57.28.excalidraw.md",
     "Excalidraw",
     "desktop.ini",
     "Day Planners/desktop.ini",

@@ -390,7 +390,7 @@ Tag: #Microbiologia
 - I principali sono il [[TNF]] e l'[[Interleuchine]]
 - Un altro ruolo fondamentale è ricoperto dal [[complesso del complemento]] 
 	- Dosi massicce di LPS portano a formazione di elevate quantità di C3a e C5a
-- L'azione dei linfomonociti stimola inoltre la via intrinseca della [[Coagulazione.canvas|Coagulazione]] a partire dal fattore di Hageman (fattore XII [[Complesso spac.png]])
+- L'azione dei linfomonociti stimola inoltre la via intrinseca della [[Emostasi.canvas|Coagulazione]] a partire dal fattore di Hageman (fattore XII [[Complesso spac.png]])
 #### Il ruolo positivo-negativo
 - L'intensità e la rapidità della risposta immunitaria all'LPS sono conseguenza della pericolosità delle infezioni dai batteri gram-negativi
 - Tutti i meccanismi che si instaurano sono atti ad eliminare i fattori eziologici

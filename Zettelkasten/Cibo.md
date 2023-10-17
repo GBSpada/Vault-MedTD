@@ -35,6 +35,9 @@ Buste freezer
 - [ ] Piselli
 - [x] Fagioli
 
+##### Uova
+- [ ] 
+
 #### Verdura
 - [ ] Per spaghettini/riso
 - [ ] Per pasta e tonno
@@ -51,15 +54,27 @@ Buste freezer
 - [ ] Patate
 - [ ] Spaghettini
 - [ ] Cous cous
-
-
-
+- [ ] Pane grattuggiato/amido/farina
 
 
 #### Grassi
 - [x] Olio
 - [ ] Burro
 - [ ] Pancette/guanciali/lardo
+
+## Accessori
+- [ ] Salsa agrodolce
+- [ ] Salsa worchestershire
+- [x] Aceto
+- [x] Vino rosso e bianco
+- [x] Pepe
+- [x] Sale
+- [ ] Maionese
+- [ ] Ketchup
+- [ ] Curry
+- [ ] Salsa di soia
+- [ ] 
+
 
 # Dieta
 | Dieta     | Lunedì              | Martedì                           | Mercoledì                    | Giovedì                         | Venerdì                               | Sabato         | Domenica            |

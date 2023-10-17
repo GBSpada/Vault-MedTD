@@ -21,6 +21,4 @@ Tags: #Fisiologia #IIannoIsemestre
 # Fisiologia compartimenti idrici e renale
 ---
 # References 
-
-### Conti - Volume 2
-	![[Fisiologia Medica (F. Conti) (z-lib.org).pdf]]
+![[Fisiologia Medica (F. Conti) (z-lib.org).pdf]]

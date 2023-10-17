@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Token git.md",
+                "file": "Zettelkasten/Alterazioni emodinamiche, malattia tromboembolica e shock.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,7 +21,20 @@
             }
           },
           {
-            "id": "568e6037bad46e20",
+            "id": "3c4a96d13d931981",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Emostasi.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f52a8b392a5332d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,19 +45,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "d15025e166b92950",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Libri/Robbins_E_Cotran_Le_Basi_Patologiche 2.pdf"
-              }
-            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -74,7 +77,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Elettromagnetismo",
+                "query": "fibrina",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -83,7 +86,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "45ea08796f45e544",
@@ -112,6 +116,7 @@
       {
         "id": "91675aacfd27c02e",
         "type": "tabs",
+        "dimension": 51.14583333333334,
         "children": [
           {
             "id": "ae4351b16c3fe865",
@@ -172,24 +177,6 @@
             }
           },
           {
-            "id": "f47cb1d9dccce201",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency"
-              }
-            }
-          },
-          {
-            "id": "ef7a27e583f78765",
-            "type": "leaf",
-            "state": {
-              "type": "copilot-chat-view",
-              "state": {}
-            }
-          },
-          {
             "id": "5e8a87031e0aee6a",
             "type": "leaf",
             "state": {
@@ -212,9 +199,39 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "f4305d5065605a6e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 4
+      },
+      {
+        "id": "0227a3898492d02a",
+        "type": "tabs",
+        "dimension": 48.85416666666666,
+        "children": [
+          {
+            "id": "d4cabc04126e58f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Nota rapida.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -239,11 +256,31 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "5e8a87031e0aee6a",
+  "active": "f52a8b392a5332d9",
   "lastOpenFiles": [
+    "Zettelkasten/Fattori di rilascio ipotalamici.md",
+    "Zettelkasten/Nota rapida.md",
+    "Zettelkasten/Emostasi.md",
+    "Zettelkasten/Contrazione del muscolo liscio.md",
+    "Zettelkasten/Emostasi e trombosi.md",
+    "Zettelkasten/Eritrocateresi.md",
+    "copilot-conversations/Riflesso vasomotore.md",
+    "Libri/Annotato_TanIntroductionData Mining.pdf",
+    "Libri/Robbins_E_Cotran_Le_Basi_Patologiche 2.pdf",
+    "Files/Fattori coagulazione.png",
+    "Zettelkasten/Anemie.md",
+    "Zettelkasten/Fattore I - Fibrinogeno e fibrina.md",
+    "Zettelkasten/Alterazioni emodinamiche, malattia tromboembolica e shock.md",
+    "Zettelkasten/Fattore III - Tromboplastina - Tissue Factor.md",
+    "Zettelkasten/Emostasi.canvas",
+    "Zettelkasten/Emorragia.md",
+    "Risorse/Fisiologia  - Conti Volume 2.md",
+    "Libri/Fisiologia Medica (F. Conti) (z-lib.org).pdf",
+    "Zettelkasten/Biochimica- Sbobine Dolce.md",
+    "Risorse/Patologia Generale - Robbins.md",
     "Zettelkasten/Token git.md",
-    "Zettelkasten/cazzoculo.md",
     "Zettelkasten/Cibo.md",
+    "Zettelkasten/cazzoculo.md",
     "Zettelkasten/Untitled.md",
     "Excalidraw/Scripts/Downloaded/desktop.ini",
     "Excalidraw/Scripts/Downloaded/Organic Line.svg",
@@ -262,38 +299,18 @@
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/desktop.ini",
     "Excalidraw/Trascrizione negli eucarioti.md",
-    "Excalidraw/Trascr eucexcalidraw.md",
-    "Excalidraw/Traduzione.excalidraw.md",
-    "Excalidraw/Topoisomerasi.excalidraw.md",
-    "Excalidraw/Struttura DNA.excalidraw.md",
     "Excalidraw/Scripts",
-    "Excalidraw/Replicazione.excalidraw.md",
-    "Excalidraw/Regolazione trascrizione.excalidraw.md",
-    "Excalidraw/RNA.excalidraw.md",
-    "Excalidraw/Prova iPad.excalidraw.md",
-    "Excalidraw/Processamento e maturazione dell RNA.excalidraw.md",
-    "Excalidraw/Pressioni sulle pleure.excalidraw.md",
-    "Excalidraw/Leucemia mieloide cronica.excalidraw.md",
     "Excalidraw/Intro tec programm.excalidraw.png",
-    "Excalidraw/Intro tec programm.excalidraw.md",
-    "Excalidraw/Genetica I.excalidraw.md",
-    "Excalidraw/Drawing 2023-09-06 11.24.03.excalidraw.md",
-    "Excalidraw/Drawing 2023-09-06 00.46.02.excalidraw.md",
     "Excalidraw",
     "desktop.ini",
-    "Day Planners/desktop.ini",
-    "Day Planners",
-    "copilot-conversations",
     "Files/sistema informatico vs informativo.png",
     "Files/photo_9_2023-03-19_17-27-15.jpg",
-    "Files/photo_8_2023-03-19_17-27-15.jpg",
     "Zettelkasten/Untitled.canvas",
     "Zettelkasten/Metabolismo lipoproteine.canvas",
     "Zettelkasten/Mappa Architetture e Sistemi.canvas",
     "Zettelkasten/Fisiologia urinario.canvas",
     "Zettelkasten/Fisiologia endocrino.canvas",
     "Zettelkasten/Fisiologia Digerente.canvas",
-    "Zettelkasten/Coagulazione.canvas",
     "Genetica - Lezioni e sbobine.canvas",
     "L'azione patogena dei batteri.canvas",
     "Untitled.canvas"

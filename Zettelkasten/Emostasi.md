@@ -32,10 +32,45 @@ Si forma un tappo che impedisce ogni ulteriore emorragia ed entrano in gioco mec
 #### Funzioni
 - Riduzione del deflusso sanguigno
 - Facilita i fenomeni di marginazione delle piastrine
-- Favorisce l'accumulo locale dei [[fattori della coagulazione]]
-### Fase piastrinica
+- Favorisce l'accumulo locale dei [[Fattori della coagulazione]] ([[Fattore III - Tromboplastina - Tissue Factor]], Esposizione del ==tessuto sottoendoteliale==)
+### Fase piastrinica: [[Piastrine]]
 #### Adesione e attivazione piastrinica
+
+![](https://i.imgur.com/OcQYSDH.png)
+- Spostamento delle piastrine dal centro alla periferia dei vasi 
+    - ==Marginazione== delle piastrine     
+    - Diretta ==conseguenza della riduzione della velocità del flusso== sanguigno a causa della vasocostrizione 
+- Adesione e aggregazione dipendono da molecole di membrana, le **integrine** 
+    - ==Integrina GpIa/IIa==
+        - Complesso glicoproteico capace di legarsi al collagene 
+    - ==Integrina GpIc/IIa==
+        - Si lega a fibronectina e laminina 
+    - ==GpIb== 
+        - (non è un'integrina)
+        - Glicoproteina ricca di leucina, lega il [[vWF - Fattore di von Willebrand]] 
+            - Lega il collagene, costituendo un ponte fra GpIb e il sottoendotelio 
+    - Trombospondina (TSP)
+        - Collante per l'interazione fra collagene e GpIV
 #### Cambiamento di forma delle piastrine
+> Veloce trasformazione dalla classica forma discoidale (a riposo) a una forma irregolarmente sferica 
+
+##### Struttura
+- Presenta pseudopodi, che conferiscono l'aspetto di una sfera spinosa 
+
+##### Cambiamenti citoscheletrici        
+- Destrutturazione e parziale depolimerizzazione del fascio equatoriale dei microtubuli 
+- Strettamente dipendente da ATP 
+- Polimerizzazione e contrazione dei filamenti di actina 
+##### Due possibilità
+###### Stimolo d'attivazione debole
+La piastrina ritorna velocemente alla morfologia iniziale 
+- Se succede, essa può non rispondere a successivi stimoli (refrattarietà piastrinica) 
+###### Stimolo d'attivazione forte
+- Al cambiamento di forma seguono altri fenomeni 
+- Si rende disponibile a livello della membrana il [[PF3 - Fattore piastrinico III]] 
+    - Fosfatidilserina, situata principalmente sul versante interno della membrana plasmatica 
+        - Esposta all'esterno nella piastrina conformazionalmente modificata 
+        - Membrana ricca di PF3 = superficie ottimale per l'assemblaggio dei complessi utili alla coagulazione
 #### Secrezione dei granuli piastrinici
 #### Aggregazione piastrinica
 ### Fase coagulativa

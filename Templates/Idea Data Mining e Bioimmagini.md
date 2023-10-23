@@ -1,5 +1,5 @@
 ---
-stato: "#Lezioni"
+stato: "#ideaL"
 tags:
   - "#DataMining"
   - "#DataScience"
@@ -20,4 +20,4 @@ tags:
 
 
 ---
-# Reference: [[Data mining]]
+# Reference: [[Data mining e Bioimmagini - Libro]]

@@ -13,7 +13,7 @@ Tag: #Anatomia #ApparatoCardiocircolatorio #SistemaNervoso #SistemaLinfatico
 ![[BARNI LEZIONE 33.pdf]]
 
 ![[BARNI LEZIONE 34.pdf]]
-
+[[BARNI LEZIONE 8.pdf]]
 ![[BARNI LEZIONE 35.pdf]]
 
 ![[BARNI LEZIONE 36 .pdf]]

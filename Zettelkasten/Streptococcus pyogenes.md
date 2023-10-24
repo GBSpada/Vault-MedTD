@@ -98,7 +98,7 @@ Tag: #Microbiologia
 #### SPE-C
 - Simile alla A
 #### SPE-F
-- Responsabile dell'insufficienza respiratoria acuta e dell'edema polmonare emorragico 
+- Responsabile dell'insufficienza respiratoria acuta e dell'[[edema polmonare]] emorragico 
 - Agisce sull'endotelio dei vasi polmonari
 ### Sequele non suppurative
 - La patogenesi è decisamente più complessa

@@ -22,7 +22,7 @@ tags:
 	- ADP, ATP, Calcio, Serotonina
 ###### Granuli $\alpha$ 
 - Proteine adesive
-	- Fibrinogeno, fibronectina, fattore di von willebrand, [[TSP - trombospondina]]
+	- Fibrinogeno, fibronectina, fattore di von willebrand, [[TSP]]
 - Modulatori di crescita
 	- [[PDGF]], [[TGF]], fattore piastrinico 4, TSP
 - Fattori della coagulazione

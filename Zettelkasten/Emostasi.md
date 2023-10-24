@@ -72,7 +72,55 @@ La piastrina ritorna velocemente alla morfologia iniziale 
         - Esposta all'esterno nella piastrina conformazionalmente modificata 
         - Membrana ricca di PF3 = superficie ottimale per l'assemblaggio dei complessi utili alla coagulazione
 #### Secrezione dei granuli piastrinici
+>![Secrezione granuli piastrinici](https://i.imgur.com/2oHkzWZ.png)
+>Il contenuto dei granuli determina un aumento della risposta piastrinica
+>- Tutti agonisti dell'aggregazione
+
+- Fondamentalmente dobbiamo distinguere due fenomeni ==cronologicamente sequenziali== che dipendono da vie intrinsecamente connesse attraverso il rilascio di calcio dal REL
+
+##### Attivazione delle fosfolipasi C: degranulazione
+- Interazione del collagene coi recettori della superficie piastrinica: [[GPCR e PKA|GPCR]] 
+- Attivazione della [[PLC - Fosfolipasi C]] da parte della subunità attiva della GPCR
+	- Rilascio di [[DAG]]((Rivedi via della [[PKC]]))
+	- Rilascio di IP3
+		- Liberazione di ioni Ca2+ nel citosol
+- Attivazione combinata della PKC da parte del DAG e del calcio
+	- ==Fosforilazione della== **[[plekstrina]]**
+		- Regola la ==secrezione dei granuli piastrinici==
+	- Implicata nel meccanismo di ==fusione== delle integrine ==GpIIb== e ==GpIIIa== ^83d612
+		- Formano il **complesso glicoproteico IIb/IIIa** sulla membrana piastrinica, fondamentale per l'aggregazione
+- Attivazione della MLCK (chinasi delle catene leggere della miosina)
+	- ==Contrazione dei filamenti di actina/miosina== atte a modificare la struttura delle piastrine e a ==rilasciare le sostanze dei granuli==
+##### Attivazione della fosfolipasi A2: trombossano 
+>[!warning] Nota bene :
+>In questa fase può avvenire una sorta di regolazione/punto di svolta data dalla quantità di ADP che viene rilasciata 
+
+- Se lo ==stimolo== è ==forte== e la liberazione di ==ADP== è ==sufficiente==
+	- Viene innescata una forte produzione di [[Trombossano|TXA2 - Trombossano A2]]
+		- Reagisce coi suoi recettori di membrana e ==stimola la PLC==
+		- In sinergia con ADP, adrenalina e altre molecole determina vasocostrizione
+- Se lo stimolo è debole e la liberazione di ==ADP== è ==insufficiente==
+	- L'==aggregazione== diventa ==reversibile==
 #### Aggregazione piastrinica
+##### Molecole implicate
+| Agonisti                       | Potenza di aggregazione | Antagonisti                     |
+| ------------------------------ | ----------------------- | ------------------------------- |
+| Collagene                      | ++++                    | Prostaciclina                   |
+| Trombossano $A_2$              | ++++                    | Monossido d'azoto               |
+| Fattore attivante le piastrine | +++                     | Adenosina                       |
+| Adenosin difosfato             | ++                      | Adrenalina (recettori $\beta$ ) |
+| Adrenalina                     | ++                      |                                 |
+| Trombina                       | ++                      |                                 |
+| Ormone antidiuretico           | ++                      |                                 |
+| Serotonina                     | ++                      |                                 |
+| Prostaglandina $H_2$           | +++                     |                                 |
+
+##### Processo
+- L'eterodimero [[#^83d612|GpIIb/GpIIIa]] funge da recettore per il [[Fattore I - Fibrinogeno e fibrina|fibrinogeno]] e, assieme ad un altro eterodimero, forma un "ponte" tra due piastrine
+	- La [[TSP]] aumenta le dimensioni degli aggregati piastrinici operando una stabilizzazione degli aggregati che si formano
+##### Regolazione?
+- Quì si nota, se la quantità di trombossano è compatibile con la cosiddetta ==aggregazione secondaria==
+
 ### Fase coagulativa
 ### Fase fibrinolitica
 

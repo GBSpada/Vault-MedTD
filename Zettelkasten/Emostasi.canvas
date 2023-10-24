@@ -18,7 +18,7 @@
 		{"type":"file","file":"Files/Fase fibrinolitica.png","id":"8fb995c2cf147ec9","x":-1306,"y":277,"width":400,"height":242},
 		{"type":"text","text":"Fase coagulativa","id":"9bcaecfa9c0fcdb6","x":-776,"y":-261,"width":250,"height":60},
 		{"type":"text","text":"Acido glutammico","id":"59a61239cd0fb99f","x":-1041,"y":-434,"width":250,"height":60},
-		{"type":"text","text":"[[Fattore I - Fibrinogeno e fibrina]]","id":"a7fa25cf23f64a6b","x":148,"y":-494,"width":250,"height":60},
+		{"type":"text","text":"[[Fattore I - Fibrinogeno e fibrina]]","id":"a7fa25cf23f64a6b","x":148,"y":-532,"width":250,"height":120},
 		{"type":"text","text":"Fase piastrinica\n","id":"903a00ca2391bbdf","x":-775,"y":-541,"width":250,"height":60},
 		{"type":"text","text":"Secrezione dei granuli piastrinici","id":"377bf7348715f8d3","x":-1339,"y":-638,"width":250,"height":97},
 		{"type":"text","text":"Gamma carbossiglutamato","id":"0fcbe9903c35dc6c","x":-1291,"y":-261,"width":250,"height":68},

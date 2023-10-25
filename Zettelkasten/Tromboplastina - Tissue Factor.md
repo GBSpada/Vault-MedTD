@@ -2,6 +2,10 @@
 Stato: #ideaL 
 Tag: #ApparatoCardiocircolatorio #Fisiologia  #PatologiaGenerale
 
+>[!warning] Nota bene :
+>Fattore II della cascata coagulativa
+
+
 > Glicoproteina procoagulante di membrana sintetizzata dalle cellule endoteliali che agisce, insieme al fattore VII come principale attivatore in vivo della cascata della coagulazione
 
 ^594a01

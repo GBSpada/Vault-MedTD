@@ -26,7 +26,7 @@ tags:
 - Modulatori di crescita
 	- [[PDGF]], [[TGF]], fattore piastrinico 4, TSP
 - Fattori della coagulazione
-	- [[Fattore V - Proaccellerina]], [[HMWK]], [[C1-inibitore]], [[Fattore I - Fibrinogeno e fibrina]], [[Fattore XI - Antecedente plasmatico della tromboplastina]], [[Proteina S]], [[PAI - plasminogen activator inhibitor]]
+	- [[Proaccellerina]], [[HMWK]], [[C1-inibitore]], [[Fibrinogeno - Fibrina]], [[Fattore XI - Antecedente plasmatico della tromboplastina]], [[Proteina S]], [[PAI - plasminogen activator inhibitor]]
 
 
 

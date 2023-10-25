@@ -21,25 +21,12 @@
             }
           },
           {
-            "id": "3a94912852a41964",
+            "id": "5040721b3aa9524b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Emostasi.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cfd0824120cb07f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/Emostasi.md",
+                "file": "Zettelkasten/Emostasi e trombosi.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,7 +34,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -134,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Emostasi.md",
+                "file": "Zettelkasten/Emostasi e trombosi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Emostasi.md",
+                "file": "Zettelkasten/Emostasi e trombosi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -163,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/Emostasi.md"
+                "file": "Zettelkasten/Emostasi e trombosi.md"
               }
             }
           },
@@ -218,7 +205,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 5
       },
       {
         "id": "0227a3898492d02a",
@@ -242,8 +229,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 618.5,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -264,15 +250,25 @@
       "translate:Open translation view": false
     }
   },
-  "active": "cfd0824120cb07f9",
+  "active": "5040721b3aa9524b",
   "lastOpenFiles": [
-    "Zettelkasten/Trombossano.md",
+    "Zettelkasten/Alterazioni emodinamiche, malattia tromboembolica e shock.md",
+    "Zettelkasten/Fattori della coagulazione.md",
+    "Zettelkasten/Fattore di Christmas.md",
     "Zettelkasten/Emostasi.md",
+    "Zettelkasten/Fattore anitemofilico A.md",
+    "Zettelkasten/Proconvertina.md",
+    "Zettelkasten/Accellerina.md",
+    "Zettelkasten/Proaccellerina.md",
+    "Zettelkasten/Protrombina.md",
+    "Zettelkasten/Tromboplastina - Tissue Factor.md",
+    "Zettelkasten/Fibrinogeno - Fibrina.md",
+    "Zettelkasten/Emostasi.canvas",
+    "Zettelkasten/Trombossano.md",
     "Zettelkasten/TSP.md",
     "Zettelkasten/TXA2 - Trombossano A2.md",
     "Libri/Robbins_E_Cotran_Le_Basi_Patologiche 2.pdf",
     "Risorse/Patologia Generale - Robbins.md",
-    "Zettelkasten/Alterazioni emodinamiche, malattia tromboembolica e shock.md",
     "Zettelkasten/Edema.md",
     "Zettelkasten/Edema polmonare.md",
     "Zettelkasten/Streptococcus pyogenes.md",
@@ -287,17 +283,7 @@
     "Files/Architetture e sistemi di calcolo lezione 26.pdf",
     "Files/Architetture e sistemi di calcolo lezione 15.pdf",
     "Zettelkasten/Emostasi e trombosi.md",
-    "Zettelkasten/PLC - Fosfolipasi C.md",
-    "Zettelkasten/PKC.md",
-    "Zettelkasten/Introduzione BDD.md",
-    "Zettelkasten/GPCR e PKA.md",
-    "Risorse/Basi di dati - Slide Irina.md",
-    "Zettelkasten/Emostasi.canvas",
-    "Zettelkasten/Fattori della coagulazione.md",
-    "Zettelkasten/PF3 - Fattore piastrinico III.md",
-    "Zettelkasten/vWF - Fattore di von Willebrand.md",
     "Files/Fattori coagulazione.png",
-    "Zettelkasten/Piastrine.md",
     "Files/2b_Raccolta esercizi ER (lez 5-6) 1.pdf",
     "Libri/Annotato_TanIntroductionData Mining.pdf",
     "Libri/Fisiologia Medica (F. Conti) (z-lib.org).pdf",

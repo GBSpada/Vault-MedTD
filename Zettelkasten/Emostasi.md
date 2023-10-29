@@ -123,6 +123,20 @@ La piastrina ritorna velocemente alla morfologia iniziale 
 ### Fase coagulativa
 > Porta alla formazione del coagulo insolubile di [[Fibrinogeno - Fibrina]]
 
+#### Fattori della coagulazione
+> Proteasi sotto forma di zimogeni  presentanti serina nel sito catalitico: ==serinoproteasi==
+
+- Agiscono a cascata amplificando il processo catalitico a ventaglio
+
+![](https://i.imgur.com/pXdcglw.png)
+
+##### Ruolo della [[Vitamina K]] 
+- Completa la struttura di alcuni fattori tramite aggiunta di un carbossile
+	- La carbossilazione da acido glutammico ad acido $\gamma$-carbossiglutammico avviene ad opera di una **carbossilasi vitamina K-dipendente**
+##### Anticoagulanti
+- [[Eparina]]
+- Composti anti-vitamina K
+
 
 ### Fase fibrinolitica
 

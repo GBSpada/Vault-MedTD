@@ -1,3 +1,6 @@
 
-
+obsidian
 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
+
+vscode
+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

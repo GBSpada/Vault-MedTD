@@ -10,6 +10,23 @@ kanban-plugin: basic
 - [ ] Ordine vestiti
 
 
+## PatoGen
+
+- [ ] Gentile: Robbins
+- [ ] Corsonello: Libro fisiopat
+
+
+## PatoClin
+
+- [ ] Slide/sbobine
+
+
+## DataMining
+
+- [ ] Libro
+- [ ] Corsi
+
+
 ***
 
 ## Archive

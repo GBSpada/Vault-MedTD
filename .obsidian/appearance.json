@@ -1,9 +1,9 @@
 {
   "accentColor": "",
   "translucency": false,
-  "cssTheme": "Obsidian Nord",
+  "cssTheme": "Catppuccin",
   "theme": "obsidian",
-  "baseFontSize": 19,
+  "baseFontSize": 18,
   "textFontFamily": "JetBrainsMono Nerd Font,Rubik",
   "monospaceFontFamily": "",
   "interfaceFontFamily": "JetBrainsMono Nerd Font,Overpass"

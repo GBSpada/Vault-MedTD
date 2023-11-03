@@ -1,4 +1,4 @@
-a25-01-2023 17:09
+25-01-2023 17:09
 Stato: #slide
 Tag: #BasiDiDati
 

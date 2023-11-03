@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4535f61efd6701ad",
+        "id": "edbeba4994c78a6e",
         "type": "tabs",
         "children": [
           {
-            "id": "40c9af2a4a74b56c",
+            "id": "843323fe277eef93",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -17,6 +17,36 @@
                 "mode": "source",
                 "backlinks": true,
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "41c14b078d85a4f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Emostasi e trombosi.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "5d32b38bba10f86f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e510faa740ec7c7c",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Libri/Robbins_E_Cotran_Le_Basi_Patologiche 2.pdf"
               }
             }
           }
@@ -59,8 +89,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "45ea08796f45e544",
@@ -108,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Alterazioni emodinamiche, malattia tromboembolica e shock.md",
+                "file": "Zettelkasten/Emostasi e trombosi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Alterazioni emodinamiche, malattia tromboembolica e shock.md",
+                "file": "Zettelkasten/Emostasi e trombosi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -137,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/Alterazioni emodinamiche, malattia tromboembolica e shock.md"
+                "file": "Zettelkasten/Emostasi e trombosi.md"
               }
             }
           },
@@ -182,9 +211,17 @@
                 "sortOrder": "frequency"
               }
             }
+          },
+          {
+            "id": "869fa88f93f7b238",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       },
       {
         "id": "0227a3898492d02a",
@@ -230,27 +267,35 @@
       "translate:Open translation view": false
     }
   },
-  "active": "40c9af2a4a74b56c",
+  "active": "41c14b078d85a4f8",
   "lastOpenFiles": [
-    "Zettelkasten/Orario III anno I semestre.md",
+    "Libri/Robbins_E_Cotran_Le_Basi_Patologiche 2.pdf",
+    "Zettelkasten/Emostasi e trombosi.md",
+    "Libri/Robbins_E_Cotran_Le_Basi_Patologiche.pdf",
+    "Libri/Principi Di Medicina Interna - Volume II - Harrison.pdf",
+    "Libri/Principi Di Medicina Interna - Volume I - Harrison.pdf",
+    "Zettelkasten/Robbins_E_Cotran_Le_Basi_Patologiche 2.pdf.md",
     "Zettelkasten/Alterazioni emodinamiche, malattia tromboembolica e shock.md",
+    "Risorse/Patologia Generale - Robbins.md",
+    "Files/2b_Raccolta esercizi ER (lez 5-6).pdf",
+    "Risorse/Basi di dati - Slide Irina.md",
+    "Files/3b_eserciziTraduzione da ER verso Relazionale 1.pdf",
+    "Files/3d_soluzione esercizio Voli 1.pdf",
+    "Files/2s_soluzioni esercizi ER (lez 6) 1.pdf",
+    "Files/3c_Progetazione logica 1.pdf",
+    "Files/2c_Progettazione DB (lez 5-6) 1.pdf",
+    "Zettelkasten/Modello Relazionale.md",
+    "Zettelkasten/Orario III anno I semestre.md",
     "Zettelkasten/Codice api open ai.md",
     "Zettelkasten/Rumeno.md",
-    "Libri/Robbins_E_Cotran_Le_Basi_Patologiche 2.pdf",
     "Zettelkasten/API.md",
     "Zettelkasten/Task III anno I semestre.md",
     "Zettelkasten/Emostasi.md",
     "Zettelkasten/Goals.md",
-    "Risorse/Basi di dati - Slide Irina.md",
-    "Files/Schema Alessandro progettazione logica.pdf",
-    "Zettelkasten/Modello Relazionale.md",
     "Zettelkasten/Eparina.md",
     "Zettelkasten/vitamina K.md",
     "Zettelkasten/Emostasi.canvas",
     "Files/Fattori coagulazione accessori.png",
-    "Files/Fattori coagulazione accessori 1",
-    "Files/Fattori coagulazione accessori",
-    "Zettelkasten/Emostasi e trombosi.md",
     "Zettelkasten/Fattori della coagulazione.md",
     "Zettelkasten/Fattore di Christmas.md",
     "Zettelkasten/Fattore anitemofilico A.md",
@@ -261,16 +306,7 @@
     "Zettelkasten/Tromboplastina - Tissue Factor.md",
     "Zettelkasten/Fibrinogeno - Fibrina.md",
     "Zettelkasten/Trombossano.md",
-    "Zettelkasten/TSP.md",
-    "Zettelkasten/TXA2 - Trombossano A2.md",
-    "Risorse/Patologia Generale - Robbins.md",
-    "Files/BARNI LEZIONE 8.pdf",
-    "Files/Architetture e sistemi di calcolo lezione 26.pdf",
-    "Files/Architetture e sistemi di calcolo lezione 15.pdf",
     "Files/Fattori coagulazione.png",
-    "Files/2b_Raccolta esercizi ER (lez 5-6) 1.pdf",
-    "Libri/Annotato_TanIntroductionData Mining.pdf",
-    "Libri/Fisiologia Medica (F. Conti) (z-lib.org).pdf",
     "Excalidraw/Scripts/Downloaded/Organic Line.svg",
     "Excalidraw/Scripts/Downloaded/Mindmap format.svg",
     "Excalidraw/Scripts/Downloaded/Connect elements.svg",

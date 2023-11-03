@@ -96,6 +96,7 @@ Si vieta quindi l'uso di valori nulli sulla *chiave primaria* di una relazione.
 
 ### Vincoli di integrità referenziale
 ![Vincolo di integrità referenziale](https://i.imgur.com/UJ3Ayho.png)
+
 Formalmente:
 - Un vincolo di integrità referenziale fra un insieme di attributi *X* di una relazione *R1* e una relazione *R2* è soddisfatto se i valori di *X* di ciascuna tupla dell'istanza *R1* compaiono come valori della chiave primaria dell'istanza *R2*.
 - Sostanzialmente il vicolo consiste nel far riferimento a tuple (su relazioni) che siano esistenti facendo utilizzo delle chiavi che le identificano.

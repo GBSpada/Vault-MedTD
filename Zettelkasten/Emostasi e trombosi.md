@@ -93,7 +93,7 @@ sistema/apparato: CardioCircolatorio
 
 ##### Cause clinicamente rilevanti
 ###### [[Sindrome da trombocitopenia indotta da eparina - HIT]]
-wella 
+
 
 
 

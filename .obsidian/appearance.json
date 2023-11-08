@@ -3,8 +3,8 @@
   "translucency": false,
   "cssTheme": "Catppuccin",
   "theme": "obsidian",
-  "baseFontSize": 16,
-  "textFontFamily": "JetBrainsMono Nerd Font,Rubik",
-  "monospaceFontFamily": "",
-  "interfaceFontFamily": "JetBrainsMono Nerd Font,Overpass"
+  "baseFontSize": 24,
+  "textFontFamily": "JetBrainsMono Nerd Font,Rubik,FiraCode Nerd Font",
+  "monospaceFontFamily": "FiraCode Nerd Font Mono",
+  "interfaceFontFamily": "JetBrainsMono Nerd Font,Overpass,FiraCode Nerd Font"
 }

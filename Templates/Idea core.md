@@ -1,6 +1,7 @@
 ---
 stato: 
-tags:
+tags: 
+sistema/apparato:
 ---
 {{date}} {{time}}
 

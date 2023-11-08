@@ -8,33 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "843323fe277eef93",
+            "id": "97982ebef56434ad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Alterazioni emodinamiche, malattia tromboembolica e shock.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "41c14b078d85a4f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/Emostasi e trombosi.md",
+                "file": "Zettelkasten/Sindrome da trombocitopenia indotta da eparina - HIT.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "5d32b38bba10f86f",
@@ -80,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "carbossigluta",
+                "query": "marfan",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -89,7 +75,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "45ea08796f45e544",
@@ -137,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Emostasi e trombosi.md",
+                "file": "Zettelkasten/Sindrome da trombocitopenia indotta da eparina - HIT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Emostasi e trombosi.md",
+                "file": "Zettelkasten/Sindrome da trombocitopenia indotta da eparina - HIT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -166,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/Emostasi e trombosi.md"
+                "file": "Zettelkasten/Sindrome da trombocitopenia indotta da eparina - HIT.md"
               }
             }
           },
@@ -213,7 +200,7 @@
             }
           },
           {
-            "id": "869fa88f93f7b238",
+            "id": "e701e3977e0203dc",
             "type": "leaf",
             "state": {
               "type": "copilot-chat-view",
@@ -267,45 +254,47 @@
       "translate:Open translation view": false
     }
   },
-  "active": "41c14b078d85a4f8",
+  "active": "97982ebef56434ad",
   "lastOpenFiles": [
+    "Zettelkasten/Patologie genetica.md",
+    "Zettelkasten/Sindrome da trombocitopenia indotta da eparina - HIT.md",
     "Libri/Robbins_E_Cotran_Le_Basi_Patologiche 2.pdf",
+    "Zettelkasten/Alterazioni emodinamiche, malattia tromboembolica e shock.md",
+    "Risorse/Patologia Generale - Robbins.md",
     "Zettelkasten/Emostasi e trombosi.md",
+    "Templates/Idea core.md",
+    "Zettelkasten/Sindrome da shock tossico.md",
+    "Zettelkasten/Sindrome di Down.md",
+    "Zettelkasten/Mutazione del fattore V di Leiden.md",
+    "Zettelkasten/Mutazione G20210A del fattore II.md",
+    "Zettelkasten/Mutazione dell'MTHFR.md",
+    "Zettelkasten/Emostasi.md",
+    "Zettelkasten/TXA2 - Trombossano A2.md",
+    "Zettelkasten/Acido arachidonico.md",
+    "Zettelkasten/Prostaglandine.md",
+    "Zettelkasten/Iperomocisteinemia.md",
+    "Zettelkasten/Mappa Architetture e Sistemi.canvas",
+    "Zettelkasten/SO a strati.md",
+    "Zettelkasten/SO monolitico.md",
+    "Zettelkasten/Biochimica- Sbobine Dolce.md",
+    "Zettelkasten/Reti combinatorie slide.md",
+    "Zettelkasten/Algebra boole e porte logiche slide.md",
+    "Zettelkasten/Fattori della coagulazione.md",
+    "Zettelkasten/Emorragia.md",
+    "Zettelkasten/Iperemia e congestione.md",
+    "Zettelkasten/Edema.md",
     "Libri/Robbins_E_Cotran_Le_Basi_Patologiche.pdf",
     "Libri/Principi Di Medicina Interna - Volume II - Harrison.pdf",
     "Libri/Principi Di Medicina Interna - Volume I - Harrison.pdf",
     "Zettelkasten/Robbins_E_Cotran_Le_Basi_Patologiche 2.pdf.md",
-    "Zettelkasten/Alterazioni emodinamiche, malattia tromboembolica e shock.md",
-    "Risorse/Patologia Generale - Robbins.md",
     "Files/2b_Raccolta esercizi ER (lez 5-6).pdf",
-    "Risorse/Basi di dati - Slide Irina.md",
     "Files/3b_eserciziTraduzione da ER verso Relazionale 1.pdf",
     "Files/3d_soluzione esercizio Voli 1.pdf",
     "Files/2s_soluzioni esercizi ER (lez 6) 1.pdf",
     "Files/3c_Progetazione logica 1.pdf",
     "Files/2c_Progettazione DB (lez 5-6) 1.pdf",
-    "Zettelkasten/Modello Relazionale.md",
-    "Zettelkasten/Orario III anno I semestre.md",
-    "Zettelkasten/Codice api open ai.md",
-    "Zettelkasten/Rumeno.md",
-    "Zettelkasten/API.md",
-    "Zettelkasten/Task III anno I semestre.md",
-    "Zettelkasten/Emostasi.md",
-    "Zettelkasten/Goals.md",
-    "Zettelkasten/Eparina.md",
-    "Zettelkasten/vitamina K.md",
     "Zettelkasten/Emostasi.canvas",
     "Files/Fattori coagulazione accessori.png",
-    "Zettelkasten/Fattori della coagulazione.md",
-    "Zettelkasten/Fattore di Christmas.md",
-    "Zettelkasten/Fattore anitemofilico A.md",
-    "Zettelkasten/Proconvertina.md",
-    "Zettelkasten/Accellerina.md",
-    "Zettelkasten/Proaccellerina.md",
-    "Zettelkasten/Protrombina.md",
-    "Zettelkasten/Tromboplastina - Tissue Factor.md",
-    "Zettelkasten/Fibrinogeno - Fibrina.md",
-    "Zettelkasten/Trombossano.md",
     "Files/Fattori coagulazione.png",
     "Excalidraw/Scripts/Downloaded/Organic Line.svg",
     "Excalidraw/Scripts/Downloaded/Mindmap format.svg",
@@ -317,7 +306,6 @@
     "Files/sistema informatico vs informativo.png",
     "Zettelkasten/Untitled.canvas",
     "Zettelkasten/Metabolismo lipoproteine.canvas",
-    "Zettelkasten/Mappa Architetture e Sistemi.canvas",
     "Zettelkasten/Fisiologia urinario.canvas",
     "Zettelkasten/Fisiologia endocrino.canvas",
     "Zettelkasten/Fisiologia Digerente.canvas",

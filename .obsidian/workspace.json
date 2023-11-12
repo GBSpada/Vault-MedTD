@@ -45,9 +45,38 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9d8e2916802c7ee4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Sindrome da anticorpi antifosfolipidi.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
+      },
+      {
+        "id": "8a7d94108dd50184",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "55544681c3941b4f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Libri/Robbins_E_Cotran_Le_Basi_Patologiche 2.pdf"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -77,7 +106,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "marfan",
+                "query": "tag:PatologiaGenerale",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -135,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Emostasi e trombosi.md",
+                "file": "Zettelkasten/Sindrome da anticorpi antifosfolipidi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Emostasi e trombosi.md",
+                "file": "Zettelkasten/Sindrome da anticorpi antifosfolipidi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -164,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/Emostasi e trombosi.md"
+                "file": "Zettelkasten/Sindrome da anticorpi antifosfolipidi.md"
               }
             }
           },
@@ -219,7 +248,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 9
       },
       {
         "id": "0227a3898492d02a",
@@ -248,6 +277,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -255,19 +285,31 @@
       "daily-notes:Open today's daily note": false,
       "command-palette:Open command palette": false,
       "templates:Insert template": false,
-      "audio-recorder:Start/stop recording": false
+      "audio-recorder:Start/stop recording": false,
+      "copilot:Copilot Chat": false
     }
   },
-  "active": "f271d66db4a9127c",
+  "active": "9d8e2916802c7ee4",
   "lastOpenFiles": [
     "Zettelkasten/Codice api open ai.md",
+    "Zettelkasten/API.md",
+    "Zettelkasten/Sindrome da anticorpi antifosfolipidi.md",
     "Zettelkasten/Emostasi e trombosi.md",
+    "Libri/Robbins_E_Cotran_Le_Basi_Patologiche 2.pdf",
+    "Zettelkasten/Sindrome da trombocitopenia indotta da eparina - HIT.md",
+    "Libri/Wheater -  Istologia e Anatomia Microscopica Ed. III (2001).pdf",
+    "Libri/Robbins_E_Cotran_Le_Basi_Patologiche.pdf",
+    "Libri/Principi Di Medicina Interna - Volume II - Harrison.pdf",
+    "Libri/Principi Di Medicina Interna - Volume I - Harrison.pdf",
+    "Libri/p-atzeni-s-ceri-s-paraboschi-r-torlone-basi-di-dati-modelli-e-linguaggi-di-interrogazione.pdf",
+    "Libri/p-atzeni-s-ceri-s-paraboschi-r-torlone-basi-di-dati-modelli-e-linguaggi-di-interrogazione 1.pdf",
+    "Libri/Lessenziale_di_biologia_molecolare_della_cellula_by_Bruce_Alberts.pdf",
+    "Libri/La_Placa_Principi_di_microbiologia_medica_14a_edizione_2014.pdf",
+    "Libri/Istologia - Monesi (VII edizione).pdf",
     "Zettelkasten/Alterazioni emodinamiche, malattia tromboembolica e shock.md",
     "Risorse/Patologia Generale - Robbins.md",
     "Zettelkasten/Malattie dei globuli rossi ed emorragiche.md",
-    "Zettelkasten/Sindrome da trombocitopenia indotta da eparina - HIT.md",
     "Zettelkasten/Patologie genetica.md",
-    "Libri/Robbins_E_Cotran_Le_Basi_Patologiche 2.pdf",
     "Templates/Idea core.md",
     "Zettelkasten/Sindrome da shock tossico.md",
     "Zettelkasten/Sindrome di Down.md",
@@ -286,17 +328,6 @@
     "Zettelkasten/Reti combinatorie slide.md",
     "Zettelkasten/Algebra boole e porte logiche slide.md",
     "Zettelkasten/Fattori della coagulazione.md",
-    "Zettelkasten/Emorragia.md",
-    "Zettelkasten/Iperemia e congestione.md",
-    "Libri/Robbins_E_Cotran_Le_Basi_Patologiche.pdf",
-    "Libri/Principi Di Medicina Interna - Volume II - Harrison.pdf",
-    "Libri/Principi Di Medicina Interna - Volume I - Harrison.pdf",
-    "Files/2b_Raccolta esercizi ER (lez 5-6).pdf",
-    "Files/3b_eserciziTraduzione da ER verso Relazionale 1.pdf",
-    "Files/3d_soluzione esercizio Voli 1.pdf",
-    "Files/2s_soluzioni esercizi ER (lez 6) 1.pdf",
-    "Files/3c_Progetazione logica 1.pdf",
-    "Files/2c_Progettazione DB (lez 5-6) 1.pdf",
     "Zettelkasten/Emostasi.canvas",
     "Files/Fattori coagulazione accessori.png",
     "Files/Fattori coagulazione.png",

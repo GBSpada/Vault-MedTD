@@ -4,79 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "edbeba4994c78a6e",
+        "id": "84515aa30d359380",
         "type": "tabs",
         "children": [
           {
-            "id": "97982ebef56434ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Risorse/Patologia Generale - Robbins.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "04507b5bd0bbe20e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/Alterazioni emodinamiche, malattia tromboembolica e shock.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f271d66db4a9127c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/Emostasi e trombosi.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9d8e2916802c7ee4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/Sindrome da anticorpi antifosfolipidi.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 3
-      },
-      {
-        "id": "8a7d94108dd50184",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "55544681c3941b4f",
+            "id": "bdbe3686e241c2c6",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Libri/Robbins_E_Cotran_Le_Basi_Patologiche 2.pdf"
+                "file": "Files/request.pdf"
               }
             }
+          },
+          {
+            "id": "356bc2098a4415fd",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:PatologiaGenerale",
+                "query": "aptene",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -145,7 +95,7 @@
       {
         "id": "91675aacfd27c02e",
         "type": "tabs",
-        "dimension": 51.14583333333334,
+        "dimension": 51.67322834645669,
         "children": [
           {
             "id": "ae4351b16c3fe865",
@@ -164,7 +114,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Sindrome da anticorpi antifosfolipidi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +130,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Sindrome da anticorpi antifosfolipidi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -192,9 +140,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Zettelkasten/Sindrome da anticorpi antifosfolipidi.md"
-              }
+              "state": {}
             }
           },
           {
@@ -253,7 +199,7 @@
       {
         "id": "0227a3898492d02a",
         "type": "tabs",
-        "dimension": 48.85416666666666,
+        "dimension": 48.326771653543304,
         "children": [
           {
             "id": "d4cabc04126e58f9",
@@ -289,13 +235,24 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "9d8e2916802c7ee4",
+  "active": "356bc2098a4415fd",
   "lastOpenFiles": [
+    "Files/request.pdf",
+    "Zettelkasten/Sindrome da anticorpi antifosfolipidi.md",
+    "Files/2023-07-24 17_10_26-Inbox - spdgbt02p25d086d@studenti.unical.it - Outlook.png",
+    "Zettelkasten/Cibo.md",
+    "Files/Diritto 1 Antonio da utilizzare.docx",
+    "Files/Unconfirmed 10965.crdownload",
+    "Zettelkasten/Treponema Pallidum.md",
+    "Libri/Robbins_E_Cotran_Le_Basi_Patologiche 2.pdf",
+    "Risorse/Patologia Generale - Robbins.md",
+    "Zettelkasten/Idea pat cardio.md",
+    "Zettelkasten/Emostasi e trombosi.md",
+    "Zettelkasten/Alterazioni emodinamiche, malattia tromboembolica e shock.md",
+    "Zettelkasten/Token git.md",
+    "Zettelkasten/TLR - toll like receptor.md",
     "Zettelkasten/Codice api open ai.md",
     "Zettelkasten/API.md",
-    "Zettelkasten/Sindrome da anticorpi antifosfolipidi.md",
-    "Zettelkasten/Emostasi e trombosi.md",
-    "Libri/Robbins_E_Cotran_Le_Basi_Patologiche 2.pdf",
     "Zettelkasten/Sindrome da trombocitopenia indotta da eparina - HIT.md",
     "Libri/Wheater -  Istologia e Anatomia Microscopica Ed. III (2001).pdf",
     "Libri/Robbins_E_Cotran_Le_Basi_Patologiche.pdf",
@@ -303,11 +260,6 @@
     "Libri/Principi Di Medicina Interna - Volume I - Harrison.pdf",
     "Libri/p-atzeni-s-ceri-s-paraboschi-r-torlone-basi-di-dati-modelli-e-linguaggi-di-interrogazione.pdf",
     "Libri/p-atzeni-s-ceri-s-paraboschi-r-torlone-basi-di-dati-modelli-e-linguaggi-di-interrogazione 1.pdf",
-    "Libri/Lessenziale_di_biologia_molecolare_della_cellula_by_Bruce_Alberts.pdf",
-    "Libri/La_Placa_Principi_di_microbiologia_medica_14a_edizione_2014.pdf",
-    "Libri/Istologia - Monesi (VII edizione).pdf",
-    "Zettelkasten/Alterazioni emodinamiche, malattia tromboembolica e shock.md",
-    "Risorse/Patologia Generale - Robbins.md",
     "Zettelkasten/Malattie dei globuli rossi ed emorragiche.md",
     "Zettelkasten/Patologie genetica.md",
     "Templates/Idea core.md",
@@ -322,12 +274,6 @@
     "Zettelkasten/Prostaglandine.md",
     "Zettelkasten/Iperomocisteinemia.md",
     "Zettelkasten/Mappa Architetture e Sistemi.canvas",
-    "Zettelkasten/SO a strati.md",
-    "Zettelkasten/SO monolitico.md",
-    "Zettelkasten/Biochimica- Sbobine Dolce.md",
-    "Zettelkasten/Reti combinatorie slide.md",
-    "Zettelkasten/Algebra boole e porte logiche slide.md",
-    "Zettelkasten/Fattori della coagulazione.md",
     "Zettelkasten/Emostasi.canvas",
     "Files/Fattori coagulazione accessori.png",
     "Files/Fattori coagulazione.png",
@@ -338,7 +284,6 @@
     "Excalidraw/Scripts/Downloaded/Add Link to Existing File and Open.svg",
     "Excalidraw/Scripts/Downloaded/Add Connector Point.svg",
     "Excalidraw/Intro tec programm.excalidraw.png",
-    "Files/sistema informatico vs informativo.png",
     "Zettelkasten/Untitled.canvas",
     "Zettelkasten/Metabolismo lipoproteine.canvas",
     "Zettelkasten/Fisiologia urinario.canvas",

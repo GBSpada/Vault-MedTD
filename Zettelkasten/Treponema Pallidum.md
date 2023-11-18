@@ -46,7 +46,7 @@ Tag: #Microbiologia
 ### Test molecolari
 - PCR 
 ### Sierologia
-- Si da sulle proteine coinvolte nella risposta anticorpale, specialmente gli antigeni specifici treponemici
+- Si fa sulle proteine coinvolte nella risposta anticorpale, specialmente gli ==antigeni specifici treponemici==
 - Nella storie della sierologia della sifilide è importante ricordare la [[Cardiolipina]] detta anche *aptene di Wasserman*
 #### Primi tentativi di analisi sierologica
 > Le problematiche erano legate al fatto che le reazioni individuate inizialmente non erano specifiche contro il treponema ma lo erano per la cardiolipina

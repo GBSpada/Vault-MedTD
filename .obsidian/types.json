@@ -5,7 +5,6 @@
     "tags": "tags",
     "Tag": "multitext",
     "Stato": "text",
-    "Data e ora": "datetime",
     "sistema/apparato": "multitext"
   }
 }

@@ -22,13 +22,13 @@ Buste freezer
 #### Proteine
 ##### Carne
 - [x] Carne rossa spezzatino
-- [x] Sovracosce di pollo
+- [ ] Sovracosce di pollo
 - [x] Petto di pollo
-- [ ] Bistecche di maiale
+- [x] Bistecche di maiale
 ##### Pesce
 - [x] Merluzzo
 - [x] Gamberetti
-- [ ] Tonno
+- [x] Tonno
 
 ##### Legumi
 - [x] Lenticchie
@@ -36,25 +36,25 @@ Buste freezer
 - [x] Fagioli
 
 ##### Uova
-- [ ] 
+- [x] 
 
 #### Verdura
-- [ ] Per spaghettini/riso
+- [x] Per spaghettini/riso
 - [ ] Per pasta e tonno
 - [ ] Per insalata
-- [ ] Patate
-- [x] Cipolla
-- [ ] Aglio
-- [ ] Sedano
-- [ ] Carote
+- [x] Patate
+- [ ] Cipolla
+- [x] Aglio
+- [x] Sedano
+- [x] Carote
 #### Carbo
 - [x] Pasta
-- [x] Riso
+- [ ] Riso
 - [x] Pane
 - [ ] Patate
-- [ ] Spaghettini
-- [ ] Cous cous
-- [ ] Pane grattuggiato/amido/farina
+- [x] Spaghettini
+- [x] Cous cous
+- [x] Pane grattuggiato/amido/farina
 
 
 #### Grassi
@@ -63,7 +63,7 @@ Buste freezer
 - [ ] Pancette/guanciali/lardo
 
 ## Accessori
-- [ ] Salsa agrodolce
+- [x] Salsa agrodolce
 - [ ] Salsa worchestershire
 - [x] Aceto
 - [x] Vino rosso e bianco
@@ -71,10 +71,8 @@ Buste freezer
 - [x] Sale
 - [ ] Maionese
 - [ ] Ketchup
-- [ ] Curry
-- [ ] Salsa di soia
-- [ ] 
-
+- [x] Curry
+- [x] Salsa di soia
 
 # Dieta
 | Dieta     | Lunedì              | Martedì                           | Mercoledì                    | Giovedì                         | Venerdì                               | Sabato         | Domenica            |

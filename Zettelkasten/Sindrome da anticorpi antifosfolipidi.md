@@ -8,10 +8,10 @@ sistema/apparato:
   - SistemaImmunitario
 excalidraw-plugin:
 ---
-12-11-2023 03:51
+ae12-11-2023 03:51
 
 --- 
-
+### Clinica
 - Presentazione clinica variabile
 	- In generale
 		- Trombosi ricorrenti
@@ -26,16 +26,15 @@ excalidraw-plugin:
 		- Infarto intestinale
 		- Ipertensione renale
 			- [[Mircoangiopatia renale]] causata dalle trombosi multiple dei capillari e delle arterie
-- Fisiopatologia
-	- Si ritiene che gli effetti patologici siano mediati dal legame degli anticorpi con gli epitopi sulle proteine plasmatiche 
-		- Questi sono però mascherati dai fosfolipidi
-- Effetti
-	- In vivo
-		- Viene indotto uno stato di ipercoagulabilità provocado un danno endoteliale
-	- In vitro 
-		- Gli anticorpi interferiscono con i fosfolipidi inibendo la coagulazione
-- Questi anticorpi alterano i risultati dei test sierologici per la [[Treponema Pallidum|sifilide]] visto che sono fissati su [[cardiolipina]]
+### Fisiopatologia
+- Si ritiene che gli effetti patologici siano mediati dal legame degli anticorpi con gli epitopi sulle proteine plasmatiche 
+	- Questi sono però mascherati dai fosfolipidi
 
+### Conseguenze
+- In vivo
+	- Viene indotto uno stato di ipercoagulabilità provocado un danno endoteliale
+- In vitro
+	- Gli anticorpi interferiscono con i fosfolipidi inibendo la coagulazione
 
 
 --- 

@@ -4,20 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "84515aa30d359380",
+        "id": "dbd963f0c8fa5d79",
         "type": "tabs",
         "children": [
           {
-            "id": "bdbe3686e241c2c6",
+            "id": "b80d6351ebe3a582",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Files/request.pdf"
+                "file": "Risorse/Patologia Generale - Robbins.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "49678262895aec5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Risorse/Flashcards anatomia.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "805d2b2050f1ac40",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Zettelkasten/Task III anno I semestre.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -47,7 +74,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "aptene",
+                "query": "xeroderm",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -105,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Files/request.pdf",
+                "file": "Risorse/Flashcards anatomia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Files/request.pdf",
+                "file": "Risorse/Flashcards anatomia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Files/request.pdf"
+                "file": "Risorse/Flashcards anatomia.md"
               }
             }
           },
@@ -214,44 +241,45 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "5b9fbfc75c00330c",
+  "active": "49678262895aec5e",
   "lastOpenFiles": [
-    "Files/request.pdf",
+    "Zettelkasten/Flashcards anatomia II.csv",
+    "Zettelkasten/Malattie dei globuli bianchi, dei linfonodi, delle milza e del timo.md",
+    "Files/Flashcards anatomia II.csv",
+    "Files/Flashcards ant.csv",
+    "Zettelkasten/Task III anno I semestre.md",
+    "Zettelkasten/Goals.md",
+    "Risorse/Patologia Generale - Robbins.md",
+    "Zettelkasten/Patologie genetica.md",
+    "Zettelkasten/Mutazioni e sistemi di riparazione del DNA.md",
+    "Zettelkasten/Malattie neoplastiche.md",
+    "Risorse/Biologia molecolare - Lezioni.md",
+    "Zettelkasten/Microbiologia - Lezione 9.md",
+    "Risorse/Flashcards anatomia.md",
+    "Files/anatomia_ii_20231126010608.csv",
+    "Files/anatomia_ii_20231126010608.csv.crdownload",
+    "Zettelkasten/Leucemia Mieloide Acuta.md",
+    "Zettelkasten/Flashcards anatomia.csv.md",
+    "Zettelkasten/Flashcards anatomia.csv",
+    "Zettelkasten/Flashcards anatomia.csv.crdownload",
+    "Libri/Robbins_E_Cotran_Le_Basi_Patologiche 2.pdf",
+    "Zettelkasten/Data mining - Lezione 8.md",
+    "Templates/Idea Data Mining e Bioimmagini.md",
+    "Zettelkasten/Sintassi R.md",
     "Zettelkasten/Sindrome da anticorpi antifosfolipidi.md",
+    "Zettelkasten/Emostasi e trombosi.md",
+    "Zettelkasten/Alterazioni emodinamiche, malattia tromboembolica e shock.md",
+    "Files/request.pdf",
     "Files/2023-07-24 17_10_26-Inbox - spdgbt02p25d086d@studenti.unical.it - Outlook.png",
     "Zettelkasten/Cibo.md",
     "Files/Diritto 1 Antonio da utilizzare.docx",
     "Files/Unconfirmed 10965.crdownload",
     "Zettelkasten/Treponema Pallidum.md",
-    "Libri/Robbins_E_Cotran_Le_Basi_Patologiche 2.pdf",
-    "Risorse/Patologia Generale - Robbins.md",
     "Zettelkasten/Idea pat cardio.md",
-    "Zettelkasten/Emostasi e trombosi.md",
-    "Zettelkasten/Alterazioni emodinamiche, malattia tromboembolica e shock.md",
     "Zettelkasten/Token git.md",
     "Zettelkasten/TLR - toll like receptor.md",
     "Zettelkasten/Codice api open ai.md",
     "Zettelkasten/API.md",
-    "Zettelkasten/Sindrome da trombocitopenia indotta da eparina - HIT.md",
-    "Libri/Wheater -  Istologia e Anatomia Microscopica Ed. III (2001).pdf",
-    "Libri/Robbins_E_Cotran_Le_Basi_Patologiche.pdf",
-    "Libri/Principi Di Medicina Interna - Volume II - Harrison.pdf",
-    "Libri/Principi Di Medicina Interna - Volume I - Harrison.pdf",
-    "Libri/p-atzeni-s-ceri-s-paraboschi-r-torlone-basi-di-dati-modelli-e-linguaggi-di-interrogazione.pdf",
-    "Libri/p-atzeni-s-ceri-s-paraboschi-r-torlone-basi-di-dati-modelli-e-linguaggi-di-interrogazione 1.pdf",
-    "Zettelkasten/Malattie dei globuli rossi ed emorragiche.md",
-    "Zettelkasten/Patologie genetica.md",
-    "Templates/Idea core.md",
-    "Zettelkasten/Sindrome da shock tossico.md",
-    "Zettelkasten/Sindrome di Down.md",
-    "Zettelkasten/Mutazione del fattore V di Leiden.md",
-    "Zettelkasten/Mutazione G20210A del fattore II.md",
-    "Zettelkasten/Mutazione dell'MTHFR.md",
-    "Zettelkasten/Emostasi.md",
-    "Zettelkasten/TXA2 - Trombossano A2.md",
-    "Zettelkasten/Acido arachidonico.md",
-    "Zettelkasten/Prostaglandine.md",
-    "Zettelkasten/Iperomocisteinemia.md",
     "Zettelkasten/Mappa Architetture e Sistemi.canvas",
     "Zettelkasten/Emostasi.canvas",
     "Files/Fattori coagulazione accessori.png",

@@ -58,7 +58,6 @@ Tag: #Genetica
 - L'altro si trova sul cromosoma 7
 #### Sindrome di Marfan
 
-#### Neurofibromatosi
 #### Sindrome di lynch 
 #### Distrofia miotonica di tipo I - Distrofia di Steinert
 ##### La Distrofia Miotonica di Tipo 1 (DM1 o di Steinert)

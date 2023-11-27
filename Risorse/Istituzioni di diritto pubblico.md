@@ -7,7 +7,6 @@ tags:
 
 --- 
 
-
 # Lezione 1
 
 ## Diritto oggettivo e diritto soggettivo
@@ -307,36 +306,115 @@ tags:
 > In quale ordinanza la corte ribadisce come dal nostro ordinamento non si possa dedurre un diritto a ricevere l'aiuto a morire?
 > - Ordinanza n.207 del 2018, dall'articolo 2 della costituzione bisogna estrapolare invece il dovere dello stato di tutelare la vita di ogni individuo
 
-> Il 
+> Quale articolo del codice penale fa rischiare l'incriminazione il medico in caso di aiuto al suicidio?
+> - Articolo 580 
 
+> [!quote] Marco Olivetti
+> Se l'autodeterminazione del paziente svolge un ruolo centrale e diviene quasi assoluta quando il paziente è capace di decidere attualmente e di adottare comportamenti fisicamente indipendenti, essa si affievolisce quando il paziente non è in grado di decidere attualmente
 
-
-
-
-
-
-
-
-
+> Nei casi in cui la capacità di autodeterminazione possa essere minata da una condizione di debolezza cosa dice la corte costituzionale?
+> - Che l'ordinamento penale deve proteggere da una scelta estrema e irreparabile come quella del suicidio ed assolve allo scopo di tutelare i più deboli
 
 ## Il diritto di non curarsi
-### Per il paziente capace di intendere e di volere
-Il diritto di non curarsi, il problema della nutrizione artificiale e dell'idratazione
-### Per il paziente incapace di intendere e volere
-#### Gli incapaci legali
+> In quale legge è sancito il diritto di non curarsi per tutte le possibili categorie?
+> - Nella legge 219 del 2017
 
+> Quali sono le categorie di soggetti che vengono distinti da questa legge?
+> - Capaci
+> - Incapaci
+> 	- Legali
+> 	- Sopravvenuti (inabilitati)
+> 		- Con DAT
+> 			- Con Fiduciario
+> 			- Senza Fiduciario
+> 		- Senza DAT
+### Per il paziente capace di intendere e di volere
+> In che norme si discute?
+> - Comma 5 art1 legge 219 del 2017
+> 	- Ogni persona ha il diritto di rifiutare
+> - Comma 6 art1 legge 219 del 2017
+> 	- Il medico deve rispettare la volontà espressa dal paziente a patto che essa non sia contraria alla legge o alla deontologia professionale
+
+#### Il diritto di non curarsi, il problema della nutrizione artificiale e dell'idratazione
+
+> La nutrizione/idratazione artificiale sono ritenute trattamenti sanitari? Perché?
+> - Si, poiché sottendono un sapere scientifico che è posto in essere da personale sanitario
+
+> In che sentenza se ne discute (nutrizione artificiale)?
+> - 21748 del 2007 della corte di cassazione
+
+> In cosa consiste la valutazione di segno opposto sulla nutrizione artificiale?
+> - Nell'affermare che a differenza dei trattamenti sanitari si tratta di misure senza finalità terapeutiche
+
+### Per il paziente incapace di intendere e volere
+
+> Cosa sono le DAT?
+> - Disposizioni anticipate di trattamento, ogni persona maggiorenne può, dopo aver acquisito le necessarie informazioni mediche, scriverle. 
+
+
+#### Gli incapaci legali
+> Quali sono gli incapaci legali e chi decide per loro?
+> - Persona minore d'età (genitore/tutore), persona interdetta (tuturore), persona inabilitata (amministratore di sostegno)
+
+> Cosa succede nel caso in cui uno dei soggetti implicati nella tutela dell'incapace rifiuti le cure in assenza di DAT?
+> - Si può rimettere al giudice la decisione
 #### Per il paziente divenuto incapace di intendere e di volere: le DAT
-##### DAT con nomina di un fiducairio
+> In che articolo si parla delle DAT
+> - Articolo 4 comma 1.2.3 legge 219 del 2017
+##### DAT con nomina di un fiduciario
+> In che sezione dell'articolo 4 si discute delle dat con fiduciario
+> - Comma 5
+
+> Quali sono i problemi principali di questo sistema (dat con fiduciario)
+> - La possibilità di disattendere alle DAT da parte del medico
+> - Ci può essere un contrasto medico-fiduciario in ordine alle DAT
+
 ##### DAT senza fiduciario
+> In che sezione dell'articolo 4 si discute delle dat senza fiduciario
+> - Comma 4
+
+> Cosa si fa quando le DAT non contengano l'indicazione del fiduciario o se esso non è più disponibile?
+> - In caso di necessità si nomina un amministratore di sostegno
 
 #### Per il paziente incapace di intendere e di volere che non ha sottoscritto DAT
 
+> Quali problemi sussistono?
+> - Il medico non è in grado di informare adeguatamente il paziente
+> - Il paziente non può esprimere il proprio consenso o dissenso né effettuare alcuna scelta consapevole
+
+> Cosa deve fare il medico in questi casi?
+> - Si deve limitare a salvare la vita dell'ammalato e decidere poi quando il paziente potrà interagire
+> - Nel caso perduri l'incapacità di intendere e volere del paziente il medico dovrà proseguire nelle cure rivolgendosi al giudice tutelare
+
+> Il medico deve seguire le indicazioni dei familiari?
+> - No, nessuno può sostituirsi al paziente
+
 ##### La pianificazione condivisa delle cure
+> In che fase e con che criteri si sottoscrivono in genere le DAT?
+> - Nella pianificazione delle cure, specialmente in caso di evolversi di patologie con esiti generalmente infausti
+> - Durante la sottoscrizione delle DAT bisogna informare in maniera del tutto esaustiva il paziente ed eventualmente i fiduciari o i familiari su tutte le possibilità 
+
 ## Terapia del dolore, divieto di ostinazione irragionevole nelle cure e dignità nella fase finale della vita
+> In che articolo della legge 219 si discute dell'accanimento terapeutico? Sono tratatti altri temi?
+> - Art 2
+> - Si, si descrive l'obbligo del medico di garantire un'adeguata terapia del dolore in caso di rifiuto del trattamento
+
+> Cosa si deve fare in caso di ricorso alla sedazione palliativa profonda continua?
+> - Si deve motivare la propria scelta nella cartella clinica e nel fascicolo sanitario elettronico
 
 ## La corte costituzionale e l'art 580 C.P
 
+> Con quale ordinanza e sentenza della corte costituzionale vengono descritti i casi in cui il suicidio assistito sia conforme alla costituzione?
+> - Ordinanza 207/2018 e sentenza 249/2019
 
+> Quali sono i casi descritti?
+> - Persona affetta da patologia irreversibile, fonte di sofferenze fisiche o psicologiche che sia tenuta in vita a mezzo di trattamenti di sostegno vitale, ma resti capace di prendre decisioni libere e consapevole
+
+> Il medico può scegliere autonomamente di erogare la prestazione del suicidio assistito?
+> - No, è necessari l'intervento di un organo collegiale terzo
+
+> Il medico è obbligato a prestare l'aiuto al suicidio?
+> - No, può rifiutarsi
 
 
 

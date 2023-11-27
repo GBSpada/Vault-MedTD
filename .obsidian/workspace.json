@@ -8,43 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b80d6351ebe3a582",
+            "id": "b88e64abbed009f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Risorse/Patologia Generale - Robbins.md",
+                "file": "Risorse/Istituzioni di diritto pubblico.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "49678262895aec5e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Risorse/Flashcards anatomia.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "805d2b2050f1ac40",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Zettelkasten/Task III anno I semestre.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -83,8 +59,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "45ea08796f45e544",
@@ -132,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Risorse/Flashcards anatomia.md",
+                "file": "Risorse/Istituzioni di diritto pubblico.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Risorse/Flashcards anatomia.md",
+                "file": "Risorse/Istituzioni di diritto pubblico.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -161,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Risorse/Flashcards anatomia.md"
+                "file": "Risorse/Istituzioni di diritto pubblico.md"
               }
             }
           },
@@ -200,7 +175,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       },
       {
         "id": "0227a3898492d02a",
@@ -241,45 +216,44 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "49678262895aec5e",
+  "active": "b88e64abbed009f6",
   "lastOpenFiles": [
-    "Files/Afferenze spinali.csv",
-    "Files/Afferenze spinali.csv.crdownload",
-    "Zettelkasten/Flashcards anatomia II.md",
+    "Files/Lezione 5-Diritto pubblico.pdf",
+    "Risorse/Istituzioni di diritto pubblico.md",
+    "Files/Lezione 4-Diritto pubblico.pdf",
+    "Files/Lezione 3-Diritto Pubblico.pdf",
+    "Files/SBOBINA 2 DIRITTO.pdf",
+    "Files/Sbobine 3 anno/Qualità nei servizi sanitari/Lezione 7/Lezione 7 - Qualità nella sanità.pdf",
+    "Files/Sbobine 3 anno/Qualità nei servizi sanitari/Lezione 7/Lezione 7 - Qualità nella sanità.docx",
+    "Files/Sbobine 3 anno/Qualità nei servizi sanitari/Lezione 6/rivisto 31 OTTOBRE 2023.pptx",
+    "Files/Sbobine 3 anno/Qualità nei servizi sanitari/Lezione 6/Lezione 6 - Qualità nella sanità.pdf",
+    "Files/Sbobine 3 anno/Qualità nei servizi sanitari/Lezione 6/Lezione 6 - Qualità nella sanità.docx",
+    "Files/Sbobine 3 anno/Qualità nei servizi sanitari/Lezione 5/Lezione 5 - Qualità nella sanità.docx",
+    "Zettelkasten/Untitled.md",
+    "Zettelkasten/Untitled 1.md",
+    "Risorse/Patologia Generale - Robbins.md",
     "Risorse/Flashcards anatomia.md",
-    "Zettelkasten/Flashcards anatomia II.csv",
+    "Zettelkasten/Flashcards anatomia II.md",
     "Zettelkasten/Malattie dei globuli bianchi, dei linfonodi, delle milza e del timo.md",
-    "Files/Flashcards anatomia II.csv",
-    "Files/Flashcards ant.csv",
     "Zettelkasten/Task III anno I semestre.md",
     "Zettelkasten/Goals.md",
-    "Risorse/Patologia Generale - Robbins.md",
     "Zettelkasten/Patologie genetica.md",
     "Zettelkasten/Mutazioni e sistemi di riparazione del DNA.md",
     "Zettelkasten/Malattie neoplastiche.md",
     "Risorse/Biologia molecolare - Lezioni.md",
     "Zettelkasten/Microbiologia - Lezione 9.md",
-    "Files/anatomia_ii_20231126010608.csv",
-    "Files/anatomia_ii_20231126010608.csv.crdownload",
     "Zettelkasten/Leucemia Mieloide Acuta.md",
     "Zettelkasten/Flashcards anatomia.csv.md",
-    "Zettelkasten/Flashcards anatomia.csv",
-    "Zettelkasten/Flashcards anatomia.csv.crdownload",
-    "Libri/Robbins_E_Cotran_Le_Basi_Patologiche 2.pdf",
     "Zettelkasten/Data mining - Lezione 8.md",
     "Templates/Idea Data Mining e Bioimmagini.md",
     "Zettelkasten/Sintassi R.md",
     "Zettelkasten/Sindrome da anticorpi antifosfolipidi.md",
     "Zettelkasten/Emostasi e trombosi.md",
     "Zettelkasten/Alterazioni emodinamiche, malattia tromboembolica e shock.md",
-    "Files/request.pdf",
     "Files/2023-07-24 17_10_26-Inbox - spdgbt02p25d086d@studenti.unical.it - Outlook.png",
     "Zettelkasten/Cibo.md",
     "Zettelkasten/Treponema Pallidum.md",
     "Zettelkasten/Idea pat cardio.md",
-    "Zettelkasten/Token git.md",
-    "Zettelkasten/TLR - toll like receptor.md",
-    "Zettelkasten/Codice api open ai.md",
     "Zettelkasten/Mappa Architetture e Sistemi.canvas",
     "Zettelkasten/Emostasi.canvas",
     "Files/Fattori coagulazione accessori.png",

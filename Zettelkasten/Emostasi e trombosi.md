@@ -193,9 +193,29 @@ sistema/apparato: CardioCircolatorio
 		- Traumi
 			- Interventi chirurgici
 			- Ustioni
-		- 
+	- Infiammazione
+		- Neoplasie
+		- [[Sindrome di Trousseau]] (tromboflebite migrante)
+### Trombosi arteriosa e cardiaca
+- Pricipalmente correlata ad
+	- Aterosclerosi
+	- Infarto del miocardio
+	- Cardiopatia reumatica
+- Oltre a causare ostruzioni in loco, i trombi possono liberare emboli in sedi altamente vascolarizzate
+	- Encefalo
+	- Reni
+	- Milza
 
+## [[Coagulazione intravascolare disseminata (CID)]]
+> Improvvisa o subdola comparsa di trombi di fibrina in tutto il microcircolo
 
+- Sintomi
+	- Diffusa insufficienza circolatoria 
+	- *Coagulopatia da consumo*
+		- Rapido consumo di piastrine e proteine della coagulazione
+	- Eccessiva attivazione del sistema fibrinolitico
+- Eziologia
+	- Complicanza di qualsiasi condizione associata ad attivazione diffusa della trombina
 
 
 

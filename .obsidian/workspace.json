@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "b77d5afca81202d4",
+            "id": "6edbb91cc34751fc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Emostasi e trombosi.md",
+                "file": "Zettelkasten/Embolia.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -80,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "t-pa",
+                "query": "coagulazione intravascolare diss",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Emostasi e trombosi.md",
+                "file": "Zettelkasten/Embolia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Emostasi e trombosi.md",
+                "file": "Zettelkasten/Embolia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/Emostasi e trombosi.md"
+                "file": "Zettelkasten/Embolia.md"
               }
             }
           },
@@ -247,15 +247,17 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "b77d5afca81202d4",
+  "active": "6edbb91cc34751fc",
   "lastOpenFiles": [
     "Libri/Robbins_E_Cotran_Le_Basi_Patologiche 2.pdf",
+    "Zettelkasten/Embolia.md",
+    "Zettelkasten/Alterazioni emodinamiche, malattia tromboembolica e shock.md",
     "Zettelkasten/Emostasi e trombosi.md",
+    "Zettelkasten/Patologie dell'emostasi - diatesi emorragiche.md",
     "Zettelkasten/Sindrome da anticorpi antifosfolipidi.md",
     "Zettelkasten/Lupus eritmatoso sistemico.md",
     "Templates/Idea Patologia.md",
     "Templates/Idea Patologia Gen.md",
-    "Zettelkasten/Alterazioni emodinamiche, malattia tromboembolica e shock.md",
     "Risorse/Patologia Generale - Robbins.md",
     "Risorse/Istituzioni di diritto pubblico.md",
     "Files/Lezione 7-Diritto Pubblico.pdf",
@@ -282,8 +284,6 @@
     "Zettelkasten/Leucemia Mieloide Acuta.md",
     "Zettelkasten/Flashcards anatomia.csv.md",
     "Zettelkasten/Data mining - Lezione 8.md",
-    "Templates/Idea Data Mining e Bioimmagini.md",
-    "Zettelkasten/Sintassi R.md",
     "Files/2023-07-24 17_10_26-Inbox - spdgbt02p25d086d@studenti.unical.it - Outlook.png",
     "Zettelkasten/Mappa Architetture e Sistemi.canvas",
     "Zettelkasten/Emostasi.canvas",

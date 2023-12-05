@@ -1,13 +1,25 @@
 ---
 stato: "#ideaL"
 tags:
-  - "#PatologiaGenerale"
+  - "#Patologia"
+sistema/apparato:
 ---
-03-10-2023 14:55
+01-12-2023 01:26
 
 --- 
 
+>[!info] Definizione
+>
 
+## Eziologia
+
+## Manifestazioni
+
+## Diagnosi
+
+## Trattamento
+
+## Prognosi
 
 
 
@@ -22,4 +34,4 @@ tags:
 
 
 --- 
-# Reference: [[Patologia Generale - Robbins]]
+# Reference

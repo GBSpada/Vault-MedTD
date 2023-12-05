@@ -87,7 +87,7 @@ tags:
 ## I diritti tra giudice e legislatore
 #### La rivendicazione dei diritti
 
-> Nel contesto della rivendicazione dei diritti, cosa significa che deve essere effeettuata in via contenziosa
+> Nel contesto della rivendicazione dei diritti, cosa significa che deve essere effettuata in ==via contenziosa==
 > - Deve esistere un conflitto
 
 > Qual è l'attributo tecnico fondamentale che deve avere la domanda individuale per poter essere ammessa?

@@ -95,6 +95,109 @@ sistema/apparato: CardioCircolatorio
 ###### [[Sindrome da trombocitopenia indotta da eparina - HIT]]
 ###### [[Sindrome da anticorpi antifosfolipidi]]
 
+## Morfologia
+> Caratteri generali
+> - Aderiscono alla superficie vascolare sottostante
+> - Si estendono in direzione del cuore
+> - La parte in accrescimento non aderisce al vaso e tende a frammentarsi provocando un [[embolo]]
+
+| -             | Arteriosi                                                         | Venosi                            |
+| ------------- | ----------------------------------------------------------------- | --------------------------------- |
+| Origine       | In un punto di turbolenza o nella sede di una lesione endoteliale | In una sede di stasi              |
+| Accrescimento | In direzione retrograda dall'origine                              | In direzione del flusso sanguigno |              |                                                                   |                                   |
+
+>[!info]- Anatomia patologica
+> I trombi presentano le cosiddette *strie di Zahn* dovute all'alternanza di 
+>- Strati chiari di piastrine e fibrina
+>- Strati scuri contenenti un numero maggiore di globuli rossi
+>- Fondamentali per distinguere i trombi postmortem che ne sono privi
+
+### Trombi arteriosi
+#### Caratteristiche generali
+- Spesso occlusivi
+- Sedi di occorrenza dalla più frequente alla meno frequente
+	- Arterie coronarie
+	- Arterie cerebrali
+	- Arterie femorali
+##### Composizione
+- Fragile rete di piastrine fibrina globuli rossi e leucociti degenerati
+#### Murali
+- Così definiti quando si formano nella cavità cardiaca o nel lume aortico
+##### Cause
+- A livello cardiaco
+	- Contrazioni anomale del miocardio
+	- Lesioni endomiocardiche
+- A livello aortico
+	- Placche aterosclerotiche ulcerate 
+	- Dilatazione degli aneurismi
+### Trombi venosi
+#### Caratteristiche generali
+- Quasi sempre occlusiva
+- Il trombo assume la forma del lume
+- Nel 90% dei casi interessa le vene degli arti inferiori, in altri casi
+	- Negli arti superiori
+	- Nel plesso periprostatico
+	- Nelle vene ovariche e periuterine
+	- Nei seni durali, nella vena porta o nella vena epatica
+##### Composizione
+- Ricchi di globuli rossi e poveri di piastrine: *trombi rossi o da stasi*
+### Coaguli postmortem
+- Struttura
+	- Gelatinosi
+	- Zona rosso scura in cui i globuli rossi sono stratificati
+	- Zona superiore gialla simile a grasso di pollo
+	- Generalmente ==non adesi alla parete sottostante== (a differenza dei trombi rossi)
+### Vegetazioni
+- Così sono definiti i trombi sulle valvole cardiache
+- Conseguenza di infezioni batteriche o micetiche ([[Endocardite infettiva]])
+	- Il danno strutturale genera alterazioni del flusso che accentuano la diatesi trombotica
+- Altri due casi, più rari, sono
+	- [[Endocarditi trombotiche non batteriche]] nei pazienti con stati di ipercoagulabilità 
+	- [[Endocardite di Libman-Sacks]] o endocardite verrucosa non infettiva
+
+## Destino del trombo
+### Propagazione
+- I trombi accumulano ancora piastrine e fibrina
+### [[Embolia|Embolizzazione]]
+- Il trombo si stacca e si sposta verso altri distretti del circolo
+### Dissolvimento
+- Dovuta al processo di fibrinolisi 
+- Molto difficile per trombi di vecchia data
+	- La polimerizzazione e l'estensione della fibrina rendono inefficaci anche agenti fibrinolitici come il [[t-PA]]
+### Organizzazione e ricanalizzazione
+- All'interno dei trombi più vecchi le cellule endoteliali, muscolari lisce e i fibroblasti si organizzano
+	- Si formano capillari che ristabiliscono (non totalmente) la continuità del lume originale
+- Col tempo i trombi possono andare incontro a destini variegati a causa dell'attività degli elementi mesenchimali presenti
+	- Fibrosi
+	- Digestione enzimatica
+	- Infezione ([[Aneurisma micotico]])
+## Conseguenze cliniche
+### Flebotrombosi
+#### Non profonda
+- La maggior parte avviene nelle vene superficiali o profonde della gamba (sistema della safena)
+	- Soprattutto in presenza di varici
+- Raramente da origine ad emboli
+- Edema locale e ridotto drenaggio venoso predispongono a infezioni secondarie a traumi e ad *ulcere varicose*
+### Trombosi venosa profonda
+- Nelle vene maggiori della gamba
+	- Vena poplitea, femorale o iliaca
+- Più pericolosa, i trombi embolizzano più spesso nei polmoni: [[infarto polmonare]]
+- L'ostruzione venosa può essere rapidamente compensata da circoli collaterali perciò molto spesso è asintomatica
+#### Condizioni diatetiche
+- In genere condizioni che portano direttamente o indirettamente a ipercoagulabilità
+	- Per alterato ritorno venoso
+		- Immobilizzazione
+		- [[Insufficienza cardiaca congestizia]]
+	- Per alterata produzione di fattori della coagulazione 
+		- Allattamento e gravidanza
+		- Traumi
+			- Interventi chirurgici
+			- Ustioni
+		- 
+
+
+
+
 
 
 --- 

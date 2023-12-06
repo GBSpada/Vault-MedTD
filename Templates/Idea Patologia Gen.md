@@ -2,8 +2,9 @@
 stato: "#ideaL"
 tags:
   - "#PatologiaGenerale"
+sistema/apparato:
 ---
-03-10-2023 14:55
+{{date}} {{time}}
 
 --- 
 

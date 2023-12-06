@@ -15,7 +15,7 @@ Tag: #Microbiologia
 - Ascesso peritonsillare
 - [[Otite media]], [[mastoidite]], [[polmonite]], [[meningite]]
 - Negli stipiti in grado di produrre tossine pirogene che fanno da superantigeni
-	- [[Sindrome da shock tossico]]
+	- [[Shock settico]]
 >[!warning] Nota bene, in caso di manifestazioni batteriemiche:
 >**[[Endocardite acuta ulcerativa]]**
 #### Non suppurative

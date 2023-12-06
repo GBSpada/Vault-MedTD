@@ -17,7 +17,7 @@ Tag: #Citologia #PatologiaGenerale
 	- Bcl-2, bcl-xL, bcl-W, Diva, Ced-9, Adenovirus E1B, Epstein-Barr virus BHRF
 	- ==Attività Pro-Oncotica==
 		- In molti fenomeni neoplastici è presente una *up-regolazione* dell'espressione di queste proteine
-		- Linfoma a cellule B![[B-Cell linfoma#^9f36ea]]
+		- Linfoma a cellule B![[Linfoma a cellule B#^9f36ea]]
 	- In terapia alcuni farmaci agiscono inibendo l'espressione dei geni associati a queste proteine
 - Killer
 	- [[Bax]], bak

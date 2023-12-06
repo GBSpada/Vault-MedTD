@@ -1,8 +1,8 @@
 04-10-2023 17:14
 Stato: #ideaL
-Tag: #Patologia  #Microbiologia 
+Tag: #Microbiologia 
 
-- Colite pseudomembranosa
+- Causa [[colite pseudomembranosa]]
 
 
 

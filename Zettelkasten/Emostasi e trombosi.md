@@ -178,24 +178,7 @@ sistema/apparato: CardioCircolatorio
 	- Soprattutto in presenza di varici
 - Raramente da origine ad emboli
 - Edema locale e ridotto drenaggio venoso predispongono a infezioni secondarie a traumi e ad *ulcere varicose*
-### Trombosi venosa profonda
-- Nelle vene maggiori della gamba
-	- Vena poplitea, femorale o iliaca
-- Più pericolosa, i trombi embolizzano più spesso nei polmoni: [[infarto polmonare]]
-- L'ostruzione venosa può essere rapidamente compensata da circoli collaterali perciò molto spesso è asintomatica
-#### Condizioni diatetiche
-- In genere condizioni che portano direttamente o indirettamente a ipercoagulabilità
-	- Per alterato ritorno venoso
-		- Immobilizzazione
-		- [[Insufficienza cardiaca congestizia]]
-	- Per alterata produzione di fattori della coagulazione 
-		- Allattamento e gravidanza
-		- Traumi
-			- Interventi chirurgici
-			- Ustioni
-	- Infiammazione
-		- Neoplasie
-		- [[Sindrome di Trousseau]] (tromboflebite migrante)
+### [[Trombosi venosa profonda]]
 ### Trombosi arteriosa e cardiaca
 - Pricipalmente correlata ad
 	- Aterosclerosi
@@ -207,16 +190,6 @@ sistema/apparato: CardioCircolatorio
 	- Milza
 
 ## [[Coagulazione intravascolare disseminata (CID)]]
-> Improvvisa o subdola comparsa di trombi di fibrina in tutto il microcircolo
-
-- Sintomi
-	- Diffusa insufficienza circolatoria 
-	- *Coagulopatia da consumo*
-		- Rapido consumo di piastrine e proteine della coagulazione
-	- Eccessiva attivazione del sistema fibrinolitico
-- Eziologia
-	- Complicanza di qualsiasi condizione associata ad attivazione diffusa della trombina
-
 
 
 

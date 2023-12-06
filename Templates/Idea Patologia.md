@@ -4,7 +4,7 @@ tags:
   - "#Patologia"
 sistema/apparato:
 ---
-01-12-2023 01:26
+{{date}} {{time}}
 
 --- 
 

@@ -1,11 +1,11 @@
 21-03-2023 10:08
 Stato: #IdeaLez
-Tag: #PatologiaGenerale #Patologia 
+Tag: #PatologiaGenerale 
 
 AIDS
 Malattie autoimmuni
 Cancro
-- [[B-Cell linfoma]]
+- [[Linfoma a cellule B]]
 - [[Tumore del colon]]
 [[Ischemia]]
 

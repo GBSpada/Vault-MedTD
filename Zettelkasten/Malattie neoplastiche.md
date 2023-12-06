@@ -1,6 +1,6 @@
 2023-06-27 11:50
 Stato: #Argomento
-Tag: #Patologia
+Tag: #PatologiaGenerale
 
 ---
 # Definizione

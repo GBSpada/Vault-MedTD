@@ -32,7 +32,7 @@ Tag: #Microbiologia
 - [[Ascessi cerebrali]]
 #### Batteriemia ([[sepsi]])
 - Ascessi metastatici
-#### [[Sindrome da shock tossico]] 
+#### [[Shock settico]] 
 - Negli stipiti produttori della tossina dello shock tossico
 #### Intossicazione alimentare
 ## Strutture superficiali e caratteri antigenici
@@ -57,7 +57,7 @@ Tag: #Microbiologia
 2. Questo complesso è in grado di indurre l'iperproduzione di citochine pro-infiammatorie interagendo con macrofagi e neutrofili
 ### Manifestazioni morbose specifiche
 - [[Necrolisi epidermica tossica]]
-- [[Sindrome da shock tossico]]
+- [[Shock settico]]
 - [[Sindrome della cute pseudoustionata da stafilococco]]
 - Intossicazione alimentare stafilococcica
 ### Strumenti principali della patogenesi

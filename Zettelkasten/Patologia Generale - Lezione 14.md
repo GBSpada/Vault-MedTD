@@ -24,7 +24,7 @@ Tag: #PatologiaGenerale
 			- Uno non canonical
 		- Tendenza alla rigenerazione
 		- Nell'80% dei tumori intestinali
-		- Cazzo significa coli?
+		- significa coli?
 	- PI3K
 		- Target perché coinvolta in quasi tutti i tumori
 	- NRF2

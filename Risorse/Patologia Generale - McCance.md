@@ -8,7 +8,7 @@ tags:
 --- 
 
 ## Ambiente cellulare: liquidi ed elettroliti, acidi e basi
-- Le cellule dell'organismo vivono in un mezzo acquoso che richiede il mantenimento di concentrazioni eletttrolitiche e acido-base entro limiti di tolleranza particolarmente ristretti
+- Le cellule dell'organismo vivono in un mezzo acquoso che richiede il mantenimento di concentrazioni elettrolitiche e acido-base entro limiti di tolleranza particolarmente ristretti
 ### Distribuzione dei liquidi corporei
 - I liquidi corporei sono distribuiti in comparti o spazi funzionali e svolgono principalmente una funzione di trasporto
 - L'acqua corporea totale (ACT) è distribuita 

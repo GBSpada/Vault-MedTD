@@ -4,51 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "7ff286cf438a4565",
+        "id": "2afedd5c1df99737",
         "type": "tabs",
-        "dimension": 40.26168224299065,
         "children": [
           {
-            "id": "bf303a8bc18ffe76",
+            "id": "178b75ac5439e689",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Risorse/Data mining e Bioimmagini - Libro.md",
+                "file": "Risorse/Patologia Generale - McCance.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "77a8947b0bd2a75d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/Introduzione al data mining.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "73b4668b6ffef353",
-        "type": "tabs",
-        "dimension": 59.73831775700935,
-        "children": [
-          {
-            "id": "4e4141d802a9e2ed",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Libri/Annotato_TanIntroductionData Mining.pdf"
               }
             }
           }
@@ -139,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Introduzione al data mining.md",
+                "file": "Risorse/Patologia Generale - McCance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Introduzione al data mining.md",
+                "file": "Risorse/Patologia Generale - McCance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -168,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/Introduzione al data mining.md"
+                "file": "Risorse/Patologia Generale - McCance.md"
               }
             }
           },
@@ -207,7 +175,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 3
       },
       {
         "id": "0227a3898492d02a",
@@ -249,29 +217,36 @@
       "translate:Open translation view": false
     }
   },
-  "active": "77a8947b0bd2a75d",
+  "active": "178b75ac5439e689",
   "lastOpenFiles": [
-    "Risorse/Data mining e Bioimmagini - Libro.md",
-    "Zettelkasten/Codice api open ai.md",
-    "Zettelkasten/Introduzione al data mining.md",
-    "Files/Pasted image 20231208061420.png",
-    "Libri/Annotato_TanIntroductionData Mining.pdf",
-    "Risorse/Patologia Generale - Robbins.md",
     "Risorse/Patologia Generale - McCance.md",
     "Zettelkasten/Edema.md",
-    "Zettelkasten/Edema polmonare.md",
-    "Zettelkasten/ipotesi di Starling.md",
+    "Files/Pasted image 20231214190821.png",
     "Zettelkasten/Pressione idrostatica.md",
     "Zettelkasten/Pressione oncotica.md",
+    "Libri/Tan - Data MiningAnnotato.pdf",
+    "Risorse/Data mining e Bioimmagini - Libro.md",
+    "Zettelkasten/I dati.md",
+    "Zettelkasten/Introduzione al data mining.md",
+    "Libri/Annotato_TanIntroductionData Mining.pdf",
+    "Libri/Unconfirmed 299452.crdownload",
+    "Zettelkasten/Untitled.md",
+    "Files/Pasted image 20231211005641.png",
+    "Files/Pasted image 20231211005244.png",
+    "Zettelkasten/API.md",
+    "Zettelkasten/API DeepL.md",
+    "Zettelkasten/Aplasia midollare (anemia aplastica).md",
+    "Zettelkasten/Codice api open ai.md",
+    "Files/Pasted image 20231208061420.png",
+    "Risorse/Patologia Generale - Robbins.md",
+    "Zettelkasten/Edema polmonare.md",
+    "Zettelkasten/ipotesi di Starling.md",
     "Files/Ingestione di acqua e perdita di liquido.png",
     "Downloads/eww/images/icons/lazer_icons/transparent/wiki.png",
     "Downloads/eww/images/icons/lazer_icons/transparent/tournaments.png",
     "Downloads/eww/images/icons/lazer_icons/transparent/store.png",
     "Downloads/eww/images/icons/lazer_icons/transparent/settings.png",
     "Downloads/eww/images/icons/lazer_icons/transparent/search.png",
-    "Downloads/eww/images/icons/lazer_icons/transparent/rankings.png",
-    "Downloads/eww/images/icons/lazer_icons/transparent/news.png",
-    "Downloads/eww/images/icons/lazer_icons/transparent/home.png",
     "Downloads/eww/images/svg/light/color.txt",
     "Downloads/eww/images/svg/light/color.scss",
     "Downloads/eww/images/svg/dark/color.txt",
@@ -279,8 +254,6 @@
     "Downloads/eww/scripts/custom_configs/waybar-tray-config/style.css",
     "Downloads/eww/scripts/custom_configs/waybar-tray-config/config",
     "Downloads/eww/images/icons/lazer_icons/transparent",
-    "Downloads/eww/css/savedcolors/_material_zoetrope.scss",
-    "Downloads/eww/css/savedcolors/_material_winglow.scss",
     "Downloads/JetBrainsMono/readme.md",
     "Downloads/waybar-media/README.md",
     "Downloads/Firacode font/readme.md",
@@ -291,12 +264,6 @@
     "Zettelkasten/Il metabolismo batterico.md",
     "Zettelkasten/Gli involucri esterni dei Gram-positivi.md",
     "Zettelkasten/Gli involucri esterni dei Gram-negativi.md",
-    "Files/GENETICA LEZIONE 3.md",
-    "Zettelkasten/Herpesvirus.md",
-    "Zettelkasten/Modelli in vitro e in vivo.md",
-    "Zettelkasten/Neisseria Meningitidis.md",
-    "Zettelkasten/Patologie genetica.md",
-    "Zettelkasten/Stadi del sonno.md",
     "Zettelkasten/Mappa Architetture e Sistemi.canvas",
     "Zettelkasten/Emostasi.canvas",
     "Zettelkasten/Untitled.canvas",

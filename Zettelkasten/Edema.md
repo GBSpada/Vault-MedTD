@@ -8,6 +8,7 @@ sistema/apparato: CardioCircolatorio
 
 --- 
 
+![](https://i.imgur.com/45BUSiS.png)
 
 ## Principio chiave
  > L'aumento della pressione capillare e la diminuzione della pressione colloidosmotica corrispondono ad un aumento del liquido interstiziale
@@ -84,7 +85,7 @@ sistema/apparato: CardioCircolatorio
 - Live rigonfiamento cellulare separazione degli elementi dalla matrice cellulare
 - Più frequentemente nei tessuti sottocutanei, nei polmoni e nel cervello
 ### Macroscopicamente
-- Spesso influenzato dalla gravità
+- Spesso influenzato dalla gravità: *edema declive*
 #### Edema sottocutaneo
 - Nelle sedi dove la pressione idrostatica è più alta
 - La pressione sul tessuto determina spostamento di liquido e lascia una depressione: *edema foveolare*

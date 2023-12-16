@@ -2,6 +2,7 @@
 stato: "#ideaL"
 tags:
   - Fisiologia
+  - "#Fisica"
 sistema/apparato:
   - CardioCircolatorio
 ---
@@ -17,4 +18,4 @@ sistema/apparato:
 
 
 --- 
-# Reference
+# Reference: [[Patologia Generale - McCance]]

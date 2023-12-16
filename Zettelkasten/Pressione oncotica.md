@@ -9,10 +9,10 @@ sistema/apparato:
 
 --- 
 
-> Forza orsmotica esercitata da particelle solide o macromolecole disperse in un solvente. Questa pressione è responsabile del movimento dell'acqua attraverso una membrana semipermeabile
+> Forza osmotica esercitata da particelle solide o macromolecole disperse in un solvente. Questa pressione è responsabile del movimento dell'acqua attraverso una membrana semipermeabile
 
 
 
 
 --- 
-# Reference
+# Reference: [[Patologia Generale - McCance]]

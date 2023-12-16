@@ -80,6 +80,11 @@ tags:
 ### Alterazioni degli spostamenti dell'acqua
 #### [[Edema]]
 ### Equilibrio sodico, idrico e del cloruro
+![Distribuzioe degli elettroliti](https://i.imgur.com/jmw0YO0.png)
+- I reni e gli ormoni svolgono un ruolo fondamentale nel mantenimento dell'equilibrio sodico e idrico
+	- Si citano assieme l'equilibrio sodico e quello idrico poiché ==l'acqua segue i gradienti osmotici stabiliti dalle variazioni della concentrazione di sodio==
+	- Dal punto di vista del sodio
+		- 
 #### Equilibrio sodico e del cloruro
 #### Equilibrio idrico
 ### Alterazioni dell'equilibrio idrico, sodico e del cloruro
@@ -110,4 +115,5 @@ tags:
 
 
 --- 
-# Reference
+# Reference:
+[[Fisiopatologia ed elementi di p - Kathryn McCance.epub]]

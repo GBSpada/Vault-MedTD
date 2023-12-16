@@ -9,7 +9,7 @@ tags:
 
 ## [[Introduzione al data mining]]
 
-## Data
+## [[I dati]]
 ## Exploring data
 ## CLassification: Basic Concepts, Decision Trees, and Model Evaluation
 ## Classification: Alternative Techniques

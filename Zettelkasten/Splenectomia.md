@@ -8,21 +8,10 @@ tags:
 
 --- 
 
-
-
-
-
-
-
-
-
-
-
-
+Meningococco, pneumococco, haemophilus influenzae
 
 
 
 --- 
 # Reference: [[Patologia Generale - Robbins]]
 
-Meningococco, pneumococco, haemophilus influenzae

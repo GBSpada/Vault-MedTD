@@ -3,7 +3,7 @@ stato: "#ideaL"
 tags:
   - "#PatologiaGenerale"
 sistema/apparato:
-  - SistemaImmunitario
+  - Immunitario
 ---
 03-10-2023 14:55
 

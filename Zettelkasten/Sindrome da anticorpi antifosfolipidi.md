@@ -5,7 +5,7 @@ tags:
   - PatologiaGenerale
 sistema/apparato:
   - CardioCircolatorio
-  - SistemaImmunitario
+  - Immunitario
 ---
 12-11-2023 03:51
 

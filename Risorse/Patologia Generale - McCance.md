@@ -10,6 +10,7 @@ tags:
 ## Ambiente cellulare: liquidi ed elettroliti, acidi e basi
 - Le cellule dell'organismo vivono in un mezzo acquoso che richiede il mantenimento di concentrazioni elettrolitiche e acido-base entro limiti di tolleranza particolarmente ristretti
 ### Distribuzione dei liquidi corporei
+![Concentrazioni medie di elettroliti nei liquidi transcellulari](https://i.imgur.com/THWfrpB.png)
 - I liquidi corporei sono distribuiti in comparti o spazi funzionali e svolgono principalmente una funzione di trasporto
 - L'acqua corporea totale (ACT) è distribuita 
 	- Per due terzi in comparti di liquido intracellulare
@@ -32,7 +33,6 @@ tags:
 				- Peritoneale 
 				- Pericardico
 				- Intraoculare
-- 
 - Nei soggetti ==obesi==, poiché il grasso è fortemente idrorepellente, l'acqua corporea totale è proporzionalmente inferiore
 	- Per questo motivo sono ==più suscettibili agli squilibri di liquidi==
 #### Invecchiamento e distribuzione dei liquidi corporei
@@ -80,13 +80,41 @@ tags:
 ### Alterazioni degli spostamenti dell'acqua
 #### [[Edema]]
 ### Equilibrio sodico, idrico e del cloruro
-![Distribuzioe degli elettroliti](https://i.imgur.com/jmw0YO0.png)
+
 - I reni e gli ormoni svolgono un ruolo fondamentale nel mantenimento dell'equilibrio sodico e idrico
 	- Si citano assieme l'equilibrio sodico e quello idrico poiché ==l'acqua segue i gradienti osmotici stabiliti dalle variazioni della concentrazione di sodio==
 	- Dal punto di vista del sodio
-		- 
+		- La regolazione renale avviene attraverso l'aldosterone e i peptidi natriuretici
+	- Dal punto di vista dell'acqua
+		- La regolazione avviene attraverso l'ormone antidiuretico ([[Azione dell'ADH (vasopressina).png]])
 #### Equilibrio sodico e del cloruro
+![Distribuzioe degli elettroliti](https://i.imgur.com/jmw0YO0.png)
+- Il sodio rappresenta il 90% dei cationi del LEC
+	- La sua concentrazione sierica deve corrispondere ad un valore tra i 135 e i 145 mEq/L
+- Non ha solamente la funzione di regolare le forze osmotiche assieme agli altri elettroliti ma
+	- Mantiene l'eccitabilità neuromuscolare per la conduzione degli impulsi nervosi (con potassio e calcio)
+	- Regola l'equilibrio acido-base (come bicarbonato e fosfato)
+- Il cloruro
+	- è il principale anione del LEC ed assolve all'elettroneutralità 
+	- Il trasporto del cloruro è però passivo ed in genere dipende principalmente dal sodio
+##### Gli attori della regolazione
+###### Il rene
+- Attraverso il riassorbimento nei tubuli renali
+###### La sudorazione
+###### L'alimentazione
+- L'apporto minimo è di 500mg, in media se ne assumono 5-6g
+###### [[RAAS]]
+###### [[Peptidi natriuretici]]
+
 #### Equilibrio idrico
+##### Sete
+- La sete è uno dei modi in cui l'organismo regola il proprio equilibrio idrico
+- Si percepisce sete quando
+	- La perdita idrica equivale al 2% del proprio peso corporeo
+	- Vi è un aumento dell'osmolalità
+- L'ipotalamo presenta osmorecettori
+##### [[Vasopressina]]
+
 ### Alterazioni dell'equilibrio idrico, sodico e del cloruro
 #### Alterazioni isotoniche
 #### Alterazioni ipertoniche

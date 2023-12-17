@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a516388b7b35a768",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Vasopressina.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -50,8 +64,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": false,
+                "query": "Sottoar",
+                "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
                 "extraContext": false,
@@ -59,7 +73,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "45ea08796f45e544",
@@ -107,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Risorse/Patologia Generale - McCance.md",
+                "file": "Zettelkasten/Vasopressina.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Risorse/Patologia Generale - McCance.md",
+                "file": "Zettelkasten/Vasopressina.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -136,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Risorse/Patologia Generale - McCance.md"
+                "file": "Zettelkasten/Vasopressina.md"
               }
             }
           },
@@ -157,7 +172,7 @@
             }
           },
           {
-            "id": "f4305d5065605a6e",
+            "id": "6ebb7ac529f31877",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -167,7 +182,7 @@
             }
           },
           {
-            "id": "1f20d340ebf2d48d",
+            "id": "16691d5be7b3f545",
             "type": "leaf",
             "state": {
               "type": "copilot-chat-view",
@@ -175,7 +190,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       },
       {
         "id": "0227a3898492d02a",
@@ -217,10 +232,34 @@
       "translate:Open translation view": false
     }
   },
-  "active": "178b75ac5439e689",
+  "active": "a516388b7b35a768",
   "lastOpenFiles": [
+    "Files/Lezione 11 - Qualità nella sanità.pdf",
+    "Files/Lezione 11 - Qualità nella sanità.pdf.crdownload",
+    "Files/Lezione 12 - Qualità nella sanità.pdf",
+    "Files/Lezione 12 - Qualità nella sanità.pdf.crdownload",
+    "Files/appunti qualitàc.pdf",
+    "Files/appunti qualitàc.pdf.crdownload",
     "Risorse/Patologia Generale - McCance.md",
+    "Zettelkasten/Vasopressina.md",
+    "Zettelkasten/Neuraminidasi.md",
+    "Zettelkasten/Peptidi natriuretici.md",
+    "Zettelkasten/Struttura fogli di lavoro.md",
+    "Zettelkasten/Programma med.md",
+    "Zettelkasten/Untitled.md",
+    "Zettelkasten/Untitled.canvas",
+    "Zettelkasten/RAAS.md",
+    "Zettelkasten/Aldosterone.md",
+    "Zettelkasten/Fisiologia endocrino.canvas",
+    "Zettelkasten/Ormoni adenoipofisari e neuroipofisari.md",
     "Zettelkasten/Edema.md",
+    "Files/Recording 20231216232049.webm",
+    "Zettelkasten/Splenectomia.md",
+    "Zettelkasten/TNF.md",
+    "Zettelkasten/Sindrome da anticorpi antifosfolipidi.md",
+    "Zettelkasten/Sindrome da trombocitopenia indotta da eparina - HIT.md",
+    "Zettelkasten/Malattie dei globuli bianchi, dei linfonodi, delle milza e del timo.md",
+    "Files/Azione dell'ADH (vasopressina).png",
     "Files/Pasted image 20231214190821.png",
     "Zettelkasten/Pressione idrostatica.md",
     "Zettelkasten/Pressione oncotica.md",
@@ -230,7 +269,6 @@
     "Zettelkasten/Introduzione al data mining.md",
     "Libri/Annotato_TanIntroductionData Mining.pdf",
     "Libri/Unconfirmed 299452.crdownload",
-    "Zettelkasten/Untitled.md",
     "Files/Pasted image 20231211005641.png",
     "Files/Pasted image 20231211005244.png",
     "Zettelkasten/API.md",
@@ -238,38 +276,16 @@
     "Zettelkasten/Aplasia midollare (anemia aplastica).md",
     "Zettelkasten/Codice api open ai.md",
     "Files/Pasted image 20231208061420.png",
-    "Risorse/Patologia Generale - Robbins.md",
-    "Zettelkasten/Edema polmonare.md",
-    "Zettelkasten/ipotesi di Starling.md",
     "Files/Ingestione di acqua e perdita di liquido.png",
     "Downloads/eww/images/icons/lazer_icons/transparent/wiki.png",
     "Downloads/eww/images/icons/lazer_icons/transparent/tournaments.png",
     "Downloads/eww/images/icons/lazer_icons/transparent/store.png",
     "Downloads/eww/images/icons/lazer_icons/transparent/settings.png",
-    "Downloads/eww/images/icons/lazer_icons/transparent/search.png",
     "Downloads/eww/images/svg/light/color.txt",
-    "Downloads/eww/images/svg/light/color.scss",
-    "Downloads/eww/images/svg/dark/color.txt",
-    "Downloads/eww/images/svg/dark/color.scss",
-    "Downloads/eww/scripts/custom_configs/waybar-tray-config/style.css",
-    "Downloads/eww/scripts/custom_configs/waybar-tray-config/config",
-    "Downloads/eww/images/icons/lazer_icons/transparent",
-    "Downloads/JetBrainsMono/readme.md",
-    "Downloads/waybar-media/README.md",
-    "Downloads/Firacode font/readme.md",
-    "Zettelkasten/Alterazioni emodinamiche, malattia tromboembolica e shock.md",
-    "Zettelkasten/Shock.md",
-    "Zettelkasten/Microbiologia - Lezione 3.md",
-    "Zettelkasten/Il sacculo o parete cellulare batterica.md",
-    "Zettelkasten/Il metabolismo batterico.md",
-    "Zettelkasten/Gli involucri esterni dei Gram-positivi.md",
-    "Zettelkasten/Gli involucri esterni dei Gram-negativi.md",
     "Zettelkasten/Mappa Architetture e Sistemi.canvas",
     "Zettelkasten/Emostasi.canvas",
-    "Zettelkasten/Untitled.canvas",
     "Zettelkasten/Metabolismo lipoproteine.canvas",
     "Zettelkasten/Fisiologia urinario.canvas",
-    "Zettelkasten/Fisiologia endocrino.canvas",
     "Zettelkasten/Fisiologia Digerente.canvas",
     "Genetica - Lezioni e sbobine.canvas",
     "L'azione patogena dei batteri.canvas",

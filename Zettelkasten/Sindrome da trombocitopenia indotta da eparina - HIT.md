@@ -6,7 +6,7 @@ tags:
   - PatologiaClinica
 sistema/apparato:
   - CardioCircolatorio
-  - SistemaImmunitario
+  - Immunitario
 ---
 06-11-2023 17:14
 

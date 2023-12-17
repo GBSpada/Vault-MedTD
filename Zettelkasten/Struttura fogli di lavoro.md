@@ -1,0 +1,16 @@
+- Preclinica
+	- Scienze base
+		- mate
+		- fisica
+		- chimica
+	- Biologia fisiologica
+		- Biochimica
+		- Biologia molecolare
+		- Citologia
+		- Istologia
+		- Anatomia
+		- Fisiologia
+- Medicina dei servizi
+	- Microbiologia
+	- Scienze e tecniche di laboratorio
+	- Patologia clinica

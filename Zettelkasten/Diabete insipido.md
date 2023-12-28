@@ -2,16 +2,18 @@
 stato: "#ideaL"
 tags:
   - "#Patologia"
+  - PatologiaGenerale
 sistema/apparato:
+  - Endocrino
 ---
-{{date}} {{time}}
+28-12-2023 16:55
 
 --- 
 
 >[!info] Definizione
->
+>Carenza di ADH
 
-## Fisiopatologia
+
 ## Eziologia
 
 ## Manifestazioni
@@ -35,4 +37,4 @@ sistema/apparato:
 
 
 --- 
-# Reference
+# Reference: [[Patologia Generale - McCance]]

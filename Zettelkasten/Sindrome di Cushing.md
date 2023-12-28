@@ -2,14 +2,16 @@
 stato: "#ideaL"
 tags:
   - "#Patologia"
+  - PatologiaGenerale
 sistema/apparato:
+  - Endocrino
 ---
-{{date}} {{time}}
+28-12-2023 16:58
 
 --- 
 
 >[!info] Definizione
->
+>Eccessiva secrezione di ormone adrenocorticotropo
 
 ## Fisiopatologia
 ## Eziologia
@@ -35,4 +37,4 @@ sistema/apparato:
 
 
 --- 
-# Reference
+# Reference: [[Patologia Generale - McCance]]

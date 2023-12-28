@@ -10,11 +10,15 @@ Molecola: Ormone
 
 --- 
 
+## Azione
 ![[Azione dell'ADH (vasopressina).png]]
 
 
+## Regolazione
+![](https://i.imgur.com/aHbtoeM.png)
+
 - Reagisce all'aumento dell'osmolalità del plasma o alla riduzione della pressione arteriosa
--  
+
 
 
 

@@ -3,7 +3,7 @@ stato: "#libro"
 tags:
   - PatologiaGenerale
 ---
-06-12-2023 20:36
+6-12-2023 20:36
 
 --- 
 
@@ -107,17 +107,38 @@ tags:
 ###### [[Peptidi natriuretici]]
 
 #### Equilibrio idrico
+- L'ormone principale implicato è la [[Vasopressina]]
 ##### Sete
 - La sete è uno dei modi in cui l'organismo regola il proprio equilibrio idrico
 - Si percepisce sete quando
 	- La perdita idrica equivale al 2% del proprio peso corporeo
 	- Vi è un aumento dell'osmolalità
-- L'ipotalamo presenta osmorecettori
-##### [[Vasopressina]]
+##### Osmorecettori
+- L'ipotalamo presenta osmorecettori, essi oltre a regolare la sete stimolano il rilascio di ADH
+##### Barocettori
+- Stimolano il rilascio di ADH in reazione allo stiramento nei grandi vasi e negli atrii
+
 
 ### Alterazioni dell'equilibrio idrico, sodico e del cloruro
+- Visto che il forte rapporto tra l'equilibrio degli elettroliti e quello idrico conviene classificarne le alterazioni in funzione della ==tonicità==
 #### Alterazioni isotoniche
+> Alterazioni in cui le variazioni dell'acqua corporea totale sono accompagnate da variazioni proporzionali delle quantità di elettroliti e di acqua
+
+##### Negative
+- Con perdita di fluidi
+- Portano ad [[Ipovolemia]]
+##### Positive
+- Con guadagno di fluidi
+- Portano ad [[Ipervolemia]]
 #### Alterazioni ipertoniche
+> Alterazioni in cui l'osmolalità del LEC supera i 294 mOsm ![Cause e conseguenze degli squilibri ipertonici](https://i.imgur.com/ympeaGS.png)
+
+##### Cause principali
+###### [[Ipernatremia]] 
+
+###### [[Disidratazione iperosmolare]]
+###### [[Ipercloremia]]
+
 #### Alterazioni ipotoniche
 ### Alterazioni dell'equilibrio di potassio, calcio fosfato e magnesio
 #### Potassio

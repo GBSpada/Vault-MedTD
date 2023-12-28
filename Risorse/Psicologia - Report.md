@@ -11,7 +11,7 @@ Tag: #Psicologia #Telemedicina
 
 ## Struttura
 #### Titolo
-    Integrated care and digital technologies for the management of mental health and comorbidities.
+Integrated care and digital technologies for the management of mental health and comorbidities.
 #### 1. Abstract
 This report explores the challenges faced by the current healthcare system in addressing chronic pathological conditions, which have become more prevalent in Western society over the past few decades due to various factors, such as increased accessibility to hyper-palatable foods and inadequate physical activity. The report emphasizes the need for a shift towards a multi-faceted, integrated, and continuous model of care to overcome the challenges presented by chronic diseases. The study employed original papers, reviews, and information about the present healthcare system from different databases to investigate the importance of a healthy doctor-patient relationship, the need for a system capable of ensuring the former, and the necessity of utilizing new technological tools to support this shift in healthcare delivery. The report shows that the trust and communication between a physician and a patient are crucial in establishing a healthy doctor-patient relationship. Additionally, the report proposes a framework for an integrated care system and highlights the areas that need to be addressed, such as service delivery, leadership, workforce, finances, technology, and research.
 #### 2. Introduction

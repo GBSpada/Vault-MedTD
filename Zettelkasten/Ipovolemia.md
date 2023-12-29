@@ -24,6 +24,7 @@ sistema/apparato:
 - Pressione arteriosa normale o inferiore alla norma
 - Secchezza della cute e delle mucose
 - Aumento dell'ematocrito
+- Ipotensione posturale
 ## Diagnosi
 
 ## Trattamento

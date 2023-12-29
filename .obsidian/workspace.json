@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "1dd7c76eec882860",
+            "id": "ec630de88e432015",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Disidratazione iperosmolare.md",
+                "file": "Zettelkasten/Eccesso di acqua libera.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Disidratazione iperosmolare.md",
+                "file": "Zettelkasten/Eccesso di acqua libera.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Disidratazione iperosmolare.md",
+                "file": "Zettelkasten/Eccesso di acqua libera.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/Disidratazione iperosmolare.md"
+                "file": "Zettelkasten/Eccesso di acqua libera.md"
               }
             }
           },
@@ -234,17 +234,21 @@
       "translate:Open translation view": false
     }
   },
-  "active": "1dd7c76eec882860",
+  "active": "ec630de88e432015",
   "lastOpenFiles": [
+    "Zettelkasten/Untitled 1.md",
+    "Zettelkasten/Eccesso di acqua libera.md",
     "Risorse/Patologia Generale - McCance.md",
+    "Zettelkasten/Ipocloremia.md",
+    "Zettelkasten/Iponatremia.md",
     "Zettelkasten/Disidratazione iperosmolare.md",
-    "Zettelkasten/Ipercloremia.md",
     "Zettelkasten/Ipernatremia.md",
+    "Zettelkasten/Ipovolemia.md",
+    "Zettelkasten/Ipercloremia.md",
     "Zettelkasten/Sindrome di Cushing.md",
     "Zettelkasten/Diabete insipido.md",
     "Templates/Idea Patologia.md",
     "Zettelkasten/Ipervolemia.md",
-    "Zettelkasten/Ipovolemia.md",
     "Zettelkasten/Vasopressina.md",
     "Files/risposte-palestra-organizzazione.pdf",
     "Files/appunti qualitàc.pdf",
@@ -268,11 +272,7 @@
     "Zettelkasten/RAAS.md",
     "Zettelkasten/Aldosterone.md",
     "Zettelkasten/Fisiologia endocrino.canvas",
-    "Zettelkasten/Ormoni adenoipofisari e neuroipofisari.md",
-    "Zettelkasten/Edema.md",
     "Files/Recording 20231216232049.webm",
-    "Zettelkasten/Splenectomia.md",
-    "Zettelkasten/TNF.md",
     "Files/Azione dell'ADH (vasopressina).png",
     "Files/Pasted image 20231214190821.png",
     "Libri/Tan - Data MiningAnnotato.pdf",

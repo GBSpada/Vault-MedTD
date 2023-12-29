@@ -133,6 +133,7 @@ tags:
 #### Alterazioni ipertoniche
 > Alterazioni in cui l'osmolalità del LEC supera i 294 mOsm ![Cause e conseguenze degli squilibri ipertonici](https://i.imgur.com/ympeaGS.png)
 
+- Porta al raggrinzimento delle cellule
 ##### Cause principali
 ###### [[Ipernatremia]] 
 
@@ -140,6 +141,19 @@ tags:
 ###### [[Ipercloremia]]
 
 #### Alterazioni ipotoniche
+> Alterazioni in cui l'osmolalità del LEC è inferiore a 280 mOsm ![Alterazioni ipotoniche](https://i.imgur.com/fE4hGFZ.png)
+
+- Porta al rigonfiamento delle cellule e all'iperidratazione
+##### Cause principali
+###### [[Iponatremia]] 
+###### [[Ipocloremia]]
+###### [[Eccesso di acqua libera]]
+
+
+
+
+
+
 ### Alterazioni dell'equilibrio di potassio, calcio fosfato e magnesio
 #### Potassio
 #### Calcio e fosfato

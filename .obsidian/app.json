@@ -18,5 +18,5 @@
   "showFrontmatter": false,
   "defaultViewMode": "source",
   "showUnsupportedFiles": true,
-  "vimMode": true
+  "vimMode": false
 }

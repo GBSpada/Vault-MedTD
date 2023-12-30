@@ -14,9 +14,7 @@ Molecola: Ormone
 
 - Mineralcorticoide sintetizzato dalla corteccia surrenale come prodotto finale del [[RAAS]]
 - Stimola la secrezione di potassio dal tubolo distale del rene riducendo le concentrazioni di potassio nel LEC
-
-
-
+	- Come reazione all'innalzamento dei livelli di potassio
 
 
 

@@ -21,12 +21,25 @@
             }
           },
           {
-            "id": "ec630de88e432015",
+            "id": "4d3d154ea55d1c8c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Eccesso di acqua libera.md",
+                "file": "Zettelkasten/Iperkaliemia.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3af865a6ad11d830",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Ipokaliemia.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -122,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Eccesso di acqua libera.md",
+                "file": "Zettelkasten/Ipokaliemia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Eccesso di acqua libera.md",
+                "file": "Zettelkasten/Ipokaliemia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -151,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/Eccesso di acqua libera.md"
+                "file": "Zettelkasten/Ipokaliemia.md"
               }
             }
           },
@@ -234,11 +247,18 @@
       "translate:Open translation view": false
     }
   },
-  "active": "ec630de88e432015",
+  "active": "3af865a6ad11d830",
   "lastOpenFiles": [
-    "Zettelkasten/Untitled 1.md",
-    "Zettelkasten/Eccesso di acqua libera.md",
+    "Zettelkasten/Iperkaliemia.md",
+    "Zettelkasten/Ipokaliemia.md",
     "Risorse/Patologia Generale - McCance.md",
+    "Zettelkasten/Robbins markdown.md",
+    "Files/Meccanismi di trasporto nei due tipi cellulari dell'epitelio del tubulo contorto distale.png",
+    "Zettelkasten/Fisiologia urinario.canvas",
+    "Zettelkasten/Tubulo conto.md",
+    "Zettelkasten/Insulina.md",
+    "Zettelkasten/Aldosterone.md",
+    "Zettelkasten/Eccesso di acqua libera.md",
     "Zettelkasten/Ipocloremia.md",
     "Zettelkasten/Iponatremia.md",
     "Zettelkasten/Disidratazione iperosmolare.md",
@@ -265,12 +285,7 @@
     "Files/appunti qualitàc.pdf.crdownload",
     "Zettelkasten/Neuraminidasi.md",
     "Zettelkasten/Peptidi natriuretici.md",
-    "Zettelkasten/Struttura fogli di lavoro.md",
-    "Zettelkasten/Programma med.md",
-    "Zettelkasten/Untitled.md",
     "Zettelkasten/Untitled.canvas",
-    "Zettelkasten/RAAS.md",
-    "Zettelkasten/Aldosterone.md",
     "Zettelkasten/Fisiologia endocrino.canvas",
     "Files/Recording 20231216232049.webm",
     "Files/Azione dell'ADH (vasopressina).png",
@@ -283,11 +298,9 @@
     "Downloads/eww/images/icons/lazer_icons/transparent/wiki.png",
     "Downloads/eww/images/icons/lazer_icons/transparent/tournaments.png",
     "Downloads/eww/images/icons/lazer_icons/transparent/store.png",
-    "Downloads/eww/images/icons/lazer_icons/transparent/settings.png",
     "Zettelkasten/Mappa Architetture e Sistemi.canvas",
     "Zettelkasten/Emostasi.canvas",
     "Zettelkasten/Metabolismo lipoproteine.canvas",
-    "Zettelkasten/Fisiologia urinario.canvas",
     "Zettelkasten/Fisiologia Digerente.canvas",
     "Genetica - Lezioni e sbobine.canvas",
     "L'azione patogena dei batteri.canvas",

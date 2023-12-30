@@ -156,6 +156,49 @@ tags:
 
 ### Alterazioni dell'equilibrio di potassio, calcio fosfato e magnesio
 #### Potassio
+- Il potassio è il principale elettrolita intracellulare, di seguito alcuni valori
+
+| Dato                           | Valore        |
+| ------------------------------ | ------------- |
+| Concentrazione nel LIC         | 150-160 mEq/L |
+| Concentrazione nel LEC         | 3,5 - 5 mEq/L |
+| Contenuto totale               | 4000 mEq      |
+| Apporto alimentare giornaliero | 40-150mEq     |
+##### Regolazione della concentrazione
+###### Escrezione renale
+- Meccanismo di riassorbimento/rilascio
+	- Lo ione viene riassorbito per il 90% dal tubulo prossimale e dall'ansa di henle ([[Meccanismi di trasporto nei due tipi cellulari dell'epitelio del tubulo contorto distale.png]])
+		- Le **cellule principali** del dotto collettore secernono potassio
+		- Le **cellule intercalate** invece riassorbono potassio
+- Stimoli regolatori
+	- Gradiente di concentrazione di potassio a livello del tubulo distale e del dotto collettore
+	- Portata dell tubulo distale e ingresso di sodio nel tubulo distale
+		- Se aumenta, la concentrazione di k nelle urine distali diminuisce e aumenta il rilascio nel tubulo per compensare
+	- Azione dell'aldosterone
+	- Variazione di pH (responsabili di acidosi o alcalosi)
+		- Acidosi
+			- Gli idrogenioni, durante l'acidosi, si spostano dal LIC al LEC 
+			- Poiché con lo spostamento di idrogeno all'interno si ha lo spostamento di potassio all'esterno possiamo dire che uno stato di acidosi diminuisca la concentrazione di potassio nelle cellule tubulari distali
+			- In questo caso si parla di acidosi iperkaliemica poiché si riduce di gran lunga la capacità del rene di espellere il potassio
+		- Alcalosi
+			- I livelli di idrogeno intracellulari sono al minimo, per questo motivo il potassio si accumula all'interno della cellula e ne viene secreto di più nelle urine
+			- Si parla di alcalosi ipokaliemica
+###### Assorbimento nel tratto gastrointestinale
+###### Passaggio dal LEC al LIC
+- [[Aldosterone]]
+- [[Insulina]]
+- Adrenalina (stimolazione $\beta$ adrenergica)
+- Alcalosi
+###### Passaggio dal LIC al LEC
+- Carenza di aldosterone 
+- Carenza di insulina 
+	- Di conseguenza presenza di glucagone, impedisce l'ingresso di K nelle cellule
+- Stimolazione $\alpha$ adrenergica
+- [[Glucocorticoidi]]
+	- Promuovono l'escrezione di K
+- Lisi cellulare
+##### [[Ipokaliemia]]
+##### [[Iperkaliemia]]
 #### Calcio e fosfato
 #### Magnesio
 ### Equilibrio acido-base

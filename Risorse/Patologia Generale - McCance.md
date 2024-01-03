@@ -176,8 +176,11 @@ tags:
 		- Se aumenta, la concentrazione di k nelle urine distali diminuisce e aumenta il rilascio nel tubulo per compensare
 	- Azione dell'aldosterone
 	- Variazione di pH (responsabili di acidosi o alcalosi)
+		- Il ruolo principale è svolto dalla idrogeno potassio atpasi
+			- Scambia un idrogenione con una molecola di potassio
+				- Il pH del LEC si alza
 		- Acidosi
-			- Gli idrogenioni, durante l'acidosi, si spostano dal LIC al LEC 
+			- Gli idrogenioni, durante l'acidosi, si spostano dal LEC al LIC
 			- Poiché con lo spostamento di idrogeno all'interno si ha lo spostamento di potassio all'esterno possiamo dire che uno stato di acidosi diminuisca la concentrazione di potassio nelle cellule tubulari distali
 			- In questo caso si parla di acidosi iperkaliemica poiché si riduce di gran lunga la capacità del rene di espellere il potassio
 		- Alcalosi

@@ -21,7 +21,7 @@
             }
           },
           {
-            "id": "4d3d154ea55d1c8c",
+            "id": "3af865a6ad11d830",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -34,7 +34,7 @@
             }
           },
           {
-            "id": "3af865a6ad11d830",
+            "id": "7ded5f8a9bcdb88a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -47,8 +47,7 @@
             }
           }
         ],
-        "currentTab": 2,
-        "stacked": true
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -205,7 +204,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 3
       },
       {
         "id": "0227a3898492d02a",
@@ -247,13 +246,18 @@
       "translate:Open translation view": false
     }
   },
-  "active": "3af865a6ad11d830",
+  "active": "7ded5f8a9bcdb88a",
   "lastOpenFiles": [
     "Zettelkasten/Iperkaliemia.md",
     "Zettelkasten/Ipokaliemia.md",
+    "Zettelkasten/ECG.md",
+    "Files/ECG_e_potenziali_azione.svg",
+    "Files/ECG_principle_slow.gif",
+    "Files/ECG_principle_slow.gif.crdownload",
     "Risorse/Patologia Generale - McCance.md",
-    "Zettelkasten/Robbins markdown.md",
     "Files/Meccanismi di trasporto nei due tipi cellulari dell'epitelio del tubulo contorto distale.png",
+    "Libri/nohup.out",
+    "Zettelkasten/Robbins markdown.md",
     "Zettelkasten/Fisiologia urinario.canvas",
     "Zettelkasten/Tubulo conto.md",
     "Zettelkasten/Insulina.md",
@@ -283,21 +287,15 @@
     "Files/Lezione 12 - Qualità nella sanità.pdf",
     "Files/Lezione 12 - Qualità nella sanità.pdf.crdownload",
     "Files/appunti qualitàc.pdf.crdownload",
-    "Zettelkasten/Neuraminidasi.md",
-    "Zettelkasten/Peptidi natriuretici.md",
     "Zettelkasten/Untitled.canvas",
     "Zettelkasten/Fisiologia endocrino.canvas",
-    "Files/Recording 20231216232049.webm",
     "Files/Azione dell'ADH (vasopressina).png",
     "Files/Pasted image 20231214190821.png",
-    "Libri/Tan - Data MiningAnnotato.pdf",
     "Files/Pasted image 20231211005641.png",
     "Files/Pasted image 20231211005244.png",
     "Files/Pasted image 20231208061420.png",
     "Files/Ingestione di acqua e perdita di liquido.png",
     "Downloads/eww/images/icons/lazer_icons/transparent/wiki.png",
-    "Downloads/eww/images/icons/lazer_icons/transparent/tournaments.png",
-    "Downloads/eww/images/icons/lazer_icons/transparent/store.png",
     "Zettelkasten/Mappa Architetture e Sistemi.canvas",
     "Zettelkasten/Emostasi.canvas",
     "Zettelkasten/Metabolismo lipoproteine.canvas",

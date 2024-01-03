@@ -15,10 +15,13 @@ sistema/apparato:
 
 ## Fisiopatologia
 ## Eziologia
+- L'aumento del potassio pu
 
 ## Manifestazioni
 
 ## Diagnosi
+- Concentrazione sierica di potassio superiore ai 5,5 mEq/L
+
 
 ## Trattamento
 

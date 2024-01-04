@@ -3,8 +3,8 @@ stato: "#ideaL"
 tags:
   - "#Patologia"
   - PatologiaGenerale
+  - MedicinaInterna
 sistema/apparato:
-  - CardioCircolatorio
 ---
 30-12-2023 18:48
 
@@ -99,13 +99,6 @@ sistema/apparato:
 - Integrazione max 20 mEq/ora, 40-80 mEq/die
 	- La concentrazione deve essere di max 40mEq/100ml perché il K è irritante per i vasi sanguigni
 ## Prognosi
-
-
-
-
-
-
-
 
 
 

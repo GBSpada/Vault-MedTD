@@ -3,8 +3,8 @@ stato: "#ideaL"
 tags:
   - "#Patologia"
   - PatologiaGenerale
-sistema/apparato:
-  - CardioCircolatorio
+  - MedicinaInterna
+sistema/apparato: []
 ---
 29-12-2023 19:04
 

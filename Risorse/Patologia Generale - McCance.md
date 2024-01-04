@@ -176,7 +176,7 @@ tags:
 		- Se aumenta, la concentrazione di k nelle urine distali diminuisce e aumenta il rilascio nel tubulo per compensare
 	- Azione dell'aldosterone
 	- Variazione di pH (responsabili di acidosi o alcalosi)
-		- Il ruolo principale è svolto dalla idrogeno potassio atpasi
+		- Il ruolo principale è svolto dalla idrogeno potassio atpasi ^3bce46
 			- Scambia un idrogenione con una molecola di potassio
 				- Il pH del LEC si alza
 		- Acidosi
@@ -200,17 +200,47 @@ tags:
 - [[Glucocorticoidi]]
 	- Promuovono l'escrezione di K
 - Lisi cellulare
-##### [[Ipokaliemia]]
-##### [[Iperkaliemia]]
+##### Alterazioni della concentrazione
+###### [[Ipokaliemia]]
+###### [[Iperkaliemia]]
 #### Calcio e fosfato
+- La maggior parte del calcio corporeo si trova nelle ossa sotto forma di idrossiapatite
+	- La frazione circolante è esigua: da 9 a 10,5 mg/dL
+- Il fosfato, seppur in minor quantità, è anch esso situato principalmente a livello osseo
+	- La frazione circolante va dai 2,5 ai 4,5 mg/dl (più elevata nel neonato)
+> [!info] Il prodotto calcio-fosfato
+> Si tratta di una costante il che implica che le concentrazioni di questi ioni sono strettamente legate in maniera inversamente proporzionale
+
+##### Regolazione della concentrazione
+![](https://i.imgur.com/uMNsQtW.png)
+###### [[Paratormone]]
+###### [[Vitamina D - Colecalciferolo]]
+###### [[Calcitonina]]
+###### pH
+- In stato di acidosi i livelli di calcio ionizzato fisiologicamente attivo aumentano
+- In stato di alcalosi aumenta la componente legata a proteine e inattiva
+##### Alterazioni dell'equilibrio di calcio e fosfato
+###### [[Ipocalcemia]]
+###### [[Ipercalcemia]]
+###### [[Ipofosfatemia]]
+###### [[Iperfosfatemia]]
+
 #### Magnesio
+- Concentrazione pari a 1,8-2,4 mg/dL
+- Immagazzinato in ossa e muscoli
+[[Ipomagnesemia]]
+[[Ipermagnesemia]]
+
 ### Equilibrio acido-base
 #### Idrogenioni e pH
 #### Sistemi tampone
 #### Squilibri acido-base
-
-
-
+##### Metabolici
+###### [[Acidosi metabolica]]
+###### [[Alcalosi metabolica]]
+##### Respiratori
+###### [[Acidosi respiratoria]]
+###### [[Alcalosi respiratoria]]
 
 
 

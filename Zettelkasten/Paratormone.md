@@ -1,12 +1,32 @@
-07-02-2023 13:15
-Stato: #ideaL 
-Tag: #SistemaEndocrino #Fisiologia 
+---
+stato: "#ideaL"
+tags:
+  - Fisiologia
+sistema/apparato:
+  - Endocrino
+Molecola: Ormone
+---
+04-01-2024 04:10
 
-### Funzione
-- Agisce su osteoblasti impendendone l'attività
+--- 
+
+## Azione
+### A livello osseo
+- Agisce su osteoblasti impedendone l'attività
 - Favorisce l'attività degli osteoclasti
     - Stimola la produzione di RANKL
         - Fattore che induce il differenziamento di monociti (precursori!!!) in osteoclasti
-- Favorisce il riassorbimento del calcio a livello renale
-    - Inibendo quello del fosfato
-        - Stimolando la sintesi del calcitriolo che, agendo sula vitamina D, stimola il riassorbimento intestinale di calcio e fosforo
+### A livello renale
+- Favorisce il riassorbimento del calcio a livello del tubulo distale 
+- Inibisce il riassorbimento del fosfato nel tubulo prossimale ^fbbae2
+>[!info] Azione sulla Vitamina D
+>- Permette l'attivazione del [[Vitamina D - Colecalciferolo]] in calcitriolo (vitamina $D_3$ o attivata)
+## Regolazione
+- In risposta all'abbassamento dei livelli di calcio sierico
+
+
+
+--- 
+# Reference: 
+[[Patologia Generale - McCance]]
+[[Fisiologia - Sbobine Angelone]]

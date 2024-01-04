@@ -19,35 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "3af865a6ad11d830",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/Iperkaliemia.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7ded5f8a9bcdb88a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/Ipokaliemia.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -77,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Sottoar",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -134,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Ipokaliemia.md",
+                "file": "Risorse/Patologia Generale - McCance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Ipokaliemia.md",
+                "file": "Risorse/Patologia Generale - McCance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -163,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/Ipokaliemia.md"
+                "file": "Risorse/Patologia Generale - McCance.md"
               }
             }
           },
@@ -204,7 +177,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       },
       {
         "id": "0227a3898492d02a",
@@ -246,47 +219,48 @@
       "translate:Open translation view": false
     }
   },
-  "active": "7ded5f8a9bcdb88a",
+  "active": "098a229b314f82f5",
   "lastOpenFiles": [
-    "Zettelkasten/Iperkaliemia.md",
+    "Zettelkasten/Ipervolemia.md",
+    "Risorse/Patologia Generale - McCance.md",
+    "Zettelkasten/Ipovolemia.md",
+    "Zettelkasten/Eccesso di acqua libera.md",
+    "Zettelkasten/Ipocloremia.md",
+    "Zettelkasten/Iponatremia.md",
+    "Zettelkasten/Ipernatremia.md",
+    "Zettelkasten/Ipercloremia.md",
     "Zettelkasten/Ipokaliemia.md",
+    "Zettelkasten/Iperkaliemia.md",
+    "Zettelkasten/Iperfosfatemia.md",
+    "Zettelkasten/Ipofosfatemia.md",
+    "Zettelkasten/Ipercalcemia.md",
+    "Zettelkasten/Ipocalcemia.md",
+    "Zettelkasten/Ipermagnesemia.md",
+    "Zettelkasten/Ipomagnesemia.md",
+    "Zettelkasten/Biochimica- Sbobine Dolce.md",
+    "Zettelkasten/Calcitonina.md",
+    "Zettelkasten/Vitamina D - Colecalciferolo.md",
+    "Zettelkasten/Paratormone.md",
+    "Zettelkasten/Insulina.md",
+    "Files/LEZIONE 22 - ANGELONE.pdf",
+    "Files/LEZIONE 23 - ANGELONE.pdf",
+    "Templates/Idea Ormone.md",
+    "Zettelkasten/Idea Ormone.md",
     "Zettelkasten/ECG.md",
     "Files/ECG_e_potenziali_azione.svg",
     "Files/ECG_principle_slow.gif",
     "Files/ECG_principle_slow.gif.crdownload",
-    "Risorse/Patologia Generale - McCance.md",
     "Files/Meccanismi di trasporto nei due tipi cellulari dell'epitelio del tubulo contorto distale.png",
     "Libri/nohup.out",
     "Zettelkasten/Robbins markdown.md",
     "Zettelkasten/Fisiologia urinario.canvas",
     "Zettelkasten/Tubulo conto.md",
-    "Zettelkasten/Insulina.md",
-    "Zettelkasten/Aldosterone.md",
-    "Zettelkasten/Eccesso di acqua libera.md",
-    "Zettelkasten/Ipocloremia.md",
-    "Zettelkasten/Iponatremia.md",
-    "Zettelkasten/Disidratazione iperosmolare.md",
-    "Zettelkasten/Ipernatremia.md",
-    "Zettelkasten/Ipovolemia.md",
-    "Zettelkasten/Ipercloremia.md",
-    "Zettelkasten/Sindrome di Cushing.md",
-    "Zettelkasten/Diabete insipido.md",
-    "Templates/Idea Patologia.md",
-    "Zettelkasten/Ipervolemia.md",
-    "Zettelkasten/Vasopressina.md",
     "Files/risposte-palestra-organizzazione.pdf",
     "Files/appunti qualitàc.pdf",
-    "Risorse/Psicologia - Report.md",
-    "Zettelkasten/unt.md",
     "Files/risposte-palestra-organizzazione.pdf.crdownload",
-    "Zettelkasten/Cibo.md",
-    "Zettelkasten/Token git.md",
-    "Zettelkasten/passphrase ssh.md",
     "Files/Lezione 11 - Qualità nella sanità.pdf",
     "Files/Lezione 11 - Qualità nella sanità.pdf.crdownload",
     "Files/Lezione 12 - Qualità nella sanità.pdf",
-    "Files/Lezione 12 - Qualità nella sanità.pdf.crdownload",
-    "Files/appunti qualitàc.pdf.crdownload",
     "Zettelkasten/Untitled.canvas",
     "Zettelkasten/Fisiologia endocrino.canvas",
     "Files/Azione dell'ADH (vasopressina).png",

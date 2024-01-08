@@ -95,9 +95,10 @@ sistema/apparato:
 - Livello sierico inferiore a 3,5 mEq/L
 
 ## Trattamento
-- Tieni a mente che aumenta il rischio di tossicità da digitalici (farmaci)
-- Integrazione max 20 mEq/ora, 40-80 mEq/die
+- Tieni a mente che in questi casi aumenta il rischio di tossicità da digitalici (farmaci)
+- Integrazione max 20 mEq/ora, 40-80 mEq/die di potassio
 	- La concentrazione deve essere di max 40mEq/100ml perché il K è irritante per i vasi sanguigni
+	- Nota bene: si risolve anche l'alcalosi indotta grazie al rientro di idrogeno nel LEC 
 ## Prognosi
 
 

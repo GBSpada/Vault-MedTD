@@ -20,7 +20,8 @@
               }
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -50,8 +51,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": true,
+                "query": "\"pressione alveolare\"",
+                "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
                 "extraContext": false,
@@ -59,7 +60,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "45ea08796f45e544",
@@ -175,6 +177,16 @@
               "type": "copilot-chat-view",
               "state": {}
             }
+          },
+          {
+            "id": "7b38442f716ade54",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Risorse/Patologia Generale - McCance.md"
+              }
+            }
           }
         ],
         "currentTab": 7
@@ -219,48 +231,83 @@
       "translate:Open translation view": false
     }
   },
+  "floating": {
+    "id": "d1881ec2de0efe3f",
+    "type": "floating",
+    "children": [
+      {
+        "id": "d665bd15e693742f",
+        "type": "window",
+        "children": [
+          {
+            "id": "a469916a6c0b6066",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "53388f92f27673ab",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf-annotator",
+                  "state": {
+                    "file": "Zettelkasten/Libro McCance.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 965,
+        "y": 55,
+        "width": 946,
+        "height": 1016,
+        "maximize": false,
+        "zoom": 0.5
+      }
+    ]
+  },
   "active": "098a229b314f82f5",
   "lastOpenFiles": [
-    "Zettelkasten/Ipervolemia.md",
+    "Zettelkasten/Alcalosi respiratoria.md",
+    "Zettelkasten/Alcalosi metabolica.md",
+    "Zettelkasten/Acidosi respiratoria.md",
     "Risorse/Patologia Generale - McCance.md",
+    "Zettelkasten/Ipoventilazione.md",
+    "Zettelkasten/Iperventilazione.md",
+    "Zettelkasten/Circuito di iperventilazione.md",
+    "Zettelkasten/Iperpnea ed esercizio fisico.md",
+    "Zettelkasten/Nota rapida.md",
+    "Zettelkasten/Sindrome di Pickwick.md",
+    "Zettelkasten/Fisiologia respiratorio.md",
+    "Zettelkasten/Diagramma O2-CO2.md",
+    "Zettelkasten/Equazione dei gas alveolari e quoz respiratorio.md",
+    "Zettelkasten/Equazione dei gas alveolari con O2 puro e N.md",
+    "Risorse/Fisiologia  - Conti Volume 2.md",
+    "Zettelkasten/Scambi gassosi - Intro.md",
+    "Zettelkasten/Ipokaliemia.md",
+    "Zettelkasten/Libro McCance.md",
+    "Zettelkasten/Ipocalcemia.md",
+    "Zettelkasten/Acidosi metabolica.md",
+    "Libri/Fisiopatologia ed elementi di p - Kathryn McCance.epub",
+    "Zettelkasten/Paratormone.md",
+    "Zettelkasten/nohup.out",
+    "Zettelkasten/Formula e dimostrazione per i flussi di O2 e CO2.md",
+    "Libri/Robbins_E_Cotran_Le_Basi_Patologiche 2.pdf",
+    "Files/patologia generale 2 - Maggiolini.pdf",
+    "Files/patologia generale 2 - Maggiolini.pdf.crdownload",
+    "Zettelkasten/Ipervolemia.md",
     "Zettelkasten/Ipovolemia.md",
     "Zettelkasten/Eccesso di acqua libera.md",
     "Zettelkasten/Ipocloremia.md",
-    "Zettelkasten/Iponatremia.md",
-    "Zettelkasten/Ipernatremia.md",
-    "Zettelkasten/Ipercloremia.md",
-    "Zettelkasten/Ipokaliemia.md",
-    "Zettelkasten/Iperkaliemia.md",
-    "Zettelkasten/Iperfosfatemia.md",
-    "Zettelkasten/Ipofosfatemia.md",
-    "Zettelkasten/Ipercalcemia.md",
-    "Zettelkasten/Ipocalcemia.md",
-    "Zettelkasten/Ipermagnesemia.md",
-    "Zettelkasten/Ipomagnesemia.md",
-    "Zettelkasten/Biochimica- Sbobine Dolce.md",
-    "Zettelkasten/Calcitonina.md",
-    "Zettelkasten/Vitamina D - Colecalciferolo.md",
-    "Zettelkasten/Paratormone.md",
-    "Zettelkasten/Insulina.md",
     "Files/LEZIONE 22 - ANGELONE.pdf",
     "Files/LEZIONE 23 - ANGELONE.pdf",
-    "Templates/Idea Ormone.md",
-    "Zettelkasten/Idea Ormone.md",
-    "Zettelkasten/ECG.md",
     "Files/ECG_e_potenziali_azione.svg",
     "Files/ECG_principle_slow.gif",
     "Files/ECG_principle_slow.gif.crdownload",
     "Files/Meccanismi di trasporto nei due tipi cellulari dell'epitelio del tubulo contorto distale.png",
     "Libri/nohup.out",
-    "Zettelkasten/Robbins markdown.md",
     "Zettelkasten/Fisiologia urinario.canvas",
-    "Zettelkasten/Tubulo conto.md",
     "Files/risposte-palestra-organizzazione.pdf",
-    "Files/appunti qualitàc.pdf",
-    "Files/risposte-palestra-organizzazione.pdf.crdownload",
-    "Files/Lezione 11 - Qualità nella sanità.pdf",
-    "Files/Lezione 11 - Qualità nella sanità.pdf.crdownload",
-    "Files/Lezione 12 - Qualità nella sanità.pdf",
     "Zettelkasten/Untitled.canvas",
     "Zettelkasten/Fisiologia endocrino.canvas",
     "Files/Azione dell'ADH (vasopressina).png",

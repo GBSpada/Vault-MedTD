@@ -135,8 +135,7 @@ tags:
 
 - Porta al raggrinzimento delle cellule
 ##### Cause principali
-###### [[Ipernatremia]] 
-
+###### [[Ipernatremia]]
 ###### [[Disidratazione iperosmolare]]
 ###### [[Ipercloremia]]
 
@@ -233,8 +232,34 @@ tags:
 
 ### Equilibrio acido-base
 #### Idrogenioni e pH
+- La concentrazione degli idrogenioni, che mantengono l'integrità della membrana e la velocità delle reazioni enzimatiche, deve essere mantenuta in un range per il corretto funzionamento dell'organismo
+	- La concentrazione di idrogenioni è espressa come pH
+		- Logaritmo negativo degli idrogenioni in soluzione
+- Diversi liquidi corporei hanno diversi valori di pH
 #### Sistemi tampone
+ ![Tampone bicarbonato](https://i.imgur.com/FGoTjsx.png)
+- Oltre ai sistemi tampone dell'organismo, i sistemi ==renale== e ==respiratorio== sono i principali regolatori dell'equilibrio acido base
+	- I polmoni e i reni agiscono per compensare le variazioni di pH 
+		- Aumentando o diminuendo la ventilazione 
+			- Così facendo viene modulata la concentrazione di CO2
+		- Producendo urina più acida o più alcalina
+			- Fosfato dibasico e ammoniaca legano gli idrogenioni formando fosfato monobasico e ammonio
+			- Il riassorbimento di ione bicarbonato favorisce un equilibrio più alcalino del tampone bicarbonato
+- I tamponi sono sostanze che assorbono gli acidi o le basi in eccesso per ridurre al minimo le fluttuazioni del pH
+- I tamponi esistono come coppie acido-base
+	- I principali tamponi del plasma sono 
+		- Il bicarbonato
+		- Proteine (emoglobina)
+		- Fosfato
+- Le ==coppie tampone possono associarsi e dissociarsi==
+	- Il valore di pK è il valore di pH a cui una coppia tampone si dissocia
+- La ==correzione== è un processo diverso dalla ==compensazione==
+	- La compensazione garantisce un rapporto corretto tra gli elementi delle soluzioni tampone
+		- Le quantità assoluta delle componenti non è però corretta
+	- La correzione ha luogo quando i valori di entrambi i componenti della coppia tampone sono tornati alla normalità
 #### Squilibri acido-base
+![](https://i.imgur.com/F0To5Hr.png)
+- Essenzialmente, dopo aver distinto, grazie al pH, uno stato di alcalosi da uno di acidosi, bisogna stabilire se si tratta di una condizione respiratoria o metabolica in base ai valori della pressione parziale della CO2 e della concentrazione di ione bicarbonato
 ##### Metabolici
 ###### [[Acidosi metabolica]]
 ###### [[Alcalosi metabolica]]

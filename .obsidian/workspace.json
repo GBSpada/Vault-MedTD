@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a549332fa2e0ef34",
+        "id": "25da4a2ef3a5e54a",
         "type": "tabs",
         "children": [
           {
-            "id": "098a229b314f82f5",
+            "id": "11b16900da09e30f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,9 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b298fc240ae6a21d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Febbre.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "stacked": true
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -51,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"pressione alveolare\"",
+                "query": "\"interleuchina 6\"",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -109,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Risorse/Patologia Generale - McCance.md",
+                "file": "Zettelkasten/Febbre.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Risorse/Patologia Generale - McCance.md",
+                "file": "Zettelkasten/Febbre.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Risorse/Patologia Generale - McCance.md"
+                "file": "Zettelkasten/Febbre.md"
               }
             }
           },
@@ -184,12 +197,12 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Risorse/Patologia Generale - McCance.md"
+                "file": "Zettelkasten/Febbre.md"
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 3
       },
       {
         "id": "0227a3898492d02a",
@@ -244,7 +257,7 @@
             "type": "tabs",
             "children": [
               {
-                "id": "53388f92f27673ab",
+                "id": "3581e38f858517ae",
                 "type": "leaf",
                 "state": {
                   "type": "pdf-annotator",
@@ -257,66 +270,66 @@
           }
         ],
         "direction": "vertical",
-        "x": 965,
+        "x": 9,
         "y": 55,
         "width": 946,
         "height": 1016,
         "maximize": false,
-        "zoom": 0.5
+        "zoom": 2
       }
     ]
   },
-  "active": "098a229b314f82f5",
+  "active": "b298fc240ae6a21d",
   "lastOpenFiles": [
+    "Risorse/Patologia Generale - McCance.md",
+    "Zettelkasten/Febbre.md",
+    "Libri/Tan - Data MiningAnnotato.pdf",
+    "Zettelkasten/Interleuchina 1.md",
+    "Zettelkasten/Proopiomelanocortina (POMC).md",
+    "Zettelkasten/Vasopressina.md",
+    "Zettelkasten/Herpesvirus.md",
+    "Zettelkasten/Flogosi acuta.md",
+    "Zettelkasten/Citochine.md",
+    "Zettelkasten/Libro McCance.md",
+    "Zettelkasten/TNF.md",
+    "Zettelkasten/Algebra relazionale.md",
+    "Files/1_Algebra Relazionale.pdf",
+    "Zettelkasten/Interferone.md",
+    "Zettelkasten/Interleuchine.md",
+    "Zettelkasten/TNF-alfa.md",
+    "Zettelkasten/Virologia.md",
+    "Zettelkasten/Retrovirus umani.md",
+    "Templates/Idea core.md",
+    "Zettelkasten/Gli involucri esterni dei Gram-positivi.md",
+    "Files/Pasted image 20240108203658.png",
+    "Zettelkasten/T3 e T4.md",
+    "Risorse/Patologia Generale - Robbins.md",
+    "Zettelkasten/Risposte cellulari a stress e insulti tossici - adattamento, danno e morte.md",
+    "Files/Pasted image 20240108201119.png",
+    "Files/Pasted image 20240108201044.png",
+    "Files/Pasted image 20240108200906.png",
+    "Files/Pasted image 20240108200845.png",
+    "Files/Pasted image 20240108200819.png",
+    "Files/Pasted image 20240108200748.png",
+    "Files/Pasted image 20240108200532.png",
+    "Files/Pasted image 20240108200351.png",
+    "Files/Pasted image 20240108200240.png",
     "Zettelkasten/Alcalosi respiratoria.md",
     "Zettelkasten/Alcalosi metabolica.md",
     "Zettelkasten/Acidosi respiratoria.md",
-    "Risorse/Patologia Generale - McCance.md",
     "Zettelkasten/Ipoventilazione.md",
     "Zettelkasten/Iperventilazione.md",
-    "Zettelkasten/Circuito di iperventilazione.md",
-    "Zettelkasten/Iperpnea ed esercizio fisico.md",
-    "Zettelkasten/Nota rapida.md",
-    "Zettelkasten/Sindrome di Pickwick.md",
-    "Zettelkasten/Fisiologia respiratorio.md",
-    "Zettelkasten/Diagramma O2-CO2.md",
-    "Zettelkasten/Equazione dei gas alveolari e quoz respiratorio.md",
-    "Zettelkasten/Equazione dei gas alveolari con O2 puro e N.md",
-    "Risorse/Fisiologia  - Conti Volume 2.md",
-    "Zettelkasten/Scambi gassosi - Intro.md",
-    "Zettelkasten/Ipokaliemia.md",
-    "Zettelkasten/Libro McCance.md",
-    "Zettelkasten/Ipocalcemia.md",
-    "Zettelkasten/Acidosi metabolica.md",
     "Libri/Fisiopatologia ed elementi di p - Kathryn McCance.epub",
-    "Zettelkasten/Paratormone.md",
     "Zettelkasten/nohup.out",
-    "Zettelkasten/Formula e dimostrazione per i flussi di O2 e CO2.md",
     "Libri/Robbins_E_Cotran_Le_Basi_Patologiche 2.pdf",
     "Files/patologia generale 2 - Maggiolini.pdf",
     "Files/patologia generale 2 - Maggiolini.pdf.crdownload",
-    "Zettelkasten/Ipervolemia.md",
-    "Zettelkasten/Ipovolemia.md",
-    "Zettelkasten/Eccesso di acqua libera.md",
-    "Zettelkasten/Ipocloremia.md",
     "Files/LEZIONE 22 - ANGELONE.pdf",
     "Files/LEZIONE 23 - ANGELONE.pdf",
-    "Files/ECG_e_potenziali_azione.svg",
-    "Files/ECG_principle_slow.gif",
     "Files/ECG_principle_slow.gif.crdownload",
-    "Files/Meccanismi di trasporto nei due tipi cellulari dell'epitelio del tubulo contorto distale.png",
-    "Libri/nohup.out",
     "Zettelkasten/Fisiologia urinario.canvas",
-    "Files/risposte-palestra-organizzazione.pdf",
     "Zettelkasten/Untitled.canvas",
     "Zettelkasten/Fisiologia endocrino.canvas",
-    "Files/Azione dell'ADH (vasopressina).png",
-    "Files/Pasted image 20231214190821.png",
-    "Files/Pasted image 20231211005641.png",
-    "Files/Pasted image 20231211005244.png",
-    "Files/Pasted image 20231208061420.png",
-    "Files/Ingestione di acqua e perdita di liquido.png",
-    "Downloads/eww/images/icons/lazer_icons/transparent/wiki.png",
     "Zettelkasten/Mappa Architetture e Sistemi.canvas",
     "Zettelkasten/Emostasi.canvas",
     "Zettelkasten/Metabolismo lipoproteine.canvas",

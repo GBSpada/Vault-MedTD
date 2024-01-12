@@ -18,7 +18,7 @@ Tag: #PatologiaGenerale
 ![Effetti citochine](https://i.imgur.com/0UljQkg.png)
 #### In fase acuta
 ##### Febbre
- - Effetti piretici: [[febbre]]
+ - Effetti piretici: [[Febbre]]
 ##### Incremento del sonno
 ##### Decremento dell'appetito
 ##### Incremento concentrazione di proteine di fase acuta

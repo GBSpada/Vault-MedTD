@@ -148,11 +148,6 @@ tags:
 ###### [[Ipocloremia]]
 ###### [[Eccesso di acqua libera]]
 
-
-
-
-
-
 ### Alterazioni dell'equilibrio di potassio, calcio fosfato e magnesio
 #### Potassio
 - Il potassio è il principale elettrolita intracellulare, di seguito alcuni valori
@@ -267,8 +262,204 @@ tags:
 ###### [[Acidosi respiratoria]]
 ###### [[Alcalosi respiratoria]]
 
+## Dolore, termoregolazione, sonno e funzione sensoriale
+### Dolore
+#### Teorie sul dolore
+#### Neuroanatomia del dolore
+##### Nocicettori
+<!--⚠️Imgur upload failed, check dev console-->
+![[Pasted image 20240108200130.png]]
+<!--⚠️Imgur upload failed, check dev console-->
+![[Pasted image 20240108200240.png]]
+##### Vie di nocicezione
+![[Pasted image 20240108200351.png]]
+
+![[Pasted image 20240108200532.png]]
+#### Modulazione del dolore
+##### Vie di modulazione
+<!--⚠️Imgur upload failed, check dev console-->
+![[Pasted image 20240108200748.png]]
+##### Neurotrasmettitori di modulazione del dolore
+<!--⚠️Imgur upload failed, check dev console-->
+![[Pasted image 20240108200819.png]]
+<!--⚠️Imgur upload failed, check dev console-->
+![[Pasted image 20240108200845.png]]
+##### Soglia del dolore e tolleranza al dolore
+#### Descrizioni cliniche del dolore
+<!--⚠️Imgur upload failed, check dev console-->
+![[Pasted image 20240108200906.png]]
+##### Dolore acuto
+- Somatico, viscerale, riferito
+##### Dolore cronico
+<!--⚠️Imgur upload failed, check dev console-->
+![[Pasted image 20240108201044.png]]
+<!--⚠️Imgur upload failed, check dev console-->
+![[Pasted image 20240108201119.png|Condizioni di dolore cronico]]
+##### Dolore neuropatico
+#### PediaLtria e percezione del dolore
+- Alcuni eventi a livello fetale possono alterare in maniera duratura la percezione del dolore e le reazioni comportamentali
+	- Sensazione dolorifica prolungata
+	- Esposizione prolungata a farmaci analgesici
+#### Invecchiamento e percezione del dolore
+- In generale si conferma l'aumento della soglia del dolore in alcuni anziani
+- Le cause possono essere neuropatie periferiche e deterioramento cognitivo
+- Da tenere conto che spesso gli anziani sono trattati con molti farmaci ed essi, o la loro interazione, possono alterare la percezione del dolore o la funzione di farmaci analgesici
+### Termoregolazione
+
+#### Controllo ipotalamico della temperatura
+- Negli animali omeotermi la termoregolazione avviene attraverso il bilanciamento preciso di produzione di calore, conservazione di calore e dispersione di calore
+- Negli esseri umani la temperatura
+	- Si mantiene tra i 37 e i 41 gradi
+	- In condizioni normali oscilla tra i 36,2 e i 37,7
+- Non tutte le parti del corpo hanno la stessa temperatura
+	- La temperatura interna è più alta di 0,5 gradi
+- La temperatura interna varia in risposta a
+	- Attività
+	- Temperatura ambientale
+	- Ritmo circadiano
+	- Ciclo mestruale
+		- Forti fluttuazioni, grosso incremento prima dell'ovulazione 
+
+>[!info] Controllo ipotalamico della temperatura
+>La termocezione è regolata dall'ipotalamo
+>- Afferenze
+>	- Termocettori periferici della cute e degli organi addominali
+>		- Fibre C e A$\delta$
+>	- Termocettori centrali del midollo spinale
+>- Efferenze
+>	- Aumento della produzione di calore
+>		- Tramite rilascio di [[TRH]]
+>		- Il TSH di conseguenza stimola la liberazione di Tiroxina [[T3 e T4]]
+>		- La tiroxina induce inoltre il rilascio di adrenalina dalla midollare del surrene
+>			- La produzione di calore che ne consegue dipende da
+>				- Vasocostrizione: isolamento termico
+>				- Stimolazione della glicolisi
+>	- Conservazione del calore
+>		- Stimolazione del sistema simpatico
+>			- Corteccia surrenale 
+>			- Aumento del tono muscolare scheletrico
+>			- Avvio della reazione dei brividi
+>		- Vie efferenti alla corteccia
+>			- Avvio di comportamenti volontari
+>			- Incremento della percezione del freddo
+>	- Dispersione del calore
+>		- Interruzione della via TSH-RH
+>		- Via simpatica inibita 
+>			- Aumento della sudorazione
+>			- Vasodilatazione cutanea
+>			- Diminuzione del tono muscolare
+>		- Corteccia
+
+##### Meccanismi di produzione del calore
+###### Reazioni chimiche del metabolismo
+- Le reazioni del metabolismo basale, specialmente nel fegato, generano calore
+###### Contrazione della muscolatura scheletrica
+- I meccanismi principali, controllati dall'ipotalamo posteriore, sono:
+	- Aumento graduale del tono muscolare
+	- Produzione di oscillazioni muscolari rapide: ==brividi==
+		- Assenti nel neonato
+- I brividi sono molto efficaci poiché non comportano attività o comunque lavoro meccanico intenso
+###### Termogenesi chimica
+- Termogenesi adrenergica, non da brivido
+- Le catecolamine inducono un aumento rapido e transitorio della produzione di calore, la tiroxina lento e prolungato
+- Il tessuto d'elezione è l'adiposo bruno
+	- Esiste una certa plasticità tra l'adiposo bianco e quello bruno quindi in base alle necessità metaboliche dell'organismo si hanno queste alterazioni
+##### Meccanismi di dispersione del calore
+###### Irraggiamento
+- Dispersione di calore attraverso le onde elettromagnetiche
+- Se la temperatura cutanea è superiore alla temperatura ambiente, la cute e quindi il corpo disperdono il calore nell’ambiente.
+###### Conduzione
+- Dispersione di calore mediante trasferimento diretto da molecola a molecola, da una superficie all'altra
+###### Convezione
+- Trasferimento di calore attraverso correnti di gas o liquidi
+- L'aria più calda in corrispondenza della superficie corporea viene emanata dal corpo e sostituita da aria più fredda
+###### Vasodilatazione
+- Deviazione del flusso sanguigno verso altri distretti
+- Il calore viene trasferito mediante conduzione verso la superficie cutanea e dalla superficie cutanea all'ambiente circostante
+###### Diminuzione del tono muscolare
+- Sensazione di spossatezza associata alle alte temperature e al clima caldo
+- Effetto limitato sulla diminuzione della produzione di calore
+	- Il tono muscolare e la produzione di calore non possono essere ridotti a un valore inferiore ai requisiti basali dell’organismo.
+###### Evaporazione
+- La dispersione di calore attraverso l’evaporazione è influenzata dall'umidità relativa dell’aria. 
+	- Se l’umidità è bassa il sudore evapora velocemente; 
+	- Se l’umidità è alta, il sudore non evapora, rimane sulla cute e cade a gocce.
+###### Aumento della ventilazione polmonare
+- Minimo negli esseri umani.
+- Questo processo normale si verifica più velocemente a temperature corporee più elevate mediante un aumento della frequenza respiratoria.
+	- L’iperventilazione è quindi associata all’ipertermia.
+###### Meccanismi volontari
+- Le persone tendono a stendersi per aumentare la superficie corporea disponibile per la dispersione di calore. 
+- Si nota inoltre un “rallentamento”, che determina una riduzione dell’attività dei muscoli scheletrici
+###### Adattamento a climi più caldi
+- Ci si adatta a climi più caldi solo dopo un primo periodo di transizione
+	- All'inizio, l’individuo è soggetto a sensazioni di spossatezza, debolezza e svenimenti, anche a regimi di attività moderata.
+	- Nell'arco di alcuni giorni, tuttavia, l’individuo sperimenta
+		- Un inizio precoce della sudorazione, nonché un aumento del volume di sudore e una riduzione del livello di sodio nell'organismo.
+		- La frequenza cardiaca diminuisce e la gittata aumenta, in modo tale che la portata cardiaca resti invariata. 
+		- Il volume di liquido extracellulare aumenta, così come il volume plasmatico.
+##### Meccanismi di conservazione del calore
+###### Vasocostrizione
+- Il sangue riscaldato devia dalla periferia e rimane nell'organismo dove può conservare il proprio calore
+###### Meccanismi volontari
+- Le persone si rannicchiano o continuano a muoversi
+#### Pediatria e termoregolazione
+- I neonati faticano a conservare il calore a causa delle loro dimensioni ridotte
+- Lo strato di grasso sottocutaneo è molto sottile, il tasso di sudorazione è minore e il flusso sanguigno periferico è maggiore
+- L'adattamento alle variazioni di temperatura ambientale è più lento
+#### Invecchiamento e termoregolazione
+- Scarsa risposta alle temperature più estreme
+- Diminuzione complessiva delle attività che portano alla produzione di calore
+- Lo stress da freddo negli anziani riduce la perfusione coronarica
+- I brividi negli anziani sono di ridotta efficacia
+- Il metabolismo è rallentato, lo stile di vita è sedentario, la risposta vasocostrittiva e vasodilatatoria è ridotta assieme alla sudorazione e alla percezione delle temperature
+
+#### [[Febbre]]
+#### Patogenesi della febbre
 
 
+##### Conseguenze dell'eccessiva risposta febbrile
+
+
+#### Disturbi della termoregolazione
+##### Ipertermia non febbrile
+###### Crampi da calore
+###### Esaurimento da calore
+###### Colpo di calore
+###### Ipertermia maligna
+##### Ipotermia
+###### Ipotermia accidentale
+###### Ipotermia terapeutica
+##### Trauma
+###### Trauma del sistema nervoso centrale
+###### Lesioni accidentali
+###### Shock emorragico
+###### Intervento di chirurgia maggiore
+###### Ustioni termiche
+### Sonno
+#### Sonno senza nistagmo
+#### Sonno con nistagmo
+#### Pediatria e modelli di sonno
+#### Invecchiamento e modelli di sonno
+#### Disturbi del sonno
+##### Dissonie comuni
+###### Insonnia
+###### Sindrome da apnea ostruttiva durante il sonno
+###### Sindrome delle gambe senza riposo
+###### Ipersonnia
+###### Narcolessia
+###### Disturbi del ritmo circadiano e del sonno
+##### Parasonnie comuni
+#### Disturbi del sonno associati a disturbi mentali
+### Funzione somato-sensoriale e sensi speciali
+#### Tatto
+#### Propriocezione
+#### Vista
+#### Invecchiamento e vista
+#### Udito
+#### Invecchiamento e udito
+#### Olfatto e gusto
+#### Invecchiamento e olfatto e gusto
 
 
 

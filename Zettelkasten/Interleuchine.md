@@ -2,7 +2,7 @@
 Stato: #IdeaLez
 Tag: #PatologiaGenerale #Microbiologia 
 
-[[Interleuchina 1-beta]]
+[[Interleuchina 1]]
 [[Interleuchina 8]]
 
 

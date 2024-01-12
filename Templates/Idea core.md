@@ -1,7 +1,6 @@
 ---
 stato: 
-tags: 
-sistema/apparato:
+tags:
 ---
 {{date}} {{time}}
 
@@ -23,4 +22,4 @@ sistema/apparato:
 
 
 --- 
-# Reference
+# Reference:

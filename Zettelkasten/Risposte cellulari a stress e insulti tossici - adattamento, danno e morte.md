@@ -262,7 +262,7 @@ Può essere indotta da fattori di crescita nelle cellule mature e nelle cellule 
 ### Fattori influenzanti
 - Nonostante in meccanismi siano complessi si possono delineare dei principi sempre validi 
 #### Natura, durata e gravità del danno
-> Da essi dipende la **risposta cellulare**
+
 - Il danno è un fenomeno quantitativo, piccole dosi di un veleno possono fare meno danno di uno stress apparentemente innocuo protratto per lungo tempo
 #### Tipo di cellula, stato, capacità di adattamento
 > Da essi dipendono le conseguenze del danno cellulare
@@ -394,7 +394,7 @@ Il danno del DNA può essere inizialmente corretto ma se è troppo grave si inst
 
 - Tutta roba già vista prima
 ##### Miocardio
-- 
+
 
 
 

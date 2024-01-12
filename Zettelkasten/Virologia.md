@@ -1,6 +1,9 @@
+---
+stato: "#ideaL"
+tags:
+  - Microbiologia
+---
 2023-06-06 18:26
-Stato: #Idealezione
-Tag: #Tecnichedilaboratorio
 
 ---
 [[Retrovirus umani]]
@@ -10,5 +13,7 @@ Tag: #Tecnichedilaboratorio
 [[I virus responsabili di epatiti primarie]]
 [[Prioni]]
 
----
-# References
+
+--- 
+
+# Reference: [[Microbiologia - La Placa]]

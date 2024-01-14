@@ -10,11 +10,11 @@ Tag: #ApparatoRespiratorio #Fisiologia
 
 ## Pressione transpolmonare
 - Tra polmone e spazio pleurico
-- $$ P_{TP} = P_A - P_{IP}$$
+$$ P_{TP} = P_A - P_{IP}$$
 - All'equilibrio è positiva perché la tendenza del polmone è l'espansione
 ## Pressione transtoracica
 - Tra spazio pleurico e torace
-- $$ P_{TT} = P_{IP} - P_B $$
+$$ P_{TT} = P_{IP} - P_B $$
 - A riposo è negativa perché la tendenza della gabbia toracica è quella di sgonfiare il polmone
 ## Pressione transmurale
 - Tra polmone e torace

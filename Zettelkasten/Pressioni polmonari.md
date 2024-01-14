@@ -2,7 +2,7 @@
 Stato: #ideaL 
 Tag: #ApparatoRespiratorio #Fisiologia 
 
-[[Pressioni sulle pleure.excalidraw]]
+![[Pressioni sulle pleure.excalidraw]]
 
 ## Pressione atmosferica o barometrica (Pb)
 - 760 mmHg

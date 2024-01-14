@@ -25,11 +25,7 @@ sistema/apparato:
 - Secchezza della cute e delle mucose
 - Aumento dell'ematocrito
 - Ipotensione posturale
-## Diagnosi
 
-## Trattamento
-
-## Prognosi
 
 
 

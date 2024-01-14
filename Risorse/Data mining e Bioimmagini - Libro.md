@@ -11,7 +11,7 @@ tags:
 
 ## [[I dati]]
 ## Exploring data
-## CLassification: Basic Concepts, Decision Trees, and Model Evaluation
+## Classification: Basic Concepts, Decision Trees, and Model Evaluation
 ## Classification: Alternative Techniques
 ## Association Analysis: Basic Concepts and Algorithms
 ## Association Analysis: Advanced Concepts

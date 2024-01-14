@@ -6,7 +6,7 @@ Tag: #ApparatoRespiratorio #Fisiologia
 
 - ==Il sistema parasimpatico induce resistenza al flusso d'aria==
 - Il rapporto tra volume respiratorio e resistenza delle vie aeree è inversamente proporzionale
-- Motivo per il quale i pazienti che soffrono di BPCO trovano sollievo respirando ad elevato volume polmonare
+- Motivo per il quale i pazienti che soffrono di [[BPCO]] trovano sollievo respirando ad elevato volume polmonare
 
 
 ---

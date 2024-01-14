@@ -19,22 +19,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "b298fc240ae6a21d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/Febbre.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 1
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -64,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"interleuchina 6\"",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -122,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Febbre.md",
+                "file": "Risorse/Patologia Generale - McCance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Febbre.md",
+                "file": "Risorse/Patologia Generale - McCance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -151,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/Febbre.md"
+                "file": "Risorse/Patologia Generale - McCance.md"
               }
             }
           },
@@ -197,12 +184,12 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Zettelkasten/Febbre.md"
+                "file": "Risorse/Patologia Generale - McCance.md"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       },
       {
         "id": "0227a3898492d02a",
@@ -244,44 +231,29 @@
       "translate:Open translation view": false
     }
   },
-  "floating": {
-    "id": "d1881ec2de0efe3f",
-    "type": "floating",
-    "children": [
-      {
-        "id": "d665bd15e693742f",
-        "type": "window",
-        "children": [
-          {
-            "id": "a469916a6c0b6066",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "3581e38f858517ae",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf-annotator",
-                  "state": {
-                    "file": "Zettelkasten/Libro McCance.md"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 9,
-        "y": 55,
-        "width": 946,
-        "height": 1016,
-        "maximize": false,
-        "zoom": 2
-      }
-    ]
-  },
-  "active": "b298fc240ae6a21d",
+  "active": "11b16900da09e30f",
   "lastOpenFiles": [
+    "Zettelkasten/BPCO.md",
     "Risorse/Patologia Generale - McCance.md",
+    "Zettelkasten/Effetti del volume polmonare sulla resistenza delle vie aeree.md",
+    "Zettelkasten/Sindrome da apnea ostruttiva durante il sonno.md",
+    "Zettelkasten/Pressioni polmonari.md",
+    "Zettelkasten/Differenze di pressione nel sistema toraco-polmonare.md",
+    "Risorse/Fisiologia  - Conti Volume 2.md",
+    "Excalidraw/Pressioni sulle pleure.excalidraw.md",
+    "Files/Pressione intrapleurica e.png",
+    "Zettelkasten/Fisiologia respiratorio.md",
+    "Zettelkasten/Muscoli respiratori e meccanica respiratoria.md",
+    "Zettelkasten/Pressione parziale gas.md",
+    "Zettelkasten/Libro McCance.md",
+    "Zettelkasten/Ipotermia.md",
+    "Zettelkasten/Ipertermia non febbrile.md",
+    "Risorse/Data mining e Bioimmagini - Libro.md",
+    "Zettelkasten/Cibo.md",
+    "Zettelkasten/Crampi da calore.md",
+    "Zettelkasten/Ipovolemia.md",
+    "Zettelkasten/Disidratazione iperosmolare.md",
+    "Zettelkasten/Iponatremia.md",
     "Zettelkasten/Febbre.md",
     "Libri/Tan - Data MiningAnnotato.pdf",
     "Zettelkasten/Interleuchina 1.md",
@@ -289,22 +261,8 @@
     "Zettelkasten/Vasopressina.md",
     "Zettelkasten/Herpesvirus.md",
     "Zettelkasten/Flogosi acuta.md",
-    "Zettelkasten/Citochine.md",
-    "Zettelkasten/Libro McCance.md",
-    "Zettelkasten/TNF.md",
-    "Zettelkasten/Algebra relazionale.md",
     "Files/1_Algebra Relazionale.pdf",
-    "Zettelkasten/Interferone.md",
-    "Zettelkasten/Interleuchine.md",
-    "Zettelkasten/TNF-alfa.md",
-    "Zettelkasten/Virologia.md",
-    "Zettelkasten/Retrovirus umani.md",
-    "Templates/Idea core.md",
-    "Zettelkasten/Gli involucri esterni dei Gram-positivi.md",
     "Files/Pasted image 20240108203658.png",
-    "Zettelkasten/T3 e T4.md",
-    "Risorse/Patologia Generale - Robbins.md",
-    "Zettelkasten/Risposte cellulari a stress e insulti tossici - adattamento, danno e morte.md",
     "Files/Pasted image 20240108201119.png",
     "Files/Pasted image 20240108201044.png",
     "Files/Pasted image 20240108200906.png",
@@ -313,12 +271,6 @@
     "Files/Pasted image 20240108200748.png",
     "Files/Pasted image 20240108200532.png",
     "Files/Pasted image 20240108200351.png",
-    "Files/Pasted image 20240108200240.png",
-    "Zettelkasten/Alcalosi respiratoria.md",
-    "Zettelkasten/Alcalosi metabolica.md",
-    "Zettelkasten/Acidosi respiratoria.md",
-    "Zettelkasten/Ipoventilazione.md",
-    "Zettelkasten/Iperventilazione.md",
     "Libri/Fisiopatologia ed elementi di p - Kathryn McCance.epub",
     "Zettelkasten/nohup.out",
     "Libri/Robbins_E_Cotran_Le_Basi_Patologiche 2.pdf",

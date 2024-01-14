@@ -415,27 +415,31 @@ tags:
 - Il metabolismo è rallentato, lo stile di vita è sedentario, la risposta vasocostrittiva e vasodilatatoria è ridotta assieme alla sudorazione e alla percezione delle temperature
 
 #### [[Febbre]]
-#### Patogenesi della febbre
-
-
-##### Conseguenze dell'eccessiva risposta febbrile
-
 
 #### Disturbi della termoregolazione
-##### Ipertermia non febbrile
-###### Crampi da calore
-###### Esaurimento da calore
-###### Colpo di calore
-###### Ipertermia maligna
-##### Ipotermia
-###### Ipotermia accidentale
-###### Ipotermia terapeutica
+##### [[Ipertermia non febbrile]]
+##### [[Ipotermia]]
 ##### Trauma
+- Alcuni traumi corporei gravi possono influire sulla termoregolazione
 ###### Trauma del sistema nervoso centrale
+- Febbre neurogena o centrale
+- Altamente resistente alla terapia antipiretica
 ###### Lesioni accidentali
+- La temperatura interna in questi casi è inversamente proporzionale alla gravità della lesione 
+- Brividi assenti nelle lesioni gravi
 ###### Shock emorragico
+- La perdita di volume ematico determina vasocostrizione periferica e ipossia
+	- Ne consegue ipotermia
+- Le soluzioni per il reintegro di liquidi devono essere tiepide per prevenire gli effetti deleteri dell'ipotermia a livello cardiovascolare
 ###### Intervento di chirurgia maggiore
+- Durante questi interventi l'esposizione delle cavità corporee alla sala operatoria (fredda) induce notevole ipotermia
+- Infondere soluzioni a temperatura ambiente per via endovenosa, utilizzare farmaci che inibiscono la termoregolazione e inalare anestetici non tiepidi contribuisce
+- L'anestesia induce a sua volta ipotermia
+	- Riduce la funzione ppiastrinica
+	- Contribuisce alla necessità di trasfusioni
+- L'uso di soluzioni riscaldate e di pre riscaldamento per via aerea o cutanea contribuisce alla riduzione delle complicanze post operatorie
 ###### Ustioni termiche
+- La perdita della barriera cutanea fa si che i liquidi evaporino ed altera il microcircolo cutaneo
 ### Sonno
 #### Sonno senza nistagmo
 #### Sonno con nistagmo
@@ -443,14 +447,128 @@ tags:
 #### Invecchiamento e modelli di sonno
 #### Disturbi del sonno
 ##### Dissonie comuni
+> Disturbi del sonno legati
+> - Alla difficoltà 
+> 	- Di addormentarsi 
+> 	- Di restare addormentati
+> - All'eccessiva sonnolenza
 ###### Insonnia
-###### Sindrome da apnea ostruttiva durante il sonno
+> Incapacità di addormentarsi o di restare addormentati
+
+- Più comune nelle donne
+- Primaria
+	- Può essere transitoria
+	- Legata a 
+		- Viaggi in aree geografiche dal fuso orario diverso
+		- Interruzione delle abitudini di sonno
+		- Stress acuto
+- Secondaria
+	- Legata a
+		- Consumo di sostanze stupefacenti o alcol
+			- Amfetamine, steroidi, anti-adrenergici centrali, broncodilatatori e caffeina
+		- Dolore cronico
+		- Depressione cronica
+		- Obesità o invecchiamento 
+###### [[Sindrome da apnea ostruttiva durante il sonno]]
+
 ###### Sindrome delle gambe senza riposo
+- Comune disturbo senso-motorio associato a sensazioni spiacevoli che si manifesta a riposo e peggiora nelle ore serali e notturne
+	- Formicolii, solletico
+	- Desiderio impellente di muovere le gambe per ottenere sollievo
+- Più comune nelle donne, negli anziani e nei soggetti carenti di ferro
+- Tendenza familiare e associata alla fluttuazione circadiana della dopamina nella substantia nigra
+	- Il ferro è cofattore della produzione di dopamina 
+- Alcuni soggetti rispondono bene alla somministrazione di ferro e agonisti della dopamina
+
 ###### Ipersonnia
+- Eccesso di sonnolenza durante le ore diurne
+- Associato a privazione volontaria di sonno
+- Dovuta ad altri disturbi come OSAS o narcolessia
+- I soggetti possono addormentarsi 
+	- Durante la guida
+	- A lavoro
+	- Nel bel mezzo di conversazioni
+- Il trattamento è solo sintomatico e consiste nel consolidamento delle buone abitudini legate al sonno
 ###### Narcolessia
+- Ipersonnia associata a cataplessia, allucinazioni e paralisi del sonno
+- Carenza di ipocretina ([[oressina]]) ipotalanmica
+	- Legato probailmente alla distruzione immuno-mediata delle cellule secernenti ipocretina
 ###### Disturbi del ritmo circadiano e del sonno
+- Si possono organizzare in
+	- Rapidi cambiamenti del fuso orario
+		- Jet lag
+		- Richiedono
+			- 2 giorni per adattare il ritmo sonno veglia
+			- 5 giorni per il ciclo della temperatura corporea
+			- 8 giorni per la secrezione di cortisolo
+			- Da est ad ovest sui viaggi transmeridiani sono richiesti anche 10 giorni per regolare l'orologio corporeo
+		- L'esposizione temporizzata alla luce e la somministrazione di melatonina esogena favoriscono la reimpostazione dell'orologio corporeo prima o dopo i cambi di fuso orario
+	- Alterazione del ritmo del sonno maggiore alle 3 ore
+	- Variazioni della durata totale del sonno da un giorno all'altro
+- I soggetti presentano un grado di vigilanza alterato e sperimentano i cosiddetti microsonni senza esserne però consapevoli
+- Gli effetti neuropsicologici principali della privazione del sonno sono
+	- Impatto sulle prestazioni attraverso un declino delle funzioni cognitive
+	- Diminuzione della velocità di elaborazione mentale
+	- Calo dell'attenzione e della vigilanza 
+	- Attivazione anomala 
+		- Della corteccia pre-frontale
+		- Dei lobi parietali e temporali
+		- Del talamo
+	- Declino della performance esecutiva proporzionale all'entità del debito di sonno
 ##### Parasonnie comuni
+> Comportamenti complessi legati al risveglio dal sonno REM o al risveglio parziale dal sonno NREM o in generale alle transizioni tra le varie fasi del sonno
+- Distinguiamo 
+	- Disturbi del risveglio
+		- In stato confusionale
+		- Sonnambulismo
+		- Attacchi d'ansia da incubi
+		- Spostamento dei mobili durante il sonno
+		- Bruxismo
+		- Enuresi 
+		- Consumo di alimenti
+	- Disturbi delle transizioni sonno-veglia
+		- Movimenti ritmici
+		- Parlare nel sonno
+		- Crampi notturni alle gambe
+	- Disturbi associati al sonno REM
+		- Paralisi del sonno e incubi
+		- Apnea notturna
+		- Sindrome da morte improvvisa del lattante
+			- Può essere legata d episodi di apnea centrale del sonno
 #### Disturbi del sonno associati a disturbi mentali
+- Numerosi disturbi mentali e fisici sono associati ad alterazioni della quantità e qualità del sonno o influenzano le fasi del sonno
+	- Disturbi mentali
+		- Depressione e ansia
+	- Disturbi della funzione neurocognitiva
+		- Demenza o malattia di parkinson
+	- Disturbi fisici
+		- Alterazioni degli ormoni tiroidei
+		- [[BPCO]]
+		- Asma
+		- Ischemia cardiaca
+		- Diabete mellito
+		- Reflusso gastroesofageo
+- Il cosiddetto disturbo del comportamento durante il sonno rem consiste nella perdita della normale atonia muscolare scheletrica e può causare lesioni dovute alle azioni condotte nei sogni
+- I soggetti depressi 
+	- Hanno difficoltà a prendere sonno
+	- Presentano
+		- Una durata inferiore del sonno ad onde lente e del sonno REM
+		- Risveglio precoce 
+		- Durata del sonno complessivamente ridotta
+		- Transizioni più rapide tra le fasi del sonno
+- La malattia coronarica è legata al sonno REM
+	- I sogni possono provocare
+		- Angina notturna
+		- Aumento della frequenza cardiaca
+		- Variazioni dell'andamento dell'elettrocardiogramma
+- Negli adulti possono verificarsi attacchi di asma bronchiale 
+	- IL soggetto riduce la sua fase N3 e passa più tempo sveglio
+	- Nei bambini gli attacchi si verificano prevalentemente nei 2/3 finali della notte, dove si riduce la quantità di sonno N3
+- I soggetti affetti da [[BPCO]] hanno tensione dell'ossigeno molto ridotta
+	- Durante la fase REM si riduce il controllo volontario anche dei muscoli intercostali
+		- Per questo motivo si ha spasmo polmonare e ipertensione polmonare transitoria
+	- Nei cosiddetti blue bloater (edematosi blu) queste variazioni contribuiscono all'ipertensione polmonare precoce e al cuore polmonare
+- Gli individui che soffrono di diabete soffrono delle oscillazioni dei livelli di glicemia durante il sonno
 ### Funzione somato-sensoriale e sensi speciali
 #### Tatto
 #### Propriocezione

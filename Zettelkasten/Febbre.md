@@ -57,11 +57,14 @@ sistema/apparato:
 ## Suora i 39c
 ### Convulsioni
 - Più frequenti nei bambini, specialmente se inferiori ai 5 anni
+	- Nel 75% dei bambini sono inferiori ai 20 minuti
 - Nel 40% dei casi inferiori ai 5 minuti
-- Nel 75%
-
-
-
+#### Effetti
+- Si risolvono spontaneamente in genere
+- Associate a sviluppo di epilessia del lobo temporale in una piccola percentuale di bambini
+## Febbre di origine sconosciuta
+- Superiore ai 38,3 gradi la cui causa resta ignota dopo 3 giorni di indagini ospedaliere
+- Forma classica, nosocomiale, neutropenica, associata ad HIV
 
 
 

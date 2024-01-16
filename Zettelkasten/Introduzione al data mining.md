@@ -149,4 +149,4 @@ F -->|Output| J --> Q
 
 
 ---
-# Reference: [[Data mining e Bioimmagini - Libro]]
+# Reference: [[Data mining e Bioimmagini - Libri]]

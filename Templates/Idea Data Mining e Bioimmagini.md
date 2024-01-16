@@ -20,4 +20,4 @@ tags:
 
 
 ---
-# Reference: [[Data mining e Bioimmagini - Libro]]
+# Reference: [[Data mining e Bioimmagini - Libri]]

@@ -4,24 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "25da4a2ef3a5e54a",
+        "id": "c7769f397232a676",
         "type": "tabs",
         "children": [
           {
-            "id": "11b16900da09e30f",
+            "id": "da3ff253619efaef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Risorse/Patologia Generale - McCance.md",
+                "file": "Risorse/PGSS.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
+          },
+          {
+            "id": "069b9a0439a22a41",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "OneDrive_1_1-16-2024/Lezione 05 - 04-10-2023/Formulazione_Modelli_Ottimizzazione 1.pdf"
+              }
+            }
           }
-        ],
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
@@ -60,8 +69,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "45ea08796f45e544",
@@ -109,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Risorse/Patologia Generale - McCance.md",
+                "file": "Risorse/PGSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Risorse/Patologia Generale - McCance.md",
+                "file": "Risorse/PGSS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Risorse/Patologia Generale - McCance.md"
+                "file": "Risorse/PGSS.md"
               }
             }
           },
@@ -184,12 +192,20 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Risorse/Patologia Generale - McCance.md"
+                "file": "Risorse/PGSS.md"
               }
+            }
+          },
+          {
+            "id": "43e89b9bdc5048a1",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 7
       },
       {
         "id": "0227a3898492d02a",
@@ -231,54 +247,54 @@
       "translate:Open translation view": false
     }
   },
-  "active": "11b16900da09e30f",
+  "active": "da3ff253619efaef",
   "lastOpenFiles": [
-    "Zettelkasten/BPCO.md",
+    "OneDrive_1_1-16-2024/Lezione 05 - 04-10-2023/Modelli_Ottimizzazione.pdf",
+    "Risorse/PGSS.md",
+    "OneDrive_1_1-16-2024/Lezione 05 - 04-10-2023/Formulazione_Modelli_Ottimizzazione 1.pdf",
+    "OneDrive_1_1-16-2024/Lezione 04 - 03-10-2023/Decisioni 1.pdf",
+    "Risorse/Istituzioni di diritto pubblico.md",
+    "OneDrive_1_1-16-2024/Lezione 37 - 21-12-2023/Problema 38.pdf",
+    "OneDrive_1_1-16-2024/Lezione 37 - 21-12-2023/Problema 37.pdf",
+    "OneDrive_1_1-16-2024/Lezione 37 - 21-12-2023/Problema 36.pdf",
+    "OneDrive_1_1-16-2024/Lezione 37 - 21-12-2023/Problema 35.pdf",
+    "OneDrive_1_1-16-2024/Lezione 37 - 21-12-2023/Problema 34.pdf",
+    "OneDrive_1_1-16-2024/Lezione 37 - 21-12-2023/Problema 33.pdf",
+    "OneDrive_1_1-16-2024/Lezione 37 - 21-12-2023/Problema 29.pdf",
+    "OneDrive_1_1-16-2024/Lezione 37 - 21-12-2023/Problema 27.pdf",
+    "OneDrive_1_1-16-2024/Lezione 25 - 23-11-2023/Problema 20.png",
+    "OneDrive_1_1-16-2024/Lezione 19 - 09-11-2023/Problema 9.png",
+    "OneDrive_1_1-16-2024/Lezione 19 - 09-11-2023/Problema 16.png",
+    "OneDrive_1_1-16-2024/Lezione 18 - 08-11-2023/PGSS18-6.png",
+    "OneDrive_1_1-16-2024/Lezione 18 - 08-11-2023/PGSS18-5.png",
+    "OneDrive_1_1-16-2024/Lezione 18 - 08-11-2023/PGSS18-4.png",
+    "OneDrive_1_1-16-2024/Lezione 18 - 08-11-2023/PGSS18-3.png",
+    "OneDrive_1_1-16-2024/Lezione 18 - 08-11-2023/PGSS18-2.png",
+    "OneDrive_1_1-16-2024/Lezione 18 - 08-11-2023/PGSS18-1.png",
+    "OneDrive_1_1-16-2024/Lezione 16 - 02-11-2023/Problema 15.png",
+    "Risorse/Data mining e Bioimmagini - Libri.md",
+    "Zettelkasten/I dati.md",
+    "Zettelkasten/Concetto di Variabile.md",
+    "Zettelkasten/2024-01-15.md",
+    "Zettelkasten/Introduzione al data mining.md",
+    "Zettelkasten/Annotato_TanIntroductionData Mining.pdf.md",
     "Risorse/Patologia Generale - McCance.md",
+    "Zettelkasten/BPCO.md",
     "Zettelkasten/Effetti del volume polmonare sulla resistenza delle vie aeree.md",
     "Zettelkasten/Sindrome da apnea ostruttiva durante il sonno.md",
     "Zettelkasten/Pressioni polmonari.md",
     "Zettelkasten/Differenze di pressione nel sistema toraco-polmonare.md",
     "Risorse/Fisiologia  - Conti Volume 2.md",
     "Excalidraw/Pressioni sulle pleure.excalidraw.md",
-    "Files/Pressione intrapleurica e.png",
     "Zettelkasten/Fisiologia respiratorio.md",
     "Zettelkasten/Muscoli respiratori e meccanica respiratoria.md",
     "Zettelkasten/Pressione parziale gas.md",
     "Zettelkasten/Libro McCance.md",
     "Zettelkasten/Ipotermia.md",
     "Zettelkasten/Ipertermia non febbrile.md",
-    "Risorse/Data mining e Bioimmagini - Libro.md",
     "Zettelkasten/Cibo.md",
     "Zettelkasten/Crampi da calore.md",
     "Zettelkasten/Ipovolemia.md",
-    "Zettelkasten/Disidratazione iperosmolare.md",
-    "Zettelkasten/Iponatremia.md",
-    "Zettelkasten/Febbre.md",
-    "Libri/Tan - Data MiningAnnotato.pdf",
-    "Zettelkasten/Interleuchina 1.md",
-    "Zettelkasten/Proopiomelanocortina (POMC).md",
-    "Zettelkasten/Vasopressina.md",
-    "Zettelkasten/Herpesvirus.md",
-    "Zettelkasten/Flogosi acuta.md",
-    "Files/1_Algebra Relazionale.pdf",
-    "Files/Pasted image 20240108203658.png",
-    "Files/Pasted image 20240108201119.png",
-    "Files/Pasted image 20240108201044.png",
-    "Files/Pasted image 20240108200906.png",
-    "Files/Pasted image 20240108200845.png",
-    "Files/Pasted image 20240108200819.png",
-    "Files/Pasted image 20240108200748.png",
-    "Files/Pasted image 20240108200532.png",
-    "Files/Pasted image 20240108200351.png",
-    "Libri/Fisiopatologia ed elementi di p - Kathryn McCance.epub",
-    "Zettelkasten/nohup.out",
-    "Libri/Robbins_E_Cotran_Le_Basi_Patologiche 2.pdf",
-    "Files/patologia generale 2 - Maggiolini.pdf",
-    "Files/patologia generale 2 - Maggiolini.pdf.crdownload",
-    "Files/LEZIONE 22 - ANGELONE.pdf",
-    "Files/LEZIONE 23 - ANGELONE.pdf",
-    "Files/ECG_principle_slow.gif.crdownload",
     "Zettelkasten/Fisiologia urinario.canvas",
     "Zettelkasten/Untitled.canvas",
     "Zettelkasten/Fisiologia endocrino.canvas",

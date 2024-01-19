@@ -4,7 +4,7 @@ tags:
   - "#DataMining"
   - "#DataScience"
 ---
-02-10-2023 10:07
+### 02-10-2023 10:07
 
 --- 
 
@@ -65,15 +65,81 @@ Data Miner: Sì, mi dispiace, ma non ho considerato l'ordine dei record.
 
 #### Tipi di data set
 - I gruppi principali sono
-	- Dati di registrazioni
+	- Dati da registrazioni
 	- Dati basati su grafi
 	- Dati ordinati
 ##### Caratteristiche generali dei data set
+- Prima di analizzare i tipi di dataset descriviamone le caratteristiche principali
 ###### Dimensionalità
+> Il numero di attributi posseduti dagli oggetti di un data set
+
+- La difficoltà di analisi cresce in maniera sproporzionata proporzionalmente alla dimensionalità: *curse of dimensionality*
+- Uno dei focus del processamento dei dati è infatti la **dimensionality reduction**
 ###### Scarsità ("sparsity")
+- Per alcuni dataset (come quelli asimmetrici), molti valori non vanno considerati 
+- Questo risulta in una serie di considerazioni dal punto di vista computazionale che possono facilitare di gran lunga il carico analitico o comunque le risorse impiegate
 ###### Risoluzione
+- È spesso possibile ottenere i dati a più livelli di risoluzione
+- Le proprietà dei dati possono variare col variare di questi livelli
+##### Dati da registrazioni
+- I data set di record sono spesso raccolti in
+	- File flat
+		- CSV, TSV etc
+		- In generale formati non strutturati
+	- Database relazionali
+		- Spesso però non si considerano le informazioni aggiuntive di un database relazionale
+###### Dati di transazioni
+- Particolare categoria di dati da registrazioni in cui ogni oggetto è composto da una serie di altri elementi
+	- Es: scontrino 
+- Questo tipo di dati viene anche definito analisi del paniere (Market Basket Analysis)
+###### Matrici di dati 
+- Se gli oggetti di un dataset hanno tutti la stessa serie di attributi numerici si possono interpretare gli oggetti come dei vettori nello spazio
+**Matrice sparsa**
+- Matrice di dati asimmetrici
+###### Matrice dei termini di documenti
+- Si traccia il numero di volte in cui compaiono dei termini in una serie di documenti
+
+##### Dati basati su grafi
+- Pagine web, molecole
+##### Dati ordinati
+> Dati che possiedono attributi con relazioni temporali o spaziali
+> - Ad esempio sequenze geniche
+###### Dati sequenziali 
+- Definiti anche dati temporali
+	- Molto semplicemente dati di registrazioni con l'attributo tempo
+**Dati di sequenze temporali**
+- È fondamentale tenere conto dell'autocorrelazione temporale
+	- Misurazioni vicine nel tempo sono spesso molto simili
+**Dati spaziali**
+- Ad esempio, due punti vicini sulla terra hanno valori simili per la temperatura e le precipitazioni 
+
 ## Qualità dei dati
 #### Problemi di misurazione e di raccolta dei dati
+- La qualità dei dati dipende da come sono stati misurati e raccolti
+
+##### Prerequisiti
+- È necessario dare alcune definizioni per comprendere meglio i potenziali errori
+	- Come esempio usiamo 5 misurazioni di una massa: 1.015, 0.990, 1.013, 0.986
+###### Precisione
+> La distanza tra i valori delle misurazioni di una stessa quantità
+
+- Spesso è misurata come deviazione standard nella serie di valori
+	- Dall'esempio otteniamo che è 0.013 (da una media di 1.001)
+###### Bias
+> Una variazione sistematica delle misurazioni
+
+- Misurata come la differenza tra la media dei valori della serie e il valore conosciuto della quantità che si sta misurando
+	- Dall'esempio otteniamo che equivale a 0.001
+###### Accuratezza
+> L'inverso della distanza di misurazione dal vero valore di una quantità misurata
+
+- Strumento fondamentale sono le **cifre significative**
+##### I problemi
+###### Outliers
+###### Valori mancanti
+###### Valori inconsistenti
+###### Valori duplicati
+
 #### Problemi legati alle applicazioni
 ## Preprocessamento dei dati
 #### Aggregazione

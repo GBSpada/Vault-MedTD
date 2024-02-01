@@ -4,19 +4,45 @@
     "type": "split",
     "children": [
       {
-        "id": "aaf719f0a28026df",
+        "id": "45baa9bdf5938291",
         "type": "tabs",
         "children": [
           {
-            "id": "535143d8f823f8e2",
+            "id": "442472e2792c1b4c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Risorse/PGSS.md",
+                "file": "Zettelkasten/I dati.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "aff398683b0aa664",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Files/TEORIA - BIOINFORMATICA.pdf"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "7b99efbfa3611c5c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d50367384d2cf441",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Libri/Tan - Data MiningAnnotato.pdf"
               }
             }
           }
@@ -32,7 +58,7 @@
       {
         "id": "14a2e795bec73f38",
         "type": "tabs",
-        "dimension": 80.31496062992126,
+        "dimension": 79.44501541623843,
         "children": [
           {
             "id": "f97d3cfed9c8a951",
@@ -59,12 +85,13 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "45ea08796f45e544",
         "type": "tabs",
-        "dimension": 19.68503937007874,
+        "dimension": 20.554984583761563,
         "children": [
           {
             "id": "f8db43a76001cff7",
@@ -78,7 +105,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 601.5
+    "width": 387.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "4ebe4af6d516db54",
@@ -87,7 +115,6 @@
       {
         "id": "91675aacfd27c02e",
         "type": "tabs",
-        "dimension": 51.67322834645669,
         "children": [
           {
             "id": "ae4351b16c3fe865",
@@ -106,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Risorse/PGSS.md",
+                "file": "Zettelkasten/I dati.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Risorse/PGSS.md",
+                "file": "Zettelkasten/I dati.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -135,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Risorse/PGSS.md"
+                "file": "Zettelkasten/I dati.md"
               }
             }
           },
@@ -181,7 +208,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Risorse/PGSS.md"
+                "file": "Zettelkasten/I dati.md"
               }
             }
           },
@@ -195,26 +222,6 @@
           }
         ],
         "currentTab": 7
-      },
-      {
-        "id": "0227a3898492d02a",
-        "type": "tabs",
-        "dimension": 48.326771653543304,
-        "children": [
-          {
-            "id": "d4cabc04126e58f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/Nota rapida.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
@@ -233,66 +240,66 @@
       "templates:Insert template": false,
       "audio-recorder:Start/stop recording": false,
       "copilot:Copilot Chat": false,
-      "translate:Open translation view": false
+      "translate:Open translation view": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "535143d8f823f8e2",
+  "active": "442472e2792c1b4c",
   "lastOpenFiles": [
-    "OneDrive_1_1-16-2024/Sbobine/PGSS - LEZ. 4. - 03-10-2023.pdf",
-    "Risorse/PGSS.md",
-    "OneDrive_1_1-16-2024/Sbobine/Lezione 1 - Pianificazione e Gestione .pdf",
-    "OneDrive_1_1-16-2024/Sbobine/Copia di PGSS-LEZIONE 3.pdf",
-    "OneDrive_1_1-16-2024/Sbobine/PGSS lezione 8.pdf",
-    "OneDrive_1_1-16-2024/Sbobine/PGSS - Lezione 2.pdf",
-    "OneDrive_1_1-16-2024/Sbobine/Lezione 32 PGSS.pdf",
-    "OneDrive_1_1-16-2024/Lezione 05 - 04-10-2023/Formulazione_Modelli_Ottimizzazione 1.pdf",
-    "OneDrive_1_1-16-2024/Slide/Lezione 37 - 21-12-2023 (1)/Problema 38.pdf",
-    "OneDrive_1_1-16-2024/Slide/Lezione 37 - 21-12-2023 (1)/Problema 37.pdf",
-    "OneDrive_1_1-16-2024/Slide/Lezione 37 - 21-12-2023 (1)/Problema 36.pdf",
-    "OneDrive_1_1-16-2024/Slide/Lezione 37 - 21-12-2023 (1)/Problema 35.pdf",
-    "OneDrive_1_1-16-2024/Slide/Lezione 25 - 23-11-2023 (1)/Problema 20.png",
-    "OneDrive_1_1-16-2024/Slide/Lezione 25 - 23-11-2023/Problema 20.png",
-    "OneDrive_1_1-16-2024/Slide/Lezione 19 - 09-11-2023 (1)/Problema 9.png",
-    "OneDrive_1_1-16-2024/Slide/Lezione 19 - 09-11-2023 (1)/Problema 16.png",
-    "OneDrive_1_1-16-2024/Slide/Lezione 19 - 09-11-2023/Problema 9.png",
-    "OneDrive_1_1-16-2024/Slide/Lezione 19 - 09-11-2023/Problema 16.png",
-    "OneDrive_1_1-16-2024/Slide/Lezione 18 - 08-11-2023 (1)/PGSS18-6.png",
-    "OneDrive_1_1-16-2024/Slide/Lezione 18 - 08-11-2023 (1)/PGSS18-5.png",
-    "OneDrive_1_1-16-2024/Slide/Lezione 18 - 08-11-2023 (1)/PGSS18-4.png",
-    "OneDrive_1_1-16-2024/Slide/Lezione 18 - 08-11-2023 (1)/PGSS18-3.png",
-    "Risorse/Data mining e Bioimmagini - Libri.md",
+    "Zettelkasten/Distanza di hamming.md",
+    "Files/TEORIA - BIOINFORMATICA.pdf",
     "Zettelkasten/I dati.md",
-    "Zettelkasten/Statistica per python.md",
-    "Zettelkasten/Token git.md",
-    "Risorse/Istituzioni di diritto pubblico.md",
-    "Zettelkasten/Concetto di Variabile.md",
-    "Zettelkasten/2024-01-15.md",
-    "Zettelkasten/Introduzione al data mining.md",
-    "Zettelkasten/Annotato_TanIntroductionData Mining.pdf.md",
+    "Libri/Tan - Data MiningAnnotato.pdf",
+    "Zettelkasten/Teoria Bioinformatica.md",
+    "Risorse/Data mining e Bioimmagini - Libri.md",
     "Risorse/Patologia Generale - McCance.md",
-    "Zettelkasten/BPCO.md",
-    "Zettelkasten/Effetti del volume polmonare sulla resistenza delle vie aeree.md",
+    "Zettelkasten/Nota rapida.md",
+    "Risorse/PGSS.md",
+    "Files/Gestione e servizi sanitari-teoria.pdf",
+    "Files/Gestione e servizi sanitari-teoria.pdf.crdownload",
+    "Zettelkasten/Robbins markdown.md",
+    "Zettelkasten/Patologie genetica.md",
+    "Files/Recording 20240126172936.webm",
+    "Zettelkasten/inf1.md",
+    "Files/Appello data mining.pdf",
+    "Files/esempioTraccia_15Gennaio2024.pdf.crdownload",
+    "Zettelkasten/ex1.md",
+    "Zettelkasten/nb1.md",
     "Zettelkasten/Sindrome da apnea ostruttiva durante il sonno.md",
     "Zettelkasten/Pressioni polmonari.md",
-    "Zettelkasten/Differenze di pressione nel sistema toraco-polmonare.md",
-    "Risorse/Fisiologia  - Conti Volume 2.md",
-    "Excalidraw/Pressioni sulle pleure.excalidraw.md",
-    "Zettelkasten/Fisiologia respiratorio.md",
-    "Zettelkasten/Muscoli respiratori e meccanica respiratoria.md",
-    "Zettelkasten/Pressione parziale gas.md",
-    "Zettelkasten/Libro McCance.md",
-    "Zettelkasten/Ipotermia.md",
     "Zettelkasten/Ipertermia non febbrile.md",
-    "Zettelkasten/Cibo.md",
+    "Zettelkasten/Ipotermia.md",
+    "Zettelkasten/Alcalosi metabolica.md",
+    "Zettelkasten/Libro McCance.md",
+    "OneDrive_1_1-16-2024/Slide/Lezione 19 - 09-11-2023/Problema 16.png",
+    "OneDrive_1_1-16-2024/Slide/Lezione 29 - 05-12-2023/Gestione Day Service.pdf",
+    "OneDrive_1_1-16-2024/Slide/Lezione 19 - 09-11-2023 (1)/Problema 14.pdf",
+    "OneDrive_1_1-16-2024/Slide/Lezione 19 - 09-11-2023/Problema 9.png",
+    "OneDrive_1_1-16-2024/Slide/Lezione 19 - 09-11-2023/Problema 14.pdf",
+    "OneDrive_1_1-16-2024/Slide/Lezione 18 - 08-11-2023/PGSS18-1.png",
+    "OneDrive_1_1-16-2024/Slide/Lezione 16 - 02-11-2023/Problema 15.png",
+    "OneDrive_1_1-16-2024/Slide/Lezione 15 - 26-10-2023/Problema 13.png",
+    "OneDrive_1_1-16-2024/Slide/Lezione 13 - 24-10-2023/Problema 12 .png",
+    "Zettelkasten/Endocardite di Libman-Sacks.md",
+    "OneDrive_1_1-16-2024/Slide/Lezione 15 - 26-10-2023/Problema 11.png",
+    "Zettelkasten/Chlamydie.md",
+    "Zettelkasten/Chlamydia Trachomatis.md",
+    "OneDrive_1_1-16-2024/Slide/Lezione 13 - 24-10-2023 (1)/Problema 12 .png",
+    "OneDrive_1_1-16-2024/Slide/Lezione 11 - 18-10-2023/SSE-2.png",
+    "OneDrive_1_1-16-2024/Slide/Lezione 11 - 18-10-2023/SSE-1.png",
+    "Templates/Idea ricerca.md",
+    "Templates/Idea tecn. laboratorio.md",
+    "Templates/Idea Patologia Gen.md",
+    "Templates/Idea Patologia.md",
     "Zettelkasten/Fisiologia urinario.canvas",
-    "Zettelkasten/Untitled.canvas",
-    "Zettelkasten/Fisiologia endocrino.canvas",
     "Zettelkasten/Mappa Architetture e Sistemi.canvas",
-    "Zettelkasten/Emostasi.canvas",
-    "Zettelkasten/Metabolismo lipoproteine.canvas",
     "Zettelkasten/Fisiologia Digerente.canvas",
-    "Genetica - Lezioni e sbobine.canvas",
-    "L'azione patogena dei batteri.canvas",
-    "Untitled.canvas"
+    "Zettelkasten/Metabolismo lipoproteine.canvas",
+    "Zettelkasten/Fisiologia endocrino.canvas",
+    "Zettelkasten/Emostasi.canvas",
+    "Zettelkasten/Metabolismo lipoproteine___.canvas",
+    "Zettelkasten/Mappa Architetture e Sistemi___.canvas",
+    "Zettelkasten/Fisiologia urinario___.canvas",
+    "Zettelkasten/Fisiologia endocrino___.canvas"
   ]
 }

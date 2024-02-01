@@ -10,7 +10,8 @@ Tag: #Bioinformatica
 >	- Nello stesso organismo duplicazione dallo stesso gene ancestrale
 ## Allineamento singolo di sequenze
 ### Distanze
-#### Distanza di hamming
+#### [[Distanza di hamming]]
+
 - Sostituzione
 - Allineamento diretto, più semplice
 - La distanza corrisponde al numero di caratteri che differenziano le stringhe

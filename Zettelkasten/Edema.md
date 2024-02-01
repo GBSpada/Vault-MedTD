@@ -110,5 +110,3 @@ sistema/apparato: CardioCircolatorio
 - Compromissione del sistema vascolare del tronco 
 - Compressione del tronco causata da ernia attraverso il forame magno
 
-
-

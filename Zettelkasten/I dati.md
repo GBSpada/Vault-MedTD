@@ -4,7 +4,7 @@ tags:
   - "#DataMining"
   - "#DataScience"
 ---
-### 02-10-2023 10:07
+02-10-2023 10:07
 
 --- 
 
@@ -35,8 +35,8 @@ Data Miner: Sì, mi dispiace, ma non ho considerato l'ordine dei record.
 - Uno degli approcci all'analisi dei dati è quello di trovare relazioni tra "gli oggetti" dei dati ed in seguito eseguire le analisi sfruttando le relazioni piuttosto che gli oggetti stessi.
 	- Ad esempio si possono sfruttare indici di similarità e distanza 
 ### Nel dettaglio
-> - Un dataset può essere visto come una collezione di "Data Objects" (o record o point o vector o pattern o event o case o sample o observation o entity)
-> - A loro volta questi oggetti sono descritti da una serie di attributi (o variabile o caratteristica o field o feature o dimension)
+> - Un dataset può essere visto come una collezione di *Data Objects* (o record o point o vector o pattern o event o case o sample o observation o entity)
+> - A loro volta questi oggetti sono descritti da una serie di *attributi* (o variabile o caratteristica o field o feature o dimension)
 > 	- Questi raccolgono quelle che sono le caratteristiche fondamentali di un oggetto
  
 #### Attributi e misurazioni
@@ -136,25 +136,150 @@ Data Miner: Sì, mi dispiace, ma non ho considerato l'ordine dei record.
 - Strumento fondamentale sono le **cifre significative**
 ##### I problemi
 ###### Outliers
+- Oggetti ==anomali==
+	- Possiedono caratteristiche differenti dalla maggior parte degli altri oggetti del dataset
+- A differenza del "rumore" possono essere rilevanti in un'analisi di dati
 ###### Valori mancanti
+- Le cause sono molteplici
+- Si può reagire in 3 modi diversi
+**Eliminando gli oggetti o gli attributi**
+**Stimando i valori mancanti**
+**Ignorando i valori mancanti durante l'analisi**
 ###### Valori inconsistenti
+- Ad esempio, una massa negativa
 ###### Valori duplicati
 
 #### Problemi legati alle applicazioni
+- I dati sono di qualità se utili al loro uso inteso
+##### Tempestività
+- Alcuni tipi di dati "invecchiano" appena vengono collezionati
+##### Rilevanza
+- I dati disponibili devono contenere le informazioni necessarie all'applicazione
+- Costruire un modello senza tutte le informazioni intrinseche ai dati porta ad avere bassa accuratezza
+##### Conoscenza dei dati
+- Ad esempio, se i dati mancanti vengono indicati con un numero tipo -9999 e non lo sappiamo, l'intera analisi può essere fallace
 ## Preprocessamento dei dati
+- Consiste in una serie di operazioni atte alla selezione di oggetti e di attributi per facilitare l'analisi di chi fa data mining
 #### Aggregazione
+>Assimilazione di più data objects o attributi 
+
+>[!example] Esempio:
+>Abbiamo un registro di tutte le transazioni svolte da una serie di negozi con le date annesse.
+>Per aggregare le transazioni si possono raggruppare tutte quelle fatte da un negozio in una data in un unica transazione
+
+##### Considerazioni sul tipo di attributi
+- Operazioni del genere su attributi quantitativi richiedono operazioni quali somme o medie statistiche
+- Nel caso di attributi qualitativi si usano altri approcci
+##### Utilità
+- Potenzialmente può essere utile per ridurre le ==dimensioni== di una matrice di dati
+	- Possono diminuire
+		- Gli attributi
+		- I data object per uno o più attributi
+- Ridurre il numero di campioni riduce i tempi ed i costi di analisi
+	- Questo può rendere possibile l'utilizzo di algoritmi di data mining più costosi
+- Può offrire una visione più ad alto livello dei dati
+- Il valore assegnato all'aggregato varia di meno di quello dei singoli elementi che lo compongono
 #### Campionamento
+> Si selezionano, secondo un criterio, solo alcuni campioni
+> - Usare dei campioni può essere equivalente ad usare tutto il dataset se i campioni sono rappresentativi
 #### Riduzione dimensionale
-#### Selezione di sottoinsiemi di caratteristiche
+> Consiste nel ridurre il numero di attributi di un data set combinandoli in nuovi attributi
+> ![](https://i.imgur.com/Awa4x9j.png)
+
+
+- Migliora l'efficienza di numerosi algoritmi di data mining perché
+	- Diminuiscono "rumore" e feature irrilevanti
+	- Curse of dimensionality
+
+
+>[!info] The curse of dimensionality
+> Fenomeno per il quale i dati diventano significativamente più complessi da analizzare con l'aumentare delle dimensioni
+>- Per ciò che concerne
+>	- **Classificazione**
+> 		- Potrebbero non esserci abbastanza oggetti a cui assegnare delle classi
+>	- **Clustering**
+>		- La densità e le distanze tra i punti perdono di significato
+> 		- Problematico in quanto sono variabili fondamentali nel clustering
+
+
+ >[!info] Tecniche di algebra lineare 
+>- **PCA** - Analisi delle componenti principali
+>	- Tecnica che trova nuovi attributi 
+>	- Dati da combinazioni lineari tra quelli originali
+>		- Ortogonali tra loro
+	>	- In grado di descrivere la massima variazione nei dati
+>- **SDA** - Decomposizione a singolo valore
+
+#### Selezione di sottoinsiemi di caratteristiche (feature subset selection)
+> Selezione di un sottoinsieme delle caratteristiche (attributi) tale da ridurre la quantità di attributi ridondanti o irrilevanti (per il lavoro di data mining preso in considerazione in quel momento)
+
+- Sarà il tipo di analisi a dettare la misura di selezione e la riduzione da applicare al dataset
+	- Bisogna comunque portare avanti l'analisi fino a provare l'algoritmo scelto per verificare la validità della selezione
 #### Creazione di caratteristiche
-#### Discretizzazione e binarizzazione
+- Le metodologie principali sono
+	- Estrazione
+		- Es: estrazione dei bordi di un'immagine
+	- Costruzione
+		- Es: rapporto tra massa e volume per ottenere la densità
+	- Assegnazione ad un nuovo spazio
+		- [[Analisi di fourier]] e wavelet
+#### Discretizzazione (1) e binarizzazione (2)
+- 1: trasformazione di una variabile da continua a categorica
+- 2: trasformazione di una variabile da discreta/continua a binaria
+
+##### Supervisione
+- Ci vuole un esempio
+	- Abbiamo una variabile continua (età) e vogliamo trovare 3 classi sfruttando la discretizzazione una volta supervisionandola e una volta no
+		- Nel caso supervisionato specifichiamo che i 3 gruppi devono essere giovani,adulti e anziani 
+		- Nel caso non supervisionato saranno gli algoritmi stessi a cercare pattern nei dati continui
 #### Trasformazione di variabili
+- In sintesi, applicazione di una funzione a tutte le istanze di un'attributo/variabile
 ## Misure di similarità e dissimilarità
+- Fondamentali, alla base delle tecniche più importanti di data mining
+	- Una volta ottenute si può anche evitare di fare riferimento al dataset iniziale
 #### Basi
+##### "Definizioni"
+###### Similarità
+- Tra due oggetti
+- In genere è un valore tra 0 e 1
+###### Dissimilarità
+- Frequentemente associata al termine ==distanza==
+- Anch'essa tra 0 e 1 o tra 0 e infinito
+##### Trasformazioni
+- Gli indici di dissimilarità e similarità possono essere convertiti rispettivamente l'uno nell'altro 
+	- Se però gli intervalli di riferimento variano (es: \[0,1] e \[1-10]) bisogna effettuare una trasposizione per ottenere il valore corrispettivo nell'altra misura
+![](https://i.imgur.com/T2DVnfA.png)
+
 #### Similarità e dissimilarità tra attributi semplici
+- Finché si tratta di semplici attributi basta applicare le formule sopra
+	- Di attributi nominali non si può dare un grado di similarità quindi solo 1 o 0
+	- Di attributi ordinali si fornisce un grado sulla base di una scala
+	- Per altri dati si tiene conto di caratteristiche della scala ([[#In base alle trasformazioni possibili]])
+- I data objects possiedono molteplici attributi e sono più complessi da gestire
 #### Dissimilarità tra data objects
+- Abbiamo detto che il termine distanze viene spesso associato al concetto di dissimilarità ma non è del tutto corretto
+	- Le distanze sono particolari tipi di dissimilarità
+- In genere vengono tracciate in delle matrici in cui mettere a confronto i singoli attributi uno con l'altro
+##### Distanza euclidea
+$$d(x,y) = \sqrt{\sum_{K=1}^{n}(x_k - y_k)^2}$$
+- n è il numero di dimensioni
+- k è il numero di attributi degli oggetti x e y
+##### Distanza di Minkowski
+$$d(x, y) = \left(\sum_{k=1}^{n}|x_k - y_k|^r\right)^{\frac{1}{r}}$$
+- Generalizzazione della distanza euclidea dalla quale si possono ottenere anche la distanza di hamming e i chebyshev
+- Il parametro r specifica modi differenti di combinare tutte le singole distanze in un unico valore
+	- **r = 1**: distanza di Manhattan
+		- Come quella di [[Distanza di hamming]]
+	- **r = 2**: distanza euclidea
+	- **r = 3**: distanza di Chebyshev (o suprema)
+		- Massima differenza tra qualsiasi attributo degli oggetti
 #### Similarità tra data objects
+- Unica differenza con quelle di dissimilarità, non valgono alcune proprietà applicabili alle matrici tra cui la ==disuguaglianza triangolare== (roba di algebra lineare)
 #### Esempi di misure di prossimità
+- Per dati binari
+##### SMC (simple matching coefficient)
+##### Coefficiente di Jaccard
+##### Similarità del coseno
 #### Problemi nel calcolo delle prossimità
 #### Selezione della giusta misura di prossimità
 

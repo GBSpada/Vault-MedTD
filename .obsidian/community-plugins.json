@@ -2,7 +2,6 @@
   "obsidian-outliner",
   "obsidian-excalidraw-plugin",
   "cm-editor-syntax-highlight-obsidian",
-  "text-snippets-obsidian",
   "better-word-count",
   "dataview",
   "obsidian-style-settings",
@@ -24,5 +23,6 @@
   "obsidian-enhancing-mindmap",
   "copilot",
   "obsidian-hover-editor",
-  "obsidian-annotator"
+  "obsidian-annotator",
+  "templater-obsidian"
 ]

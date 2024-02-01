@@ -7,6 +7,7 @@ tags:
 
 --- 
 
+## slide
 ### Lezione 1
 [[Presentazione_PGSS-MedTD_23-24.pdf]]
 [[Sistemi_Servizi_Sanitari_23-24 A.pdf]]
@@ -18,7 +19,7 @@ tags:
 ![](https://i.imgur.com/z7BcBpr.pfng)
 ![](https://i.imgur.com/OinreUY.png)
 ![](https://i.imgur.com/qGjY2Ga.png)
-![](https://i.imgur.com/2Gpw5bk.png)
+![](
 
 ### Lezione 5
 [[Formulazione_Modelli_Ottimizzazione 1.pdf]]
@@ -60,16 +61,6 @@ tags:
 ### Lezione
 ### Lezione
 ### Lezione
-### Lezione
-### Lezione
-### Lezione
-### Lezione
-### Lezione
-### Lezione
-### Lezione
-### Lezione
-### Lezione
-### Lezione
 
 
 
@@ -85,11 +76,5 @@ tags:
 
 
 
-
-
-
-
-
-
-
-
+## Orale
+[[Gestione e servizi sanitari-teoria.pdf]]

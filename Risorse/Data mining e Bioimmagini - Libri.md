@@ -1,5 +1,5 @@
 ---
-stato: "#libro"
+stato-"#libro"
 tags:
   - DataMining
 ---
@@ -11,12 +11,12 @@ tags:
 
 ## [[I dati]]
 ## [[Esplorazione dei dati]]
-## [[Classificazione: Concetti Base, Alberi decisionali, Modelli valutativi]]
-## [[Classificazione: Tecniche Alternative]]
-## [[Analisi delle associazioni: Concetti di base e algoritmi]]
-## [[Analisi delle associazioni: Concetti avanzati]]
-## Cluster Analysis: Basic Concepts and Algorithms
-## Cluster Analysis: Additional Issues and Algorithms
+## [[Classificazione - Concetti Base, Alberi decisionali, Modelli valutativi]]
+## [[Classificazione - Tecniche Alternative]]
+## [[Analisi delle associazioni - Concetti di base e algoritmi]]
+## [[Analisi delle associazioni - Concetti avanzati]]
+## Cluster Analysis - Basic Concepts and Algorithms
+## Cluster Analysis - Additional Issues and Algorithms
 ## Anomaly Detection
 
 

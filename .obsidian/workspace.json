@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/I dati.md",
+                "file": "Risorse/Data mining e Bioimmagini - Libri.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,19 +21,23 @@
             }
           },
           {
-            "id": "aff398683b0aa664",
+            "id": "4065b82623ff500d",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Files/TEORIA - BIOINFORMATICA.pdf"
+                "file": "Zettelkasten/Classificazione - Tecniche Alternative.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
-        "id": "7b99efbfa3611c5c",
+        "id": "1cebd8cc8cea5b3f",
         "type": "tabs",
         "children": [
           {
@@ -76,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "accuratezza",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -85,8 +89,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "45ea08796f45e544",
@@ -133,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/I dati.md",
+                "file": "Zettelkasten/Classificazione - Tecniche Alternative.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/I dati.md",
+                "file": "Zettelkasten/Classificazione - Tecniche Alternative.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/I dati.md"
+                "file": "Zettelkasten/Classificazione - Tecniche Alternative.md"
               }
             }
           },
@@ -208,7 +211,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Zettelkasten/I dati.md"
+                "file": "Zettelkasten/Classificazione - Tecniche Alternative.md"
               }
             }
           },
@@ -217,6 +220,14 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "6838a4a17b809a1a",
+            "type": "leaf",
+            "state": {
+              "type": "dictionary-view",
               "state": {}
             }
           }
@@ -233,7 +244,6 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "command-palette:Open command palette": false,
@@ -241,17 +251,31 @@
       "audio-recorder:Start/stop recording": false,
       "copilot:Copilot Chat": false,
       "translate:Open translation view": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "graph:Open graph view": false
     }
   },
-  "active": "442472e2792c1b4c",
+  "active": "4065b82623ff500d",
   "lastOpenFiles": [
-    "Zettelkasten/Distanza di hamming.md",
-    "Files/TEORIA - BIOINFORMATICA.pdf",
-    "Zettelkasten/I dati.md",
     "Libri/Tan - Data MiningAnnotato.pdf",
-    "Zettelkasten/Teoria Bioinformatica.md",
+    "Zettelkasten/Classificazione - Tecniche Alternative.md",
+    "Files/Appello data mining.pdf",
+    "Files/Data mining simo 2.pdf",
+    "Files/Data mining simo 1.pdf",
+    "Data mining simo 2.pdf.crdownload",
+    "Data mining simo 1.pdf.crdownload",
+    "Zettelkasten/Classificazione - Concetti Base, Alberi decisionali, Modelli valutativi.md",
     "Risorse/Data mining e Bioimmagini - Libri.md",
+    "Zettelkasten/Elettromagnetismo - Lezione 1.md",
+    "Files/Pasted image 20240204185753.png",
+    "Files/Pasted image 20240108200906.png",
+    "Zettelkasten/I dati.md",
+    "Zettelkasten/Esplorazione dei dati.md",
+    "Zettelkasten/Soldi angelo.md",
+    "Zettelkasten/Indice di correlazione di Pearson.md",
+    "Files/TEORIA - BIOINFORMATICA.pdf",
+    "Zettelkasten/Distanza di hamming.md",
+    "Zettelkasten/Teoria Bioinformatica.md",
     "Risorse/Patologia Generale - McCance.md",
     "Zettelkasten/Nota rapida.md",
     "Risorse/PGSS.md",
@@ -261,8 +285,6 @@
     "Zettelkasten/Patologie genetica.md",
     "Files/Recording 20240126172936.webm",
     "Zettelkasten/inf1.md",
-    "Files/Appello data mining.pdf",
-    "Files/esempioTraccia_15Gennaio2024.pdf.crdownload",
     "Zettelkasten/ex1.md",
     "Zettelkasten/nb1.md",
     "Zettelkasten/Sindrome da apnea ostruttiva durante il sonno.md",
@@ -271,26 +293,15 @@
     "Zettelkasten/Ipotermia.md",
     "Zettelkasten/Alcalosi metabolica.md",
     "Zettelkasten/Libro McCance.md",
-    "OneDrive_1_1-16-2024/Slide/Lezione 19 - 09-11-2023/Problema 16.png",
-    "OneDrive_1_1-16-2024/Slide/Lezione 29 - 05-12-2023/Gestione Day Service.pdf",
-    "OneDrive_1_1-16-2024/Slide/Lezione 19 - 09-11-2023 (1)/Problema 14.pdf",
-    "OneDrive_1_1-16-2024/Slide/Lezione 19 - 09-11-2023/Problema 9.png",
-    "OneDrive_1_1-16-2024/Slide/Lezione 19 - 09-11-2023/Problema 14.pdf",
-    "OneDrive_1_1-16-2024/Slide/Lezione 18 - 08-11-2023/PGSS18-1.png",
-    "OneDrive_1_1-16-2024/Slide/Lezione 16 - 02-11-2023/Problema 15.png",
-    "OneDrive_1_1-16-2024/Slide/Lezione 15 - 26-10-2023/Problema 13.png",
-    "OneDrive_1_1-16-2024/Slide/Lezione 13 - 24-10-2023/Problema 12 .png",
+    "Files/OneDrive_1_1-16-2024/Slide/Lezione 19 - 09-11-2023/Problema 16.png",
+    "Files/OneDrive_1_1-16-2024/Slide/Lezione 19 - 09-11-2023/Problema 9.png",
+    "Files/OneDrive_1_1-16-2024/Slide/Lezione 18 - 08-11-2023/PGSS18-1.png",
+    "Files/OneDrive_1_1-16-2024/Slide/Lezione 16 - 02-11-2023/Problema 15.png",
+    "Files/OneDrive_1_1-16-2024/Slide/Lezione 15 - 26-10-2023/Problema 13.png",
+    "Files/OneDrive_1_1-16-2024/Slide/Lezione 13 - 24-10-2023/Problema 12 .png",
     "Zettelkasten/Endocardite di Libman-Sacks.md",
-    "OneDrive_1_1-16-2024/Slide/Lezione 15 - 26-10-2023/Problema 11.png",
-    "Zettelkasten/Chlamydie.md",
-    "Zettelkasten/Chlamydia Trachomatis.md",
-    "OneDrive_1_1-16-2024/Slide/Lezione 13 - 24-10-2023 (1)/Problema 12 .png",
-    "OneDrive_1_1-16-2024/Slide/Lezione 11 - 18-10-2023/SSE-2.png",
-    "OneDrive_1_1-16-2024/Slide/Lezione 11 - 18-10-2023/SSE-1.png",
-    "Templates/Idea ricerca.md",
-    "Templates/Idea tecn. laboratorio.md",
-    "Templates/Idea Patologia Gen.md",
-    "Templates/Idea Patologia.md",
+    "Files/OneDrive_1_1-16-2024/Slide/Lezione 15 - 26-10-2023/Problema 11.png",
+    "Files/OneDrive_1_1-16-2024/Slide/Lezione 13 - 24-10-2023 (1)/Problema 12 .png",
     "Zettelkasten/Fisiologia urinario.canvas",
     "Zettelkasten/Mappa Architetture e Sistemi.canvas",
     "Zettelkasten/Fisiologia Digerente.canvas",

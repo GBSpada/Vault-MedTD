@@ -276,13 +276,41 @@ $$d(x, y) = \left(\sum_{k=1}^{n}|x_k - y_k|^r\right)^{\frac{1}{r}}$$
 #### Similarità tra data objects
 - Unica differenza con quelle di dissimilarità, non valgono alcune proprietà applicabili alle matrici tra cui la ==disuguaglianza triangolare== (roba di algebra lineare)
 #### Esempi di misure di prossimità
-- Per dati binari
+- Per dati binari si parla di ==coefficienti di similarità== e hanno come valori solo 0 e 1
+- Dati due oggetti x e y consistenti in n attributi binari
+	- Possiamo estrapolare 4 frequenze associate a 4 eventi
+		- f00: il numero di attributi dove x è 0 e y è 0
+		- Gli altri 3 si ricavano facilmente
 ##### SMC (simple matching coefficient)
+$$SMC = \frac{f_{11} + f_{00}}{f_{01} + f_{10} + f_{11} + f_{00}}$$
+- Tratta i valori 0 e 1 con lo stesso peso
 ##### Coefficiente di Jaccard
+$$J = \frac{f_{11}}{f_{01} + f_{10} + f_{11}}$$
+- Molto più utile nel caso in cui l'assenza (caso 00) non valga dal punto di vista dell'analisi
+	- Ad esempio, gestione delle transazioni di un negozio, non ha senso tenere conto degli oggetti non venduti
 ##### Similarità del coseno
+- Nel caso di vettori (data objects) di frequenza di apparizione di termini in un documento bisogna tenere conto di valori non binari 
+- Poiché il conteggio dei valori identici non ha senso nell'analisi (è difficile che due documenti diversi abbiano lo stesso valore nella stessa posizione) bisogna escluderlo in qualche modo
+- La funzione coseno permette di risolvere questo problema
+$$cos(x,y) = \frac{x\cdot y}{||x||\cdot||y||}$$
+- Il simbolo $\cdot$ al numeratore sta per prodotto vettoriale $x\cdot y = \sqrt{\sum_{k=1}^{n}x_k y_k}$  
+![](https://i.imgur.com/cnYYMEw.png)
+##### Correlazione
+- La correlazione è una misura della relazione lineare tra gli attributi degli oggetti
+	- [[Indice di correlazione di Pearson]]
+
 #### Problemi nel calcolo delle prossimità
 #### Selezione della giusta misura di prossimità
+- In genere dipende dal tipo di dati
 
+
+---
+## Note
+*Slicing and dicing*: processo di selezione di caselle lungo una matrice specificando rispettivamente un valore e un range 
+*Roll-up and drill-down*: gli attributi sono stati definiti inizialmente come atomici ma alcuni invece contengono al loro interno altri sottoattributi
+- Ad esempio
+	- Data: giorno/mese/anno
+	- Posizione: stato/regione/provincia/città/via
 
 
 

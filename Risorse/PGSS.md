@@ -9,12 +9,12 @@ tags:
 
 ## slide
 ### Lezione 1
-[[Presentazione_PGSS-MedTD_23-24.pdf]]
-[[Sistemi_Servizi_Sanitari_23-24 A.pdf]]
+[[Files/OneDrive_1_1-16-2024/Slide/Lezione 01 - 26-09-2023/Presentazione_PGSS-MedTD_23-24.pdf]]
+[[Files/OneDrive_1_1-16-2024/Slide/Lezione 01 - 26-09-2023/Sistemi_Servizi_Sanitari_23-24 A.pdf]]
 ### Lezione 2
 ### Lezione 3
 ### Lezione 4
-[[PROBLEMA 1.pdf]]
+[[Files/OneDrive_1_1-16-2024/Slide/Lezione 04 - 03-10-2023/Problema_1_Svolgimento/PROBLEMA 1.pdf]]
 ![](https://i.imgur.com/7juhR5k.png)
 ![](https://i.imgur.com/z7BcBpr.pfng)
 ![](https://i.imgur.com/OinreUY.png)
@@ -22,13 +22,13 @@ tags:
 ![](
 
 ### Lezione 5
-[[Formulazione_Modelli_Ottimizzazione 1.pdf]]
-[[Modelli_Ottimizzazione.pdf]]
+[[Files/OneDrive_1_1-16-2024/Slide/Lezione 05 - 04-10-2023/Formulazione_Modelli_Ottimizzazione 1.pdf]]
+[[Files/OneDrive_1_1-16-2024/Slide/Lezione 05 - 04-10-2023/Modelli_Ottimizzazione.pdf]]
 ![](https://i.imgur.com/RULsDZG.png)
 
 ### Lezione 6
-[[CDSS.pdf]]
-[[Decisioni 2.pdf]]
+[[Files/OneDrive_1_1-16-2024/Slide/Lezione 09 - 12-10-2023/CDSS.pdf]]
+[[Files/OneDrive_1_1-16-2024/Slide/Lezione 09 - 12-10-2023/Decisioni 2.pdf]]
 ### Lezione 7
 ### Lezione 8
 ### Lezione 9

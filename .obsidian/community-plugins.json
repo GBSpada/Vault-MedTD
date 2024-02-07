@@ -24,5 +24,7 @@
   "copilot",
   "obsidian-hover-editor",
   "obsidian-annotator",
-  "templater-obsidian"
+  "templater-obsidian",
+  "obsidian-dictionary-plugin",
+  "typing-speed"
 ]

@@ -30,8 +30,8 @@ sistema/apparato: CardioCircolatorio
 
 ## Fisiopatologia
 ![Cause fisiopatologiche edema](https://i.imgur.com/87xafGO.png)
-### Edema non infiammatorio
 
+### Edema non infiammatorio
 - L'edema provocato dalle prime due cause è un fluido povero di proteine detto *trasudato*
 - Si forma in caso di malnutrizione, insufficienza cardiaca, renale ed epatica
 
@@ -41,7 +41,7 @@ sistema/apparato: CardioCircolatorio
 - Può derivare da un ostacolo locale al ritorno venoso [[Trombosi venosa profonda]]
 ##### Generalizzato 
 ![Edema sistemico secondario](https://i.imgur.com/7G2guzX.png)
-- Si verifica ad esempio in casi di [[Insufficienza cardiaca congestizia]] 
+- Si verifica ad esempio in casi di [[Scompenso cardiaco]] 
 	- La compromissione della funzione ventricolare destra provoca stati ematica nel lato venoso del circolo
 #### Riduzione della pressione colloidosmotica plasmatica
 ##### Cause
@@ -66,7 +66,7 @@ sistema/apparato: CardioCircolatorio
 - Riduzione apporto di sale
 - Assunzione di diuretici e di antagonisti dell'aldosterone
 ##### Conseguenze peculiari
-- L'innalzamento dei livelli di ADH può portare ad [[ipoinatremia]] ed edema cerebrale
+- L'innalzamento dei livelli di ADH può portare ad [[Iponatremia]] ed edema cerebrale
 #### Ostruzione linfatica
 - Provoca *linfedema*
 ##### Cause

@@ -32,8 +32,6 @@ sistema/apparato:
 - Lenta somministrazione di liquidi
 - Soluzioni saline ipotoniche o di destrosio al 5%
 
-## Prognosi
-
 
 
 

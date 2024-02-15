@@ -50,7 +50,7 @@ sistema/apparato:
 - Debolezza o paralisi muscolare
 - Formicolii
 - Crampi intestinali e diarrea
-### ECG
+### [[ECG]]
 ![](https://i.imgur.com/4QKY0kv.png)
 - Onde T più strette e alte
 - Intervallo QT più breve

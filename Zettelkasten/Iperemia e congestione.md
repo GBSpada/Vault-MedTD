@@ -22,7 +22,7 @@ sistema/apparato: CardioCircolatorio
 - Aumento transitorio di flusso in seguito ad ischemia
 
 ## Congestione
-> Processo passivo derivante dal ridotto deflusso di sangue da un tessuto
+> Proatelettasicesso passivo derivante dal ridotto deflusso di sangue da un tessuto
 
 - Può essere 
 	- Sistemica
@@ -53,7 +53,7 @@ sistema/apparato: CardioCircolatorio
 #### Congestione epatica
 ##### Acuta
 - La vena centrale e i sinusoidi sono dilatati
-- Gli epatociti c
+- Gli epatociti 
 	- Centrolobulari sono ischemici 
 	- Periportali, siccome meglio ossigenati, possono sviluppare inizialmente una degenerazione grassa
 ##### Cronica passiva

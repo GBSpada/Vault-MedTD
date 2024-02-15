@@ -57,4 +57,4 @@ dev.off()
 
 
 ---
-# Reference: [[Data mining]]
+# Reference: [[Data mining e Bioimmagini - Libri]]

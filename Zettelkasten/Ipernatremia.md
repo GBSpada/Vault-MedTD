@@ -15,6 +15,8 @@ sistema/apparato:
 
 
 ## Eziologia
+
+![[Recording 20240208100334.webm]]
 ### Perdita di acqua
 - Associata a febbre e infezioni delle vie respiratorie che aumentano la frequenza respiratoria e la perdita d'acqua dai polmoni
 - [[Diabete insipido]]
@@ -24,7 +26,7 @@ sistema/apparato:
 ### Aumento acuto di sodio
 - Somministrazione inadeguata di soluzione ipertonica
 	- Fondamentale il ruolo del bicarbonato di sodio nel trattamento dell'acidosi durante, ad esempio, un arresto cardiaco
-- Iperescrezine di aldosterone
+- Iperescrezione di aldosterone
 	- [[iperaldosteronismo primario]]
 - [[Sindrome di Cushing]]
 	- Conseguente eccessiva secrezione di aldosterone
@@ -42,13 +44,6 @@ sistema/apparato:
 ## Trattamento
 - Somministrazione di un liquido isotonico privo di sali
 	- ==Rigorosamente lenta== per scongiurare l'edema
-
-## Prognosi
-
-
-
-
-
 
 
 

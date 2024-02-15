@@ -30,7 +30,7 @@ Tag: #PatologiaGenerale
 [[Amiloidosi]]
 [[Retinoblastoma]]
 [[Leucemie]]
-[[Ipersensibilità immunitaria]]
+[[Ipersensibilità]]
 
 # Patologia II
 ## [[Malattie dei vasi sanguigni]]

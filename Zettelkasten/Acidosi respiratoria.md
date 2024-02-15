@@ -31,7 +31,7 @@ sistema/apparato:
 ### Acuta
 - Spesso causata da una ostruzione delle vie aeree
 - La compensazione renale non è efficace poiché richiede tempo
-	- L'HCO3 è inefficace nel tamponare la CO2
+	- L'HCO3- è inefficace nel tamponare la CO2
 
 ### Cronica
 - Associata a
@@ -70,16 +70,6 @@ sistema/apparato:
 - Se le alterazioni sono a livello della membrana alveolo-capillare è più complesso
 - Il monitoraggio continuo di pH, Pco2, Po2 e HCO3- è fondamentale poiché il margine di trattamento è sottile e si può sfociare rapidamente in uno stato di alcalosi con crisi convulsive e morte
 - Bisogna fare attenzione anche alla somministrazione dell'ossigeno in quanto può deprimere la stimolazione nel momento in cui il pH si alza e la Paco2 diminuisce
-## Prognosi
-
-
-
-
-
-
-
-
-
 
 
 

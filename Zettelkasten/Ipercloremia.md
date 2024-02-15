@@ -17,26 +17,12 @@ sistema/apparato:
 ## Eziologia
 - Spesso associata ad [[Ipernatremia]]
 - Carenza plasmatica di bicarbonato
-	- Nell'[[Acidosi metabolica ipercloremica]]
-
-## Manifestazioni
+	- Nell'[[Acidosi metabolica]]
 
 ## Diagnosi
 - Concentrazione sierica di cloro superiore a 105 mEq/L
 ## Trattamento
 - Si agisce sulla causa sottostante
-
-## Prognosi
-
-
-
-
-
-
-
-
-
-
 
 
 

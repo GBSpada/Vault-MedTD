@@ -14,7 +14,8 @@ sistema/apparato:
 >
 
 ## Fisiopatologia
-- Inibisce i canali per il potassio quindi determina lo spostamento di esso all'esterno della cellula con conseguente ipokaliemia
+- 
+- Inibisce i canali per il potassio quindi determina lo spostamento di esso all'esterno della cellula con conseguente [[Iperkaliemia]]
 ## Eziologia
 - Malnutrizione
 - Acidosi metabolica
@@ -23,7 +24,7 @@ sistema/apparato:
 - Diuretici
 
 ## Manifestazioni
-- Simili all'ipocalcmemia
+- Simili all'[[Ipocalcemia]]
 ## Diagnosi
 - Concentrazione sierica inferiore a 1,5 mEq/L
 

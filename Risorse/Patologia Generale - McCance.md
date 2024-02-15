@@ -42,7 +42,7 @@ tags:
 	- Alto tasso metabolico
 	- Perdita elevata di liquidi per evaporazione dall'elevata superficie corporea
 	- Funzioni renali ancora non del tutto sviluppate 
-- In sintesi, può avvenire una rapida disidratazione anche per cause
+- In sintesi, può avvenire una rapida disidratazione
 ##### Adolescenza
 - Compaiono le prime diversificazioni nell'ACT per lo sviluppo sessuale
 	- Gli individui di sesso maschile presentano una maggiore percentuale di acqua corporea in funzione della crescita muscolare
@@ -52,7 +52,7 @@ tags:
 - Diminuisce la capacità di regolare l'equilibrio sodico e idrico
 	- I reni diventano meno efficienti
 - La sete diminuisce
-- In caso di condizioni infiammatorie o di disidratazione pregressa si accentua tutt
+- In caso di condizioni infiammatorie o di disidratazione pregressa si accentua tutto
 #### Passaggio dell'acqua tra liquido intracellulare e liquido extracellulare
 - è determinato principalmente da forze osmotiche
 	- In condizioni normali l'acqua è in equilibrio
@@ -71,16 +71,15 @@ tags:
 ###### Pressione idrostatica capillare (arteriosa)
 - Facilita il passaggio dell'acqua dal capillare allo spazio interstiziale
 ###### Pressione oncotica capillare (plasmatica)
-- Attrare osmoticamente l'acqua dallo spazio interstiziale verso l'interno del capillare
+- Attrarre osmoticamente l'acqua dallo spazio interstiziale verso l'interno del capillare
 ###### Pressione idrostatica interstiziale
 - Facilita il passaggio dell'acqua verso l'interno del vaso
 ###### Pressione oncotica interstiziale
-- Attrae l'acqua dal capillare all spazio interstiziale
+- Attrae l'acqua dal capillare allo spazio interstiziale
 
 ### Alterazioni degli spostamenti dell'acqua
 #### [[Edema]]
 ### Equilibrio sodico, idrico e del cloruro
-
 - I reni e gli ormoni svolgono un ruolo fondamentale nel mantenimento dell'equilibrio sodico e idrico
 	- Si citano assieme l'equilibrio sodico e quello idrico poiché ==l'acqua segue i gradienti osmotici stabiliti dalle variazioni della concentrazione di sodio==
 	- Dal punto di vista del sodio
@@ -113,11 +112,10 @@ tags:
 - Si percepisce sete quando
 	- La perdita idrica equivale al 2% del proprio peso corporeo
 	- Vi è un aumento dell'osmolalità
-##### Osmorecettori
+###### Osmorecettori
 - L'ipotalamo presenta osmorecettori, essi oltre a regolare la sete stimolano il rilascio di ADH
-##### Barocettori
+###### Barocettori
 - Stimolano il rilascio di ADH in reazione allo stiramento nei grandi vasi e negli atrii
-
 
 ### Alterazioni dell'equilibrio idrico, sodico e del cloruro
 - Visto che il forte rapporto tra l'equilibrio degli elettroliti e quello idrico conviene classificarne le alterazioni in funzione della ==tonicità==
@@ -133,7 +131,7 @@ tags:
 #### Alterazioni ipertoniche
 > Alterazioni in cui l'osmolalità del LEC supera i 294 mOsm ![Cause e conseguenze degli squilibri ipertonici](https://i.imgur.com/ympeaGS.png)
 
-- Porta al raggrinzimento delle cellule
+- Porta al raggrinzamento delle cellule
 ##### Cause principali
 ###### [[Ipernatremia]]
 ###### [[Disidratazione iperosmolare]]
@@ -148,7 +146,7 @@ tags:
 ###### [[Ipocloremia]]
 ###### [[Eccesso di acqua libera]]
 
-### Alterazioni dell'equilibrio di potassio, calcio fosfato e magnesio
+### Alterazioni dell'equilibrio di potassio, calcio, fosfato e magnesio
 #### Potassio
 - Il potassio è il principale elettrolita intracellulare, di seguito alcuni valori
 
@@ -166,11 +164,11 @@ tags:
 		- Le **cellule intercalate** invece riassorbono potassio
 - Stimoli regolatori
 	- Gradiente di concentrazione di potassio a livello del tubulo distale e del dotto collettore
-	- Portata dell tubulo distale e ingresso di sodio nel tubulo distale
+	- Portata del tubulo distale e ingresso di sodio nel tubulo distale
 		- Se aumenta, la concentrazione di k nelle urine distali diminuisce e aumenta il rilascio nel tubulo per compensare
-	- Azione dell'aldosterone
+	- Azione dell'aldosterone 
 	- Variazione di pH (responsabili di acidosi o alcalosi)
-		- Il ruolo principale è svolto dalla idrogeno potassio atpasi ^3bce46
+		- Il ruolo principale è svolto dalla ==idrogeno potassio atpasi== ^3bce46
 			- Scambia un idrogenione con una molecola di potassio
 				- Il pH del LEC si alza
 		- Acidosi
@@ -238,7 +236,9 @@ tags:
 		- Aumentando o diminuendo la ventilazione 
 			- Così facendo viene modulata la concentrazione di CO2
 		- Producendo urina più acida o più alcalina
-			- Fosfato dibasico e ammoniaca legano gli idrogenioni formando fosfato monobasico e ammonio
+			- Fosfato dibasico e ammoniaca legano gli idrogenioni formando fosfato monobasico e ammonio [[Trasporto
+![[Recording 20240208164642.webm]]
+ a livello del tubulo contorto prossimmale.png]]
 			- Il riassorbimento di ione bicarbonato favorisce un equilibrio più alcalino del tampone bicarbonato
 - I tamponi sono sostanze che assorbono gli acidi o le basi in eccesso per ridurre al minimo le fluttuazioni del pH
 - I tamponi esistono come coppie acido-base
@@ -267,36 +267,41 @@ tags:
 #### Teorie sul dolore
 #### Neuroanatomia del dolore
 ##### Nocicettori
-<!--⚠️Imgur upload failed, check dev console-->
-![[Pasted image 20240108200130.png]]
-<!--⚠️Imgur upload failed, check dev console-->
-![[Pasted image 20240108200240.png]]
-##### Vie di nocicezione
-![[Pasted image 20240108200351.png]]
+![](https://i.imgur.com/joGo9i4.png)
 
-![[Pasted image 20240108200532.png]]
+![](https://i.imgur.com/8TsiyVn.png)
+
+
+##### Vie di nocicezione
+![](https://i.imgur.com/5tVB4PR.png)
+
+
+![](https://i.imgur.com/ZEaCYR3.png)
+
 #### Modulazione del dolore
 ##### Vie di modulazione
-<!--⚠️Imgur upload failed, check dev console-->
-![[Pasted image 20240108200748.png]]
+![](https://i.imgur.com/f9ddfoy.png)
+
 ##### Neurotrasmettitori di modulazione del dolore
-<!--⚠️Imgur upload failed, check dev console-->
-![[Pasted image 20240108200819.png]]
-<!--⚠️Imgur upload failed, check dev console-->
-![[Pasted image 20240108200845.png]]
+
+![](https://i.imgur.com/w8M2TJc.png)
+
+
+
+![](https://i.imgur.com/6HCXtmW.png)
 ##### Soglia del dolore e tolleranza al dolore
 #### Descrizioni cliniche del dolore
-<!--⚠️Imgur upload failed, check dev console-->
-![[Pasted image 20240108200906.png]]
+![](https://i.imgur.com/44RsQNm.png)
+
 ##### Dolore acuto
 - Somatico, viscerale, riferito
 ##### Dolore cronico
-<!--⚠️Imgur upload failed, check dev console-->
-![[Pasted image 20240108201044.png]]
-<!--⚠️Imgur upload failed, check dev console-->
-![[Pasted image 20240108201119.png|Condizioni di dolore cronico]]
+![](https://i.imgur.com/igz2wcr.png)
+
+![](https://i.imgur.com/ZQOQc8L.png)
+
 ##### Dolore neuropatico
-#### PediaLtria e percezione del dolore
+#### Pediatria e percezione del dolore
 - Alcuni eventi a livello fetale possono alterare in maniera duratura la percezione del dolore e le reazioni comportamentali
 	- Sensazione dolorifica prolungata
 	- Esposizione prolungata a farmaci analgesici
@@ -348,7 +353,7 @@ tags:
 >			- Aumento della sudorazione
 >			- Vasodilatazione cutanea
 >			- Diminuzione del tono muscolare
->		- Corteccia
+>		- Corteccia (meccanismi volontari)
 
 ##### Meccanismi di produzione del calore
 ###### Reazioni chimiche del metabolismo

@@ -21,7 +21,7 @@ sistema/apparato:
 - Apporto inadeguato di sodio
 ### Condizioni cliniche specifiche
 - [[Sindrome da inappropriata secrezione di ADH]]
-#### Alterazioni ipotoniche
+#### Alterazioni ipotoniche: 
 - Incapacità di riassorbire il sodio da parte dei tubuli distali 
 	- Insufficienza renale oligurica acuta
 	- Insufficienza cardiaca congestizia
@@ -74,12 +74,6 @@ sistema/apparato:
 #### "Clinico"
 - Restrizione idrica, terapia diuretica, integrazione sodica e di urea
 	- Nel caso di somministrazione troppo rapida: [[mielinosi cerebrale]]
-
-
-
-
-
-
 
 
 --- 

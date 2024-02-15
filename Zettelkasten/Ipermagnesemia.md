@@ -13,10 +13,10 @@ sistema/apparato:
 >[!info] Definizione
 >
 
-## Fisiopatologia
+
 ## Eziologia
 - Generalmente dovuta a insufficienza renale
-- Antiacidi conenenti magensio
+- Antiacidi contenenti magnesio
 
 ## Manifestazioni
 - Debolezza muscolare

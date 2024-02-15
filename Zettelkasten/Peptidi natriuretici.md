@@ -15,7 +15,7 @@ Molecola: Ormone
 	- [[Peptide natriuretico cerebrale]]
 	- [[Urodilatina]]
 		- Rilasciata in seguito all'aumento della  pressione arteriosa e del flusso sanguigno renale
--  I primi due sono prodotti dalle cellule mioendocrine rispettivamente atriali e ventricolari
+- I primi due sono prodotti dalle cellule mioendocrine rispettivamente atriali e ventricolari
 	- Rispondono agli aumenti della pressione transmurale atriali: come nell'insufficienza cardiaca
 
 

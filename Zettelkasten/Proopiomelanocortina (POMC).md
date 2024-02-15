@@ -9,10 +9,8 @@ sistema/apparato:
 
 --- 
 
+![](https://i.imgur.com/fQeO90o.png)
 
-
-
-![[Proteolisi della POMC.png]]
 
 --- 
 # Reference:

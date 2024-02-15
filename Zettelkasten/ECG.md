@@ -76,6 +76,7 @@ sistema/apparato:
 6) Potenziale delle fibre del Purkinje
 7) Potenziale del miocardio ventricolare
 
+![](https://i.imgur.com/mUBrLi7.png)
 
 
 --- 

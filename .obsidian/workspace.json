@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "45baa9bdf5938291",
+        "id": "9757bf9cb959c1a5",
         "type": "tabs",
         "children": [
           {
-            "id": "442472e2792c1b4c",
+            "id": "29c0d0a3c0a8dc5d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Risorse/Data mining e Bioimmagini - Libri.md",
+                "file": "Risorse/Patologia clinica - Lezioni, slide e sbobine.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,12 +21,25 @@
             }
           },
           {
-            "id": "4065b82623ff500d",
+            "id": "8039f44224734cd0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Classificazione - Tecniche Alternative.md",
+                "file": "Zettelkasten/Patologia clinica - Rene.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b81bcab5fe4f6584",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Patologia clinica - Malattie cardiovascolari.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -37,16 +50,16 @@
         "currentTab": 1
       },
       {
-        "id": "1cebd8cc8cea5b3f",
+        "id": "33679f5d71e79bba",
         "type": "tabs",
         "children": [
           {
-            "id": "d50367384d2cf441",
+            "id": "267e220630fe3c07",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Libri/Tan - Data MiningAnnotato.pdf"
+                "file": "Files/Patologia Clinica II - Catalano.pdf"
               }
             }
           }
@@ -80,7 +93,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "accuratezza",
+                "query": "ambito",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -89,7 +102,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "45ea08796f45e544",
@@ -118,6 +132,7 @@
       {
         "id": "91675aacfd27c02e",
         "type": "tabs",
+        "dimension": 76.19047619047619,
         "children": [
           {
             "id": "ae4351b16c3fe865",
@@ -136,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Classificazione - Tecniche Alternative.md",
+                "file": "Zettelkasten/Patologia clinica - Rene.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,19 +168,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Classificazione - Tecniche Alternative.md",
+                "file": "Zettelkasten/Patologia clinica - Rene.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
-              }
-            }
-          },
-          {
-            "id": "2d83eb0b493f2e6f",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Zettelkasten/Classificazione - Tecniche Alternative.md"
               }
             }
           },
@@ -186,7 +191,25 @@
             }
           },
           {
-            "id": "6ebb7ac529f31877",
+            "id": "16691d5be7b3f545",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "efa100939263ae26",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Zettelkasten/Patologia clinica - Rene.md"
+              }
+            }
+          },
+          {
+            "id": "978235b3d9c00135",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -196,121 +219,108 @@
                 "searchQuery": ""
               }
             }
-          },
-          {
-            "id": "16691d5be7b3f545",
-            "type": "leaf",
-            "state": {
-              "type": "copilot-chat-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "7b38442f716ade54",
-            "type": "leaf",
-            "state": {
-              "type": "file-properties",
-              "state": {
-                "file": "Zettelkasten/Classificazione - Tecniche Alternative.md"
-              }
-            }
-          },
-          {
-            "id": "43e89b9bdc5048a1",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
-            "id": "6838a4a17b809a1a",
-            "type": "leaf",
-            "state": {
-              "type": "dictionary-view",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
+      },
+      {
+        "id": "39371a1e271841aa",
+        "type": "tabs",
+        "dimension": 23.809523809523807,
+        "children": [
+          {
+            "id": "ed5bf6c530e9f52f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Nota rapida.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 522.5,
+    "width": 776.5,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "command-palette:Open command palette": false,
       "templates:Insert template": false,
       "audio-recorder:Start/stop recording": false,
-      "copilot:Copilot Chat": false,
-      "translate:Open translation view": false,
+      "graph:Open graph view": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
-      "graph:Open graph view": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "translate:Open translation view": false,
+      "copilot:Copilot Chat": false
     }
   },
-  "active": "4065b82623ff500d",
+  "active": "8039f44224734cd0",
   "lastOpenFiles": [
-    "Libri/Tan - Data MiningAnnotato.pdf",
-    "Zettelkasten/Classificazione - Tecniche Alternative.md",
-    "Files/Appello data mining.pdf",
-    "Files/Data mining simo 2.pdf",
-    "Files/Data mining simo 1.pdf",
-    "Data mining simo 2.pdf.crdownload",
-    "Data mining simo 1.pdf.crdownload",
-    "Zettelkasten/Classificazione - Concetti Base, Alberi decisionali, Modelli valutativi.md",
-    "Risorse/Data mining e Bioimmagini - Libri.md",
-    "Zettelkasten/Elettromagnetismo - Lezione 1.md",
-    "Files/Pasted image 20240204185753.png",
-    "Files/Pasted image 20240108200906.png",
-    "Zettelkasten/I dati.md",
-    "Zettelkasten/Esplorazione dei dati.md",
-    "Zettelkasten/Soldi angelo.md",
-    "Zettelkasten/Indice di correlazione di Pearson.md",
-    "Files/TEORIA - BIOINFORMATICA.pdf",
-    "Zettelkasten/Distanza di hamming.md",
-    "Zettelkasten/Teoria Bioinformatica.md",
-    "Risorse/Patologia Generale - McCance.md",
-    "Zettelkasten/Nota rapida.md",
-    "Risorse/PGSS.md",
-    "Files/Gestione e servizi sanitari-teoria.pdf",
-    "Files/Gestione e servizi sanitari-teoria.pdf.crdownload",
-    "Zettelkasten/Robbins markdown.md",
-    "Zettelkasten/Patologie genetica.md",
-    "Files/Recording 20240126172936.webm",
-    "Zettelkasten/inf1.md",
-    "Zettelkasten/ex1.md",
-    "Zettelkasten/nb1.md",
-    "Zettelkasten/Sindrome da apnea ostruttiva durante il sonno.md",
-    "Zettelkasten/Pressioni polmonari.md",
+    "Risorse/Patologia clinica - Lezioni, slide e sbobine.md",
+    "Zettelkasten/Patologia clinica - Malattie cardiovascolari.md",
+    "Zettelkasten/Iperfosfatemia.md",
+    "Zettelkasten/Euristica.md",
+    "Risorse/Genetica - Lezioni e sbobine.md",
+    "Zettelkasten/Metodi di separazione.md",
+    "Zettelkasten/Struttura progetto bioinfo.md",
+    "Zettelkasten/Tecniche immunochimiche.md",
+    "Risorse/Flashcards anatomia.md",
+    "Risorse/Medicina interna - Harrison.md",
+    "Zettelkasten/Ipocloremia.md",
     "Zettelkasten/Ipertermia non febbrile.md",
     "Zettelkasten/Ipotermia.md",
-    "Zettelkasten/Alcalosi metabolica.md",
-    "Zettelkasten/Libro McCance.md",
-    "Files/OneDrive_1_1-16-2024/Slide/Lezione 19 - 09-11-2023/Problema 16.png",
-    "Files/OneDrive_1_1-16-2024/Slide/Lezione 19 - 09-11-2023/Problema 9.png",
-    "Files/OneDrive_1_1-16-2024/Slide/Lezione 18 - 08-11-2023/PGSS18-1.png",
-    "Files/OneDrive_1_1-16-2024/Slide/Lezione 16 - 02-11-2023/Problema 15.png",
-    "Files/OneDrive_1_1-16-2024/Slide/Lezione 15 - 26-10-2023/Problema 13.png",
-    "Files/OneDrive_1_1-16-2024/Slide/Lezione 13 - 24-10-2023/Problema 12 .png",
-    "Zettelkasten/Endocardite di Libman-Sacks.md",
-    "Files/OneDrive_1_1-16-2024/Slide/Lezione 15 - 26-10-2023/Problema 11.png",
-    "Files/OneDrive_1_1-16-2024/Slide/Lezione 13 - 24-10-2023 (1)/Problema 12 .png",
+    "Zettelkasten/Iperkaliemia.md",
+    "Zettelkasten/Ipocalcemia.md",
+    "Zettelkasten/Ipercalcemia.md",
+    "Zettelkasten/Ipofosfatemia.md",
+    "Zettelkasten/Patologia clinica - Rene.md",
+    "Files/Patologia Clinica II - Catalano.pdf",
+    "Zettelkasten/Metabolismo lipoproteine.canvas",
+    "Zettelkasten/Emostasi e trombosi.md",
+    "Zettelkasten/Iperomocisteinemia.md",
+    "Zettelkasten/Mutazione dell'MTHFR.md",
+    "Zettelkasten/Nota rapida.md",
+    "Files/Pasted image 20240215211857.png",
+    "Files/PATOLOGIA CLINICA 1.pdf",
+    "Files/Pasted image 20240215203800.png",
+    "Zettelkasten/Pasted image 20230105191414.png.md",
+    "Zettelkasten/Patologia clinica - Diabete.md",
+    "Zettelkasten/Diabete.md",
+    "Zettelkasten/Insulina.md",
+    "Libri/Fisiologia Medica (F. Conti) (z-lib.org).pdf",
+    "Files/Azione dell'ADH (vasopressina).png",
+    "Zettelkasten/Patologia clinica - Fegato.canvas",
+    "Zettelkasten/Patologia clinica tiroidea.canvas",
     "Zettelkasten/Fisiologia urinario.canvas",
+    "Files/Recording 20240208100334.webm",
+    "Files/Recording 20240126172936.webm",
+    "Files/Recording 20231216232049.webm",
+    "Files/Recording 20240211110139.webm",
+    "Files/Meccanismi di trasporto nei due tipi cellulari dell'epitelio del tubulo contorto distale.png",
+    "Libri/Tan - Data MiningAnnotato.pdf",
+    "Files/Prova anatomia.csv",
+    "Files/Prova anatomia.csv.crdownload",
+    "Zettelkasten/Untitled.canvas",
+    "Files/2023-03-05 15_34_25-Lezione-20221222_143540-Registrazione della riunione.mp4.png",
+    "Files/2023-03-17 12_40_11-New chat.png",
+    "Files/2023-04-19 15_32_50-Riunione in _General_ _ Microsoft Teams.png",
+    "Files/Andamento superficie di sezione vie aeree.png",
+    "Files/Cascata coagulativa.png",
+    "Files/Pasted image 20230903175913.png",
     "Zettelkasten/Mappa Architetture e Sistemi.canvas",
     "Zettelkasten/Fisiologia Digerente.canvas",
-    "Zettelkasten/Metabolismo lipoproteine.canvas",
     "Zettelkasten/Fisiologia endocrino.canvas",
     "Zettelkasten/Emostasi.canvas",
-    "Zettelkasten/Metabolismo lipoproteine___.canvas",
-    "Zettelkasten/Mappa Architetture e Sistemi___.canvas",
-    "Zettelkasten/Fisiologia urinario___.canvas",
-    "Zettelkasten/Fisiologia endocrino___.canvas"
+    "Zettelkasten/Metabolismo lipoproteine___.canvas"
   ]
 }

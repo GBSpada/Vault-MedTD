@@ -1,0 +1,307 @@
+2024-01-28 22:48
+Stato: #Idealezione 
+Tag: #Cardiologia 
+
+---
+# Infarto miocardico
+- **Morte del muscolo cardiaco**
+	- causata da ischemia grave prolungata
+- ***Incidenza e fattori di rischio***
+	- si verifica in ogni fascia di età
+		- 10% in soggetti di età < 40 anni
+		- 45% in soggetti di età < 65 anni
+	- frequenza crescente con l'aumentare dell'età
+	- bianchi e negri colpiti egualmente (tutti ciccioni americani)
+## Patogenesi
+### Occlusione arteriosa coronarica
+- Sequenza degli eventi
+	- una placca ateromasica dell'arteria coronaria subisce un'acuta alterazione
+		- emorragia intramurale
+		- erosione/ulcerazione
+		- rottura o fissurazione
+	- esposizione al collagene subendoteliale
+		- adesione e attivazione piastrinica
+	- vasospasmo (dato da mediatori liberati dalle piastrine)
+	- il *TF* attiva l'emostasi
+	- espansione del trombo fino a occlusione completa del lume vasale
+- nel 10% dei casi, l'IM transmurale non è associato ad aterotrombosi
+	- ==vasospasmo== con o senza aterosclerosi coronarica
+	- ==emboli== dall'atrio sx
+		- in associazione con
+			- fibrillazione atriale
+			- trombo murale sx
+			- vegetazioni dovute a [[endocardite infettiva]]/materiale protesico
+			- emboli paradossi del lato dx del cuore
+	- ischemia senza aterosclerosi e trombosi coronariche significative
+		- vasculiti
+		- anomalie ematologiche
+		- deposizione di amiloide nelle pareti vascolari
+		- dissezione vascolare
+		- accentuata ipertrofia
+		- estrema riduzione della pressione arteriosa sistemica
+		- inadeguata "protezione"
+### Risposta miocardica
+- Riduzione del flusso ematico in una regione del miocardio (*area a rischio*)
+	- ![Arteriografia *post-mortem* di un cuore di un paziente morto di infarto miocardico acuto](https://i.imgur.com/mehAS1g.png)
+	- ischemia
+	- rapida disfunzione miocardica
+	- morte delle cellule muscolari cardiache
+		- compromissione prolungata del sistema vascolare
+- Conseguenze biochimiche
+	- **arresto del metabolismo aerobico**
+		- inadeguata produzione di fosfati ad alta energia
+			- *creatin-fosfato* e *adenosina trifosfato*
+		- accumulo di metaboliti potenzialmente dannosi
+			- *acido lattico*
+		- ==contrattilità miocardica cessante in ca. 1 min dall'esordio clinico di una grave ischemia==
+			- accelerazione dello scompenso cardiaco ancor prima che sopraggiunga la necrosi
+		- perdita di glicogeno
+		- rigonfiamento cellulare e mitocondriale
+		- ![Sequenza temporale dei reperti biochimici iniziali e progressione della necrosi dopo l'esordio di un'ischemia miocardica grave](https://i.imgur.com/W4QgfF5.png)
+	- danno irreversibile dei cardiomiociti
+		- dato solamente da un'ischemia grave (flusso sanguigno ridotto al 10% o meno rispetto alla norma)
+		- durata di almeno 20-30 min
+		- ![Per ca. 30 min dopo l'esordio persino dell'ischemia più grave, il danno miocardico è potenzialmente reversibile. In seguito, insorge una progressiva perdita di vitalità che diviene completa nel giro di 6-12 ore. I benefici della riperfusione sono maggiori quando questa è precoce e si riducono progressivamente quando la riperfusione viene ritardata.](https://i.imgur.com/spbHOdX.png)
+- Caratteristiche cliniche della necrosi
+	- sovvertimento dell'integrità della membrana del sarcolemma
+		- consente la fuoriuscita delle macromolecole intracellulari
+	- lesione della microvascolarizzazione
+	- ![Momento approssimativo di insorgenza di eventi chiave nei cardiomiociti ischemici](https://i.imgur.com/IpWLhi6.png)
+- Evoluzione della necrosi
+	- meccanismo di propagazione
+		- *onda* → fronte e spessore della parete progressivamente più ampi
+	- ![Progressione della necrosi miocardica dopo occlusione arteriosa coronarica. La necrosi inizia in una piccola zona del miocardio al di sotto della superficie endocardica nel centro della zona ischemica. L’area che dipende dal vaso occluso per la perfusione è il miocardio “a rischio” (ombreggiato). Si noti che una zona molto ristretta di miocardio, immediatamente sotto l’endocardio, è risparmiata dalla necrosi, poiché può essere ossigenata per diffusione dal ventricolo.](https://i.imgur.com/AsKzgnf.png)
+	- **regione subendocardica**: regione in cui l'ischemia è più pronunciata
+		- il danno irreversibile dei cardiomiociti nasce a partire da qui
+	- ca. metà dello spessore interessato in 2-3 h
+		- diviene transmurale entro 6 h
+		- ischemia subletale cronica → circolo coronarico maggiormente sviluppato → 12h o più
+- Analisi "topologica" dell'irrorazione
+	- **ramo RDA dell'arteria coronaria sx**
+		- irrora la maggior parte di
+			- apice cardiaco
+			- parete anteriore del ventricolo sx
+			- 2/3 anteriori del setto interventricolare
+	- **arteria "dominante"** (sia CD che CS)
+		- perfonde il terzo posteriore del setto interventricolare
+		- dominanza dx (80% delle persone)
+			- la CD perfonde
+				- intera parete libera ventricolare dx
+				- parete posterobasale del ventricolo sx
+				- terzo posteriore del setto interventricolare
+			- la CS perfonde la parete laterale del ventricolo sx
+	- numerose anastomosi intercoronariche (**circolo collaterale**)
+		- una quantità di sangue relativamente piccola vi fluisce
+		- utili in caso di stenosi progressiva di un'arteria coronaria
+			- il flusso ematico raggiunge aree del miocardio che, altrimenti, sarebbero prive di un'adeguata perfusione
+				- ==rischio d'infarto in territori d'irrorazione paradossi==
+### Tipologie d'infarto
+- ![Distribuzione della necrosi ischemica miocardica correlata alla localizzazione e alla natura della ridotta perfusione. A sinistra, le posizioni degli infarti acuti transmurali che risultano dalle occlusioni delle arterie coronarie maggiori; dall’alto in basso, arterie discendente anteriore sinistra, circonflessa sinistra e coronaria destra. A destra, i tipi di infarto che risultano da un’occlusione parziale o transitoria, ipotensione globale od occlusioni dei piccoli vasi intramurali.](https://i.imgur.com/fsXhjCY.png)
+- ==**Infarto transmurale**== (o ==**infarto miocardico con sopraslivellamento (del tratto) ST**== o ==**STEMI**==)
+	- stragrande maggioranza degl'infarti causati da occlusione di un vaso epicardico
+	- la necrosi interessa quasi tutto lo spessore della parete ventricolare nel territorio d'irrorazione della coronaria interessata
+	- combinazione di
+		- aterosclerosi coronarica cronica
+		- modificazione acuta di una placca
+		- sovrapposizione trombotica
+- ==**Infarto subendocardico (non transmurale)**== (==**infarto senza sopraslivellamento ST**== o ==**NSTEMI**==)
+	- zona meno perfusa del miocardio → più vulnerabile a ogni riduzione del flusso coronarico
+	- interessamento, in genere, del *terzo interno della parete ventricolare*
+	- può conseguire a
+		- rottura di placca
+			- trombosi coronarica che va incontro a lisi (terapeutica o spontanea) ancor prima che la necrosi possa espandersi a tutto lo spessore della parete
+		- stato ipotensivo grave e prolungato
+			- stati di shock in pazienti con coronaropatia stenosante cronica non critica
+- ==**microinfarto multifocale**==
+	- osservabile solo in presenza di patologie che coinvolgono solo i vasi intramurali più piccoli
+	- associato a
+		- microembolizzazione
+		- vasculite
+		- spasmo vascolare
+			- causato da
+				- *catecolamine*
+					- aumento cronotropo e inotropo
+				- ==cocaina== o ==efedrina==
+			- conseguenza
+				- morte cardiaca improvvisa
+				- cardiomiopatia dilatativa ischemica (==**cardiomiopatia takotsubo**== o "sindrome del cuore spezzato")
+### Morfologia
+- ![Evoluzione delle alterazioni morfologiche nell'infarto miocardico](https://i.imgur.com/yc8JVVZ.png)
+- Porzioni comprese
+	- almeno una zona del ventricolo sx
+	- quasi l'intera area di perfusione dell'arteria coronaria occlusa, salvo una stretta rima (ca. 0,1 mm) di miocardio subendocardico che rimane preservata per la diffusione di ossigeno e nutrienti dal lume ventricolare
+	- 15-30% degli IM della coronaria dx si estende
+		- parete libera posteriore della porzione settale del ventricolo sx → parete ventricolare dx (adiacente)
+	- infarto isolato del ventricolo dx
+		- raro (solo 1-3% dei casi)
+- Frequenza di stenosi (e trombosi) critiche di ciascuno dei tre tronchi coronarici principali
+	- **arteria coronaria discendente anteriore sx** (40-45%)
+		- parete anteriore del ventricolo sx, vicino l'apice
+		- parte anteriore del setto interventricolare
+		- apice (circonferenzialmente)
+	- **arteria coronaria dx** (30-40%)
+		- parete inferiore/posteriore del ventricolo sx
+		- porzione posteriore del setto interventricolare
+		- parete libera posteriore/inferiore del ventricolo dx
+	- **arteria coronaria circonflessa sx** (15-20%)
+		- parete laterale del ventricolo sx (ad eccezione dell'apice)
+	- sedi meno consuete
+		- tronco principale dell'arteria coronaria sx
+		- rami secondari (diagonali) dell'arteria coronaria discendente anteriore sx
+		- rami marginali dell'arteria coronaria circonflessa sx
+- Aspetto
+	- dipende dalla durata della sopravvivenza del paziente dopo l'infarto
+	- progressiva sequenza di alterazioni morfologiche della zona interessata
+		- ==tipica necrosi ischemica coagulativa==
+		- infiammazione e processi riparativi
+	- riconoscimento morfologico
+		- nelle prime 12 h nisba
+			- salvo se l'infarto ha preceduto la morte di 2-3h
+				- è possibile evidenziare l'area di necrosi incubando sezioni di tessuto miocardico in una soluzione di *cloruro di trifeniltetrazolio* (aspetto color rosso mattone)
+		- 12-24h dopo l'infarto
+			- di norma riconoscibile macroscopicamente come un'area di **colore rosso-bluastro** → **ristagno ematico**
+		- successivamente, caratteristiche meglio definite e diventa di **colore giallastro** e **consistenza molle**
+		- 10-14 gg dopo l'infarto
+			- IM circondato da una zona iperemica di tessuto di granulazione riccamente vascolarizzato
+		- successive settimane
+			- area danneggiata → **cicatrice fibrosa**
+- Alterazioni istologiche
+	- tipiche alterazioni della necrosi coagulativa rilevabili al microscopio nelle prime 6-12h
+	- ai margini dell'area infartuata
+		- "==**fibrocellule ondulate**=="
+			- conseguenza dell'effetto  che i cardiomiociti ancora vitali hanno sulle fibrocellule muscolari cardiache morte
+				- stiramenti e ripiegamenti
+		- ==**miocitolisi**== (vacuolizzazione dei miociti)
+			- accumuli intracellulari di sale e acqua nel RE
+	- infiammazione acuta
+		- più marcata tra 1° e 13° giorno dopo l'infarto
+	- i macrofagi rimuovono i cardiomiociti necrotici (tra 3° e 10° giorno)
+		1. progressiva sostituzione da tessuto di granulazione intensamente vascolarizzato (evidente tra I e II settimana)
+		2. sostituzione da tessuto fibroso
+			- cicatrizzazione in fase avanzata (VI settimana)
+- Risoluzione
+	- il coinvolgimento di molte cellule infiammatore può pregiudicarla
+	- i vasi sanguigni sopravvivono spesso solo ai margini di un infarto
+		- la risoluzione di un IM procede a partire dai margini verso il centro
+	- una volta guarita, la lesione non è più databile
+### Cambiamenti dovuti alla riperfusione
+- Ripristino del flusso ematico verso il miocardio ischemico minacciato dall'infarto
+	- migliora (a breve e lungo termine)
+		- sopravvivenza
+		- funzione
+	- obiettivo
+		- salvataggio del muscolo cardiaco a rischio
+		- limitazione delle dimensioni dell'infarto
+	- attuazione
+		- interventi chirurgici sulle coronarie
+			- trombolisi
+			- angioplastica
+			- posizionamento di stent
+			- rivascolarizzazione chirurgica con CABG
+		- scopo
+			- sciogliere, alterare meccanicamente o "bypassare" la lesione scatenante
+	- benefici legati a
+		1. rapidità di ripristino del flusso ematico coronarico
+		2. estensione del ripristino e correzione della lesione che ha causato l'infarto
+- Aspetto
+	- ![Infarto miocardico acuto, prevalentemente della porzione posterolaterale del ventricolo sinistro, evidenziato istochimicamente dall’assenza di colorazione con cloruro di trifeniltetrazolio (CTT) nelle aree di necrosi (freccia). Il difetto di colorazione è dovuto alla perdita di enzimi in seguito alla morte cellulare. Si noti l’emorragia del miocardio, a uno dei margini dell’infarto, associata a rottura cardiaca e una cicatrice anteriore (punta di freccia), indicativa di un vecchio infarto. Il campione è orientato con la parete posteriore in alto.](https://i.imgur.com/PZ2NOE1.png)
+		- in genere emorragico
+	- esame microscopico
+		- i miociti danneggiati irreversibilmente contengono ==**bande di contrazione**==
+			- descrizione
+				- "strisce" intracellulari intensamente eosinofile
+				- composte da sarcomeri strettamente addossati gli uni agli altri
+			- derivazione
+				- esagerata contrazione dei sarcomeri nel momento di ripristino della perfusione
+					- membrana danneggiata → esposizione del citoplasma ad alte concentrazioni di ioni calcio citoplasmatici
+- **Lesione da riperfusione**
+	- danno microvascolare
+		- emorragia
+		- rigonfiamento endoteliale → occlude i capillari e può ostacolare la riperfusione (*no-reflow*)
+	- anomalie biochimiche
+		- persistono nei miociti riperfusi per diversi gg o settimane
+			- *stupor cardiaco*: scompenso cardiaco prolungato indotto da un'ischemia a breve termine, che, in genere, regredisce dopo alcuni gg
+			- *ibernazione*: stato di metabolismo e funzionalità ridotti
+- ![Raffigurazione schematica della progressione del danno ischemico miocardico e della sua reversibilità con il ripristino del flusso (riperfusione). I cuori che vanno incontro a brevi periodi di ischemia per non più di 20 minuti, seguiti da riperfusione, non sviluppano necrosi (lesione reversibile). Un’ischemia di breve durata seguita da riperfusione genera uno “stordimento” del miocardio. Se l’occlusione coronarica si prolunga oltre i 20 minuti, il fronte d’onda necrotico progredisce dal subendocardio al subepicardio con il passare del tempo. La riperfusione, se effettuata entro 3-6 ore dall’insorgenza di ischemia, è in grado di recuperare il tessuto ischemico ma vitale. Questo tessuto recuperato può essere però “stordito”. La riperfusione dopo le 6 ore non riduce apprezzabilmente le dimensioni dell’infarto miocardico.](https://i.imgur.com/Hy48ge7.png)
+### Caratteristiche cliniche
+- Sintomi clinici
+	- dolore prolungato al torace
+		- fitta lancinante
+	- polso rapido e debole
+	- sudorazione profusa (==diaforesi==)
+	- nausea e vomito
+		- comuni, possono suggerire il coinvolgimento della parte postero-inferiore del ventricolo
+			- stimolazione secondaria del vago
+	- dispnea
+		- insufficiente contrattilità miocardica → congestione ed edema polmonare
+- Marcatori
+	- pato clinica
+	- ![Marcatori infarto](https://i.imgur.com/hE17L6K.png)
+### Conseguenze e complicanze
+- Metà dei decessi entro 1h dall'inizio dei sintomi
+- Interventi terapeutici
+	- ==*morfina*==
+	- immediata riperfusione per salvare il miocardio
+	- agenti antiaggreganti
+		- ==*aspirina*==
+		- ==*inibitori del recettore P2Y12*==
+		- ==*inibitori di GPIIb/IIIa*==
+		- terapia anticoagulante con
+			- eparina non frazionata
+			- eparina a basso peso molecolare
+			- inibitori diretti della trombina e/o inibitori del fattore Xa
+		- nitrati → vasodilatazione → risoluzione del vasospasmo
+		- ==β-bloccanti==
+			- riduzione della domanda di ossigeno da parte del miocardio
+			- riduzione del rischio di aritmie
+		- farmaci antiaritmici
+		- ==*ACE-inibitori*==
+		- supplemento di ossigeno
+- Complicanze
+	- **disfunzione contrattile**
+		- alterazioni della funzionalità ventricolare sx
+		- produzione di edema polmonare con insufficienza respiratoria
+		- *shock cardiogeno*
+			- 10-15% dei pazienti
+			- grave "insufficienza di pompa"
+				- coinvolgimento di più del 40% del ventricolo sx
+			- mortalità del 70%
+		- [[Scompenso cardiaco|scompenso cardiaco]]
+	- **aritmie**
+		- irritabilità miocardica e/o disturbi della conduzione
+			- aritmie fatali
+	- **rottura del miocardio** (2-4 gg post IM): quando si verifica una necrosi transmurale
+		- tipologia
+			- rottura della parete ventricolare libera
+				- emopericardio e tamponamento cardiaco
+			- rottura del setto interventricolare (meno comune)
+				- DIV acuto con shunt sx-dx
+			- rottura dei muscoli papillari (meno frequente)
+				- grave insufficienza mitralica acuta
+		- sede più frequente
+			- parete anterolaterale a livello medio-ventricolare
+	- **pseudoaneurisma**
+		- parete = epicardio + pericardio parietale aderente
+		- va incontro a rottura
+			- *aneurisma ventricolare*
+				- delimitato da miocardio cicatrizzato
+				- complicanza tardiva di estesi infarti transmurali che subiscono una precoce espansione
+				- rigonfiamento paradossale durante la sistole
+			- *pericardite*
+				- fibrinosa o fibro-emorragica tra 2° e 3° giorno successivo a infarto transmurale
+			- *espansione dell'infarto*
+				- indebolimento del muscolo necrotico
+				- assottigliamento, allungamento e dilatazione abnormi della parete infartuata
+			- *trombosi murale*
+				- anomala contrattilità miocardica regionale + danno endocardico
+					- tromboembolia (potenzialmente)
+			- *disfunzione dei muscoli papillari*
+				- ne deriva la maggior parte dei rigurgiti mitralici
+			- *insufficienza cardiaca progressiva tardiva*
+- Rimodellamento ventricolare
+	- ipertrofia e dilatazione delle parti non infartuate
+	- effetto compensatorio annullato dalla dilatazione ventricolare e dall'aumentata richiesta di ossigeno
+
+---
+# Reference
+[[Cardiopatia ischemica (IHD)]]

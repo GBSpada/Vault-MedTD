@@ -4,13 +4,13 @@
 		{"type":"text","text":"Tessuti extraepatici","id":"29e03fab8aa87bec","x":344,"y":-488,"width":250,"height":88},
 		{"type":"text","text":"Tra chilom e residuo chilo m","id":"22d3caa4f67542cf","x":469,"y":-793,"width":250,"height":134,"color":"4"},
 		{"type":"text","text":"Post rilascio di grassi","id":"290a8e9398bcfa0c","x":357,"y":-202,"width":224,"height":60,"color":"1"},
-		{"type":"file","file":"Zettelkasten/HDL.md","id":"8691299d98288913","x":-720,"y":-82,"width":200,"height":503},
+		{"type":"file","file":"Zettelkasten/HDL.md","id":"8691299d98288913","x":-720,"y":187,"width":200,"height":234},
 		{"type":"file","file":"Zettelkasten/Chilomicroni.md","id":"8b65d3fde01a486e","x":200,"y":529,"width":381,"height":431},
 		{"type":"text","text":"Intestino","id":"a3a034d1037b3e8d","x":-520,"y":695,"width":250,"height":50},
 		{"type":"file","file":"Zettelkasten/Residuo dei chilomicroni.md","id":"d92598ce8788ef4c","x":-200,"y":-1132,"width":321,"height":406},
 		{"type":"file","file":"Zettelkasten/VLDL.md","id":"4cef2d10df1874a3","x":-520,"y":-793,"width":205,"height":472,"color":"1"},
 		{"type":"file","file":"Zettelkasten/IDL.md","id":"34cc9d57a5940e51","x":320,"y":80,"width":341,"height":333,"color":"1"},
-		{"type":"file","file":"Zettelkasten/LDL.md","id":"b0dc470ecbd2c37d","x":-140,"y":-280,"width":256,"height":349,"color":"1"}
+		{"type":"file","file":"Zettelkasten/LDL.md","id":"b0dc470ecbd2c37d","x":-175,"y":-187,"width":256,"height":349,"color":"1"}
 	],
 	"edges":[
 		{"id":"c7323176e380c0e8","fromNode":"055ca25ced9d014c","fromSide":"right","toNode":"4cef2d10df1874a3","toSide":"left","color":"1","label":"ApoB100"},

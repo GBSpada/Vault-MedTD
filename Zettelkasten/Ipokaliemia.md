@@ -50,7 +50,7 @@ sistema/apparato:
 - Gentamicina
 - Carbenicillina
 #### Aumento della concentrazione di bicarbonato
-- Espulsione di bicarbonato a causa dell'elettronegatività del tubulo
+- Espulsione di potassio a causa dell'elettronegatività del tubulo
 
 ## Manifestazioni
 - Ci interessano in caso di ipokaliemia grave (<2,5 mEq/L)
@@ -87,7 +87,7 @@ sistema/apparato:
 - L'ipokaliemia riduce la produzione di insulina
 	- Viene alterata così la sintesi di glicogeno nel fegato
 #### Renali
-- Diminuzione della capacità di concentraizone delle urine
+- Diminuzione della capacità di concentrazione delle urine
 - Fibrosi interstiziale e atrofia tubulare
 
 
@@ -99,7 +99,7 @@ sistema/apparato:
 - Integrazione max 20 mEq/ora, 40-80 mEq/die di potassio
 	- La concentrazione deve essere di max 40mEq/100ml perché il K è irritante per i vasi sanguigni
 	- Nota bene: si risolve anche l'alcalosi indotta grazie al rientro di idrogeno nel LEC 
-## Prognosi
+
 
 
 

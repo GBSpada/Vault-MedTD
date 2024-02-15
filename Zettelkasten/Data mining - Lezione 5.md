@@ -24,4 +24,4 @@ tags:
 
 
 ---
-# Reference: [[Data mining]]
+# Reference: [[Data Mining e Bioimmagini - Lezioni]]

@@ -21,7 +21,7 @@ sistema/apparato:
 - Si parla in genere di **alcalosi metabolica ==ipocloremica==**
 	- Il pH elevato aumenta il legame del calcio con le proteine plasmatiche
 	- Diminuisce di conseguenza il calcio ionizzato metabolicamente attivo 
-		- ==Iperpolarizzazione delle membrane delle cellule eccitabili==
+		- ==Depolarizzazione delle membrane delle cellule eccitabili==
 ### Meccanismi compensatori
 #### Respiratorio
 - Il pH elevato inibisce il centro respiratorio con diminuzione di frequenza e profondità del respiro 
@@ -29,7 +29,6 @@ sistema/apparato:
 #### Cellulare
 - Gli **idrogenioni si spostano dal LIC al LEC** per abbassare il pH
 	- In senso contrario si sposta il potassio portando ad una [[Ipokaliemia]]
-		- La ==perdita di potassio== porta anche ad un
 	- Nel TCD e nel DC vengono escreti più facilmente
 		- Alla loro escrezione corrisponde il ==riassorbimento di ione bicarbonato==
 #### Renale
@@ -40,14 +39,13 @@ sistema/apparato:
 ##### Sodio
 - Poiché alla ==perdita di liquidi== corrisponde ==secrezione di aldosterone==
 	- Questo agisce tramite trasportatori che scambiano il sodio con idrogenioni 
-	- L'escrezione di questi ultimi peggiora così lo stato di acidosi
-
+	- L'escrezione di questi ultimi peggiora così lo stato di alcalosi
 
 ## Eziologia
 - **Vomito prolungato**
 - Aspirazione gastrica
 - Eccessiva assunzione di bicarbonato
-- Iperaldosteronismo con iopokaliemia
+- Iperaldosteronismo con ipokaliemia
 - Terapia diuretica
 ## Manifestazioni
 - Sintomi variegati e dipendenti dalle cause del disturbo
@@ -71,16 +69,13 @@ sistema/apparato:
 - Il cloruro ed il potassio sierico scendono moltissimo
 	- Il secondo si pressoché azzera
 - L'anamnesi è fondamentale
-- 
+
 
 >[!warning] Farmacologia
-> Diuretici come i tiazidici, l'acido etacrinico e la furosemide ==inducono== una lieve alcalosi migliorando l'escrezione di sodio, potassio e cloruro a scapito dell'escrezione di bicarbonato
+> Diuretici come i ==tiazidici==, l'acido etacrinico e la furosemide ==inducono== una lieve alcalosi migliorando l'escrezione di sodio, potassio e cloruro a scapito dell'escrezione di bicarbonato
 ## Trattamento
 - Si somministra una soluzione di cloruro di sodio
 - Se l'alcalosi è indotta da iperaldosteronismo o ipokaliemia si somministra potassio
-
-## Prognosi
-
 
 
 

@@ -44,7 +44,7 @@ sistema/apparato:
 
 ## Benefici della febbre
 - L'aumento della temperatura ha effetti avversi sulla crescita e sulla replicazione dei microrganismi
-- Diminuiscono le concentrazioni sieriche di ferro, zinco e rame
+- Diminuiscono le concentrazioni sieriche di ferro, zinco e rame [[L'azione patogena dei batteri#Sintesi di siderofori]]
 - Il metabolismo passa da essere glicolitico ad essere lipo/proteolitico
 	- Anoressia e sonnolenza riducono a loro volta la domanda di glucosio a livello muscolare
 - Rottura lisosomiale e autodistruzione delle cellule
@@ -54,7 +54,7 @@ sistema/apparato:
 	- La fagocitosi viene potenziata, possibile aumento di interferone antivirale
 
 
-## Suora i 39c
+## Suora i 39°C
 ### Convulsioni
 - Più frequenti nei bambini, specialmente se inferiori ai 5 anni
 	- Nel 75% dei bambini sono inferiori ai 20 minuti

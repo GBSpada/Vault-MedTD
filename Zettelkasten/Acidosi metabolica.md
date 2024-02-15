@@ -21,7 +21,7 @@ sistema/apparato:
 ### Meccanismi compensatori
 > Diminuiscono le concentrazioni di acido carbonico poiché si elimina più CO2 e si riassorbe più ione bicarbonato
 - Il sistema respiratorio reagisce iperventilando
-- I reni espellono l'acido in eccesso come NH+ e acido titolabile (diidrogeno fosfato)
+- I reni espellono l'acido in eccesso come NH4 + e acido titolabile (diidrogeno fosfato) 
 ## Eziologia
 ![](https://i.imgur.com/OzFPO54.png)
 
@@ -64,16 +64,6 @@ $$[Na^+(140)+K^+(4,0)]-[{HCO_3}^-(24)+Cl^-(110)]= ~12 mEq/L$$
 ## Trattamento
 - Soluzione tampone
 - Correzione di carenze elettrolitiche e idriche
-
-## Prognosi
-
-
-
-
-
-
-
-
 
 
 

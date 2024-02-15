@@ -20,15 +20,10 @@ sistema/apparato:
 - Insufficienza renale
 ## Manifestazioni
 - Aumento ponderale
-- Diminuzione dell'ematcrito e della concentrazione proteica plasmatica
+- Diminuzione dell'ematocrito e della concentrazione proteica plasmatica
 - Dilatazione delle vene del collo
 - Comparsa di edema
 	- In extremis edema polmonare con insufficienza cardiaca
-## Diagnosi
-
-## Trattamento
-
-## Prognosi
 
 
 

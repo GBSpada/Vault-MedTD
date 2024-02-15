@@ -20,20 +20,9 @@ sistema/apparato: CardioCircolatorio
 [[Mutazione dell'MTHFR]]
 
 ## Terapia
-- Somministrazione di acido folico, piridossina, vitamina B$_{12}$
-
-
-
-
-
-
-
-
-
-
-
+- Somministrazione di acido folico, piridossina, vitamina $B_{12}$
 
 
 
 --- 
-# Reference
+# Reference:

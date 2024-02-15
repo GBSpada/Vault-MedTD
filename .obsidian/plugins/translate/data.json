@@ -310,14 +310,17 @@
         "az",
         "ba",
         "bg",
+        "bho",
         "bn",
         "bo",
+        "brx",
         "bs",
         "ca",
         "cs",
         "cy",
         "da",
         "de",
+        "doi",
         "dsb",
         "dv",
         "el",
@@ -339,6 +342,7 @@
         "ha",
         "he",
         "hi",
+        "hne",
         "hr",
         "hsb",
         "ht",
@@ -358,6 +362,7 @@
         "kmr",
         "kn",
         "ko",
+        "ks",
         "ku",
         "ky",
         "ln",
@@ -373,6 +378,7 @@
         "ml",
         "mn-Cyrl",
         "mn-Mong",
+        "mni",
         "mr",
         "ms",
         "mt",
@@ -433,7 +439,8 @@
         "zh-Hant",
         "zu"
       ],
-      "version": "1.0.1"
+      "version": "1.1.0"
     }
-  }
+  },
+  "local_glossary": false
 }

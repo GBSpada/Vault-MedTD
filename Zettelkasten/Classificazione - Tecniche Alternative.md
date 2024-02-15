@@ -204,25 +204,134 @@ $$P(X|Y) = \frac{{P(Y|X) \cdot P(X)}}{{P(Y)}}$$
 >Mettiamo la Y prima della X perché vogliamo sapere le probabilità di vittoria nel caso in cui ospiti e non viceversa
 
 ### Applicazioni del teorema di Bayes alla classificazione
+$$P(Y|X) = \frac{{P(X|Y) \cdot P(Y)}}{{P(X)}}$$
 - Con X indichiamo il set di attributi e con Y la variabile di classe
-- Durante la fase di apprendimento dobbiamo ottenere tutte le probabilità P(Y|X) associate ai dati
-- 
+- Durante la fase di apprendimento dobbiamo ottenere tutte le ==probabilità a posteriori P(Y|X)== associate ai dati
+- P(X) per diversi valori di Y è costante e si può ignorare 
+	- Bisogna calcolare essenzialmente la probabilità P(X|Y)
+>[!example]- Esempio:
+> Sull'esempio usato per [[Classificazione - Concetti Base, Alberi decisionali, Modelli valutativi#Algoritmo di Hunt|Hunt]]
+> - Le due Y sono:
+> 	- Yes
+>	- No
+
 ### Classificatore novello
-### Rateo di errore di Bayes
-## Reti neurali
+- Il primo strumento per calcolare la probabilità si basa sull'assunzione che per gli attributi viga una **indipendenza funzionale**
+$$P(Y|X) = \frac{P(Y)\prod_{i=1}^{d}{P(X_i|)Y}}{P(X)}$$
+>[!info] Indipendenza funzionale
+> Dati tre set di variabili casuali X, Y e Z si può dire che X sia in uno stato di indipendenza funzionale da Y se $P(X|Y,Z) = P(X|Z)$
+
+#### Meccanismo 
+- Invece di calcolare la probabilità condizionata della classe per intero la si calcola per i singoli attributi assumendo che siano in una condizione di indipendenza funzionale tra di loro
+#### Per attributi continui
+- Più complicato, ci sono 2 opzioni
+	- Si discretizza ogni attributo e si rimpiazza con l'etichetta assegnata al range ottenuto con la discretizzazione
+	- Si associa all'attributo una funzione di densità (gaussiana) e ne si stimano i parametri partendo dal set di apprendimento
+### Bayesian belief network
+> Fornisce una rappresentazione grafica delle relazioni probabilistiche in un set di variabili casuali
+
+
+![](https://i.imgur.com/FQeBsvU.png)
+
+
+## Reti neurali artificiali
+- Analogamente alla struttura del cervello umano, una ANN (artificial neural network) è composta da un'assemblaggio di nodi e collegamenti diretti.
+- In questa sezione si analizzano una serie di modelli partendo dal più semplice: il percettrone
+
+>[!info] Definizione utile: iperpiano
+>In AI, un iperpiano è uno spazio multidimensionale che divide lo spazio di input in due regioni separate. In particolare, in uno spazio bidimensionale (ad esempio, un piano cartesiano), un iperpiano è una linea che divide il piano in due parti. In uno spazio tridimensionale, un iperpiano è un piano che divide lo spazio in due parti.
+>![](https://i.imgur.com/fd1QODp.png)
+
+
 ### Percettrone 
+> - Un percettrone è un modello costituito da due tipi di nodi: nodi di input e un nodo di output.
+> 	- Ogni nodo di input 
+> 		- è collegato al nodo di output tramite un arco pesato che emula la forza delle sinapsi
+> 		- si occupa semplicemente di trasmettere il valore che riceve
+> 	- Il nodo di output
+> 		- è uno strumento matematico che
+> 			- Calcola una somma pesata
+> 			- Sottrae un fattore di bias
+> 			- Produce un output dipendente dal segno della somma risultante
+
+
+> - **Addestrare** un percettrone significa modulare i pesi degli archi affinché corrispondano alle relazioni tra le variabili di input e quella di output nei dati sottostanti
+
+#### Esempio
+![](https://i.imgur.com/KqC8fRH.png)
+- Il diagramma mostra un data set basato su 3 variabili booleane e una variabile di output
+
+- Per calcolare il valore di Y![](https://i.imgur.com/TpeYfPf.png)
+	- Esegue una somma pesata dei suoi input
+	- Sottrae un fattore di bias **t**
+	- Esamina il segno del risultato
+
+#### Formula
+
+![](https://i.imgur.com/hzOAzBo.png)
+- $w$ sono i pesi degli archi
+- $x_d$ sono i valori degli attributi in input
+- La ==funzione segno== da in output
+	- +1 se l'argomento è positivo
+	- -1 se l'argomento è negativo
+##### Formula ridotta
+$y' = segno(\sum_{i=0}^{n}{w_i x_i})$
+
+#### Fase di apprendimento
+- I parametri di peso sono regolati finché gli output del percettrone sono coerenti con gli output corretti degli esempi di apprendimento![](https://i.imgur.com/Q1Cx9NZ.png)
+	- Il peso $w^{(k)}$ è il parametro associato al collegamento i-esimo alla k-esima iterazione 
+	- $\lambda$ è il rateo di apprendimento
+		- Un parametro tra 0 e 1
+		- Utilizzabile per modulare l'intensità degli aggiustamenti fatti per ogni iterazione
+			- Se uguale a 0 il vecchio peso contribuirà con maggior entità al nuovo peso
+	- $X_{ij}$ è la il valore del j-esimo attributo dell'esempio di apprendimento $x_i$
+##### Errore e casistiche
+- Il nuovo peso è dato dalla combinazione del peso vecchio ed un termine proporzionale all'errore della predizione: $y - y'$
+	- Se la predizione è corretta il peso non cambia 
+	- Se la predizione è scorretta ci sono più casi
+		- Se y = +1 e y' = -1 
+			- L'errore di predizione sarà = 2
+			- Per compensare dobbiamo incrementare il valore dell'output predetto incrementando i pesi di tutti i collegamenti con input positivo e diminuendo i pesi dei link negativi
+		- Se y = -1 e y' = +1
+			- Il contrario
+
 ### Rete neurale artificiale multistrato
-### Caratteristiche delle reti neurali artificiali
-## Macchine a vettori di supporto 
+- Le vere reti sono molto più complesse di un percettrone
+- La differenza di complessità dipende da una serie di fattori
+	- Strati intermedi
+		- Si interpongono tra i nodi di input e quello di output e sono composti da nodi nascosti
+		- In un sistema *feedforward* come il percettrone ogni nodo è connesso soltanto a quelli degli strati successivi
+	- Funzioni di attivazione più complesse
+		- La funzione segno usata precedentemente è molto semplice, permette di gestire solamente problemi con relazioni lineari
+		- Alcune funzioni invece permettono agli strati nascosti e ai nodi di output di produrre valori non lineari nei confronti dei parametri di input
+>[!example] Esempio: funzione XOR
+>![](https://i.imgur.com/Xc39geQ.png)
+>- I dati della funzione XOR non possono essere separati con un percettrone perché usa un solo iperpiano 
+>- Si aumenta quindi il livello di complessità aggiungendo uno strato intermedio
+> ![](https://i.imgur.com/AWR1SMR.png)
+>- I due nodi nascosti possono essere intesi come due percettroni atti a creare gli iperpiani, il nodo di output deve solamente combinarli
 
+#### Apprendimento
+- A differenza del caso precedente ci manca conoscenza *a priori* dei valori che vogliamo prevedere
+- Vogliamo quindi costruire un modello di apprendimento capace di minimizzare gli errori, in particolare la somma al quadrato
+	- $E(w) = \frac{1}{2}\sum_{i=1}{N}(y_i - y'_i)^2$
+		- Questa funzione dipende dai pesi (w) perché la classe y' che vogliamo prevedere è una funzione dei pesi assegnati ai nodi
+- In genere, poiché l'output della rete non è lineare, le soluzioni trovate in funzione dei pesi non sono globalmente ottimali
+	- Servono, in questi casi, gli algoritmi greedy
+##### Funzione di discesa del gradiente
+$$w_j \leftarrow w_j - \lambda \frac{\theta E}{\theta w_j}$$
+- Lambda è il rateo di apprendimento
+- Il secondo termine garantisce che il peso incrementi in una direzione che riduca il valore dell'errore
+- Il problema è che per i nodi intermedi è difficile valutare, senza sapere l'output, l'apprendimento
+	- Per questo è stata ideata la **backpropagation**
+		- Nella prima fase in forward mode i pesi ottenuti dall'iterazione precedente sono usati per calcolare il valore in output di cascun nodo
+		- Nella fase backwards la formula per aggiornare i pesi è applicata al contrario
+		- In poche parole i pesi di k+1 sono aggiornati prima dei pesi di k
+### Caratteristiche di una rete neurale artificiale
 
-
-
-
-
-
-
-
-
----
-# Reference: [[Data mining e Bioimmagini - Libri]]
+## Macchine a supporto vettoriali
+### Iperpiani a massimo margine
+### SVM lineare: caso separabile
+### SVM lineare: caso non separabile
+### SVM non lineare
+### Caratteristiche di una SVM

@@ -12,16 +12,27 @@ tags:
 #### [[Perdita ematica acuta]] 
 #### [[Perdita ematica cronica]]
 ### Anemia emolitiche
-
+- Implicazioni
+	- Emolisi extravascolare
+	- Emolisi intravascolare
 #### [[Sferocitosi ereditaria]]
-#### [[Malattie molitica dovuta a difetti enzimatici dei globuli rossi -deficit di glucosio 6 fosfato deidrogenasi (favismo)]]
+- Citoscheletro e glicocalice
+#### [[Deficit di glucosio 6 fosfato deidrogenasi (favismo)]]
+- Glutatione
 #### [[Anemia falciforme]]
 #### [[Sindromi talassemiche]]
+- $\beta$
+	- Major
+	- Minor
+	- Intermedia
+- $\alpha$
 #### [[Emoglobinuria parossistica notturna]]
 #### [[Anemia immunoemolitica]]
 #### [[Anemia emolitica da traumi dei globuli rossi]]
 ### Anemie da diminuita eritropoiesi
-#### [[Anemia megaloblastiche]] 
+#### [[Anemie megaloblastiche]] 
+##### [[Anemia da carenza di vitamina B12]]
+##### [[Anemia da carenza di folati]]
 #### [[Anemia da carenza di ferro]]
 #### [[Anemia associata a malattie croniche]]
 #### [[Aplasia midollare (anemia aplastica)]]

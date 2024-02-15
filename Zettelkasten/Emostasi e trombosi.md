@@ -27,7 +27,7 @@ sistema/apparato: CardioCircolatorio
 - Nelle sedi di lesioni vascolari traumatiche o infiammatorie ([[vasculite]])
 
 #### Cause di danno all'endotelio
-- Ipertensione, turbolenza del flusso ematico. endotossine batteriche, danni da radiazioni, anomalie metaboliche ([[omocistinemia]], [[ipercolesterolemia]]), assorbimento di tossine prodotte dal fumo di sigaretta
+- Ipertensione, turbolenza del flusso ematico. endotossine batteriche, danni da radiazioni, anomalie metaboliche ([[Iperomocisteinemia]], [[ipercolesterolemia]]), assorbimento di tossine prodotte dal fumo di sigaretta
 ### Stasi o turbolenza del flusso ematico
 > Fattore più importante nello sviluppo dei trombi venosi
 

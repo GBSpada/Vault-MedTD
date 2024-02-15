@@ -40,14 +40,5 @@ sistema/apparato/ambito:
 
 
 
-
-
-
-
-
-
-
-
-
 --- 
 # Reference: [[Patologia Generale - McCance]]

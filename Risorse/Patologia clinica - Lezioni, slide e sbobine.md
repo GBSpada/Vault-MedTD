@@ -27,3 +27,21 @@ Tag: #PatologiaClinica
 ## Patologia clinica II
 [[Patologia clinica II - lezione 2]]
 
+[[Patologia clinica - Fegato.canvas|Patologia clinica - Fegato]]
+
+[[Patologia clinica - Tiroide]]
+
+[[Patologia clinica - Diabete]]
+
+[[Patologia clinica - Rene]]
+
+[[Patologia clinica - Malattie cardiovascolari]]
+
+
+--- 
+# Sbobine
+
+[[Patologia Clinica II - Catalano.pdf]]
+
+
+

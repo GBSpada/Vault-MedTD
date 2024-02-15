@@ -44,11 +44,10 @@ sistema/apparato:
 	- Iper-reflessia
 	- Crisi convulsive e aritmie
 - Segno di Chvosteck
-	- Si percuote il nervo facciale sotto la tempia
-	- Si ottengono la contrazione del naso e del labbro
+	- Percuotendo il nervo facciale sotto la tempia si ottengono la contrazione del naso e del labbro
 - Segno di Trousseau
 	- Contrazione della mano e delle dita quando il flusso di sangue arterioso nel braccio viene interrotto per 5 minuti
-- Borborigmi
+- *Borborigmi*
 - Convulsioni e tetania
 ### ECG
 - Intervallo QT prolungato

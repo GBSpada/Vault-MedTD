@@ -14,7 +14,7 @@ sistema/apparato: []
 >[!info] Definizione
 >
 
-## Fisiopatologia
+
 ## Eziologia
 ### Malassorbimento intestinale
 - Associato ad una carenza di vitamina D
@@ -48,15 +48,5 @@ sistema/apparato: []
 
 
 
-
-
-
-
-
-
-
-
-
-
 --- 
-# Reference
+# Reference: [[Patologia Generale - McCance]]

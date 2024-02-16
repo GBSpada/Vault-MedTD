@@ -108,22 +108,65 @@ graph TD
 ##### ICAM-1
 ##### Il-6
 
-
 ## Marcatori di lesione e funzione miocardica
 ### Indicatori
 #### Precoci
+![](https://i.imgur.com/3VqKGsj.png)
 ##### Creatinchinasi MB
+###### Tempistiche
+- 3-4h aumento
+- 10-12h picco
+- Durata in circolo di 48-72h
+###### Informazioni
+- Direttamente proporzionale alla zona infartuata
+- Bassa specificità (musc scheletrico)
+
 ##### Mioglobina
+###### Tempistiche
+- Insorgenza entro 1-2h
+- Picco ridotto: 6-12h
+###### Caratteristiche
+- Da associare ad anidrasi carbonica III per aumentarne la specificità
 ##### Troponine
+- Picco entro le 20-24h
+- Tieni conto dei limiti
+###### Troponina C
+- Non viene mai dosata perché aspecifica
+###### Troponina T
+- Lega la tropomiosina
+- 240h
+- Dosaggio in 2h
+###### Troponina I
+- 144h
+- dosaggio in soli 10 minuti
 #### Tardivi
 ##### LDH
+- LD1/LD2 specifiche del miocardio
+- Insorgenza tardiva 12-14h
+- Picco 36-48h
+- Durata 7g
 ##### Miosina
+- Catene MHC (isoforme alfa e beta nel miocardio)
+	- Durata 10gg
+- MCL1 - MCL2
+	- Durata 14 gg
 ##### AST/GOT
+- Troppo aspecifico
+- Non fornisce informazioni aggiuntive ai precedenti
 ### Test multiparametrici
-
 ### Marcatori di funzione
 #### ANP 
+- Distensione atriale
 #### BNP
+- Distensione ventricolare
+- Stimoli endocrini
+##### Sintesi simil insulina
+- Pre - proBNP 
+	- Peptide guida
+- pro-BNP
+	- Si divide in
+		- BNP
+		- NT-Pro-BNP
 #### CNP
 #### DNP
 #### Urodilatina

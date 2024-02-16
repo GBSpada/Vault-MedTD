@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "29c0d0a3c0a8dc5d",
+            "id": "8039f44224734cd0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -21,20 +21,7 @@
             }
           },
           {
-            "id": "8039f44224734cd0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/Patologia clinica - Rene.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b81bcab5fe4f6584",
+            "id": "c1e16c2c90421ea2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -50,11 +37,11 @@
         "currentTab": 1
       },
       {
-        "id": "33679f5d71e79bba",
+        "id": "780b27b9fc22eee4",
         "type": "tabs",
         "children": [
           {
-            "id": "267e220630fe3c07",
+            "id": "43f3b08ef686cfdf",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -93,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ambito",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -151,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Patologia clinica - Rene.md",
+                "file": "Zettelkasten/Patologia clinica - Malattie cardiovascolari.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Patologia clinica - Rene.md",
+                "file": "Zettelkasten/Patologia clinica - Malattie cardiovascolari.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -204,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/Patologia clinica - Rene.md"
+                "file": "Zettelkasten/Patologia clinica - Malattie cardiovascolari.md"
               }
             }
           },
@@ -264,10 +251,18 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "8039f44224734cd0",
+  "active": "c1e16c2c90421ea2",
   "lastOpenFiles": [
-    "Risorse/Patologia clinica - Lezioni, slide e sbobine.md",
+    "Files/Patologia Clinica II - Catalano.pdf",
     "Zettelkasten/Patologia clinica - Malattie cardiovascolari.md",
+    "Risorse/Patologia clinica - Lezioni, slide e sbobine.md",
+    "Zettelkasten/Patologia clinica - Rene.md",
+    "Zettelkasten/Mycobacterium tubercolosis.md",
+    "Zettelkasten/Micobatteri.md",
+    "Zettelkasten/Cardio bruno/Stenosi mitralica.md",
+    "Zettelkasten/Ipokaliemia.md",
+    "Zettelkasten/Iperkaliemia.md",
+    "Risorse/Patologia Generale - Robbins.md",
     "Zettelkasten/Iperfosfatemia.md",
     "Zettelkasten/Euristica.md",
     "Risorse/Genetica - Lezioni e sbobine.md",
@@ -279,24 +274,15 @@
     "Zettelkasten/Ipocloremia.md",
     "Zettelkasten/Ipertermia non febbrile.md",
     "Zettelkasten/Ipotermia.md",
-    "Zettelkasten/Iperkaliemia.md",
     "Zettelkasten/Ipocalcemia.md",
     "Zettelkasten/Ipercalcemia.md",
     "Zettelkasten/Ipofosfatemia.md",
-    "Zettelkasten/Patologia clinica - Rene.md",
-    "Files/Patologia Clinica II - Catalano.pdf",
     "Zettelkasten/Metabolismo lipoproteine.canvas",
     "Zettelkasten/Emostasi e trombosi.md",
     "Zettelkasten/Iperomocisteinemia.md",
-    "Zettelkasten/Mutazione dell'MTHFR.md",
-    "Zettelkasten/Nota rapida.md",
     "Files/Pasted image 20240215211857.png",
     "Files/PATOLOGIA CLINICA 1.pdf",
     "Files/Pasted image 20240215203800.png",
-    "Zettelkasten/Pasted image 20230105191414.png.md",
-    "Zettelkasten/Patologia clinica - Diabete.md",
-    "Zettelkasten/Diabete.md",
-    "Zettelkasten/Insulina.md",
     "Libri/Fisiologia Medica (F. Conti) (z-lib.org).pdf",
     "Files/Azione dell'ADH (vasopressina).png",
     "Zettelkasten/Patologia clinica - Fegato.canvas",

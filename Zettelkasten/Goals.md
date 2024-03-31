@@ -6,7 +6,7 @@ kanban-plugin: basic
 
 ## III anno MedTD
 
-- [ ] [[Task III anno I semestre]]
+- [ ] [[Task III anno II semestre]]
 - [ ] Passare one note su obs
 
 

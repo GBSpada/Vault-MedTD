@@ -4,23 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "29fbb11d2dff1de9",
+        "id": "543b7e8181d4d477",
         "type": "tabs",
         "children": [
           {
-            "id": "b04f5dae64754d44",
+            "id": "15edc8fb4c781014",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Risorse/Fisiologia  - Conti Volume 2.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
+          },
+          {
+            "id": "b7cdae641269fd9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Fisiologia gastrointestinale e nutrizione umana.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3dfce4bdf69c6203",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Zettelkasten/Task III anno II semestre.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 387.51103591918945
+    "width": 387.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "4ebe4af6d516db54",
@@ -106,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Zettelkasten/Fisiologia gastrointestinale e nutrizione umana.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Zettelkasten/Fisiologia gastrointestinale e nutrizione umana.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -159,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Zettelkasten/Fisiologia gastrointestinale e nutrizione umana.md"
               }
             }
           },
@@ -219,8 +244,16 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "b04f5dae64754d44",
+  "active": "b7cdae641269fd9e",
   "lastOpenFiles": [
+    "Zettelkasten/Task III anno II semestre.md",
+    "Zettelkasten/2024-03-31.md",
+    "Zettelkasten/Fisiologia gastrointestinale e nutrizione umana.md",
+    "Zettelkasten/Trasportatori del glucosio (GLUT).md",
+    "Zettelkasten/Data path.md",
+    "Risorse/Fisiologia  - Conti Volume 2.md",
+    "Zettelkasten/Fisiologia respiratorio.md",
+    "Risorse/Data mining e Bioimmagini - Libri.md",
     "README.md",
     "Programma cri sett.md",
     "Risorse/Patologia clinica - Lezioni, slide e sbobine.md",
@@ -240,15 +273,7 @@
     "Zettelkasten/Struttura progetto bioinfo.md",
     "Zettelkasten/Tecniche immunochimiche.md",
     "Risorse/Flashcards anatomia.md",
-    "Risorse/Medicina interna - Harrison.md",
-    "Zettelkasten/Ipocloremia.md",
-    "Zettelkasten/Ipertermia non febbrile.md",
-    "Zettelkasten/Ipotermia.md",
-    "Zettelkasten/Ipocalcemia.md",
-    "Zettelkasten/Ipercalcemia.md",
-    "Zettelkasten/Ipofosfatemia.md",
     "Zettelkasten/Metabolismo lipoproteine.canvas",
-    "Zettelkasten/Emostasi e trombosi.md",
     "Files/Pasted image 20240215211857.png",
     "Files/PATOLOGIA CLINICA 1.pdf",
     "Files/Pasted image 20240215203800.png",

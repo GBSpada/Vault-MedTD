@@ -1,11 +1,20 @@
-07-02-2023 11:50
-Stato: #ideaL 
-Tag: #SistemaEndocrino #Fisiologia 
+---
+stato: "#ideaL"
+tags:
+  - Fisiologia
+sistema/apparato:
+  - Endocrino
+Molecola: Ormone
+---
+04-01-2024 04:10
+
+---
 
 - Triiodinotironina, Tiroxina
 - Sintetizzati a partire da
     - Iodinazione di tireoglobulina
 ### Azione ^561d29
+#### GPT
 - Gli ormoni tiroidei (T3 e T4) agiscono sui tessuti bersaglio interagendo con specifici recettori degli ormoni tiroidei (THR) localizzati all'interno delle cellule. 
 - L'interazione tra gli ormoni tiroidei e i recettori nucleari degli ormoni tiroidei modula l'espressione genica e il metabolismo cellulare. 
 	- In particolare, l'ormone T4 viene secreto dalla ghiandola tiroidea in grandi quantità e successivamente viene convertito a T3, l'ormone tiroideo biologicamente attivo, dalle deiodinasi presenti nei tessuti periferici.
@@ -21,3 +30,15 @@ Tag: #SistemaEndocrino #Fisiologia
 			- La crescita cellulare. I
 	- Inoltre, gli ormoni tiroidei sono coinvolti nella regolazione dello sviluppo del sistema nervoso centrale, dell'attività cardiaca e della funzione gastrointestinale. 
 - In sintesi, l'interazione tra gli ormoni tiroidei e le cellule bersaglio avviene attraverso la formazione di un complesso ormone-recettore che attiva la trascrizione genica e regola i processi biologici coinvolti nel metabolismo cellulare e nello sviluppo e funzione di vari tessuti e organi.
+#### Me
+- Nel SNC
+	- Regolano l’mRNA di NPY e POMC nel nucleo arcuato
+	- In maniera analoga al tessuto adiposo bruno dove agisce sulla proteina disaccoppiante 1 (UCP1), nell’ipotalamo aumenta l’attività della UCP2
+	
+
+
+
+
+---
+# Reference:
+[[Fisiologia  - Conti Volume 2]]

@@ -61,6 +61,10 @@ Molecola: Ormone
 - Immagazzinamento dei grassi
 - Trasporto e utilizzazione del glucosio
 - Inibisce la lipolisi
+#### SNC
+- Regolazione dell’omeostasi metabolica
+- In topi carenti di IR a livello cerebrale si è sviluppata rapidamente una condizione di obesità 
+	- L’alterazione, a livello del nucleo aracuato, regolava negativamente la gluconeogenesi
 
 
 ## Regolazione

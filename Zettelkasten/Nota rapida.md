@@ -1,1 +1,3 @@
 Sono un professore di patologia generale e devo interrogare dei miei alunni per capire se sono in grado di effettuare diagnosi complessa e distinguere queste patologie, scrivimi un caso clinico per aiutarmi ad interrogarli
+
+Cosa causa l’emolisi nellla drepanocitosi

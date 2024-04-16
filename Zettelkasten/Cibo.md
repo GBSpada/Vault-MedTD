@@ -13,15 +13,15 @@ Buste freezer
 - [x] Biscotti
 - [ ] Uova
 ### Merenda
-- [ ] Affettati
+- [x] Affettati
 - [x] Yogurt/fiocchi di latte
 - [x] Frutta
 - [x] Frutta secca
 ### Pasti
 #### Proteine
 ##### Carne
-- [x] Carne rossa spezzatino
-- [ ] Sovracosce di pollo
+- [ ] Carne rossa spezzatino
+- [x] Sovracosce di pollo
 - [x] Petto di pollo
 - [x] Bistecche di maiale
 ##### Pesce
@@ -39,12 +39,12 @@ Buste freezer
 
 #### Verdura
 - [x] Per spaghettini/riso
-- [ ] Per pasta e tonno
-- [ ] Per insalata
+- [x] Per pasta e tonno
+- [x] Per insalata
 - [x] Patate
-- [ ] Cipolla
+- [x] Cipolla
 - [x] Aglio
-- [x] Sedano
+- [ ] Sedano
 - [x] Carote
 #### Carbo
 - [x] Pasta

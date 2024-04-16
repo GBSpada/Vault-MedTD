@@ -13,6 +13,7 @@ Molecola: Vitamina
 - Steroide liposolubile
 ## Assunzione ed attivazione
 - Ingerito con gli alimenti o sintetizzato dalla cute in presenza di luce ultravioletta
+	- Olio di fegato di merluzzo, prodotti caseari, margarina, uova
 - Inizialmente nel fegato
 - Infine nel rene
 	- Il [[Paratormone]] permette la formazione del calcitriolo
@@ -23,6 +24,9 @@ Molecola: Vitamina
 ## Regolazione
 ![](https://i.imgur.com/uMNsQtW.png)
 
+## Aspetti patologici: carenza
+- In età infantile: rachitismo
+- In età adulta: osteomalacia
 
 
 
@@ -33,3 +37,5 @@ Molecola: Vitamina
 
 --- 
 # Reference: 
+[[Patologia Generale - McCance]] (meccanismo d’azione)
+[[Fisiologia  - Conti Volume 2]] (aspetto nutrizionale)

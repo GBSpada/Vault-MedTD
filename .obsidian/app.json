@@ -5,7 +5,7 @@
   "spellcheckLanguages": null,
   "useTab": true,
   "alwaysUpdateLinks": true,
-  "promptDelete": false,
+  "promptDelete": true,
   "pdfExportSettings": {
     "includeName": true,
     "pageSize": "A4",
@@ -13,7 +13,7 @@
     "margin": "0",
     "downscalePercent": 64
   },
-  "spellcheck": true,
+  "spellcheck": false,
   "showLineNumber": false,
   "showFrontmatter": false,
   "defaultViewMode": "source",

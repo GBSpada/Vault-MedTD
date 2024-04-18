@@ -9,11 +9,10 @@ Tags: #Fisiologia #IIannoIsemestre
 # Fisiologia sangue e cardiovascolare
 
 
-## [[Fisiologia respiratorio ]]
+# [[Fisiologia respiratorio ]]
 
 
 # [[Fisiologia gastrointestinale e nutrizione umana]]
-# Fisiologia compartimenti idrici e renale
 
 
 

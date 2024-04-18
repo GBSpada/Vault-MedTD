@@ -1,0 +1,12 @@
+- Lo svuotamento gastrico è un processo che va regolato finemente affinché l'intestino tenue riesca ad agire correttamente sul chimo
+	- Neutralizzandone il pH
+	- Equilibrando i soluti portandolo all'isosmolarità
+	- Digerendone il contenuto mediante enzimi
+#### Velocità di svuotamento
+- Lo stomaco è in grado di fare da setaccio in maniera tale da ridurre i tempi di permanenza nel suo lume di tutto ciò che non ne richiede lunga permanenza ai fini della digestione
+- I fattori che rallentano lo svuotamento sono
+	- Stato del chimo
+		- I liquidi passano prima dei solidi
+	- pH del chimo
+		- Al calare del pH i recettori duodenali inducono liberazione di [[secretina]] (inibisce la motilità antrale)
+	- 

@@ -8,19 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "15edc8fb4c781014",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Risorse/Fisiologia  - Conti Volume 2.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "b7cdae641269fd9e",
             "type": "leaf",
             "state": {
@@ -34,12 +21,15 @@
             }
           },
           {
-            "id": "3dfce4bdf69c6203",
+            "id": "4921e6f4637ed555",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Task III anno II semestre.md"
+                "file": "Zettelkasten/s.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -131,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Fisiologia gastrointestinale e nutrizione umana.md",
+                "file": "Zettelkasten/s.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Fisiologia gastrointestinale e nutrizione umana.md",
+                "file": "Zettelkasten/s.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -184,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/Fisiologia gastrointestinale e nutrizione umana.md"
+                "file": "Zettelkasten/s.md"
               }
             }
           },
@@ -230,28 +220,29 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "switcher:Apri selezione rapida": false,
+      "graph:Apri vista grafo": false,
+      "canvas:Crea nuova lavagna": false,
+      "daily-notes:Apri nota del giorno": false,
+      "templates:Inserisci modello": false,
+      "command-palette:Apri riquadro comandi": false,
+      "audio-recorder:Avvia/ferma registrazione": false,
       "templater-obsidian:Templater": false,
-      "switcher:Open quick switcher": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "command-palette:Open command palette": false,
-      "templates:Insert template": false,
-      "audio-recorder:Start/stop recording": false,
-      "graph:Open graph view": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "translate:Open translation view": false,
       "copilot:Copilot Chat": false
     }
   },
-  "active": "b7cdae641269fd9e",
+  "active": "4921e6f4637ed555",
   "lastOpenFiles": [
+    "Zettelkasten/Fisiologia gastrointestinale e nutrizione umana.md",
+    "Zettelkasten/s.md",
+    "Risorse/Fisiologia  - Conti Volume 2.md",
     "Zettelkasten/Task III anno II semestre.md",
     "Zettelkasten/2024-03-31.md",
-    "Zettelkasten/Fisiologia gastrointestinale e nutrizione umana.md",
     "Zettelkasten/Trasportatori del glucosio (GLUT).md",
     "Zettelkasten/Data path.md",
-    "Risorse/Fisiologia  - Conti Volume 2.md",
     "Zettelkasten/Fisiologia respiratorio.md",
     "Risorse/Data mining e Bioimmagini - Libri.md",
     "README.md",
@@ -272,7 +263,6 @@
     "Zettelkasten/Metodi di separazione.md",
     "Zettelkasten/Struttura progetto bioinfo.md",
     "Zettelkasten/Tecniche immunochimiche.md",
-    "Risorse/Flashcards anatomia.md",
     "Zettelkasten/Metabolismo lipoproteine.canvas",
     "Files/Pasted image 20240215211857.png",
     "Files/PATOLOGIA CLINICA 1.pdf",

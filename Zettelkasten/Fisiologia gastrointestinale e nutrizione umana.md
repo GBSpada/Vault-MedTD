@@ -436,9 +436,94 @@ $$Energia\,dissipata\; - \; energia\, chimica\, assunta$$
 	- Muscolo sfintere esterno dell’ano
 - La contrazione degli sfinteri è un processo miogeno che non dipende da stimoli esterni, è il rilasciamento che necessita dell’impulso di neuroni inibitori
 
+
+
 ## Masticazione e deglutizione
+- Gli alimenti, triturati e mescolati con la saliva vengono chiamati ==bolo alimentare==
+### Masticazione
+- Gesto motorio volontario (controllato quindi dalle aree motorie primaria e secondaria)
+    - Nell'estrinsecazione di alcuni movimenti ritmici sono implicati dei circuiti riflessi con sede nella parte inferiore del tronco encefalico
+### Deglutizione
+- Atto motorio ==inizialmente volontario==, subito dopo prosegue come riflesso
+- Si suddivide in più fasi 
+#### 1. Fase orale
+- La punta della lingua, spingendo conro il palato duro, causa lo spostamento del cibo sulla parte posteriore della lingua
+- Nel passaggio verso l'orofaringe devono attuarsi tutta una serie di meccanismi affinché il bolo non segua la traiettoria sbagliata
+	- Non entra nella rinofaringe grazie a 
+		- Contrazione dei muscoli costrittori superiori della faringe
+		- Spostamento verso l'alto del palato molle
+	- Non entra nella trachea grazie a
+		- Inibizione della respirazione
+		- Contrazione dei muscoli laringei con chiusura della glottide
+		- Innalzamento della laringe
+#### 2. Fase faringea
+- Contrazione peristaltica dei muscoli costrittori della faringe (costrittore superiore, medio e inferiore)
+#### 3. Fase esofagea
+- Ingresso del bolo nel lume esofageo permesso dal rilasciamento dello sfintere esofageo superiore
+	- Questo rilasciamento è concomitante alla contrazione dei muscoli costrittori della faringe
+
 ## Motilità esofagea
+- A livello funzionale distinguiamo tre settori
+### Sfintere esofageo superiore
+- Muscolatura ==striata==
+### Corpo dell'esofago
+- Quì si verificano 
+	- Peristalsi primaria
+		- Dopo qualsiasi atto volontario di deglutizione
+		- Indipendentemente dalla presenza di bolo alimentare nella cavità orale
+	- Peristalsi secondaria
+		- Interviene qualora la primaria non riuscisse a spingere il bolo attraverso il corpo dell'esofago
+		- Innescata da meccanocettori della parete esofagea
+### Sfintere esofageo inferiore
+- Muscolatura ==liscia==
+
 ## Motilità gastrica
+![](https://i.imgur.com/adGGeC8.png)
+
+- La suddivisione in base alla funzione motoria dello stomaco differisce da quella anatomica [link]
+- Questa differenza dipende dal fatto che le contrazioni fasiche (propulsive) sono necessarie solo in prossimità dello sfintere pilorico per spingere il contenuto gastrico nel duodeno
+### Serbatoio gastrico
+> Riceve il materiale ingerito ==senza aumento della pressione intragastrica e della distensione della parete== ed esercita pressione costante su tale materiale 
+- A livello anatomico corrisponde al ==fondo== e al ==terzo prossimale del corpo==
+#### Modulazione nervosa
+- Sul *tono contrattile* del serbatoio agiscono sia motoneuroni inibitori che eccitatori 
+- La fine regolazione del rilasciamento è necessaria per garantire il giusto volume e la giusta pressione in base alla quantità di materiale presente
+#### Rilasciamento del serbatoio
+- Alla diminuzione del tono contrattile sono associati tre tipi di rilasciamento 
+##### Rilasciamento recettivo
+- Iniziato dall'==atto deglutitorio==
+- **Riflesso vagale** dipendente dai ==meccanocettori faringei==
+##### Rilasciamento adattativo
+- Conseguente alla distensione del serbatoio gastrico stesso
+- **Riflesso vagovagale** dipendente da recettori di stiramento della parete gastrica
+##### Rilasciamento a feedback
+- Determinato dalla presenza di materiale alimentare nell'intestino tenue
+- Non si sa di preciso da cosa dipenda
+	- O da riflessi nervosi locali a origine intestinale 
+	- O da ormoni liberati da cellule neuroendocrine intestinale
+### Regione distale (pompa antrale)
+- A livello della pompa antrale si verificano ==contrazioni fasiche== originanti da un **pacemaker** localizzato nela metà distale del corpo gastrico
+- I potenziali di azione si propagano rapidamente dal corpo verso l'antro generando una ==contrazione ad anello== 
+	- Il comportamento contrattile però è diverso in base alla fase del potenziale d'azione
+		- **Contrazione primaria**
+			- Ampiezza costante
+			- Associata alla depolarizzazione
+		- **Contrazione secondaria**
+			- Ampiezza variabile
+			- Associata al plateau
+				- Se supera un voltaggio di soglia genera la contrazione secondaria
+- Terminata la contrazione si viene a formare un particolato di circa 1-7mm detto *==chimo gastrico==*
+#### Meccanismo di contrazione
+1. La contrazione primaria raggiunge lo sfintere pilorico causandone la contrazione energica
+2. La contrazione secondaria raggiunge l'antro comprimendone il contenuto 
+3. Attraverso cicli successivi di retropulsione verso il serbatoio il cibo viene
+	- Triturato progressivamente
+	- Mischiato al succo gastrico 
+#### Modulazione nervosa
+- La regolazione in questo settore avviene sull'ampiezza della fase di plateau
+- Motoneuroni eccitatori (ACh) aumentano l'ampiezza della fase di plateau e viceversa (VIP, noradrenalina)
+### Svuotamento gastrico
+
 ## Motilità dell’intestino tenue
 ## Motilità dell’intestino crasso
 # Secrezioni del sistema gastrointestinale

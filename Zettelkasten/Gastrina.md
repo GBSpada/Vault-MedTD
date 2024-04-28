@@ -4,14 +4,15 @@ tags:
   - Fisiologia
 sistema/apparato:
   - Endocrino
+  - Digerente
 Molecola: Ormone
 ---
 04-01-2024 04:10
 
 --- 
-
 ## Struttura e sintesi
 ## Azione
+- 
 ## Regolazione
 
 
@@ -29,4 +30,4 @@ Molecola: Ormone
 
 
 --- 
-# Reference: 
+# Reference: [[Fisiologia  - Conti Volume 2]]

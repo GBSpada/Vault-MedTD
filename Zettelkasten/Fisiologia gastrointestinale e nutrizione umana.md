@@ -2,7 +2,8 @@
 stato: "#ideaL"
 tags:
   - Fisiologia
-sistema/apparato/ambito: Digerente
+sistema/apparato:
+  - Digerente
 ---
 31-03-2024 01:09
 
@@ -523,10 +524,139 @@ $$Energia\,dissipata\; - \; energia\, chimica\, assunta$$
 - La regolazione in questo settore avviene sull'ampiezza della fase di plateau
 - Motoneuroni eccitatori (ACh) aumentano l'ampiezza della fase di plateau e viceversa (VIP, noradrenalina)
 ### Svuotamento gastrico
+- Lo svuotamento gastrico è un processo che va regolato finemente affinché l'intestino tenue riesca ad agire correttamente sul chimo
+	- Neutralizzandone il pH
+	- Equilibrando i soluti portandolo all'isosmolarità
+	- Digerendone il contenuto mediante enzimi
+#### Velocità di svuotamento
+- Lo stomaco è in grado di fare da setaccio in maniera tale da ridurre i tempi di permanenza nel suo lume di tutto ciò che non ne richiede lunga permanenza ai fini della digestione
+- I fattori che rallentano lo svuotamento sono
+	- **Stato di materia del chimo**
+		- I liquidi passano prima dei solidi
+	- **pH del chimo**
+		- Al calare del pH i recettori duodenali inducono liberazione di [[Secretina]] (inibisce la motilità antrale)
+	- **Contenuto calorico**
+		- Alimenti ad alto contenuto calorico (lipidici) attraversano più lentamente il duodeno
+		- La segnalazione avviene mediante una serie di molecole in base al macronutriente
+			- Se sono presenti lipidi
+				- [[Colecistochinina]]
+				- [[Peptide inibitorio gastrico]]
+			- Se sono presenti protidi: *riflesso enterogastrico*
+				- [[Gastrina]]
 
 ## Motilità dell’intestino tenue
+- Il contenuto alimentare transita grazie a 3 categorie di movimenti intestinali 
+### Motilità interdigestiva e complesso motorio migrante
+- Per periodo interprandiale o interdigestivo si intende il lasso di tempo che intercorre ==tra la fine dell'assorbimento di un pasto e l'inizio del prossimo==
+#### Processo
+- In questa fase a livello dello stomaco distale originano le cosiddette *contrazioni da fame* (perché associate a sensazione di fame) del *==complesso motorio migrante (MMC)==*
+- Mano mano che il *fronte d'attività* (segmento interessato dal MMC) prosegue verso l'ileo diminuisce l'intensità della contrazione
+- Ogni 80-120 minuti termina un fronte di attività nell'ileo e ne inizia uno nello stomaco
+#### Regolazione
+- Il complesso motorio si interrompe bruscamente con l'inizio di un pasto
+	- Questo suggerisce la natura ormonale del segnale
+	- Il prosieguo però dipende strettamente dal SNE in quanto lesioni del SNA non causano
+- Una molecola implicata nella segnalazione è la *==motilina==*
+
+>[!warning] Circolazione enteroepatica degli acidi biliari:
+>Alla presenza di MMC nell'intestino sono associate ==contrazioni della cistifellea==.
+>Il rilascio di bile ed il suo conseguente riassorbimento a livello dell'ileo in questa fase fanno si che ==non aumenti troppo la concentrazione dei suddetti acidi biliari nella colecisti==
+
+### Motilità digestiva
+![](https://i.imgur.com/iTxs2qV.png)
+
+- Qualora inizi un pasto la motilità trasla verso un assetto ==digestivo==
+	- Il focus sull'ultimo termine è dato dal fatto che il movimento caratteristico è il rimescolamento e non la propulsione
+#### Processo
+- La contrazione della muscolatura circolare lungo tutto l'intestino causa la formazione di unità elementari ==segmento recettivo/segmento propulsivo/segmento recettivo==
+- Nei segmenti recettivi, grazie alla propulsione bidirezionale (orale/aborale) avviene la segmentazione del chimo   
+>[!help] Se la propulsione avviene in entrambe le direzioni come fa il contenuto alimentare a proseguire in direzione aborale?
+>La frequenza dei potenziali pacemaker decresce mano mano che si prosegue in direzione aborale
+#### Regolazione
+- L'insorgere ed il prosieguo di questa motilità è dato da efferenze vagali
+
+### Propulsione di massa
+- Contrazioni energiche e durature causate per lo più da fenomeni nocivi
+	- Parassiti luminali
+	- Enterotossine batteriche
+	- Irritazione chimica della tonaca mucosa intestinale
+	- Reazioni allergiche
+- Si verificano anche in condizioni normale 2-3 volte al giorno
+- Associate a crampi
+
 ## Motilità dell’intestino crasso
+- L'intestino crasso, a differenza dei segmenti precedenti del tratto gastrointestinale, mescola il contenuto anche di pasti differenti 
+	- Questo poiché la permanenza del contenuto alimentare al suo interno va dalle 36 alle 48 ore
+### Cieco e colon ascendente
+- Il ruolo funzionale di questa regione, visti i ==tempi di transito relativamente brevi==, è quello di ==accogliere grosse quantità di materiale== senza aumentare necessariamente le pressioni 
+- Si verifica peristalsi retrograda (oltre a quella consueta ortograda)
+	- Lo stimolo è dato da efferenze del trasverso
+	- Necessaria a regolare la velocità di transito
+
+
+>[!info] Riflesso gastrocolico
+>In corrispondenza dei pasti aumentano i movimenti di segmentazione lungo tutto il tratto digerente, in questo caso aumentano i movimenti di massa del discendente in seguito al rilascio di materiale attarverso la valvola ileocecale
+### Colon trasverso e colon discendente
+#### Trasverso
+- In esso il materiale permane ==fino a 24 ore==
+	- Questo tempo lentissimo di transito ne suggerisce il ==ruolo fondamentale== per ciò che concerne l'assorbimento di acqua ed elettroliti e l'accumulo di materiale fecale
+- La lentezza del transito è garantita da un particolare tipo di segmentazione detto ***austrazione*** (dalle sacculazioni tipiche: ==haustra coli==)
+	- Le contrazioni ad anello fanno si che il contenuto venga spinto in entrambe le direzioni 
+	- Il prosieguo in direzione aborale è dato dalla migrazione delle ==haustra che sono quindi strutture dinamiche==
+#### Discendente
+- Si occupa principalmente di condurre le feci verso la regione successiva
+- ==Movimenti di massa==
+### Regione rettosigmoidea e canale anale
+- In questo segmento la muscolatura è molto più contorta
+- - Nello specifico, i muscoli coinvolti sono detti *==muscoli elevatori dell'ano==* e fanno parte del pavimento pelvico (eccetto lo sfintere esterno dell'ano)
+- Il loro ruolo fisiologico è la *==**continenza**==* e necessita di coordinazione tra le strutture coinvolte
+	- Il ==muscolo puborettale== funge da valvola stringendo il lume del retto nell'angolo che si crea tra l'unione del retto ed il canale anale
+	- Lo ==sfintere esterno== è striato e quindi volontario
+	- Lo ==sfintere interno== è liscio ed è un prolungamento della muscolatura del retto
+- L'area è riccamente innervata e genera ==efferenze sensitive== di vario genere
+	- Nel ==retto== sono presenti, analogamente ai segmenti intestinali precedenti, ==meccanocettori== per rilevare l'eventuale stiramento dato dalla presenza di contenuto fecale: *riflesso rettoanale*
+	- Nel tratto terminale sono presenti anche numerosi ==termocettori, barocettori e nocicettori== che forniscono informazioni più dettagliate sulle feci
+#### Defecazione
+- La distensione del retto causa il rilascio di strutture muscolari autonome e fa si che il controllo passi allo sfintere esterno (volontario)
+##### Centri nervosi implicati
+- Centro sopraspinale della defecazione
+	- Nel ponte, vicino al centro della minzione
+- Centro anospinale
+	- A livello midollare, si occupa del controllo della moilità anorettale 
+	- Si estende da T10 a S2
+		- Da T10 a L2 porta efferenze a
+			- Nervi ipogastrici (==simpatici==)
+			- Nervi colici lombari (==simpatici==)
+		- Da S1 a S2 invece
+			- Nervi pudendi interni (motori somatici)
+			- Nervi pelvici (parasimpatico sacrale)
+>[!warning] Ruolo delle varie componenti
+>- Le proiezioni simpatiche inibiscono la muscolatura del retto ed eccitano lo sfintere interno
+>- Le proiezioni parasimpatiche il contrario
+>- Le proiezioni motorie somatiche regolano lo sfintere striato
+##### Meccanismo
+- Il programma motorio della defecazione è il seguente:
+	1. Rilascio dello sfintere esterno e degli elevatori dell'ano
+	2. Stimolazione eccitatoria del diaframma e dei muscoli addominali
+- In questo caso si ha peristalsi intstinale terminale e allargamento dell'angolo ret
+
 # Secrezioni del sistema gastrointestinale
+## Secrezione salivare
+### Organizzazione morfofunzionale
+### Funzioni della saliva
+#### Lubrificazione
+#### Protezione
+#### Digestione
+### Composizione della saliva
+#### Acqua ed elettroliti
+#### Composti organici
+### Regolazione della secrezione salivare
+#### Ruolo del sistema nervoso autonomo 
+#### Regolazione della secrezione
+## Secrezione gastrica
+## Secrezione pancreatica
+## Secrezione biliare
+## Secrezione intestinale
 # Digestione e assorbimento
 
 
@@ -545,3 +675,4 @@ $$Energia\,dissipata\; - \; energia\, chimica\, assunta$$
 
 --- 
 # Reference:
+[[Fisiologia  - Conti Volume 2]]

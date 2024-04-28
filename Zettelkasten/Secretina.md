@@ -12,6 +12,8 @@ Molecola: Ormone
 
 ## Struttura e sintesi
 ## Azione
+- Inibisce la motilità antrale
+- Aumenta la costrizione pilorica
 ## Regolazione
 
 

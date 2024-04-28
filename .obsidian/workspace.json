@@ -33,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/s.md",
+                "file": "Zettelkasten/Fisiologia gastrointestinale e nutrizione umana.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/s.md",
+                "file": "Zettelkasten/Fisiologia gastrointestinale e nutrizione umana.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -174,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/s.md"
+                "file": "Zettelkasten/Fisiologia gastrointestinale e nutrizione umana.md"
               }
             }
           },
@@ -191,7 +190,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       },
       {
         "id": "39371a1e271841aa",
@@ -234,10 +233,22 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "4921e6f4637ed555",
+  "active": "b7cdae641269fd9e",
   "lastOpenFiles": [
-    "Zettelkasten/Fisiologia gastrointestinale e nutrizione umana.md",
     "Zettelkasten/s.md",
+    "Zettelkasten/Fisiologia gastrointestinale e nutrizione umana.md",
+    "Zettelkasten/hlp1.md",
+    "Zettelkasten/Immunoglobuline.md",
+    "Zettelkasten/IgG.md",
+    "Zettelkasten/Gastrina.md",
+    "Zettelkasten/Secretina.md",
+    "Zettelkasten/Insulina.md",
+    "Zettelkasten/Colecistochinina.md",
+    "Zettelkasten/Peptide inibitorio gastrico.md",
+    "Templates/Idea Ormone.md",
+    "Zettelkasten/Progetto AI e ML.md",
+    "Risorse/Sbobine Barni - Anatomia II.md",
+    "Zettelkasten/Progetto AI.md",
     "Risorse/Fisiologia  - Conti Volume 2.md",
     "Zettelkasten/Task III anno II semestre.md",
     "Zettelkasten/2024-03-31.md",
@@ -251,18 +262,6 @@
     "Zettelkasten/Patologia clinica - Malattie cardiovascolari.md",
     "Files/Patologia Clinica II - Catalano.pdf",
     "Zettelkasten/Patologia clinica - Rene.md",
-    "Zettelkasten/Mycobacterium tubercolosis.md",
-    "Zettelkasten/Micobatteri.md",
-    "Zettelkasten/Cardio bruno/Stenosi mitralica.md",
-    "Zettelkasten/Ipokaliemia.md",
-    "Zettelkasten/Iperkaliemia.md",
-    "Risorse/Patologia Generale - Robbins.md",
-    "Zettelkasten/Iperfosfatemia.md",
-    "Zettelkasten/Euristica.md",
-    "Risorse/Genetica - Lezioni e sbobine.md",
-    "Zettelkasten/Metodi di separazione.md",
-    "Zettelkasten/Struttura progetto bioinfo.md",
-    "Zettelkasten/Tecniche immunochimiche.md",
     "Zettelkasten/Metabolismo lipoproteine.canvas",
     "Files/Pasted image 20240215211857.png",
     "Files/PATOLOGIA CLINICA 1.pdf",

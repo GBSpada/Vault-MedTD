@@ -642,13 +642,63 @@ $$Energia\,dissipata\; - \; energia\, chimica\, assunta$$
 
 # Secrezioni del sistema gastrointestinale
 ## Secrezione salivare
+> La saliva è il risultato di un'attività sinergica di un gruppo eterogeneo di ghiandole esocrine dette ghiandole salivari
+
+- Caratteristiche peculiari 
+	- Unica secrezione regolata quasi completamente per via nervosa
+	- Simpatico e parasimpatico svolgono la stessa funzione (anche se il parasimpatico genera una stimolazione di entità molto maggiore)
 ### Organizzazione morfofunzionale
+Immagini
+#### Macroscopicamente
+| Ghiandola        | Tipo istologico | Secrezione   | Saliva prodotta (% su totale) |
+| ---------------- | --------------- | ------------ | ----------------------------- |
+| Parotide         | Sieroso         | Acquosa      | 20                            |
+| Sottomandiboalre | Misto           | Poco viscosa | 70                            |
+| Sottolinguale    | Mucoso          | Viscosa      | 5                             |
+| Ghiandole minori |                 |              | 5                             |
+#### Microscopicamente
+- Ogni ghiandola salivare è data da un insieme di unità funzionali dette *salivoni* composte da
+	- Un **adenomero**
+		- Le cellule acinose che lo compongono sono circondate da ==cellule mioepiteliali==
+		- In esso viene prodotta la ==saliva iniziale==
+	- Un **dotto intercalare**
+		- In esso la composizione ionica è simile a quella del plasma  
+	- Un **dotto striato**
+		- Costituito da un epitelio colonnare simile a quello del tubulo renale impermeabile all'acqua
+		- La composizione ionica varia in quanto si verificano importanti scambi ionici a scapito di un trasporto di acqua quasi nullo: ==saliva iposmotica==
+		- Ad esso fa seguito il *dotto escretore* che però è già una struttura esterna al salivone
 ### Funzioni della saliva
 #### Lubrificazione
+- Essa, mediata principalmente dal muco e dall'acqua permette al cibo di divenire ==bolo== e ne permette una ==deglutizione non traumatica==
+- Oltre ad agire sul cibo la saliva permette una ==sciolta articolazione delle parole== e mantenendo la cavità orale umida ==inibisce la sete==
 #### Protezione
+- La saliva protegge da numerosi agenti lesivi 
+	- Acidi e sostanze chimiche
+		- Funge da tampone e diluisce
+		- ==Prima del vomito aumenta infatti la secrezione==
+	- Microorganismi
+		- [[Lisozima-muramidasi]] 
+		- Lattoferrine (chelano il ferro [[L'azione patogena dei batteri#Il ferro]]
+		- Glicoproteina legante le immunoglobuline A
+			- Unendosi a queste ultime forma le ==[[IgA]] secretorie== 
+- Coadiuva inoltre la ==riparazione tissutale==
+	- La saliva contiene [[EGF]] (prodotto principalmente dalle ghiandole sottomandibolari)
+	- Nel caso di lesioni della mucosa orale, l'EGF si lega ai suoi recettori presenti sul versante basolaterale della membrana plasmatica delle cellule epiteliali facilitando la riparazione
+
 #### Digestione
+- La saliva, grazie al suo contenuto enzimatico, è in grado di digerire solamente carboidrati e lipidi
+##### Carboidrati
+- L'enzima in questione è la *ptialina*
+	- $\alpha$ amilasi funzionalmente identica a quella pancreatica
+	- ==Scinde i legami interni $\alpha$ 1-4 glicosidici== con produzione di maltosio, maltotriosio e destrine
+	- Viene ==denaturato a pH inferiori a 4== ma mostra attività nei segmenti superiori dello stomaco poiché il rimescolamento del bolo con i succhi è un processo abbastanza lento
+		- Può digerire così fino al 75% degli amidi ingeriti
+- In assenza della ptialina la digestione è resa comunque possibile dagli enzimi pancreatici
+##### Lipidi
+- La *lipasi linguale* viene secreta dalle ==**ghiandole linguali soperiori (di von ebner)**== 
+	- Non viene inattivata dal pH dello stomaco              
 ### Composizione della saliva
-#### Acqua ed elettroliti
+
 #### Composti organici
 ### Regolazione della secrezione salivare
 #### Ruolo del sistema nervoso autonomo 

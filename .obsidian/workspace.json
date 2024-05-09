@@ -19,19 +19,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "1011ca82db0a69cd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/Gastrina.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
         ]
       },
@@ -49,21 +36,6 @@
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "ba450370d9fcecd2",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Zettelkasten/Fisiologia Digerente.canvas",
-                "viewState": {
-                  "x": 399.9921304603264,
-                  "y": 288.98567336312846,
-                  "zoom": -0.4751967083404984
-                }
               }
             }
           }
@@ -97,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ptialina",
+                "query": "callicrein",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -155,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/s.md",
+                "file": "Zettelkasten/Fisiologia gastrointestinale e nutrizione umana.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/s.md",
+                "file": "Zettelkasten/Fisiologia gastrointestinale e nutrizione umana.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -208,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/s.md"
+                "file": "Zettelkasten/Fisiologia gastrointestinale e nutrizione umana.md"
               }
             }
           },
@@ -225,7 +197,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 7
       },
       {
         "id": "39371a1e271841aa",
@@ -254,13 +226,13 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "audio-recorder:Start/stop recording": false,
+      "switcher:Apri selezione rapida": false,
+      "graph:Apri vista grafo": false,
+      "canvas:Crea nuova lavagna": false,
+      "daily-notes:Apri nota del giorno": false,
+      "templates:Inserisci modello": false,
+      "command-palette:Apri riquadro comandi": false,
+      "audio-recorder:Avvia/ferma registrazione": false,
       "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
@@ -268,15 +240,33 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "4921e6f4637ed555",
+  "active": "b7cdae641269fd9e",
   "lastOpenFiles": [
-    "Zettelkasten/Fisiologia gastrointestinale e nutrizione umana.md",
     "Zettelkasten/s.md",
+    "Zettelkasten/Fisiologia gastrointestinale e nutrizione umana.md",
+    "Zettelkasten/Statistica per python.md",
+    "Risorse/Data mining e Bioimmagini - Libri.md",
+    "Zettelkasten/Classificazione - Tecniche Alternative.md",
+    "Risorse/Fisiologia - Sbobine Angelone.md",
+    "Files/LEZIONE 21 - ANGELONE.pdf",
+    "Files/LEZIONE 20 - ANGELONE.pdf",
+    "Risorse/Fisiologia - Slide Angelone.md",
+    "Files/pancreas endocrino.pdf",
+    "Zettelkasten/Gastrina.md",
+    "Zettelkasten/Somatostatina.md",
+    "Zettelkasten/GH.md",
+    "Zettelkasten/Senza nome.md",
+    "Zettelkasten/Robbins markdown.md",
+    "Zettelkasten/Bradichinine.md",
+    "Zettelkasten/Chinine.md",
+    "Zettelkasten/Emostasi.md",
+    "Files/Fattori coagulazione.png",
+    "Zettelkasten/Emostasi.canvas",
+    "Files/Cascata coagulativa.png",
     "Zettelkasten/Fisiologia Digerente.canvas",
     "Zettelkasten/Nota rapida.md",
     "Zettelkasten/Il sacculo o parete cellulare batterica.md",
     "Zettelkasten/L'azione patogena dei batteri.md",
-    "Zettelkasten/Gastrina.md",
     "Zettelkasten/hlp1.md",
     "Zettelkasten/Immunoglobuline.md",
     "Zettelkasten/IgG.md",
@@ -285,17 +275,6 @@
     "Zettelkasten/Colecistochinina.md",
     "Zettelkasten/Peptide inibitorio gastrico.md",
     "Templates/Idea Ormone.md",
-    "Zettelkasten/Progetto AI e ML.md",
-    "Risorse/Sbobine Barni - Anatomia II.md",
-    "Zettelkasten/Progetto AI.md",
-    "Risorse/Fisiologia  - Conti Volume 2.md",
-    "Zettelkasten/Task III anno II semestre.md",
-    "Zettelkasten/2024-03-31.md",
-    "Zettelkasten/Trasportatori del glucosio (GLUT).md",
-    "Zettelkasten/Data path.md",
-    "Zettelkasten/Fisiologia respiratorio.md",
-    "Risorse/Data mining e Bioimmagini - Libri.md",
-    "README.md",
     "Files/Patologia Clinica II - Catalano.pdf",
     "Zettelkasten/Metabolismo lipoproteine.canvas",
     "Files/Pasted image 20240215211857.png",
@@ -311,19 +290,13 @@
     "Files/Recording 20231216232049.webm",
     "Files/Recording 20240211110139.webm",
     "Files/Meccanismi di trasporto nei due tipi cellulari dell'epitelio del tubulo contorto distale.png",
-    "Libri/Tan - Data MiningAnnotato.pdf",
-    "Files/Prova anatomia.csv",
-    "Files/Prova anatomia.csv.crdownload",
     "Zettelkasten/Untitled.canvas",
     "Files/2023-03-05 15_34_25-Lezione-20221222_143540-Registrazione della riunione.mp4.png",
     "Files/2023-03-17 12_40_11-New chat.png",
     "Files/2023-04-19 15_32_50-Riunione in _General_ _ Microsoft Teams.png",
     "Files/Andamento superficie di sezione vie aeree.png",
-    "Files/Cascata coagulativa.png",
-    "Files/Pasted image 20230903175913.png",
     "Zettelkasten/Mappa Architetture e Sistemi.canvas",
     "Zettelkasten/Fisiologia endocrino.canvas",
-    "Zettelkasten/Emostasi.canvas",
     "Zettelkasten/Metabolismo lipoproteine___.canvas"
   ]
 }

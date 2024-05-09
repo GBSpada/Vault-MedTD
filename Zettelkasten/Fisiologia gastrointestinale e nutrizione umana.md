@@ -541,7 +541,7 @@ $$Energia\,dissipata\; - \; energia\, chimica\, assunta$$
 			- Se sono presenti lipidi
 				- [[Colecistochinina]]
 				- [[Peptide inibitorio gastrico]]
-			- Se sono presenti protidi: *riflesso enterogastrico*
+			- Se sono presenti protidi: *riflesso enterogastrico* ^baf3f6
 				- [[Gastrina]]
 
 ## Motilità dell’intestino tenue
@@ -596,6 +596,9 @@ $$Energia\,dissipata\; - \; energia\, chimica\, assunta$$
 
 >[!info] Riflesso gastrocolico
 >In corrispondenza dei pasti aumentano i movimenti di segmentazione lungo tutto il tratto digerente, in questo caso aumentano i movimenti di massa del discendente in seguito al rilascio di materiale attarverso la valvola ileocecale
+
+^1cf683
+
 ### Colon trasverso e colon discendente
 #### Trasverso
 - In esso il materiale permane ==fino a 24 ore==
@@ -657,6 +660,8 @@ Immagini
 | Sottolinguale    | Mucoso          | Viscosa      | 5                             |
 | Ghiandole minori |                 |              | 5                             |
 #### Microscopicamente
+![](https://i.imgur.com/aJphktc.png)
+
 - Ogni ghiandola salivare è data da un insieme di unità funzionali dette *salivoni* composte da
 	- Un **adenomero**
 		- Le cellule acinose che lo compongono sono circondate da ==cellule mioepiteliali==
@@ -664,9 +669,11 @@ Immagini
 	- Un **dotto intercalare**
 		- In esso la composizione ionica è simile a quella del plasma  
 	- Un **dotto striato**
-		- Costituito da un epitelio colonnare simile a quello del tubulo renale impermeabile all'acqua
+		- Costituito da un epitelio colonnare simile a quello del tubulo renale ==impermeabile all'acqua==
 		- La composizione ionica varia in quanto si verificano importanti scambi ionici a scapito di un trasporto di acqua quasi nullo: ==saliva iposmotica==
 		- Ad esso fa seguito il *dotto escretore* che però è già una struttura esterna al salivone
+	![](https://i.imgur.com/25m90IU.png)
+
 ### Funzioni della saliva
 #### Lubrificazione
 - Essa, mediata principalmente dal muco e dall'acqua permette al cibo di divenire ==bolo== e ne permette una ==deglutizione non traumatica==
@@ -698,13 +705,288 @@ Immagini
 - La *lipasi linguale* viene secreta dalle ==**ghiandole linguali soperiori (di von ebner)**== 
 	- Non viene inattivata dal pH dello stomaco              
 ### Composizione della saliva
+- La saliva è essenzialmente costituita da acqua, elettroliti ed alcuni enzimi
+- Le peculiarità rispetto agli altri secreti del tratto gastroenterico sono
+	- La bassa osmolarità
+	- L'alta concentrazione di potassio
+	- Il grande volume prodotto rispetto alla massa ghiandolare secernente
+#### Acqua ed elettroliti
+![](https://i.imgur.com/GmAVvSf.png)
+
+>[!info] Legge di Heidenhain
+>L'osmolarità salivare cresce con l'aumentare della velocità di secrezione
+
+- \[K]
+	- La saliva è il succo digestivo con la più alta concentrazione di potassio
+	- Da due a venti volte maggiore che nel plasma
+- \[Na]
+	- Molto inferiore a quella plasmatica
+- \[Cl]
+	- Simile al sodio
+- \[HCO3-]
+	- Superiore a quella plasmatica tranne che ad alte velocità di secrezione
+	- Il pH dela saliva quindi varia tra
+		- 6,4 a riposo
+		- 8 in corso di stimolazione
+##### Modello a due stadi
+![](https://i.imgur.com/LfGRtfB.png)
+
+- Nell'acino la saliva è un liquido isotonico essenzialmente uguale al plasma
+- In seguito il contatto con le cellule dei dotti fa si che avvengano gli scambi che ne alterano la composizione
+	- È proprio il tempo di contatto la variabile che fa si che la concentrazione dei soluti dipenda dalla velocità di secrezione
 
 #### Composti organici
+- Già citati
+	- Ptialina
+	- Lipasi linguale
+	- Muco
+	- GLicoproteine
+	- Lisozima
+	- Lattoferrina
+	- EGF
+- Callicreina
+	- Converte il chininogeno in lisilbradichinina ([[Bradichinine]])
+	- La sua produzione cresce all'aumentare dell'attività delle ghiandole e a ciò consegue un ==aumento del flusso ematico==
+- Proteina R ([[Aptocorrina]])
+
 ### Regolazione della secrezione salivare
 #### Ruolo del sistema nervoso autonomo 
+ ![](https://i.imgur.com/Nd2bgPt.png)
+- Controlla in maniera pressoché completa la secrezione salivare
+	- ==Non c'è regolazione ormonale==
+- Entrambi i sistemi agiscono in maniera positiva
+##### Sistema parasimpatico
+- Agisce su
+	- Sistemi di trasporto del salivone
+	- Cellule mioepiteliali
+		- Contrazione
+	- Vasi sanguigni ghiandolari
+		- Vasodilatazione
+##### Sistema simpatico
+- Effetti simili al parasimpatico
+- Effetto bifasico
+	- Inizialmente decremento causato dalla vasocostrizione (recettori $\alpha$ adrenergici)
+	- In seguito aumento del flusso
+
 #### Regolazione della secrezione
+- Incremento
+	- Masticazione, fumo, consumo di cibi speziati
+- Decremento
+	- Sonno
+	- Febbre
+	- Affaticamento fisico
+	- Disidratazione
+
 ## Secrezione gastrica
+- Nella secrezione gastrica (*succo gastrico*) distinguiamo 5 componenti con un ruolo fisiologico maggiore
+	- **Secrezione acida**
+		- Necessaria a convertire il pepsinogeno in pepsina
+	- **Pepsina**
+	- **Lipasi**
+	- **Fattore intrinseco**
+		- Unica componente essenziale
+	- **Muco**
+		- Funge da lubrificante e barriera diluizionale
+		- L'idea che il muco crei un gradiente di pH (neutralizzando parzialmente gli acidi vicino alla mucosa) sta venendo messa in discussione
+
+>[!warning] Nota bene:
+>La scoperta dell'helicobacter pylori ha eliminato la tradizionale concezione dello stomaco come stazione di sterilizzazione del materiale ingerito
+
+### Organizzazione morfofunzionale
+![](https://i.imgur.com/1kShepk.png)
+
+- Distinguiamo macroscopicamente tre aree principali
+	- Area delle ghiandole del cardia
+		- 5% della superficie
+		- Secernono prevealentemente muco
+	- Area delle ghiandole ossintiche
+		- 75% della tonaca mucosa gastrica
+		- Corpo e fondo
+		- Acido secernenti
+	- Area delle ghiandole piloriche
+		- 20% ''''''''
+		- Deputata alla produzione di gastrina
+
+>[!info] Strutture secernenti nella mucosa
+>La mucosa è tappezzata di ghiandole e fossette gastriche
+>- Le fossette (dette anche ***foveole*** )sono avvallamenti rivestiti da cellule mucose di superficie
+>- Le ghiandole si approfondano nelle foveole e sono rappresentate da vari tipi cellulari
+#### Tipi cellulari
+
+##### Ghiandole ossintiche
+- **Cellule parietali**
+	- Producono l'==acido==
+	- Circa 1 miliardo nell'uomo adulto
+		- Questa cifra varia e determina la capacità secretoria massima
+	- Producono H+ ad una concentrazione di circa 150 mEq/L
+- **Cellule principali**
+	- Dette anche peptiche o zimogene
+	- Producono ==pepsina==
+	- A differenza delle altre cellule, che hanno il pool staminale nel colletto, mantengono la loro capacità mitotica
+- Cellule endocrine
+	- **Cellule enterocromaffino simili (ECL)**
+		- Producono ==istamina==
+	- **Cellule D**
+		- Producono ==somatostatina==
+	- **Cellule P/D$_1$**
+		- Producono ==grelina==
+##### Ghiandole piloriche
+- **Cellule G**
+	- Secernenti ==gastrina==
+- **Cellule D**
+- **Cellule mucose**
+	- Producono anche una piccola parte di pepsinogeno
+
+>[!info] Citologia delle cellule parietali
+>![](https://i.imgur.com/spfwfz9.png)
+>- Tra le cellule più ricche di mitocondri
+>	- Necessari per generare l'energia necessaria alla concentrazione degli ioni h+
+>- Rilasciano il loro contenuto in un introflessione di membrana in contiguità con il lume ghiandolare detta *canalicolo intracellulare*
+>- La morfologia varia in destinazione dello stato funzionale della cellula
+>	- In condizioni basali il citoplasma è ricco di tubulovescicole
+>	- In seguito a stimolo secretorio queste si fondono con il canalicolo diventandone i microvilli aumentando così esponenzialmente la superficie del canalicolo stesso
+>		- Questa ciclica inserzione/disinserzione è garantita da un network molecolare già riscontrato nell'esocitosi delle sinapsi chimiche: ==*modello di ricircolo della membrana o modello a shuttle*==
+>		- Le protagoniste sono le proteine della famiglia SNARE (snap, sintaxina etc) e RAB 
+>- Gli enzimi principali (anidrasi carbonica e H+/K+ atpasi), situati sulle tubulovescicole, entrano a loro volta a far parte del canalicolo 
+
+### Secrezione acida
+![](https://i.imgur.com/AJvKLxP.png)
+- Per produrre acido cloridrico queste cellule devono trasportare sia cloro che catione ossonio
+##### Ioni idronio
+$$H_{2}O\rightarrow OH^{-}+H^+$$
+- Tramite questa reazione si ha la produzione dei protoni
+- Questi vengono poi espulsi nel lume tramite una k+/h+ atpasi
+	- Il suddetto potassio entra nel citoplasma tramite la na+/k+ atpasi 
+	- Il sodio viene a sua volta trasportato nel citoplasma tramite un antiporto h+/na+ per gradiente elettrochimico
+##### Cloro
+$$OH^{-}+CO_{2}\xrightarrow[\text{anidrasi carbonica}]\,HCO_3^-$$
+- L'==anidrasi carbonica== entra in gioco per legare l'idrossile all'anidride carbonica generata dal metabolismo 
+- Lo ==ione bicarbonato== prodotto verrà poi sfruttato ==per immettere ioni cloro== nel citoplasma tramite un antiporto 
+	- Questo è il meccanismo alla base della cosiddetta *marea alcalina prandiale*: durante la secrezione il sangue venoso refluo dallo stomaco ha un pH molto alto
+	- Una spinta a questo trasporto è data dall estrusione del plasma di H+ per trasportare il sodio (ultimo punto della sezione precedente)
+
+#### Barriera mucosale gastrica
+- Una domanda fondamentale che ci si deve porgere nello studio della fisiologia gastrica è: ==come fanno le cellule della mucosa ad impedire il reflusso di ioni verso il plasma H+ vista l'enorme differenza di concentrazione?==
+- La risposta va cercata nel potenziale elettrochimico a cavallo della membrana
+	- Sappiamo infatti che la tendenza di una molecola ad attraversare una membrana è data sia dal suo potenziale chimico che ==elettrico==
+- In condizioni di riposo la mucosa ossintica presenta una differenza di 70-80mV tra il versante luminale e quello plasmatico
+	- È il cloro luminale a garantire questo dislivello
+- Anche se durante la secrezione questo valore scende a 40-50mV possiamo dire che i protoni vengono trasportati secondo gradiente elettrico, di conseguenza
+	- Il trasporto luminale è facilitato
+	- La retrodiffusione viene impedita
+#### Elettroliti del succo gastrico
+- Anche in questocaso la composizione varia in base allo stato secretorio
+	- In condizioni di riposo
+		- Il succo gastrico è essenzialmente una soluzione di NaCl con piccol quantità di H+ e K+
+	- In condizioni di stimolazione
+		- Il succo gastrico è essenzialmente una soluzione di HCl con piccole quantità di Na+ e K+
+- A differenza della saliva però questa variazione non dipende dalla velocità di secrezione (in quanto non sono presenti fenomeni di scambio ionico analoghi) bensì ==dipende dalla secrezione non parietale==
+	- Si tratta di un liquido contenente principalmente HCO3-, Na+ e K+
+- I due stati della composizione elettrolitica dei succhi gastrici dipendono quindi da quanto sia prevalente il secreto delle cellule parietali sul totale: *modello a due componenti*
+
+### Regolazione della secrezione acida
+#### Fattori stimolanti
+![](https://i.imgur.com/XYCaP6o.png)
+
+- Le molecole capaci di attivare direttametne le cellule principali sono
+	- I più importanti
+		- **Acetilcolina**
+			- Si lega direttamente a recettori muscarinici M3
+			- Stimola la secrezione di gastrina
+		- **Gastrina**
+	- Enterossintina
+		- Ormone intestinale non ancora caratterizzato
+		- Suggerito da numerose evidenze sperimentali
+	- Aminoacidi circolanti 
+	- **Istamina**
+		- Lega recettori H2
+		- Funge da stimolante ==paracrino==
+		- La sua sintesi è regolata a livello delle cellule cromaffini sia dall'acetilcoline che dal PACAP (polipeptide attivante l'adenilato ciclasi pituitaria)
+- La sovrapposizione delle stimolazioni fa si che si inneschi una doppia ==stimolazione il cui effetto è maggiore della somma delle singole componenti== (istamina - acetilcolina) 
+#### Fasi della stimolazione 
+![](https://i.imgur.com/6LfczK2.png)
+
+- Le fasi della stimolazione vengono tradizionalmente identificate con le strutture che la generano (SNC, stomaco, intestino) anche se non c'è una corrispondenza cronologica in quanto si tratta spesso di fenomeni contemporanei
+##### Fase cefalica
+![](https://i.imgur.com/AxWjjVr.png)
+
+- 30% della stimolazione
+- Completamente mediata dal vago in quanto la vagotomia la blocca (esperimenti di pavlov)
+- Tutto nell'immagine
+##### Fase gastrica
+![](https://i.imgur.com/4SqjH9G.png)
+
+- 50-60% della risposta secretoria totale 
+- Il ==prerequisito== è dato dal pH luminale
+	- La gastrina infatti viene secreta maggiormente a pH superiori a 3
+	- Questa condizione di maggiore alcalinità è verificata principalmente quando il cibo neutralizza parzialmente gli ioni H+ presenti portando il pH anche a 6
+- L'aumento del pH però non basta, possiamo identificare altri 3 grossi stimoli
+###### Distensione della parete gastrica
+- I meccanocettori della parete, sia nella mucosa ossintica che in quella pilorica, danno luogo a due tipi di riflessi
+	- **Lunghi extramurali**
+		- Detti anche *vagovagali*
+		- **Riflesso pilorossintico**
+			- La distensione antrale causa rilascio di gastrina anche a pH minori di 2
+	- **Brevi intramurali**
+		- Mediati da neuroni esclusivamente localizzati nella regione gastrica in cui avviene lo stimolo
+		- **Riflesso piloropilorico**
+			- La distensione del piloro (innervato dal vago) causa rilascio di gastrina anche in caso di vagotomia
+###### Contatto della tonaca mucosa gastrica con sostanze d'origine alimentare
+- Caffeina, calcio, peptidi, amminoacidi aromatici stimolano la secrezione in maniera non inibibile tramite atropina
+###### Vedere [[Gastrina#Regolazione]]
+##### Fase intestinale
+- Il duodeno è ricco di cellule secernenti gastrina stimolate dalla presenza di protidi [[Fisiologia gastrointestinale e nutrizione umana#^baf3f6]]
+#### Inibizione della secrezione
+- L'==abbassamento del pH== è uno stimolo inibitorio per la produzione di gastrina ed eccitatorio per la produzione di somatostatina
+- Alcuni ormoni, definiti collettivamente *enterogastroni*, possono rallentare lo svuotamento gastrico e la secrezione gastrica in caso il chimo risulti particolarmente acido o iperosmotico
+	- Gli acidi grassi stimolano le cellule K duodenali che secernono il *peptide inibitorio gastrico (GIP)* detto anche polipeptide insulinotropo glucosio-dipendente
+	- La *[[secretina]]* e la [[colecistochinina]] hanno un ruolo simile
+
+### Pepsina
+- La pepsina viene a formarsi a partire dal ==pepsinogeno== con pH inferiori a 5
+	- A sua volta è in grado di catalizzare la trasformazione da tripsinogeno a tripsina
+- È una *endopeptidasi* in quanto scinde i legami peptidici interni alle proteine
+- Distinguiamo ==due tipi di pepsinogeno== che sono secreti da ==distretti diversi==
+	- Pepsinogeno 1
+		- Cellule principali
+		- Ghiandole ossintiche
+	- Pepsinogeno 2
+		- Cellule mucose antrali
+		- Cellule mucose duodenali
+- **Regolazione**
+	- La maggiore ==stimolazione== della produzione è data dall'==acetilcolina== (coerentemente allo stimolo della produzione di HCL dato dalla stessa)
+	- Secretina e gastrina hanno ruoli minori
+### Lipasi gastrica
+- Prodotta assieme al pepsinogeno dalle cellule principali delle ghiandole ossintiche
+- Presenta un'==attività specifica pari se non superiore alla sua controparte pancreatica==
+### Muco
+- Le cellule mucose ==del colletto== e quelle ==superficiali== danno origine a secreti di natura differente
+	- Le prime producono muco solubile con la funzione di diluire e lubrificare
+	- Le secondo producono muco insolubile con la funzione di proteggere la mucosa
+### Fattore intrinseco
+- Mucoproteina prodotta nello stomaco dalle cellule parietali
+- Si lega alla vitamina B12 a livello duodenale
+
+>[!warning] Nota bene:
+>La funzione più importante dello stomaco è la produzione del fattore intrinseco
 ## Secrezione pancreatica
+- Nel pancreas la componente esocrina corrisponde al 99% della massa ghiandolare
+- La secrezione può essere suddivisa in 
+	- ==Componente acquosa==
+		- Ricca di HCO3-
+		- Riporta il pH del chimo in un range ottimale per l'attività degli enzimi pancreatici
+	- ==Componente proteica==
+		- Al 95% composta da enzimi digestivi
+			- Essi sono necessari ed in alcuni casi anche sufficienti alla digestione
+		- 5% di proteine non enzimatiche
+- La regolazione della secrezione èsia ad opera di riflessi locali che di ormoni quali la secretina e il CCK (colecistochinina)
+
+### Organizzazione morfofunzionale
+### Secrezione della componente acquosa
+### Secrezione della componente proteica
+### Regolazione della secrezione pancreatica
+#### Fasi della stimolazione
+### Risposta al pasto
 ## Secrezione biliare
 ## Secrezione intestinale
 # Digestione e assorbimento

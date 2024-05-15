@@ -14,6 +14,7 @@ sistema/apparato:
 >[!info] Definizione
 > Disordine metabolico eterogeneo caratterizzato da iperglicemia cronica consequente ad un'alterazione della secrezione o dell'azione dell'[[insulina]]
 
+# Patologia
 >[!warning] Nota bene: cause "secondarie" di iperglicemia
 >Oltre ai due tipi di diabete:
 >- Difetti delle beta cellule 

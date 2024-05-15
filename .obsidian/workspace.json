@@ -4,35 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "543b7e8181d4d477",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "b7cdae641269fd9e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/Fisiologia gastrointestinale e nutrizione umana.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "a7a4b652c8db769c",
         "type": "tabs",
         "children": [
           {
-            "id": "4921e6f4637ed555",
+            "id": "a759b982813a3a73",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/s.md",
+                "file": "Zettelkasten/Microarray.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -127,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Fisiologia gastrointestinale e nutrizione umana.md",
+                "file": "Zettelkasten/Microarray.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Fisiologia gastrointestinale e nutrizione umana.md",
+                "file": "Zettelkasten/Microarray.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -167,20 +148,12 @@
             }
           },
           {
-            "id": "16691d5be7b3f545",
-            "type": "leaf",
-            "state": {
-              "type": "copilot-chat-view",
-              "state": {}
-            }
-          },
-          {
             "id": "efa100939263ae26",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/Fisiologia gastrointestinale e nutrizione umana.md"
+                "file": "Zettelkasten/Microarray.md"
               }
             }
           },
@@ -197,7 +170,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 4
       },
       {
         "id": "39371a1e271841aa",
@@ -240,12 +213,30 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "b7cdae641269fd9e",
+  "active": "a759b982813a3a73",
   "lastOpenFiles": [
+    "Risorse/Tecniche di laboratorio - Lezioni.md",
+    "Zettelkasten/Real-time PCR.md",
+    "Zettelkasten/PCR.md",
+    "Zettelkasten/Tecniche immunochimiche.md",
+    "Zettelkasten/Metodi di separazione.md",
+    "Zettelkasten/Modelli in vitro.md",
+    "Zettelkasten/Modelli in vitro e in vivo.md",
     "Zettelkasten/s.md",
+    "Zettelkasten/Relazione anatomia patologica.md",
+    "Zettelkasten/().md",
+    "Zettelkasten/Diabete.md",
+    "Zettelkasten/Patologia clinica - Diabete.md",
     "Zettelkasten/Fisiologia gastrointestinale e nutrizione umana.md",
-    "Zettelkasten/Statistica per python.md",
+    "Zettelkasten/Secretina.md",
+    "Zettelkasten/Colecistochinina.md",
+    "Zettelkasten/Iperkaliemia.md",
+    "Zettelkasten/Ipernatremia.md",
     "Risorse/Data mining e Bioimmagini - Libri.md",
+    "Risorse/Patologia Generale - McCance.md",
+    "Zettelkasten/Ipovolemia.md",
+    "Libri",
+    "Zettelkasten/Statistica per python.md",
     "Zettelkasten/Classificazione - Tecniche Alternative.md",
     "Risorse/Fisiologia - Sbobine Angelone.md",
     "Files/LEZIONE 21 - ANGELONE.pdf",
@@ -254,27 +245,10 @@
     "Files/pancreas endocrino.pdf",
     "Zettelkasten/Gastrina.md",
     "Zettelkasten/Somatostatina.md",
-    "Zettelkasten/GH.md",
-    "Zettelkasten/Senza nome.md",
-    "Zettelkasten/Robbins markdown.md",
-    "Zettelkasten/Bradichinine.md",
-    "Zettelkasten/Chinine.md",
-    "Zettelkasten/Emostasi.md",
     "Files/Fattori coagulazione.png",
     "Zettelkasten/Emostasi.canvas",
     "Files/Cascata coagulativa.png",
     "Zettelkasten/Fisiologia Digerente.canvas",
-    "Zettelkasten/Nota rapida.md",
-    "Zettelkasten/Il sacculo o parete cellulare batterica.md",
-    "Zettelkasten/L'azione patogena dei batteri.md",
-    "Zettelkasten/hlp1.md",
-    "Zettelkasten/Immunoglobuline.md",
-    "Zettelkasten/IgG.md",
-    "Zettelkasten/Secretina.md",
-    "Zettelkasten/Insulina.md",
-    "Zettelkasten/Colecistochinina.md",
-    "Zettelkasten/Peptide inibitorio gastrico.md",
-    "Templates/Idea Ormone.md",
     "Files/Patologia Clinica II - Catalano.pdf",
     "Zettelkasten/Metabolismo lipoproteine.canvas",
     "Files/Pasted image 20240215211857.png",
@@ -288,7 +262,6 @@
     "Files/Recording 20240208100334.webm",
     "Files/Recording 20240126172936.webm",
     "Files/Recording 20231216232049.webm",
-    "Files/Recording 20240211110139.webm",
     "Files/Meccanismi di trasporto nei due tipi cellulari dell'epitelio del tubulo contorto distale.png",
     "Zettelkasten/Untitled.canvas",
     "Files/2023-03-05 15_34_25-Lezione-20221222_143540-Registrazione della riunione.mp4.png",

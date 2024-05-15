@@ -79,7 +79,7 @@ sistema/apparato:
 - In caso di insufficienza renale
 	- Dialisi
 
-## Prognosi
+
 
 
 

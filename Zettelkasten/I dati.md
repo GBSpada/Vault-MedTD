@@ -266,6 +266,7 @@ $$d(x,y) = \sqrt{\sum_{K=1}^{n}(x_k - y_k)^2}$$
 - k è il numero di attributi degli oggetti x e y
 ##### Distanza di Minkowski
 $$d(x, y) = \left(\sum_{k=1}^{n}|x_k - y_k|^r\right)^{\frac{1}{r}}$$
+
 - Generalizzazione della distanza euclidea dalla quale si possono ottenere anche la distanza di hamming e i chebyshev
 - Il parametro r specifica modi differenti di combinare tutte le singole distanze in un unico valore
 	- **r = 1**: distanza di Manhattan

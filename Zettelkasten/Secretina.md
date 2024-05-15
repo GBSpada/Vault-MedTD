@@ -14,8 +14,9 @@ Molecola: Ormone
 ## Azione
 - Inibisce la motilità antrale
 - Aumenta la costrizione pilorica
+- Incrementa la secrezione della componente liquida dei succhi pancreatici
 ## Regolazione
-
+- Lo stimolo maggiore è dato dall'acidità del chimo
 
 
 

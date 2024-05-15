@@ -982,12 +982,131 @@ $$OH^{-}+CO_{2}\xrightarrow[\text{anidrasi carbonica}]\,HCO_3^-$$
 - La regolazione della secrezione èsia ad opera di riflessi locali che di ormoni quali la secretina e il CCK (colecistochinina)
 
 ### Organizzazione morfofunzionale
+![](https://i.imgur.com/YDWgX5M.png)
+
+- La struttura fondamentale è ==l'acino== composto da cellule acinose
+	- Più acini si uniscono e formano i ==lobuli==
+	- QUesti producono la componente enzimatica del secreto (minima parte del volume totale)
+- Gli acini riversano il loro contenuti nei ==dotti intercalari== che a loro volta si estendono all'interno del lume acinare
+	- Le ==cellule== dell'epitelio dei dotti prendono quì il nome di ==centroacinose==
+	- Questi si uniscono nei ==dotti intralobari== che a loro volta lo fanno negli ==interlobulari==
+	- Le cellule dei dotti si occupano di produrre la componente acquosa del secreto e nonostante siano in minoranza producono il maggior volume di secreto
+- L'ultimo condotto è il ==dotto pancreatico di Wirsung== (in alcuni soggetti è presente anche il *dotto accessorio di Santorini*) che si unisce al coledoco formando ==l'ampolla epatopancreatica di Vater== che attraverso la ==papilla duodenale maggiore== sfocia nel duodeno regolata dallo ==sfintere muscolare di Oddi==
+
 ### Secrezione della componente acquosa
+![](https://i.imgur.com/fZDSdn9.png)
+
+- La ==composizione elettrolitica== è variabile
+	- A **basse velocità** di secrezione
+		- Gli elettroliti più rappresentati sono ==Na+ e Cl-==
+	- Ad **alte velocità** di secrezione
+		- Al cloro si sostituisce l'==HCO3==-
+- L'**HCO3**- è presente in una concentrazione di 10 volte maggiore a quella plasmatica
+	- A differenza dello stomaco però non c'è un gradiente elettronico che favorisca il trasporto che quindi non è coadiuvato né dalla differenza di potenziale né dalla differenza di concentrazione
+#### Meccanismo molecolare
+- L'==anidrasi carbonica== si occupa di formare acido carbonico a partire dall'anidride carbonica che diffonde dal plasma 
+	- L'H2CO3 si scinde e gli ioni h+ vengono trasportati verso il plasma tramite un'antiporto che li scambia con una molecola di sodio
+		- Questo scambio dipende dal gradiente di sodio che deve essere mantenuto da una Na/k atpasi
+	- L'accumulo di ioni bicarbonato causa un'==alcalinizzazione plasmatica== che porta a sua volta all'ingresso di ulteriori molecole di CO2
+- Il bicarbonato così formato viene scambiato con una molecola di cloro 
+	- Il cloro diffonde dal citoplasma delle ==cellule duttali== tramite il CFTR (cystic fibrosis transmembrane conductance regulator) attivato dal cAMP in risposta alla [[secretina]]
+
 ### Secrezione della componente proteica
+> La sintesi e la secrezione di tutti gli enzimi pancreatici è opera della cellula acinosa
+
+#### Enzimi proteolitici
+- La *tripsina* è la proteasi principale
+- Essa viene rilasciata sotto forma di ==zimogeno== legato ad una ==proteina inibitrice== 
+	- Questa impedisce alla proteasi di attivarsi prima e danneggiare il parenchima pancreatico
+#### Enzimi lipolitici
+- *Colipasi* (senza attività enzimatica propria) e *Fosfolipasi A2* vengono secreti anch'esi come precursori inattivi
+	- È la tripsina ad attivarli in sede duodenale
+- Altre lipasi sono secrete in forma attiva
+
+>[!warning] Fisiopatologia pancreatite acuta
+>Qualora dovesse avvenire un'==attivazione anticipata== dei suddetti enzimi (prima tripsina e di conseguenza colipasi e fosfolipasi A2) si verificherebbero ==fenomeni autodigestivi== nel parenchima pancreatico che culminano con la distruzione dell'organo stesso
+
+#### Amilasi 
+- Secreta in forma attiva
 ### Regolazione della secrezione pancreatica
+- Il pancreas possiede una secrezione basale (senza stimoli, es denervazione) molto limitata rispetto a quella massimale
+- Le due **cause** fondamentali alla base **della stimolazione** sono
+	- ==Acidità== del chimo 
+		- Per la componente liquida
+	- ==Quantità== di materiale da digerire
+		- Per la componente proteica
+- La regolazione avviene sia per via endocrina che nervosa
+	- In ogni caso è la fase intestinale quella predominante 
 #### Fasi della stimolazione
+##### Fase cefalica  ![](https://i.imgur.com/Gbn0W6r.png)
+- I ==meccanismi== sono essenzialmente ==identici== a quelli della ==fase cefalica gastrica==
+- Circa il 20% della stimolazione
+- Essenzialmente qualsiasi stimolo relativo al pasto induce rilascio di ==acetilcolina== dalle ==efferenze vagali== e di conseguenza stimola la secrezione pancreatica
+- La gastrina ha un ruolo trascurabile
+##### Fase gastrica
+- Circa il 5-10% della stimolazione
+	- Indotta da riflessi ==vagovagali== dipendenti dalla distensione della parete gastrica
+##### Fase intestinale
+![](https://i.imgur.com/EgdBmbs.png)
+
+- Responsabile del 70-80% della risposta secretoria
+- Il ruolo predominante è svolto dalla stimolazione ormonale
+	- CCK ([[Colecistochinina]])
+		- Stimola la secrezione protidica
+		- Induce la secrezione tramite meccanismi nervosi
+	- [[Secretina]]
+		- Stimola la secrezione acquosa: "Antiacido naturale"
 ### Risposta al pasto
+1. **Durante la digestione** nello stomaco le sostanze tampone presenti negli alimenti vengono saturate dall'acido fino ad arrivare ad un pH di 2
+	-  Questo chimo giunge nel duodeno con un ==carico massimo di acido titolabile== pari a 20-30 mEq/ora 
+	- Questo valore corrisponde alla capacità del pancreas di secernere HCO3-
+2. Giunto **nella prima parte del duodeno** il pH sale al valore di 4 grazie alla secrezione liquida pancreatica
+3. **Entro pochi minuti** si ha un aumento della secrezione di enzimi digestivi che raggiunge l'80% entro 30 min
+	- La composizione di questo secreto dipende dalla dieta, la stimolazione umorale (CCK, Secretin) infatti altera la produzione spostando l'asse verso un assetto lipolitico/proteolitico sulla base delle necessità nutrizionali
+
+
 ## Secrezione biliare
+> La bile ha un ruolo fondamentale nella ==digestione dei lipidi== e nell'==espulsione di sostanze== sia endogene (pigmenti biliari, colesterolo) che esogene (metalli pesanti, farmaci)
+
+- Le cellule secernenti la bile sono gli *epatociti* ed i *colangiociti*
+	- Esse rilasciano il loro secreto nei *canalicoli biliari* che si uniscono poi nei *duttuli* ed infine nei *dotti biliari intraepatici*
+	- Durante questo percorso la bile subisce vari processi di modificazione
+- Durante i periodi interprandiali viene accumulata nella *cistifellea* (colecisti) che la rilascia qualora dovesse giungere del chimo nel duodeno
+- La funzione fisiologica della bile viene espletata principalmente da una componente: ==gli acidi biliari==
+	- Essenziali per tutta una serie di motivi tra cui l'assorbimento degli acidi biliari
+
+
+### Composizione della bile
+- La bile è una miscela complessa di composti organici e inorganici, alcuni dei quali insolubili in acqua
+#### Acidi biliari
+![](https://i.imgur.com/ftAXolX.png)
+
+- Costituenti organici più importanti (50% della componente solida)
+- Acidi carbossilici con un **nucleo ciclopentanperidrofenantrenico** e una catena ramificata di tre-nove atomi di carbonio che termina con un gruppo carbossile
+	- La similarità con il ==colesterolo== non è un caso in quanto vengono sintetizzati a partire da esso e sono uno degli strumenti principali per ==espellerlo== dall'organismo
+- Gli **acidi biliari fondamentali** per l'uomo sono i seguenti e differiscono tra loro principalmente per i gruppi idrossilici presenti
+	- *Acido colico* 
+		- 50% degli acidi biliari
+		- Tridrossiacido
+	- *Acido chenodesossicolico* 
+		- 30%
+		- Didrossiacido
+	- *Acido desossicolico* 
+		- 15%
+		- Diossiacido
+	- *Acido litocolico* 
+		- 5%
+		- Monoidrossiacido
+##### Sintesi
+- Avviene attraverso ==due vie metaboliche== principali
+	- ==7$\alpha$ idrossilazione== del colesterolo da parte dell'omonimo ==enzima epatico== CYP7A1
+	- ==Conversione== del colesterolo a ==27-idrossicolesterolo==
+##### Caratteristiche degli acidi biliari
+- Molecole **anfipatiche**
+	- Da un lato ciclopentanoperidrofenantrene e gruppi metilici (==idrofobi==)
+	- Dall'altro i gruppi idrossilici e carbossilici (idrofili)
+
+
 ## Secrezione intestinale
 # Digestione e assorbimento
 

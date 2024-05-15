@@ -2,7 +2,6 @@
 Stato: #Idealezione
 Tag: #Tecnichedilaboratorio
 
-
 ---
 # Metodi di separazione
 - Molte delle tecniche sperimentali, prima di poter applicare una tecnica di determinazione analitica per la determinazione qualitativa/quantitativa, hanno bisogno di essere precedute dalla separazione parziale o totale della sostanza da analizzare rispetto alla miscela complessa in cui questa sostanza può essere presente. In realtà, nel laboratorio clinico, la maggior parte delle indagini analitiche effettuate sui campioni biologici hanno una composizione che si mantiene costante per tutti i campioni. Questa tappa preliminare, dunque, può non essere necessaria

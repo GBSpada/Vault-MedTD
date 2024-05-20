@@ -2,7 +2,7 @@
 stato: 
 tags:
 ---
-{{date}} {{time}}
+\{{date}} \{{time}}
 
 --- 
 

@@ -13,11 +13,52 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Microarray.md",
+                "file": "Risorse/AI e Machine Learning - Lezioni e slide.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
+            }
+          },
+          {
+            "id": "23ba5397d6a9368c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Algoritmi di ricerca.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "1dc9137dfdf9d4ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "555f1a58ec7af7f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/s.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7f7825114dce22f5",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -50,7 +91,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "callicrein",
+                "query": "oggetti",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -108,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Microarray.md",
+                "file": "Zettelkasten/s.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Microarray.md",
+                "file": "Zettelkasten/s.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -153,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/Microarray.md"
+                "file": "Zettelkasten/s.md"
               }
             }
           },
@@ -194,8 +235,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 776.5,
-    "collapsed": true
+    "width": 776.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -213,8 +253,20 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "a759b982813a3a73",
+  "active": "555f1a58ec7af7f3",
   "lastOpenFiles": [
+    "Zettelkasten/Algoritmi di ricerca.md",
+    "Zettelkasten/s.md",
+    "Zettelkasten/Tec. di prog. - Lezione 1.md",
+    "Risorse/Tecniche di programmazione - Lezioni e tirocinio.md",
+    "Zettelkasten/Tec. di prog. - Lezione 5-6.md",
+    "Zettelkasten/Tec. di prog. - Lezione 4.md",
+    "Risorse/AI e Machine Learning - Lezioni e slide.md",
+    "Zettelkasten/Fisiologia gastrointestinale e nutrizione umana.md",
+    "Templates/Idea AI e ML.md",
+    "Zettelkasten/qt1.md",
+    "Templates/Idea core.md",
+    "Zettelkasten/Microarray.md",
     "Risorse/Tecniche di laboratorio - Lezioni.md",
     "Zettelkasten/Real-time PCR.md",
     "Zettelkasten/PCR.md",
@@ -222,29 +274,17 @@
     "Zettelkasten/Metodi di separazione.md",
     "Zettelkasten/Modelli in vitro.md",
     "Zettelkasten/Modelli in vitro e in vivo.md",
-    "Zettelkasten/s.md",
     "Zettelkasten/Relazione anatomia patologica.md",
     "Zettelkasten/().md",
     "Zettelkasten/Diabete.md",
     "Zettelkasten/Patologia clinica - Diabete.md",
-    "Zettelkasten/Fisiologia gastrointestinale e nutrizione umana.md",
     "Zettelkasten/Secretina.md",
     "Zettelkasten/Colecistochinina.md",
     "Zettelkasten/Iperkaliemia.md",
-    "Zettelkasten/Ipernatremia.md",
-    "Risorse/Data mining e Bioimmagini - Libri.md",
-    "Risorse/Patologia Generale - McCance.md",
-    "Zettelkasten/Ipovolemia.md",
     "Libri",
-    "Zettelkasten/Statistica per python.md",
-    "Zettelkasten/Classificazione - Tecniche Alternative.md",
-    "Risorse/Fisiologia - Sbobine Angelone.md",
     "Files/LEZIONE 21 - ANGELONE.pdf",
     "Files/LEZIONE 20 - ANGELONE.pdf",
-    "Risorse/Fisiologia - Slide Angelone.md",
     "Files/pancreas endocrino.pdf",
-    "Zettelkasten/Gastrina.md",
-    "Zettelkasten/Somatostatina.md",
     "Files/Fattori coagulazione.png",
     "Zettelkasten/Emostasi.canvas",
     "Files/Cascata coagulativa.png",

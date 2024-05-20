@@ -1,9 +1,9 @@
 {
   "getLangFromFile": true,
-  "defaultLanguage": "it",
-  "normalLang": "it",
+  "defaultLanguage": "en_US",
+  "normalLang": "en_US",
   "shouldShowSynonymPopover": true,
-  "shouldShowCustomContextMenu": true,
+  "shouldShowCustomContextMenu": false,
   "apiSettings": {
     "en_US": {
       "definitionApiName": "Free Dictionary API",
@@ -38,7 +38,7 @@
       "synonymApiName": "Open Thesaurus"
     },
     "it": {
-      "definitionApiName": null,
+      "definitionApiName": "Free Dictionary API",
       "synonymApiName": "Altervista"
     },
     "ko": {
@@ -64,7 +64,7 @@
   },
   "partOfSpeechApiName": "Systran API",
   "advancedSynonymAnalysis": false,
-  "useCaching": true,
+  "useCaching": false,
   "folder": "",
   "capitalizedFileName": true,
   "prefix": "",

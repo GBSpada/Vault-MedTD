@@ -1,7 +1,7 @@
 
 08-08-2023 15:02
 Stato: #articolo 
-Tag: #Bioinformatica #Statistica #DataScience
+Tag: #Bioinformatica #Statistica #DataScience ^abc42a
 
 # Introduzione
 - La statistica consiste nel raccogliere, organizzare, analizzare, interpretare e presentare dati

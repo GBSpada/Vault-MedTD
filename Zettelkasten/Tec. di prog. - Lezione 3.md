@@ -1,4 +1,4 @@
-	24-03-2023 14:45
+24-03-2023 14:45
 Stato: #ideaLez 
 Tag: #TecnicheDiProgrammazione 
 

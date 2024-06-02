@@ -11,11 +11,8 @@ tags:
 ## Sistemi deduttivi
 ## [[Algoritmi di ricerca]]
 
-
-## Machine learning
-
-
-
+## [[Machine learning]]
+## [[Deep Learning]]
 
 
 

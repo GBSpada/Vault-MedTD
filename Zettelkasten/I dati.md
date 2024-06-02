@@ -265,6 +265,9 @@ $$d(x,y) = \sqrt{\sum_{K=1}^{n}(x_k - y_k)^2}$$
 - n è il numero di dimensioni
 - k è il numero di attributi degli oggetti x e y
 ##### Distanza di Minkowski
+
+^dd823d
+
 $$d(x, y) = \left(\sum_{k=1}^{n}|x_k - y_k|^r\right)^{\frac{1}{r}}$$
 
 - Generalizzazione della distanza euclidea dalla quale si possono ottenere anche la distanza di hamming e i chebyshev

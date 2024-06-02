@@ -251,8 +251,116 @@ graph TD
 #### Iterative deepening
 #### Ricerca bidirezionale
 
+## Ricerca informata o euristica
+### Approccio generale
+> Sfruttiamo la ==conoscenza specifica del problema== per raggiungere più rapidamente il **goal**
+
+- L'implementazione è essenzialmente identica a quella della ricerca a costo uniforme
+	- In quel caso avevamo una ==coda di priorità== data dal costo effettivo della transizione da uno stato ad un altro
+	- La differenza sta nel fatto che la ricerca euristica fa leva su una *funzione di valutazione f(n)*[^6] 
+		- Spesso questa funzione risulta composita e la componente fondamentale è una *funzione euristica h(n)* ([[Euristica]]) 
+#### Proprietà
+##### Ammissibilità
+>Una funzione euristica h si dice ammissibile se per ogni nodo n, ==h(n) è minore o uguale dell'costo effettivo per raggiungere il goal==
+##### Consistenza
+> Una funzione euristica h si dice consistente se per ogni nodo n e ogni suo successore n' tramite un'azione a, si ha che 
+> $$h(n)\le c(n,a,n') + h(n')$$
+> - La stima della distanza da n al goal è minore della somma tra
+> 	- La stima della distanza dal nodo successivo al goal
+> 	- Il costo effettivo per raggiungere il nodo successivo
+
+>[!info]- Proposizione: se h è consistente, allora h è ammissibile
+>![](https://i.imgur.com/I2JsEjk.jpeg)
+
+### Algoritmo greedy (vedi problema Romania)
+![](https://i.imgur.com/yx3rnv1.png)
+- Assegniamo ad ogni nodo (in realtà ad ogni transizione di stato) una funzione euristica: $$f(n)=h(n) = distanza \, in \, linea \, d'aria \, di \, n \, da \, Bucharest$$
+	- In rosso vediamo il cammino ottimale
+	- In nero il cammino seguendo l'algoritmo greedy
+- I valori sui cammini corrispondono ai costi effettivi della transizione di stato
+#### Caratteristiche
+- La soluzione trovata non è necessariamente la migliore, nell'esempio infatti il cammino ottimale e quello percorso sono diversi
+	- ==L'algoritmo greedy non è ottimo==
+- Nel caso peggiore il costo è identico al depth first: $O(b^m)$
+
+### Algoritmo A*
+- Gli algoritmi euristici dipendono fortemente dalla loro funzione di valutazione
+- Per migliorare la performance rispetto al precedente approccio modifichiamo quindi f(n)
+	- Alla stima h(n) aggiungiamo il costo per raggiungere quel determinato nodo g(n)
 
 
+>La funzione di valutazione dell'algoritmo A* è data dalla ==somma del costo per raggiungere un determinato nodo con la stima della distanza del suddetto nodo dal goal==
+>$$f(n)=g(n)+h(n)$$
+
+![](https://i.imgur.com/R3ZXTjB.jpeg)
+
+#### Ottimalità di A*
+> Se h è consistente allora A* è ottimale
+
+##### Dimostrazione
+1. Se h(n) è consistente allora f(n) è non decrescente su ogni cammino
+	- Essenzialmente l'inclusione del ==costo effettivo per raggiungere il nodo successivo (c(n,a,n'))== all'interno della formula fa si che il ==costo aumenti rispetto alla stima== che invece omette le caratteristiche reali del problema 
+$$f(n')= g(n')+h(n')=g(n)+c(n,a,n')+h(n')\ge g(n)+h(n)=f(n)$$
+2. Ogni volta che A* selezione un nodo n, il cammino ottimo per n è già stato trovato
+	- Sinceramente bho
+#### Curve di livello
+- Durante l'espansione possiamo valutare come i nodi aggiunti possano essere racchiusi in curve di livello concentriche 
+![](https://i.imgur.com/B2GSVLy.png)
+
+#### Costo
+> Sia C* il costo della soluzione ottima
+> - A* espande tutti i nodi n tali che f(n) > C* 
+> 	- f(n) < f(n') 
+> - A* può espandere nodi tali che f(n) = C*
+> - A* non espande nodi n tali che f(n)>C*
+> 	- Stessa cosa del primo punto
+
+### Puzzle-8
+
+|     | 1   | 2   |
+| --- | --- | --- |
+| 3   | 4   | 5   |
+| 6   | 7   | 8   |
+
+#### Euristiche
+- In questo caso troviamo due euristiche
+	- h1: numero di caselle in posizione scorretta
+	- h2: somma delle distanza di ogni casella dalla posizione corrente alla posizione goal
+##### h1
+| 7   | 2   | 4   |
+| --- | --- | --- |
+| 5   |     | 6   |
+| 8   | 3   | 1   |
+$$h1 = 8$$
+- Si tratta di un'euristica che ci fa fare delle valutazioni binarie: gli unici due stati sono posizione corretta e posizione scorretta
+##### h2
+- Stessa tabella di h1
+$$h2 = 3+1+2+2+2+3+3+2=18$$
+- In questo caso l'euristica ci fa fare una valutazione che può avere 4 valori
+	- 3: distanza massima in caselle dalla posizione corretta (stato goal)
+	- 2
+	- 1
+	- 0: numero sulla posizione corretta
+- Essenzialmente una [[I dati#Distanza di Minkowski|distanza di manhattan]]
+#### Caratteristiche
+- Entrambe le euristiche sono ammissibili
+- h2 domina su h1
+	- $h_{2}(n)\ge h_{1}(n)$
+	- Se dovessimo visualizzare la dominanza in termini di visita del grafo potremmo dire che A\*(h2) espande meno nodi di A*(h1)
+	- Le euristiche con i valori più alti sono da preferire
+
+
+
+
+### Problemi rilassati
+- Le precedenti ==euristiche== possono essere viste come ==soluzioni di problemi semplificati==
+	- Rispetto alla risoluzione classica del puzzle-8 infatti avevamo ==meno restrizioni sulle azioni possibili==
+- Se dovessimo generare il grafo di un problema rilassato esso sarebbe un *super-grafo* di quello del problema originale
+
+> - Ogni soluzione ottima nel problema originale è una soluzione nel problema rilassato
+> - Il costo di una soluzione ottima del problema rilassato è un euristica ammissibile e consistente del problema originale
+
+## Ricerca con avversario
 
 
 
@@ -269,6 +377,8 @@ graph TD
 [^4]: Per stato si intende una configurazione unica del problema in un certo punto del processo di risoluzione
 
 [^5]: Un grafo è una struttura matematica utilizzata per modellare relazioni tra coppie di oggetti costituita da due insieme, uno dei vertici (nodi) e uno degli archi (spigoli)
+
+[^6]: Funzione che assegna un valore ad ogni nodo e rappresenta una stima del costo minimo per arrivare al goal da n
 
 --- 
 # Reference: [[AI e Machine Learning - Lezioni e slide]]

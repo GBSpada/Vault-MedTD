@@ -4,39 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "a7a4b652c8db769c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a759b982813a3a73",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Risorse/AI e Machine Learning - Lezioni e slide.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9d96c8839110db94",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/Machine learning.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
         "id": "1dc9137dfdf9d4ba",
         "type": "tabs",
         "children": [
@@ -46,7 +13,39 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/s.md",
+                "file": "Zettelkasten/Extended wear lenses - material selection for avoiding eye discomfort.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "2ffcbd54d817510c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "117dea5a72ad8e18",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/a.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c469cc2d9d6d82df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Bozza.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -83,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "discretiz",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -92,8 +91,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "45ea08796f45e544",
@@ -122,7 +120,7 @@
       {
         "id": "91675aacfd27c02e",
         "type": "tabs",
-        "dimension": 76.19047619047619,
+        "dimension": 38.9937106918239,
         "children": [
           {
             "id": "ae4351b16c3fe865",
@@ -141,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/s.md",
+                "file": "Zettelkasten/a.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/s.md",
+                "file": "Zettelkasten/a.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -186,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/s.md"
+                "file": "Zettelkasten/a.md"
               }
             }
           },
@@ -208,7 +206,7 @@
       {
         "id": "39371a1e271841aa",
         "type": "tabs",
-        "dimension": 23.809523809523807,
+        "dimension": 61.0062893081761,
         "children": [
           {
             "id": "ed5bf6c530e9f52f",
@@ -246,17 +244,23 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "555f1a58ec7af7f3",
+  "active": "117dea5a72ad8e18",
   "lastOpenFiles": [
-    "Zettelkasten/Classificazione - Tecniche Alternative.md",
-    "Zettelkasten/s.md",
-    "Zettelkasten/I dati.md",
+    "Zettelkasten/Extended wear lenses - material selection for avoiding eye discomfort.md",
+    "Zettelkasten/a.md",
+    "Zettelkasten/Bozza.md",
+    "Zettelkasten/Nota rapida.md",
     "Zettelkasten/Machine learning.md",
+    "Risorse/AI e Machine Learning - Lezioni e slide.md",
+    "Zettelkasten/Algoritmi di ricerca.md",
+    "Zettelkasten/Progetto AI e ML - sistema esperto.md",
+    "Risorse/Psicologia - Report.md",
+    "Zettelkasten/Articoli report psicologia.md",
+    "Zettelkasten/Classificazione - Tecniche Alternative.md",
+    "Zettelkasten/I dati.md",
     "Zettelkasten/Statistica per python.md",
     "Zettelkasten/Classificazione - Concetti Base, Alberi decisionali, Modelli valutativi.md",
-    "Risorse/AI e Machine Learning - Lezioni e slide.md",
     "Zettelkasten/Tec. di prog. - Lezione 3.md",
-    "Zettelkasten/Algoritmi di ricerca.md",
     "Zettelkasten/Teoria Bioinformatica.md",
     "Zettelkasten/Distanza di hamming.md",
     "Zettelkasten/Euristica.md",
@@ -268,12 +272,6 @@
     "Templates/Idea AI e ML.md",
     "Zettelkasten/qt1.md",
     "Templates/Idea core.md",
-    "Zettelkasten/Microarray.md",
-    "Risorse/Tecniche di laboratorio - Lezioni.md",
-    "Zettelkasten/Real-time PCR.md",
-    "Zettelkasten/PCR.md",
-    "Zettelkasten/Tecniche immunochimiche.md",
-    "Zettelkasten/Metodi di separazione.md",
     "Libri",
     "Files/LEZIONE 21 - ANGELONE.pdf",
     "Files/LEZIONE 20 - ANGELONE.pdf",

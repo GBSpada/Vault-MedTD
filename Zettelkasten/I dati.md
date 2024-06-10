@@ -224,6 +224,9 @@ Data Miner: Sì, mi dispiace, ma non ho considerato l'ordine dei record.
 	- Assegnazione ad un nuovo spazio
 		- [[Analisi di fourier]] e wavelet
 #### Discretizzazione (1) e binarizzazione (2)
+
+^4eb947
+
 - 1: trasformazione di una variabile da continua a categorica
 - 2: trasformazione di una variabile da discreta/continua a binaria
 

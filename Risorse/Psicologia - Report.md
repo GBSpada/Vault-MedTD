@@ -1,5 +1,5 @@
 26-01-2023 12:26
-Stato: #progetto 
+Stato: #report
 Tag: #Psicologia #Telemedicina 
 
 [[Articoli report psicologia]]

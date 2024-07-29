@@ -1,7 +1,8 @@
 ---
 stato: "#ideaL"
 tags: 
-sistema/apparato/ambito: uri
+sistema/apparato:
+  - Urinario
 ---
 16-02-2024 00:05
 

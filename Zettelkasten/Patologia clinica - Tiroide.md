@@ -2,7 +2,8 @@
 stato: "#ideaLez"
 tags:
   - "#PatologiaClinica"
-sistema/apparato/ambito: Endocrino
+sistema/apparato:
+  - Urinario
 ---
 14-02-2024 13:24
 

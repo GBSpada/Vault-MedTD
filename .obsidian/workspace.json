@@ -4,48 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1dc9137dfdf9d4ba",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "555f1a58ec7af7f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/Extended wear lenses - material selection for avoiding eye discomfort.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "2ffcbd54d817510c",
         "type": "tabs",
         "children": [
           {
-            "id": "117dea5a72ad8e18",
+            "id": "a2104fd99fa84a6f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/a.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c469cc2d9d6d82df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/Bozza.md",
+                "file": "Zettelkasten/Patologie genetica.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -139,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/a.md",
+                "file": "Zettelkasten/Patologie genetica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/a.md",
+                "file": "Zettelkasten/Patologie genetica.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -184,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/a.md"
+                "file": "Zettelkasten/Patologie genetica.md"
               }
             }
           },
@@ -201,7 +169,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       },
       {
         "id": "39371a1e271841aa",
@@ -244,34 +212,35 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "117dea5a72ad8e18",
+  "active": "a2104fd99fa84a6f",
   "lastOpenFiles": [
-    "Zettelkasten/Extended wear lenses - material selection for avoiding eye discomfort.md",
+    "Files/PATOLOGIA CLINICA 1.pdf",
+    "Zettelkasten/Patologie genetica.md",
+    "Zettelkasten/Struttura progetto bioinfo.md",
+    "Zettelkasten/$pst$.md",
+    "Risorse/Biomateriali - Lezioni.md",
+    "Risorse/Bioinformatica - Progetto.md",
     "Zettelkasten/a.md",
-    "Zettelkasten/Bozza.md",
-    "Zettelkasten/Nota rapida.md",
-    "Zettelkasten/Machine learning.md",
-    "Risorse/AI e Machine Learning - Lezioni e slide.md",
-    "Zettelkasten/Algoritmi di ricerca.md",
-    "Zettelkasten/Progetto AI e ML - sistema esperto.md",
-    "Risorse/Psicologia - Report.md",
-    "Zettelkasten/Articoli report psicologia.md",
-    "Zettelkasten/Classificazione - Tecniche Alternative.md",
-    "Zettelkasten/I dati.md",
-    "Zettelkasten/Statistica per python.md",
-    "Zettelkasten/Classificazione - Concetti Base, Alberi decisionali, Modelli valutativi.md",
-    "Zettelkasten/Tec. di prog. - Lezione 3.md",
-    "Zettelkasten/Teoria Bioinformatica.md",
-    "Zettelkasten/Distanza di hamming.md",
-    "Zettelkasten/Euristica.md",
+    "Risorse/Anatomia patologica - Gallo d'Amati.md",
+    "Zettelkasten/Mammella.md",
+    "Digerente bruno/Tratto gastrointestinale.md",
+    "Zettelkasten/Iperfosfatemia.md",
+    "Zettelkasten/Patologia clinica - Tiroide.md",
+    "Zettelkasten/Patologia clinica - Rene.md",
+    "Zettelkasten/Patologia clinica - Diabete.md",
+    "Digerente bruno/Intestino crasso - Anatomia.md",
+    "Digerente bruno/Intestino crasso - Istologia.md",
+    "Digerente bruno/Intestino tenue - Istologia.md",
+    "Digerente bruno",
     "Zettelkasten/Tec. di prog. - Lezione 1.md",
+    "Zettelkasten/Classificazione - Tecniche Alternative.md",
     "Risorse/Tecniche di programmazione - Lezioni e tirocinio.md",
-    "Zettelkasten/Tec. di prog. - Lezione 5-6.md",
-    "Zettelkasten/Tec. di prog. - Lezione 4.md",
-    "Zettelkasten/Fisiologia gastrointestinale e nutrizione umana.md",
-    "Templates/Idea AI e ML.md",
-    "Zettelkasten/qt1.md",
-    "Templates/Idea core.md",
+    "Zettelkasten/Machine learning.md",
+    "Zettelkasten/I dati.md",
+    "Zettelkasten/Classificazione - Concetti Base, Alberi decisionali, Modelli valutativi.md",
+    "Risorse/Data mining e Bioimmagini - Libri.md",
+    "Zettelkasten/Esplorazione dei dati.md",
+    "Zettelkasten/Introduzione al data mining.md",
     "Libri",
     "Files/LEZIONE 21 - ANGELONE.pdf",
     "Files/LEZIONE 20 - ANGELONE.pdf",
@@ -283,7 +252,6 @@
     "Files/Patologia Clinica II - Catalano.pdf",
     "Zettelkasten/Metabolismo lipoproteine.canvas",
     "Files/Pasted image 20240215211857.png",
-    "Files/PATOLOGIA CLINICA 1.pdf",
     "Files/Pasted image 20240215203800.png",
     "Libri/Fisiologia Medica (F. Conti) (z-lib.org).pdf",
     "Files/Azione dell'ADH (vasopressina).png",
@@ -292,7 +260,6 @@
     "Zettelkasten/Fisiologia urinario.canvas",
     "Files/Recording 20240208100334.webm",
     "Files/Recording 20240126172936.webm",
-    "Files/Recording 20231216232049.webm",
     "Files/Meccanismi di trasporto nei due tipi cellulari dell'epitelio del tubulo contorto distale.png",
     "Zettelkasten/Untitled.canvas",
     "Files/2023-03-05 15_34_25-Lezione-20221222_143540-Registrazione della riunione.mp4.png",

@@ -8,7 +8,7 @@ tags:
 
 --- 
 
-## Sistemi deduttivi
+## [[Sistemi deduttivi]]
 ## [[Algoritmi di ricerca]]
 
 ## [[Machine learning]]

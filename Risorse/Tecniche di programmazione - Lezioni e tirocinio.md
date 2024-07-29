@@ -2,7 +2,7 @@
 Stato: #Lezioni #slide 
 Tag: #TecnicheDiProgrammazione 
 
-# Lezioni
+
 ## Lezione 1
 [[Tec. di prog. - Lezione 1]]
 ## Lezione 2

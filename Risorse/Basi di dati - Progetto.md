@@ -2,7 +2,7 @@
 Stato: #progetto
 Tag: #BasiDiDati 
 
-[[Istruzioni progetto]]
+[[Istruzioni progetto bdd]]
 
 ## Raccolta analisi e requisiti
 [[Traccia progetto di basi di dati]]

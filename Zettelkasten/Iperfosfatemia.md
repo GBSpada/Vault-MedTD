@@ -4,7 +4,6 @@ tags:
   - "#Patologia"
   - PatologiaGenerale
   - MedicinaInterna
-sistema/apparato/ambito:
 ---
 04-01-2024 07:02
 

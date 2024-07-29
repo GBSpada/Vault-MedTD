@@ -9,7 +9,7 @@ tags:
 
 --- 
 ## Recap
-- Prima di iniziare con li algoritmi di tipo induttivo rivediamo le prinicpali caratteristiche di quelli visti in precedenza
+- Prima di iniziare con gli algoritmi di tipo induttivo rivediamo le prinicpali caratteristiche di quelli visti in precedenza
 ### Algoritmi "classici" (deterministici)
 - Le decisioni vengono assunte sulla base di una ==sequenza non ambigua di istruzioni==
 	- La semantica è determinata e nota a priori (una sola interpretazione possibile)
@@ -29,7 +29,7 @@ tags:
 - Il percorso dall'origine al nodo goal rappresenta la soluzione del problema
 
 
-## Introduzione: Algoritmi deduttivi
+## Introduzione: Algoritmi induttivi
 ### Prerequisiti: l'induzione 
 - Per *induzione logica (o empirica)* ci si riferisce ad un tipo di ragionamento che si muove ==da osservazioni specifiche a generalizzazioni più ampie== **CONCETTO FONDAMENTALE**
 
@@ -213,8 +213,104 @@ $$P[L_{D}(h_{S)\le}min_{h\in H}L_D(h)+\epsilon] \ge 1-\delta$$
 
 
 ## Predittori Lineari
-## Boosting
+- Lo statistical learning ci può essere utile per risolvere problemi di classificazione o predizioni lineari
+### Intro: il percettrone
+- Il percettrone è un algoritmo di classificazione che permette di fare pac learning su dataset separabili linearmente 
+- Il primo step per comprenderlo è quello di interpretare l'algoritmo come una simulazione del comportamento di un neurone umano
+	- I neuroni che proiettano al neurone in questione corrispondono 
+	- alle istanze del **set X di dati in input
+	- La forza della sinapsi dendritiche (in input) è espressa come **peso/costo**
+	- La somma dei potenziali eccitatori ed inibitori precedenti al monticolo assonico sono paragonabili alla **funzione di linearizzazione**
+	- Il potenziale di riposo del neurone equivale al fattore di **bias**
+	- Il potenziale d'azione ricorda invece il ruolo della **funzione di attivazione** 
+	- Il risultato della funzione di attivazione equivale a sua volta all'output del percettrone cioé all'**etichetta y appartenente al set di label Y** 
+![](https://i.imgur.com/KqC8fRH.png)
+
+
+- L'obiettivo è quello di arrivare, tramite l'apprendimento, ad una **funzione di linearizzazione** che, inserita come argomento della funzione di attivazione, è in grado di generare degli output coerenti con le etichette reali fornite in input nel training set
+	- Per ottenere questa funzione dobbiamo modulare il parametro w ed il bias finché non troviamo l'ipotesi corretta
+	- ==funzione di ipotesi scritta come somma==
+	- Questa somma non è nient'altro che un prodotto scalare tra due vettori che quindi può essere espresso in termini algebrici con le parentesi angolari
+- Questa funzione è essenzialmente quella di una retta, a partire da questa assunzione possiamo rappresentare il percettrone su un piano cartesiano in questo modo
+	- INserire 
+
+
+- Inserendo questa ipotesi nella funzinoe di attivazione otteniamo l'output 
+	- ==Funzione segno==
+- Secondo quale criterio dobbiamo modulare w per ottenere la funzione adeguata?
+	- ==Funzione==
+	- Il nuovo peso è dato dalla combinazione del peso vecchio ed un termine proporzionale all'errore della predizione: y - h(x)
+	- Se la predizione è corretta il peso non cambia 
+	- Se la predizione è scorretta ci sono più casi
+		- Se y = +1 e h(x) = -1 
+			- L'errore di predizione sarà = 2
+			- Per compensare dobbiamo incrementare il valore dell'output predetto incrementando i pesi di tutti i collegamenti con input positivo e diminuendo i pesi dei link negativi
+		- Se y = -1 e h(x) = +1
+			- Il contrario
+	- Il numero di iterazioni per convergere verso una equazione corretta deve essere inferiore a ==T==
+- RECAP: funzione di loss, ipotesi, algoritmo di apprendimento
+
+### Regressione lineare
+- Se il percettrone è il classificatore lineare più semplice, la regressione lineare è il predittore lineare corrispondente
+- Immagine
+- In questo caso il nostro obiettivo non è quello di assegnare un'etichetta di classe y ma di prevedere quello che è un valore dipendente yin funzione di una variabile dipendente x
+	- In questo caso la **struttura dei dati in input**
+		- y sarà l'altezza di una persona
+		- x sarà il peso di una persona
+- Dal punto di vista grafico l'obiettivo è quello di trovare l'equazione della retta che meglio approssima i data point del training set (sempre secondo i paradigmi del pac learning)
+- In che termini misuriamo l'errore del nostro regressore?
+	- In questo caso l'ipotesi può assumere valori anche molto distanti dall'etichetta reale, per misurarli definiamo la nostra funzione di loss
+		- ==loss==
+	- Questa loss può essere anche interpretata come una funzione di costo che diminuisce ogni qual volta una modifica di w ci permette di avvicinarci ad un minimo (locale o globale che sia) e cresce in ogni altro caso
+- L'apprendimento consisterà quindi nel settare i pesi in maniera tale da minimizzare questa loss
+	- Sappiamo che l'operatore matematico che permette di massimizzare più velocemente una funzione è il gradiente
+		- Anteponendo il segno meno otteniamo il gradiente negativo e quindi come minimizzare più velocemente la funzione in questione
+	- Otteniamo quindi: ==GD==
+	- Questa funzione messa a grafico non è nient'altro che un paraboloide
+- Un'altro metodo risolutivo che ci permette di ottenere la minima distanza si ottiene trasformando la formula dello scarto quadratico medio in forma algebrica sfruttando il meotdo dei minimi quadrati
+	- Per minimizzarla poniamola uguale alla distanza, applichiamo le derivate parziali e poi valutiamo il caso in cui la distanza sia pari a zero
+	- Da questo otteniamo, mettendo in evidenza i pesi, l'equazione in ==forma normale== della regressione lineare 
+
+ 
+### Regressione polinomiale
+- Può captare che le caratteristiche del dataset siano tali che non si possano descrivere tramite un regressore lineare
+- In questi casi la nostra ipotesi non deve aver la forma di una retta madi un polinomio di grado n del tipo: ==formula==
+	- Al parametro w quindi aggiungiamo un iperparametro n che ci permette di minimizzare l'errore empirico
+- Per calcolare i pesi dobbiamo sostituire al vettore delle x un vettore di n +1 variabili x -> \[1,x,x^2,x^n] tramite una funzinone phi di x che parametrizza con n
+### Regressione logistica
+- La regressione logistica è un algoritmo fondamentale per classificare i casi agnostic pac learnable dove crolla l'assunzione di realizzabilità
+- Ci serve una funzione che ci permetta di mappare i parametri al di sopra o al di sotto di una soglia di probabilità
+	- Utilizziamo la sigmoide che mappa oltre e al di sotto dello 0.5 (50%) ed ha ==equazione==
+- Modelliamo quindi i parametri w per massimizzare la probabilità condizionale che la nostra ipotesi ci riconduca alle etichette disponibili
+	- ==Formule separate==
+	- Possiamo unire il tutto in un'unica formula 
+		- ==Formula unita==
+	- Per ogni x nel dataset possiamo applicare la funzione di verosimiglianza e quindi la produttoria di tutte le probabilità condizionate
+		- ==formula==
+	- Poiché però la produttoria è computazionalmente onerosa possiamo applicare le proprietà dei logaritmi e ridurre il tutto a delle somme
+		- ==formule con le somma e il log==
+- In questo caso dovremmo massimizzare la probabilità descritta precedentemente quindi nell'algoritmo di apprendimento il gradiente può rimanere positivo poiché non cerchiamo più di ridurre un errore ma di massimizzare la probabilità che il risultato della nostra ipotesi combaci con l'etichetta reale
+	- ==Algoritmo di apprendimento==
+
+
 ## Support Vector Machines
+- Nel task della classificazione siamo sempre partiti con l'obiettivo di generare un separatore capace di classificare correttamente e da questo abbiamo ottenuto modelli molto efficaci quale il percettrone e il regressore logistico
+- Modificando la premessa iniziale possiamo ottenere un altro tipo di modelli definiti support vector machines
+- L'obiettivo di una support vector machine è quello di identificare un ==iperpiano capace di massimizzare il margine funzionale==
+	- Per margine si intende la minima distanza di un punto del training set dall'iperpiano
+	- La norma però viene sostituita con il suo quadrato per rendere l'ottimizzazione più semplice
+	- Possiamo quindi esprimere questo problema come un'ottimizzazione quadratica con vincoli lineari
+		- Questa è risolvibile con gli strumenti che possediamo 
+- Può capitare però che rimanendo nella dimensione del training set in input non si possa separare linearmente con questa tecnica
+	- In questo caso si possono ammettere misclassificazioni introducendo delle variabili di slack e di costo (equiparabili a confidenza ed accuratezza) 
+		- Tramite queste possiamo traslare i vettori di supporto anche oltre il margine
+	- Applicando una funzione che associa ad ogni nostra variabile in input una di dimensione superiore tale da che in questa dimensione il set sia separabile possiamo  ottenere una separazione non lineare nella dimensione di partenza 
+		- Il problema è che le trasformazioni possono essere onerose dal punto di vista computazionale
+		- Per risolvere possiamo sfruttare il kernel trick
+			- Essenzialmente non dobbiamo effettuare la trasformazione dei dati perché la funznione di kernel ci permette di calcolare diretamente il prodotto scalre delle trasformazioni dei dati nel nuovo spazio delle feature.
+			- La formulazione duale con kernel è un casino quindi si skippa
+## Boosting
+
 
 
 

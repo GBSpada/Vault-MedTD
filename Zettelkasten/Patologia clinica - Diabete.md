@@ -2,7 +2,8 @@
 stato: "#ideaLez"
 tags:
   - PatologiaClinica
-sistema/apparato/ambito: Endocrino
+sistema/apparato:
+  - Endocrino
 ---
 15-02-2024 15:47
 

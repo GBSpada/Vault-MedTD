@@ -160,7 +160,6 @@ graph TD
 #### Ricerca
 > Il problema della ricerca consiste nell'identificazione di una sequenza di azioni per poter raggiungere il proprio obiettivo
 
-- 
 ###### Progettazione
 - Abbiamo detto che per progettare un agente ci servono 4 fattori, per identificarli innanzitutto formuliamo il problema
 	- Dobbiamo raggiungere un luogo Y a partire da un posto X: **stato iniziale e stato goal**
@@ -205,7 +204,7 @@ graph TD
 		- Lo ==stato iniziale== rappresenta la **radice**
 		- Ogni ==diramazione== è data da **azioni** e stati sucecssivi
 		- Lo ==stato corrente== è detto **nodo padre**
-		- I ==nodi senza figli== sono **nodi figlia**
+		- I ==nodi senza figli== sono **nodi foglia**
 			- Quelli in attesa di essere espansi sono raccolti nell'insieme frontiera (F)
 #### Strutture accessorie
 - Sono necessarie **strutture accessorie** per tenere conto dei **nodi visitati (E)** e della **frontiera (F)**
@@ -379,6 +378,10 @@ $$h2 = 3+1+2+2+2+3+3+2=18$$
 [^5]: Un grafo è una struttura matematica utilizzata per modellare relazioni tra coppie di oggetti costituita da due insieme, uno dei vertici (nodi) e uno degli archi (spigoli)
 
 [^6]: Funzione che assegna un valore ad ogni nodo e rappresenta una stima del costo minimo per arrivare al goal da n
+
+
+
+
 
 --- 
 # Reference: [[AI e Machine Learning - Lezioni e slide]]

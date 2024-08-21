@@ -89,22 +89,6 @@
       "key": "R"
     }
   ],
-  "app:toggle-left-sidebar": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "ArrowLeft"
-    }
-  ],
-  "app:toggle-right-sidebar": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "ArrowRight"
-    }
-  ],
   "graph:open-local": [
     {
       "modifiers": [
@@ -130,6 +114,24 @@
         "Mod"
       ],
       "key": ";"
+    }
+  ],
+  "app:toggle-left-sidebar": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "ArrowLeft"
+    }
+  ],
+  "app:toggle-right-sidebar": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "ArrowRight"
     }
   ]
 }

@@ -79,7 +79,7 @@
 		{"type":"text","text":"[[Interrupt]]","id":"ee6f4fb9e65ff469","x":-1042,"y":3525,"width":250,"height":60},
 		{"type":"text","text":"[[Shell o interprete dei comandi]]","id":"6b32cc803eff6a6f","x":-500,"y":3377,"width":250,"height":144},
 		{"type":"text","text":"[[Tabella di stato dei dispositivi]]","id":"af130611b0cf011e","x":-1275,"y":2624,"width":288,"height":98},
-		{"type":"text","text":"[[Race contition]]","id":"8c65730cef3b891d","x":-1258,"y":3128,"width":250,"height":60},
+		{"type":"text","text":"[[Race condition]]","id":"8c65730cef3b891d","x":-1258,"y":3128,"width":250,"height":60},
 		{"type":"text","text":"[[Scheduler]]","id":"8cd8be60eac16175","x":-475,"y":2398,"width":195,"height":90},
 		{"type":"text","text":"[[Bootstrap]]","id":"700bbea1ef8a6e7b","x":-1713,"y":2298,"width":250,"height":60},
 		{"type":"text","text":"[[Firmware e accensione]]","id":"cb98bae169d3b4db","x":-1712,"y":2434,"width":250,"height":88},

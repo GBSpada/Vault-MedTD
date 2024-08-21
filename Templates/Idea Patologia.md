@@ -17,7 +17,10 @@ sistema/apparato:
 ## Manifestazioni
 
 ## Diagnosi
-
+### Macroscopica
+### Istologica
+### Biologia molecolare
+### Radiologia
 ## Trattamento
 
 ## Prognosi

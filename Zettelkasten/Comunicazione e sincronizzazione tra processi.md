@@ -14,7 +14,7 @@ Tag: #ArchitettureDiCalcolo #SistemiOperativi
 - Si deve passare per forza dal kernel perché è l'unico processo in grado di accedere alla memoria di altri processi
 - Applicazioni principali
 	- Nei sistemi di rete distribuiti e per la comunicazione tra processi
-## Sincronizzazione: [[Race contition]]
+## Sincronizzazione: [[Race condition]]
 - Problema fondamentale nella comunicazione, in particolare nel caso di una macchina multi core 
 - La lettura può essere effettuata da più processi
 - La scrittura deve essere gestita in mutua esclusione: un solo processo può scrivere in un determinato momento

@@ -9,7 +9,10 @@ Tag: #Microbiologia
 [[Orthomyxovirus e Paramyxovirus]]
 [[I virus responsabili di epatiti primarie]]
 [[Prioni]]
+[[Lez 18 Microbiologia.pdf|Coronavirus]]
+
+
 
 ---
 # References
-![[Lez 18 Microbiologia.pdf]]
+

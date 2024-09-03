@@ -14,7 +14,7 @@ Tag: #Cardiologia
 	- distinzioni eziologiche
 		- PAN idiopatica classica
 		- forme cutanee di PAN
-		- PAN associata ad [[I virus responsabili di epatiti primarie|epatite B cronica]]
+		- PAN associata ad [[Condivisi/Cardio bruno/I virus responsabili di epatiti primarie|epatite B cronica]]
 - Morfologia
 	- **infiammazione segmentale, necrotizzante e transmurale** delle arterie di piccolo e medio calibro
 	- interessa (ordine decrescente), i vasi di

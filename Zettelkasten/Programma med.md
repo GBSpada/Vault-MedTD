@@ -9,6 +9,8 @@ Tag:
 ### 2. Biologia cellulare e molecolare
 ### 3. Embriologia e morfologia generale 
 - Introduzione di anatomia topografica
+- Il carcinoma infiammatorio può rappresentare una modalità di progressione di qualsiasi tipo di carcinoma invasivo della mammella. 
+- Comunque, la neoplasia è in genere di tipo invasivo NST, caratterizzata da un alto grado istologico, assenza di ER e PgR, mutazioni del gene p53, iperespressione della proteina HER2.
 - Introduzione allo studio dei tessuti 
 - Principalmente classificazioni
 ### 4. Chimica/fisica

@@ -224,5 +224,5 @@ Tag: #Microbiologia
 - Oltre che in Giappone, è stata segnalata anche in altre aree dell'Asia, dell'Africa e dell'America centro-meridionale. Casi sporadici sono osservati anche in USA e in Europa.
 ---
 # References
-[[Virologia]]
+[[Condivisi/Cardio bruno/Virologia]]
 ![[Microbiologia lez 10 (1).pdf]]

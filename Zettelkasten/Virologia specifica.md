@@ -3,9 +3,9 @@ Stato: #ideaL
 Tag: #Microbiologia 
 
 ## Poxvirus
-## [[Herpesvirus]] -
+## [[Zettelkasten/Herpesvirus]] -
 ## Adenovirus
-## [[Papillomavirus e polyomavirus]] -
+## [[Zettelkasten/Papillomavirus e Polyomavirus]] -
 ## Parvovirus
 ## Orthomyxovirus: il virus dell'influenza -
 ## Paramyxoviridae -

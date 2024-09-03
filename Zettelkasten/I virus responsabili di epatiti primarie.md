@@ -151,5 +151,5 @@ Tag: #Microbiologia
 - **Profilassi**: vaccini allestiti con la porzione maggiormente immunogena delle proteine codificate da ORF2.
 ---
 # References
-[[Virologia]]
+[[Zettelkasten/Virologia]]
 https://viralzone.expasy.org/9?outline=all_by_species

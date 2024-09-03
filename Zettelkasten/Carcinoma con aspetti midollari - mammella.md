@@ -21,7 +21,8 @@ sistema/apparato:
 	- Il carcinoma ==invasivo NST con aspetti midollari==
 
 
-
+## Epidemiologia
+- La sua frequenza è particolarmente elevata fra i tumori eredofamiliari per ==mutazioni dei geni BRCA==.
 ## Diagnosi
 ### Macroscopica
 - Il tumore si presenta come un ==nodulo ben circoscritto==, con una ==consistenza molle==, secondaria alla mancanza o scarsità dello stroma, 
@@ -47,7 +48,6 @@ sistema/apparato:
 ### Biologia molecolare
 
 ### Radiologia
-## 
 
 ## Prognosi
 

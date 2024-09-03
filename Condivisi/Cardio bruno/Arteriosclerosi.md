@@ -8,7 +8,7 @@ Tag: #Cardiologia
 	- **arteriosclerosi**
 		- interessa le piccole arterie e le arteriole
 		- può causare, a valle della lesione, un danno ischemico
-		- due varianti istologiche ([[ipertensione|ialina e iperplastica]])
+		- due varianti istologiche ([[Ipertensione|ialina e iperplastica]])
 	- **sclerosi della media di Mönckeberg**
 		- caratterizzata dalla presenza di depositi calcifici nelle arterie muscolari in soggetti di età > 50 anni
 			- calcificazioni non aggettanti verso il lume vasale, non clinicamente significative
@@ -22,4 +22,4 @@ Tag: #Cardiologia
 
 ---
 # Reference
-[[Cardiologia]]
+[[Condivisi/Cardio bruno/Cardiologia]]

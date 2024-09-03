@@ -1,0 +1,23 @@
+{
+  "basePath": "https://www.peerdraft.app",
+  "subscriptionAPI": "https://www.peerdraft.app/subscription",
+  "connectAPI": "https://www.peerdraft.app/subscription/connect",
+  "sessionAPI": "https://www.peerdraft.app/session",
+  "sync": "wss://www.peerdraft.app/sync",
+  "signaling": "wss://www.peerdraft.app/signal",
+  "actives": "wss://www.peerdraft.app/actives",
+  "name": "GB",
+  "root": "",
+  "plan": {
+    "type": "hobby",
+    "email": "minecrafter2002gbs@gmail.com"
+  },
+  "duration": 0,
+  "debug": false,
+  "version": "2.7.2",
+  "serverShares": {
+    "files": [],
+    "folders": []
+  },
+  "oid": "d131ec35f07adc6b"
+}

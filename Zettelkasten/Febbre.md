@@ -19,7 +19,7 @@ sistema/apparato:
 - Il meccanismo fisiopatologico della febbre ha inizio con l'introduzione di pirogeni esogeni o endotossine batteriche
 	- I più frequentemente riscontrati 
 		- Il complesso lipopolisaccaridico della parete cellulare di batteri gram positivi [[Gli involucri esterni dei Gram-positivi]]
-	- I [[Virologia|virus]]
+	- I [[Zettelkasten/Virologia|virus]]
 - La risposta del sistema immunitario porta alla produzione dei primi pirogeni endogeni
 	- Più frequenti
 		- Prostaglandina E2

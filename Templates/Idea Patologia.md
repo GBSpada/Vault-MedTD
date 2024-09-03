@@ -13,13 +13,13 @@ sistema/apparato:
 
 ## Fisiopatologia
 ## Eziologia
-
+## Epidemiologia
 ## Manifestazioni
 
 ## Diagnosi
 ### Macroscopica
 ### Istologica
-### Biologia molecolare
+### Biologia Molecolare
 ### Radiologia
 ## Trattamento
 

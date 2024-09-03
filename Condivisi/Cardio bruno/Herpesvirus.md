@@ -138,5 +138,5 @@ Tag: #Microbiologia
 	- ![Herpesvirus, presenza di anticorpi anti-LNA nel siero di un soggetto infetto da AIDS, con sarcoma di Kaposi evidenziati mediante immunofluorescenza indiretta nei confronti di cellule BCBL1](https://i.imgur.com/LjB1upX.png)
 ---
 # References
-[[Virologia]]
+[[Condivisi/Cardio bruno/Virologia]]
 

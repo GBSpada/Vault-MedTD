@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2ffcbd54d817510c",
+        "id": "3f29c636a3bf3827",
         "type": "tabs",
         "children": [
           {
-            "id": "22aa1efb1451912f",
+            "id": "de7a7ac2c9279381",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Mammella.md",
+                "file": "Zettelkasten/Apparato genitale femminile.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,40 +21,7 @@
             }
           },
           {
-            "id": "0b969c38be292e5c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/Carcinoma della mammella.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "debfe6411cd29f41",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/Carcinoma con aspetti midollari - mammella.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "a604e70c8e1f2e9e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "29f8ecce50045461",
+            "id": "e3bd3c4096067609",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -65,8 +32,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4df6dba139e99ade",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Idea Patologia.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -86,7 +67,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -96,7 +77,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "incidenza",
+                "query": "vacu",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -105,8 +86,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "45ea08796f45e544",
@@ -135,7 +115,6 @@
       {
         "id": "91675aacfd27c02e",
         "type": "tabs",
-        "dimension": 38.9937106918239,
         "children": [
           {
             "id": "ae4351b16c3fe865",
@@ -154,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Carcinoma con aspetti midollari - mammella.md",
+                "file": "Templates/Idea Patologia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Carcinoma con aspetti midollari - mammella.md",
+                "file": "Templates/Idea Patologia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -199,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/Carcinoma con aspetti midollari - mammella.md"
+                "file": "Templates/Idea Patologia.md"
               }
             }
           },
@@ -214,34 +193,21 @@
                 "searchQuery": ""
               }
             }
-          }
-        ],
-        "currentTab": 6
-      },
-      {
-        "id": "39371a1e271841aa",
-        "type": "tabs",
-        "dimension": 61.0062893081761,
-        "children": [
+          },
           {
-            "id": "ed5bf6c530e9f52f",
+            "id": "a61a7b0a9240cf6c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/Nota rapida.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "copilot-chat-view",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 457.5,
-    "collapsed": true
+    "width": 829.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -256,44 +222,46 @@
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "translate:Open translation view": false,
-      "copilot:Copilot Chat": false
+      "copilot:Copilot Chat": false,
+      "peerdraft:Show my Peerdraft Shares": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "debfe6411cd29f41",
+  "active": "a61a7b0a9240cf6c",
   "lastOpenFiles": [
-    "Templates/Idea Patologia.md",
-    "Zettelkasten/Carcinoma con aspetti midollari - mammella.md",
+    "Zettelkasten/Apparato genitale femminile.md",
     "Zettelkasten/a.md",
-    "Zettelkasten/Carcinoma della mammella.md",
-    "Zettelkasten/Mammella.md",
-    "Zettelkasten/Carcinoma lobulare invasivo - mammella.md",
+    "Templates/Idea Patologia.md",
+    "Zettelkasten/Carcinoma lobulare in situ di tipo classico - mammella.md",
     "Zettelkasten/Carcinoma invasivo NST - mammella.md",
-    "Zettelkasten/Carcinoma cribriforme - mammella.md",
-    "Zettelkasten/Carcinoma tubulare - mammella.md",
-    "Zettelkasten/Carcinoma duttale in situ - mammella.md",
+    "Zettelkasten/Carcinoma squamoso - vulva.md",
+    "Zettelkasten/Malattia di Paget.md",
+    "Zettelkasten/TNM.md",
+    "Zettelkasten/Risposte cellulari a stress e insulti tossici - adattamento, danno e morte.md",
+    "Zettelkasten/Carcinoma della mammella.md",
+    "Zettelkasten/Chlamydie.md",
+    "Zettelkasten/Chlamydia Psittaci.md",
+    "Zettelkasten/Neisseria Gonorrhoeae.md",
+    "Zettelkasten/Neisseria Meningitidis.md",
+    "Zettelkasten/Streptococcus pyogenes.md",
+    "Zettelkasten/L'azione patogena dei batteri.md",
+    "Risorse/Mammella.md",
+    "Zettelkasten/Patologia non neoplastica della mammella.md",
+    "Zettelkasten/Robbins markdown.md",
+    "Zettelkasten/Adenosi sclerosante.md",
+    "Zettelkasten/Mastopatia fibrocistica.md",
+    "Zettelkasten/Iperplasia epiteliale.md",
+    "Zettelkasten/Fibroadenoma mammario.md",
+    "Zettelkasten/Tumori stromali della mammella.md",
+    "Zettelkasten/Tumore filloide.md",
+    "Zettelkasten/Carcinoma con differenziazione apocrina - mammella.md",
     "Files/Trasporti nelle porzioni del tubulo renale.png",
     "Files/Pasted image 20231214190821.png",
     "Files/Pasted image 20240820181305.png",
-    "Zettelkasten/Race condition.md",
-    "Zettelkasten/Autoregolazione della filtrazione glomerulare.md",
-    "Zettelkasten/Feedback Tubulo Glomerulare.md",
     "Files/Pasted image 20240815033708.png",
     "Files/Pasted image 20240819161459.png",
     "Files/Pasted image 20240819134218.png",
-    "Zettelkasten/Carcinoma lobulare in situ di tipo pleomorfo - mammella.md",
-    "Zettelkasten/Carcinoma lobulare in situ di tipo classico - mammella.md",
-    "Zettelkasten/Carcinoma colorettale.md",
-    "Lavoro Bruno/Tratto gastrointestinale.md",
-    "Risorse/Anatomia patologica - Gallo d'Amati.md",
-    "Zettelkasten/Senza nome 1.md",
-    "Zettelkasten/Senza nome.md",
-    "Zettelkasten/Senza nome 2.md",
     "Files/Lez 18 Microbiologia.pdf",
-    "Lavoro Bruno/Cardio bruno/Virologia.md",
-    "Zettelkasten/Molecular pathways in colorectal cancer.md",
-    "Zettelkasten/Cancro colon-retto.md",
-    "Zettelkasten/Tumori del canale anale.md",
-    "Lavoro Bruno/Intestino crasso - Istologia.md",
     "Files/PATOLOGIA CLINICA 1.pdf",
     "Digerente bruno",
     "Libri",

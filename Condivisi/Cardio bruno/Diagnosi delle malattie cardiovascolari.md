@@ -143,7 +143,7 @@ Tag: #Cardiologia
 ##### *pulsus bisferiens* (o ==bifido==)
 - caratterizzato da due picchi sistolici
 - tipico di
-	- [[insufficienza aortica]] (con o senza stenosi concomitante)
+	- [[Insufficienza aortica]] (con o senza stenosi concomitante)
 		- ![polso *bisferiens* con due picchi sistolici dovuti all'onda di percussione e a quella di reflusso. Questo tipo di morfologia del polso carotideo è riscontrabile in pazienti con un'insufficienza valvolare aortica emodinamicamente significativa, oppure una steno-insufficienza aortica con predominante insufficienza. Raramente apprezzabile alla palpazione del malato](https://i.imgur.com/Kw01D5u.png)
 	- miocardiopatia ipertrofica
 		- prima fase ascendente → primo picco sistolico ("*onda di percussione*")
@@ -237,4 +237,4 @@ Tag: #Cardiologia
 
 ---
 # Reference
-[[Cardiologia]]
+[[Condivisi/Cardio bruno/Cardiologia]]

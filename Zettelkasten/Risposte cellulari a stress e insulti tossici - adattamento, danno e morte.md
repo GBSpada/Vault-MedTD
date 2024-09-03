@@ -148,7 +148,7 @@ Può essere indotta da fattori di crescita nelle cellule mature e nelle cellule 
 - Le principali caratteristiche a livello citologico sono
 	- La deplezione di ATP
 	- La riduzione della fosforilazione ossidativa
-	- Il rigonfiamento cellulare causato da alterazioni della concentrazione ionica
+	- Il rigonfiamento cellulare causato da alterazioni della concentrazione ionica: *degenerazione idropica*
 ### Morte cellulare
 ![Apoptosi e necrosi](https://i.imgur.com/QEAgM2N.png)
 - Con il perdurare del danno la cellula diventa incapace di recuperare e muore
@@ -175,7 +175,7 @@ Può essere indotta da fattori di crescita nelle cellule mature e nelle cellule 
 ![Danno cellulare in base alla durata](https://i.imgur.com/AMwGOur.png)
 ### Danno reversibile  
 - Al microscopio ottico si notano principalmente
-	- Rigonfiamento cellulare, causato dalla perdita della capacità di gestire l'equilibrio osmotico per perdita di funzionalità delle pompe ioniche ATP-dipendenti
+	- Rigonfiamento cellulare, causato dalla perdita della capacità di gestire l'equilibrio osmotico per perdita di funzionalità delle pompe ioniche ATP-dipendenti (*degenerazione idropica*)
 	- [[Steatosi]], soprattutto in cellule coinvolte nel metabolismo lipidico (epatociti, cellule miocardiche)
 #### Morfologia
 - A livello dell'organo intero

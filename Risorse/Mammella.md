@@ -5,6 +5,7 @@ tags:
   - Istologia
   - AnatomiaPatologica
   - PatologiaGenerale
+  - Ginecologia
 sistema/apparato:
   - Tegumentario
 ---
@@ -20,7 +21,7 @@ sistema/apparato:
 - Riferimenti per l'estensione
 	- In direzione cranio caudale tra la terza e la settima costa
 	- In larghezza tra la linea parasternale  ela linea ascellare media
-- La ==componente ghiandolare== della mammella può considerarsi una ghiandola sudoripara apocrina modificata localizzata
+- La ==componente ghiandolare== della mammella può considerarsi una *ghiandola sudoripara apocrina modificata* localizzata ^3f6a47
 	- Anteriormente
 		- Sulla fascia di rivestimento del ==grande pettorale==
 	- Lateralmente
@@ -47,6 +48,10 @@ sistema/apparato:
 >Un suo prolungamento può estendersi fino alla regione ascellare formando una massa ben delimitata che può simulare un tumore
 
 # Istologia
+
+>[!info]- L'epitelio apocrino
+>L’epitelio apocrino è ==tipico delle ghiandole sudoripare== ed è costituito da cellule con un ==ampio citoplasma intensamente eosinofilo e finemente granuloso== e nucleoli, talora multipli, rossastri e prominenti. Il termine deriva dal greco antico apocrìno, che significa “separare” o “staccare”, a indicare il ==distacco della porzione apicale della cellula durante la secrezione==.
+
 ## Cute
 ### Areola
 - Dopo la gravidanza, durante l'allattamento, da rosea diventa bruna a causa della forte presenza di ==melanociti== e si estende ulteriormente
@@ -70,6 +75,10 @@ sistema/apparato:
 		- costituisce lo *spazio retromammario*
 
 ## Ghiandola mammaria
+>Ricorda: ghiandola sudoripara modificata
+
+^b1cdd9
+
 - Limiti
 	- La **superficie anteriore** è rivestita dalla cute
 	- La **superficie posteriore** è in rapporto con la fascia pettorale da cui resta separata mediante lo spazio retromammario
@@ -84,6 +93,14 @@ sistema/apparato:
 			- ==Cellule secernenti==
 
 
+## Stroma
+- Lo stroma della mammella si può dividere in due categorie
+	- **Stroma interlobulare**
+		- Più denso
+	- **Stroma intralobulare**
+		- Di aspetto ==mixoide==
+# Fisiologia
+- Gli **estrogeni** svolgono un ruolo di primo piano nella fisiologia della ghiandola mammaria, dove, legandosi ai loro recettori (ER, Estrogen Receptor) presenti nel nucleo, inducono la crescita dell’epitelio delle TDLU.
 # Patologia
 
 ## Neoplastica
@@ -91,40 +108,8 @@ sistema/apparato:
 ### [[Carcinoma della mammella]]
 
 ### [[Tumori stromali della mammella]]
-#### Neoplasie dello stroma intralobulare
-Fibroadenoma
-Tumore filloide
-#### Neoplasie dello stroma interlobulare
-Angiosarcoma
-## Non neoplastica
-### Lesioni epiteliali benigne
-#### Non proliferative
-Mastopatia fibrocistica
-#### Proliferative senza atipie
-Iperplasia epiteliale
-#### Proliferative con atipie
-Iperplasia duttale atipica
-Iperplasia lobulare atipica
-### Lesioni sclerosanti
-Adenosi sclerosante 
-Lesione sclerosante complessa o cicatrice radiale (radial scar)
-Adenosi microghiandolare
-Adenoma duttale
-### Tumori benigni della mammella
-Papilloma intraduttale
-Adenoma del capezzolo
-### Malattie infiammatorie 
-Mastite acuta
-Ectasia dei dotti mammari o comedomastite
-Mastite periduttale
-Steatonecrosi
-Mastopatia linfocitica
-Mastite granulomatosa
 
-
-
-
-
+## [[Patologia non neoplastica della mammella]]
 
 
 

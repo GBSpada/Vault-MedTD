@@ -135,4 +135,4 @@ Tag: #Microbiologia
 - **Vaccini antiparotitici**: allestiti con virus attenuati e già largamente in uso. Viene, generalmente, somministrato associato agli stipiti di virus morbilloso e virus della Rosolia (*Vaccino MMR*, da *mumps-measles-rubella*) e detto MPR (morbillo-parotite-rosolia), è molto efficace, anche se, negli ultimi anni, sono state segnalate complicanze neurologiche in 1/100000 vaccinati.
 ---
 # References
-[[Virologia]]
+[[Zettelkasten/Virologia]]

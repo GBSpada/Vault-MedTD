@@ -37,8 +37,9 @@ Tag: #Microbiologia
 - ==Congiuntivite== e ==Polmonite interstiziale==
 
 ## Serovar L1, L2, L3
-- [[Linfogranuloma venereo]]
-	- Papula/ulcera genitale a cui seguono [[Infiammazione granulomatosa]] con compromissione dei linfonodi regionali
+### Linfogranuloma venereo 
+- La lesione appare come una piccola vescicola indolente nel punto di entrata del batterio, che si ulcera e guarisce spontaneamente in pochi giorni.
+	- Nel periodo a seguire, essa provoca invariabilmente una linfadenite granulomatosa dei linfonodi inguinali con granulomi in necrosi colliquativa
 - Malattia tropicale estremamente rara in occidente
  
 

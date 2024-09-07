@@ -1,6 +1,8 @@
 ---
 stato: ideaL
 tags:
+  - Stadiazione
+  - Oncologia
 ---
 \28-08-2024 \01:32
 
@@ -75,26 +77,90 @@ La stadiazione anatomica del carcinoma della mammella si basa sulla combinazione
 
 --- 
 ---
-# Vulva
+# Vulva: carcinoma
 
-
-| Stadio | Definizione | TNM |
-|---|---|---|
-| 0 | Non evidenza di tumore | TX |
-| 0 | Neoplasia intraepiteliale Grado III | Tis |
-| IA | Tumore di diametro ≤2 cm confinato a vulva e/o perineo, con invasione stromale non superiore a 1 mm*. Assenza di metastasi linfonodali | T1a N0 M0 |
-| IB | Tumore di diametro ≤2 cm confinato a vulva e/o perineo, con invasione stromale superiore a 1 mm*. Assenza di metastasi linfonodali | T1b N0 M0 |
-| II | Tumore di diametro >2 cm confinato a vulva e/o perineo, con assenza di metastasi linfonodali | T2 N0 M0 |
-| III | Tumore di qualsiasi diametro con: interessamento di 1/3 distale dell’uretra, e/o vagina e/o ano e/o metastasi ai linfonodi inguinali omolaterali | T3 N0 M0<br>T3 N1 M0<br>T1 N1 M0<br>T2 N1 M0 |
-| IVA | Tumore che invade 1 o più delle seguenti strutture: 1/3 prossimale dell’uretra, mucosa vescicale, mucosa rettale, sinfisi pubica e/o metastasi linfonodali inguinali bilaterali | T1 N2 M0<br>T2 N2 M0<br>T3 N2 M0<br>T4 N0-2 M0 |
-| IVB | Metastasi a distanza, comprese le metastasi linfonodali pelviche | T1-4 N0-2 M1 |
+| Stadio | Definizione                                                                                                                                                                     | TNM/FIGO                                       |
+| ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
+| 0      | Non evidenza di tumore                                                                                                                                                          | TX                                             |
+| 0      | Neoplasia intraepiteliale Grado III                                                                                                                                             | Tis                                            |
+| IA     | Tumore di diametro ≤2 cm confinato a vulva e/o perineo, con invasione stromale non superiore a 1 mm*. Assenza di metastasi linfonodali                                          | T1a N0 M0                                      |
+| IB     | Tumore di diametro ≤2 cm confinato a vulva e/o perineo, con invasione stromale superiore a 1 mm*. Assenza di metastasi linfonodali                                              | T1b N0 M0                                      |
+| II     | Tumore di diametro >2 cm confinato a vulva e/o perineo, con assenza di metastasi linfonodali                                                                                    | T2 N0 M0                                       |
+| III    | Tumore di qualsiasi diametro con: interessamento di 1/3 distale dell’uretra, e/o vagina e/o ano e/o metastasi ai linfonodi inguinali omolaterali                                | T3 N0 M0<br>T3 N1 M0<br>T1 N1 M0<br>T2 N1 M0   |
+| IVA    | Tumore che invade 1 o più delle seguenti strutture: 1/3 prossimale dell’uretra, mucosa vescicale, mucosa rettale, sinfisi pubica e/o metastasi linfonodali inguinali bilaterali | T1 N2 M0<br>T2 N2 M0<br>T3 N2 M0<br>T4 N0-2 M0 |
+| IVB    | Metastasi a distanza, comprese le metastasi linfonodali pelviche                                                                                                                | T1-4 N0-2 M1                                   |
 
 - La profondità di invasione è definita come la misura della neoplasia dalla giunzione epitelio-stromale della papilla dermica adiacente più superficiale, fino alla profondità massima di invasione.
 
 
+# Cervice: carcinoma
+- Sempre TNM/FIGO
+
+| Stadio | Definizione |
+|---|---|
+| 0 | Carcinoma intraepiteliale |
+| I | Carcinoma confinato alla cervice uterina |
+| IA | Carcinoma invasivo identificato microscopicamente |
+| IA1 | Invasione profonda dello stroma non superiore a 3 mm ed estensione orizzontale non più ampia di 7 mm |
+| IB1 | Invasione profonda dello stroma compresa fra 3 e 5 mm ed estensione orizzontale non più ampia di 7 mm |
+| IB2 | Lesioni cliniche confinate al collo o lesioni precliniche di dimensioni superiori a quelle dello stadio IA2 |
+| IIA | Lesioni cliniche di dimensioni inferiori a 4 cm |
+| IIB | Lesioni cliniche di dimensioni superiori a 4 cm |
+| IIC | Carcinoma esteso oltre la cervice, ma non nel pavimento pelvico |
+| IIIA | Non coinvolgimento del parametrio |
+| IIIB | Coinvolgimento del parametrio |
+| IIIC | Carcinoma esteso al pavimento pelvico o al terzo inferiore della vagina |
+| IVA | Non estensione nel pavimento pelvico, ma nel terzo inferiore della vagina |
+| IVB | Estensione al pavimento pelvico o perdita della funzionalità renale |
+| IVC | Estensione oltre la pelvi o coinvolgimento clinico della mucosa della vescica o del retto |
+| IVA | Metastasi negli organi adiacenti |
+| IVB | Metastasi a distanza |
 
 
+# Utero: tumori non trofoblastici
 
+| Stadio  | Definizione                                                                                                    |
+| ------- | -------------------------------------------------------------------------------------------------------------- |
+| **I**   | **Tumore confinato al corpo uterino**                                                                          |
+| IA      | Limitato all’endometrio (adenocarcinoma intramucoso)                                                           |
+| IB      | Infiltra meno del 50% dello spessore miometriale                                                               |
+| IC      | Infiltra più del 50% dello spessore miometriale                                                                |
+| **II**  | **Tumore esteso alla cervice ma confinato entro l’utero**                                                      |
+| IIA     | Invade l’epitelio cervicale                                                                                    |
+| IIB     | Invade l’epitelio e lo stroma cervicali                                                                        |
+| **III** | **Tumore esteso all’esterno dell’utero ma confinato entro la pelvi**                                           |
+| IIIA    | Invade la sierosa e/o le ovaie e/o presenza di cellule tumorali nel liquido ascitico o di lavaggio peritoneale |
+| IIIB    | Invade la vagina                                                                                               |
+| IIIC    | Metastasi ai linfonodi pelvici o para-aortici                                                                  |
+| **IV**  | **Tumore esteso al di fuori della pelvi o alla mucosa vescicale o intestinale**                                |
+| IVA     | Invade la mucosa vescicale o intestinale                                                                       |
+| IVB     | Metastasi a distanza                                                                                           |
+
+# Pene: carcinoma
+
+| **Categoria**                | **Sottocategoria** | **Descrizione**                                                                   | **Stadio**           |
+| ---------------------------- | ------------------ | --------------------------------------------------------------------------------- | -------------------- |
+| **Tumore primario (T)**      |                    |                                                                                   |                      |
+|                              | TX                 | Tumore primario non esaminato                                                     |                      |
+|                              | T0                 | Mancata evidenza di tumore primario                                               | Stadio 0             |
+|                              | Tis                | Carcinoma in situ                                                                 | Stadio 0             |
+|                              | Ta                 | Tumore verrucoso non invasivo                                                     | Stadio I             |
+|                              | T1                 | Tumore invade il tessuto connettivo sottoepiteliale                               | Stadio I, II         |
+|                              | T2                 | Tumore invade il corpo cavernoso o spongioso                                      | Stadio II, III       |
+|                              | T3                 | Tumore invade uretra o prostata                                                   | Stadio III           |
+|                              | T4                 | Tumore invade le strutture tessutali adiacenti                                    | Stadio IV            |
+| **Linfonodi regionali (N)**  |                    |                                                                                   |                      |
+|                              | NX                 | Linfonodi regionali non esaminati                                                 |                      |
+|                              | N0                 | Linfonodi esenti da infiltrazione neoplastica                                     | Stadio 0, I, II      |
+|                              | N1                 | Metastasi in un singolo linfonodo inguinale superficiale                          | Stadio II            |
+|                              | N2                 | Metastasi in uno o più linfonodi inguinali superficiali bilaterali                | Stadio III           |
+|                              | N3                 | Metastasi nei linfonodi inguinali profondi o nei pelvici unilaterali o bilaterali | Stadio III           |
+| **Metastasi a distanza (M)** |                    |                                                                                   |                      |
+|                              | MX                 | Metastasi a distanza non esaminate                                                |                      |
+|                              | M0                 | Metastasi assenti                                                                 | Stadio 0, I, II, III |
+|                              | M1                 | Metastasi a distanza                                                              | Stadio IV            |
+
+**Nota:** La colonna "Stadio" indica a quale stadio corrisponde la combinazione specifica di T, N e M. Ad esempio, un tumore T1N0M0 corrisponde allo Stadio I. 
 
 
 ---

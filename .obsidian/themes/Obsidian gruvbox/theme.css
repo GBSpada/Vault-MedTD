@@ -572,8 +572,10 @@ body {
     --callout-bug: var(--neutral-red_x);
     --callout-example: var(--neutral-purple_x);
     --callout-quote: var(--gray_x);
+
 }
 
 .callout {
     background-color: rgba(var(--callout-color), 0.2);
 }
+

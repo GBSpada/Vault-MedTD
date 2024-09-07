@@ -4,5 +4,8 @@ Tag: #Microbiologia
 
 
 ---
+
+[[Klebsiella granulomatis]]
+
 # References
 [[Microbiologia - La Placa]]

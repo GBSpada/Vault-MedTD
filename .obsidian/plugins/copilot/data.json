@@ -25,7 +25,7 @@
   "defaultSaveFolder": "copilot-conversations",
   "indexVaultToVectorStore": "ON MODE SWITCH",
   "qaExclusionPaths": "",
-  "chatNoteContextPath": "Template/Idea Patologia",
+  "chatNoteContextPath": "",
   "chatNoteContextTags": [],
   "debug": false,
   "enableEncryption": true,

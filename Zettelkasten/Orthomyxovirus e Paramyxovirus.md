@@ -95,7 +95,7 @@ Tag: #Microbiologia
 
 ## Virus della parotite
 - La parotite è una malattia tipica dell'infanzia, che, clinicamente, si presenta con il sintomo saliente dell'ingrossamento delle parotidi (a volte una sola). L'affezione è moderatamente febbrile e passa a guarigione spontaneamente.
-	- Sono possibili complicazioni a carico di pancreas e SN e, nei maschi in età post-puberale, frequente comparsa di orchite mono- o bilaterale, molto dolente, cui può perseguire (molto raramente) atrofia testicolare e *impotentia generandi*.
+	- Sono possibili complicazioni a carico di pancreas e SN e, nei maschi in età post-puberale, frequente comparsa di [[Testicolo#Orchiti]] mono- o bilaterale, molto dolente, cui può perseguire (molto raramente) atrofia testicolare e *impotentia generandi*.
 - **Infezione**: si contrae per contagio interumano, attraverso la saliva, ed il periodo d'incubazione è ca. 15 gg.
 - **Proprietà**: presente un unico tipo antigenico, con poche correlazioni coi virus parainfluenzali. Il virus possiede poteri emoagglutinanti e, in coltura, può provocare la comparsa di policariociti ed inclusioni citoplasmatiche.
 - **Diagnosi**: molto easy, la ricerca del virus avviene solo in caso di meningiti o pancreatiti.

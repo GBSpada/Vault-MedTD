@@ -16,7 +16,7 @@ sistema/apparato:
 >Rara forma di presentazione clinica del carcinoma della mammella.
 
 >[!warning] Nota bene: 
->Può avere sede extramammaria, vedi [[Apparato genitale femminile#Paget extramammaria]]
+>Può avere sede extramammaria, vedi [[Adenocarcinoma - vulva#Paget extramammaria]]
 ## Fisiopatologia
 - L’interpretazione odierna della malattia di Paget è che le ==cellule epiteliali neoplastiche== presenti nel lume delle strutture duttali siano ==in grado di muoversi nel contesto del normale epitelio di rivestimento dei dotti== e di risalire fino ai dotti galattofori e ai loro orifizi di sbocco sulla superficie del capezzolo.
 	- Qui, poiché l’epitelio di rivestimento duttale si continua con l’epidermide, le cellule epiteliali neoplastiche si insinuano nello spessore di quest’ultima, potendo raggiungere anche l’areola. 

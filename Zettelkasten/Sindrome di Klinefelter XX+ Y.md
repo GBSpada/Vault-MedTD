@@ -1,6 +1,6 @@
 14-07-2023 19:13
 Stato: #ideaL
-Tag: #Patologia #Microbiologia 
+Tag: #Patologia 
 
 ## In generale
 - 1/500 a 1/1000 delle nascite maschili
@@ -19,4 +19,3 @@ Tag: #Patologia #Microbiologia
 
 ---
 # References
-[[Microbiologia - La Placa]]

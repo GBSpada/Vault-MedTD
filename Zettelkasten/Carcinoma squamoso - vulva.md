@@ -16,7 +16,7 @@ sistema/apparato:
 ## Epidemiologia
 - Colpisce ==prevalentemente le donne tra i 70 e i 75 anni== di età. 
 	- Un recente studio retrospettivo dimostra come nelle donne anziane il rischio si correli con la presenza di lesioni epiteliali non neoplastiche, la menopausa precoce, la scarsa igiene personale, disturbi endocrini e bassi livelli di vitamina A.
-	- **Nelle donne con meno di 45 anni** il carcinoma a cellule squamose è ==significativamente correlato con l’infezione da HPV, il fumo di sigarette, il numero di partner sessuali, la giovane età del primo rapporto sessuale e un basso status socio-economico==. 
+	- **Nelle donne con meno di 45 anni** il carcinoma a cellule squamose è ==significativamente correlato con l’infezione da [[Papillomavirus e Polyomavirus|HPV]], il fumo di sigarette, il numero di partner sessuali, la giovane età del primo rapporto sessuale e un basso status socio-economico==. 
 ## Manifestazioni
 
 - Il **sintomo** più frequente è il ==prurito== (75% dei casi) mentre nel 41% dei casi le pazienti riferiscono la presenza di una ==massa fastidiosa==

@@ -11,7 +11,7 @@ sistema/apparato: CardioCircolatorio
 ## [[Edema]] 
 ## [[Iperemia e congestione]]
 ## [[Emorragia]]
-## [[Emostasi e trombosi]]
+## [[Trombosi]]
 ## [[Embolia]]
 ## [[Infarto]]
 ## [[Shock]]

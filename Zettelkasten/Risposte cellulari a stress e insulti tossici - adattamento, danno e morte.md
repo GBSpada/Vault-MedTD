@@ -68,7 +68,7 @@ Le cellule in condizioni normali si trovano in uno stato di equilibrio detto di 
 - Regredisce al cessare degli stimoli ormonali e data l'assenza di aberrazioni genetiche non genera necessariamente proliferazioni incontrollate.
 - Comunque anche se non è direttamente correlata al cancro fornisce un terreno fertile per esso
 ##### Endometriale
-- In condizioni fisiologiche, dopo il [[ciclo mestruale]], a livello dell'epitelio endometriale si verifica un aumento dell'attività proliferativa
+- In condizioni fisiologiche, dopo il [[Ciclo mestruale]], a livello dell'epitelio endometriale si verifica un aumento dell'attività proliferativa
 	- Subito dopo viene bloccata da un aumento dei livelli di progesterone
 - Quando questo equilibrio tra estrogeni e progestinici è alterato con un aumento degli estrogeni si ha iperplasia
 ##### Prostatica

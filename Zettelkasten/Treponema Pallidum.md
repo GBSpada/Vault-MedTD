@@ -8,11 +8,14 @@ Tag: #Microbiologia
 - La sifilide è una malattia cronica con decorso trifasico
 ### Fase I
 1. Avviene il contagio a livello delle mucose genitali
-2. Nell'arco di 10-20 giorni provoca una papula che evolve in ulcera dal fondo duro indolore
+2. Nell'arco di 10-20 giorni provoca papule rossastre circolari che presto evolvono in ulcere molli solitarie, superficiali, con bordi rialzati, di consistenza simil-cartilaginea e fondo rossastro ricoperto di fibrina. 
+	- L’ulcera produce un liquido sieroso ricco di spirochete
 	- Interessamento linfatico: linfadenite
-3. La lesione (detta *sifiloma primario*) va incontro a cicatrizzazione spontanea anche senza terapia
+4. La lesione (detta *sifiloma primario*) va incontro a cicatrizzazione spontanea anche senza terapia
 ### Fase II
-- Dopo 2-4 mesi compare un esantema accompagnato da lesioni mucose
+- Dopo 2-4 mesi compare un esantema accompagnato da ==lesioni mucose== che appaiono come eruzioni maculo-papulari o annulo-papulari
+	- ==Dovute a processi vasculitici== caratterizzati da ispessimento e fibrosi della parete dei vasi, rigonfiamento degli endoteli, **infiltrato infiammatorio** perivascolare e della parete vasale.
+		- L’infiltrato infiammatorio è composto da linfociti e plasmacellule ed è ==associato a iperplasia della cute sovrastante==
 - Segue un periodo di latenza che può durare vari anni
 ### Fase III
 - Sopraggiunge in 1/3 dei casi non trattati

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3f29c636a3bf3827",
+        "id": "5b1017ad5b0d64c9",
         "type": "tabs",
         "children": [
           {
-            "id": "de7a7ac2c9279381",
+            "id": "3bd20f0f292a51d3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Apparato genitale femminile.md",
+                "file": "Zettelkasten/Testicolo.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,7 +21,7 @@
             }
           },
           {
-            "id": "e3bd3c4096067609",
+            "id": "21f1034db56249da",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "4df6dba139e99ade",
+            "id": "b64c76d264da1441",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Idea Patologia.md",
+                "file": "Zettelkasten/Endometriosi.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +77,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "vacu",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Idea Patologia.md",
+                "file": "Zettelkasten/a.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Idea Patologia.md",
+                "file": "Zettelkasten/a.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Idea Patologia.md"
+                "file": "Zettelkasten/a.md"
               }
             }
           },
@@ -207,7 +207,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 829.5
+    "width": 829.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -227,34 +228,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a61a7b0a9240cf6c",
+  "active": "21f1034db56249da",
   "lastOpenFiles": [
-    "Zettelkasten/Apparato genitale femminile.md",
+    "Zettelkasten/Ovaio.md",
+    "Zettelkasten/Endometriosi.md",
+    "Zettelkasten/Salpingi.md",
+    "Zettelkasten/Utero.md",
     "Zettelkasten/a.md",
-    "Templates/Idea Patologia.md",
-    "Zettelkasten/Carcinoma lobulare in situ di tipo classico - mammella.md",
-    "Zettelkasten/Carcinoma invasivo NST - mammella.md",
-    "Zettelkasten/Carcinoma squamoso - vulva.md",
-    "Zettelkasten/Malattia di Paget.md",
+    "Zettelkasten/Testicolo.md",
+    "Zettelkasten/Sindrome dell'ovaio policistico.md",
+    "Zettelkasten/Nota rapida.md",
+    "Zettelkasten/Criptorchidismo.md",
+    "Zettelkasten/Emostasi.md",
+    "Zettelkasten/Trombosi.md",
+    "Zettelkasten/Sindrome di Klinefelter XX+ Y.md",
+    "Zettelkasten/Microbiologia - La Placa.md",
+    "Zettelkasten/Tetracloruro di carbonio.md",
+    "Zettelkasten/Fisiologia gastrointestinale e nutrizione umana.md",
+    "Zettelkasten/Orthomyxovirus e Paramyxovirus.md",
+    "Zettelkasten/Patologie genetica.md",
+    "Zettelkasten/Sindrome di Turner.md",
+    "Zettelkasten/Scritto architetture.md",
+    "Zettelkasten/Pene.md",
+    "Zettelkasten/Carcinoma squamocellulare - pene.md",
     "Zettelkasten/TNM.md",
-    "Zettelkasten/Risposte cellulari a stress e insulti tossici - adattamento, danno e morte.md",
-    "Zettelkasten/Carcinoma della mammella.md",
-    "Zettelkasten/Chlamydie.md",
-    "Zettelkasten/Chlamydia Psittaci.md",
-    "Zettelkasten/Neisseria Gonorrhoeae.md",
-    "Zettelkasten/Neisseria Meningitidis.md",
-    "Zettelkasten/Streptococcus pyogenes.md",
-    "Zettelkasten/L'azione patogena dei batteri.md",
-    "Risorse/Mammella.md",
-    "Zettelkasten/Patologia non neoplastica della mammella.md",
-    "Zettelkasten/Robbins markdown.md",
-    "Zettelkasten/Adenosi sclerosante.md",
-    "Zettelkasten/Mastopatia fibrocistica.md",
-    "Zettelkasten/Iperplasia epiteliale.md",
-    "Zettelkasten/Fibroadenoma mammario.md",
-    "Zettelkasten/Tumori stromali della mammella.md",
-    "Zettelkasten/Tumore filloide.md",
-    "Zettelkasten/Carcinoma con differenziazione apocrina - mammella.md",
+    "Zettelkasten/Carcinoma squamocellulare invasivo - pene.md",
+    "Zettelkasten/Papillomavirus e Polyomavirus.md",
+    "Zettelkasten/Carcinoma duttale in situ - mammella.md",
+    "Zettelkasten/Vulva.md",
     "Files/Trasporti nelle porzioni del tubulo renale.png",
     "Files/Pasted image 20231214190821.png",
     "Files/Pasted image 20240820181305.png",

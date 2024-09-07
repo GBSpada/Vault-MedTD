@@ -45,6 +45,9 @@ Tag: #Microbiologia
 		- *epidermodisplasia verruciforme* (*EV*), affezione caratterizzata dalla diffusione delle lesioni da Papillomavirus a gran parte della superficie corporea, con una non infrequente degenerazione in carcinoma a cellule squamose (in rari soggetti geneticamente predisposti).
 		- 5 e 8 sono i meno frequenti;
 		- 14, 17, 20 e 47 sono stati identificati in carcinomi a cellule squamose, che possono insorgere in tali individui.
+	- Papillomavirus 16
+		- *Papulosi Bowenoide*, colpisce uomini giovani sessualmente attivi, e si manifesta con papule bruno-violacee multiple. ^091335
+			- La lesione di solito regredisce spontaneamente e non si conoscono casi di evoluzione invasiva.
 	- *Lesioni mucose benigne*: identificabili prevalentemente nei *condilomi* (masse esofitiche di colorito rossastro) *acuminati* (di consistenza molle) e *piani* (modestamente rilevati), conseguenti a trasmissione sessuale (insorgono a livello del pene, dei genitali femminili, dell'uretra, dell'area perianale e del retto).
 		- Interessano anche mucose respiratorie, congiuntivale e orale.
 		- In esse, si ha completa replicazione virale, con genoma che conserva la sua configurazione circolare e si mantiene in forma episomiale.

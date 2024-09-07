@@ -65,7 +65,7 @@ Tag: #Microbiologia
 - Si possono rilevare comunque parametri biochimici, biologici o fare operazioni con sonde di DNA esclusive
 >[!warning] Nota bene :
 > Ai fini terapeutici e profilattici ci si appoggia inizialmente all'identificazione mediante PCR, le culture in seguito sono necessarie per comprendere le sensibilità agli antibiotici
-### Mediante prova biologica: cavi
+### Mediante prova biologica: cavia
 - Se non si riesce a decontaminare si può inoculare in una cavia che viene a morte in 25-40 giorni per tubercolosi generalizzata ma attualmente non si usa
 ## Indagini sierologiche
 - Non esistono metodiche affidabili in grado di identificare anticorpi specifici contro una tubercolosi ==attiva==

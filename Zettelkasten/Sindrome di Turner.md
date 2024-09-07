@@ -1,6 +1,14 @@
-14-07-2023 19:31
-Stato: #ideaLez 
-Tag:  #Patologia #Genetica 
+---
+stato: "#ideaLez"
+tags:
+  - "#Patologia"
+  - Genetica
+sistema/apparato:
+---
+06-09-2024 22:50
+
+--- 
+
 
 > Unica monosomia compatibile con la vita
 
@@ -11,21 +19,26 @@ Tag:  #Patologia #Genetica
 
 ## Segni clinici
 - Nella maggior parte dei casi donne
-- bassa statura
+- Bassa statura
 	- Aiuta somministrare ormone della crescita
 	- Associata probabilmente a mutazioni del gene SHOX 
-- infantilismo sessuale
 - disgenesia ovarica
 - malformazioni maggiori e minori
 	- Faccia triangolare 
 	- Orecchie ruotate posteriormente
 	- Collo palmato
-	-  Torace ampio e a scudo
+	- Torace ampio e a scudo
 - Linfedema
 - Difetti cardiaci e renali
+### Infantilismo sessuale
+- I residui gonadici appaiono simili alla gonade primaria non differenziata, o a testicoli alle prime fasi della differenziazione. 
 
 
 
 ---
 # References 
 [[Genetica - Lezioni e sbobine]]
+[[Testicolo]]
+Gallo d'amati
+
+

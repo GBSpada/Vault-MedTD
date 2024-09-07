@@ -28,6 +28,7 @@ Tag: #Microbiologia
 				- ==CASO RARO: infezione a carico dell'encefalo== (parte da una localizzazione oculare), caratterizzata da encefalite con lesioni necrotico-emorragiche.
 					- Esito: ==morte== o danni neurologici permanenti.
 	- *Herpesvirus di tipo 2*: responsabile dell'erpete genitale, si trasmette per contatto sessuale.
+		- ==Gruppo di vescicole, che si trasformano in croste in pochi giorni.
 	- Il sito d'infezione non è un elemento predittivo accurato del tipo di herpes, i casi esposti rispecchiano il tipo nella maggioranza dei casi. Tipico dell'età adulta.
 	- ![Herpesvirus, caratteristico aspetto di lesioni gravi da virus dell'*Herpes simplex* nella zona periorale](https://i.imgur.com/JO99J5v.png)
 	- ![Herpesvirus, membri della famiglia *Herpesviridae* di interesse medico](https://i.imgur.com/5RpZImj.png)

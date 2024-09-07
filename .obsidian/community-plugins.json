@@ -21,10 +21,11 @@
   "translate",
   "obsidian-imgur-plugin",
   "obsidian-enhancing-mindmap",
-  "copilot",
   "obsidian-annotator",
   "templater-obsidian",
   "obsidian-dictionary-plugin",
   "quick-latex",
-  "peerdraft"
+  "peerdraft",
+  "copilot",
+  "obsidian-linter"
 ]

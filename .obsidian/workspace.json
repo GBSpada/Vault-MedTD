@@ -8,19 +8,46 @@
         "type": "tabs",
         "children": [
           {
-            "id": "edc31cd35aca51fd",
+            "id": "d0f35944ed123321",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Risorse/Mammella.md",
+                "file": "Zettelkasten/Ovaio.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3ad151fcc251c666",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/a.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "54cb9e58dceff00a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Nota rapida.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -107,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Risorse/Mammella.md",
+                "file": "Zettelkasten/a.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Risorse/Mammella.md",
+                "file": "Zettelkasten/a.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -152,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Risorse/Mammella.md"
+                "file": "Zettelkasten/a.md"
               }
             }
           },
@@ -177,7 +204,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -202,16 +229,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "edc31cd35aca51fd",
+  "active": "3ad151fcc251c666",
   "lastOpenFiles": [
+    "Zettelkasten/Ovaio.md",
+    "Zettelkasten/a.md",
+    "Zettelkasten/Nota rapida.md",
+    "Zettelkasten/Apparato genitale femminile.md",
+    "Zettelkasten/Sindrome dell'ovaio policistico.md",
+    "Zettelkasten/Carcinoma della mammella.md",
+    "Risorse/Mammella.md",
     "Zettelkasten/Patologia non neoplastica della mammella.md",
     "Zettelkasten/Malattia di Paget.md",
     "Zettelkasten/Mastopatia fibrocistica.md",
-    "Risorse/Mammella.md",
     "Zettelkasten/Tumori stromali della mammella.md",
     "Zettelkasten/Tumore filloide.md",
     "Zettelkasten/Fibroadenoma mammario.md",
-    "Zettelkasten/Carcinoma della mammella.md",
     "Zettelkasten/Carcinoma infiammatorio - mammella.md",
     "Zettelkasten/Carcinoma micropapillare - mammella.md",
     "Zettelkasten/Carcinoma papillare - mammella.md",
@@ -225,11 +257,6 @@
     "Zettelkasten/Carcinoma cribriforme - mammella.md",
     "Zettelkasten/Carcinoma tubulare - mammella.md",
     "Zettelkasten/Carcinoma lobulare invasivo - mammella.md",
-    "Zettelkasten/Carcinoma invasivo NST - mammella.md",
-    "Zettelkasten/Carcinoma lobulare in situ di tipo pleomorfo - mammella.md",
-    "Zettelkasten/Carcinoma lobulare in situ di tipo classico - mammella.md",
-    "Zettelkasten/Carcinoma duttale in situ - mammella.md",
-    "Zettelkasten/a.md",
     "Files/Trasporti nelle porzioni del tubulo renale.png",
     "Files/Pasted image 20231214190821.png",
     "Files/Pasted image 20240820181305.png",

@@ -82,29 +82,50 @@ sistema/apparato:
 
 ### [[Endometriosi#Endometriosi esterna]]
 ## Neoplastica
-### Tumori primitivi
-#### Neoplasie epiteliali
-##### Tumori di tipo sieroso
-##### Tumori di tipo mucinoso
-##### Tumori di tipo endometrioide
-##### Tumori a cellule chiare
-##### Tumori a cellule transizionali
-##### Tumori di tipo siero-mucinoso
-##### Tumori di tipo indifferenziato
-#### Neoplasie a cellule germinali
-##### Disgerminoma
-##### Tumore del sacco vitellino
-##### Carcinoma embrionale
-##### Coriocarcinoma non gestazionale
-##### Teratoma
-#### Neoplasie ad origine dai cordoni sessuali e dallo stroma
-##### Tumore a cellule della granulosa
-##### Fibroma
-##### Tecoma
-##### Tumore a cellule del Sertoli
-##### Tumore a cellule del Sertoli-Leydig
+- Le neoplasie ovariche possono **originare** dall’==epitelio celomatico di superficie di derivazione mülleriana==, dai ==follicoli== e dallo ==stroma corticale== e infine dagli ==ovociti==.
 
-### Tumori secondari
+### Epidemiologia
+- L’80-90% dei tumori ovarici ==nel== loro ==complesso== si presenta in donne ==in età compresa fra 20 e 65 anni==, e meno del 5% in età pediatrica. 
+	- Nella ==grande maggioranza dei casi== (80%) si tratta di **tumori benigni**: 
+		- Il 60% di questi è diagnosticato in donne in età inferiore a 40 anni.
+	- Il ==15-20%== dei tumori ovarici è **maligno**, e di questi il ==90% è diagnosticato in donne in età superiore ai 40 anni==.
+	- Infine, il 5-10% dei tumori ovarici è definito a **malignità intermedia (borderline).** 
+		- A differenza dei tumori maligni, che si osservano prevalentemente in età avanzata, i tumori borderline sono ==più comuni in donne giovani con picco di incidenza nel IV e V decennio di vita==.
+- L’incidenza delle neoplasie maligne ovariche varia nelle diverse aree geografiche, con ==tassi più elevati in Europa e Nord America==.
+	- Nei Paesi africani e nel Sud-Est asiatico si osservano meno di 2 nuovi casi all’anno per 10^5 donne, mentre in Europa e nel Nord America si registrano 15 nuovi casi all’anno per 10^5 donne. 
+- **In Italia** il carcinoma ovarico rappresenta la ==quarta causa di morte nel sesso femminile== dopo il carcinoma polmonare, il carcinoma mammario e il carcinoma del colon-retto.
+### Classificazione
+- Attualmente è raccomandata una **terminologia** comune che fa riferimento al sistema classificativo formulato nel 2014 dalla **WHO**, che prevede la differenziazione fra tumori ovarici primitivi e secondari.
+	- I **tumori primitivi** originano dai tre elementi che costituiscono l’ovaio:
+		- L’==epitelio di superficie==, che a sua volta deriva embriologicamente dai dotti mülleriani (SBAGLIATO, IL D'AMATI HA SBAGLIATOOOOO, fonte: https://academic.oup.com/edrv/article/22/2/255/2424131?login=false)
+			- In realtà origina dall'epitelio celomico e non ha niente a che fare coi dotti ![](https://i.imgur.com/97Rbreg.png)
+		- Lo ==stroma ovarico e i cordoni sessuali==
+		- Le ==cellule germinali== che migrano all’ovaio dal sacco vitellino e che sono totipotenti.
+	- I **tumori secondari** sono quelli che metastatizzano all’ovaio da neoplasie primarie extraovariche.
+		- In questa categoria vanno compresi anche i tumori che si estendono alle ovaie direttamente da organi adiacenti
+#### Tumori primitivi
+##### Neoplasie epiteliali
+###### Tumori di tipo sieroso
+###### Tumori di tipo mucinoso
+###### Tumori di tipo endometrioide
+###### Tumori a cellule chiare
+###### Tumori a cellule transizionali
+###### Tumori di tipo siero-mucinoso
+###### Tumori di tipo indifferenziato
+##### Neoplasie a cellule germinali
+###### Disgerminoma
+###### Tumore del sacco vitellino
+###### Carcinoma embrionale
+###### Coriocarcinoma non gestazionale
+###### Teratoma
+##### Neoplasie ad origine dai cordoni sessuali e dallo stroma
+###### Tumore a cellule della granulosa
+###### Fibroma
+###### Tecoma
+###### Tumore a cellule del Sertoli
+###### Tumore a cellule del Sertoli-Leydig
+
+#### Tumori secondari
 
 
 

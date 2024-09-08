@@ -33,7 +33,7 @@ sistema/apparato:
 - I nuclei sono rotondi, ingranditi in modo uniforme, con ==aumento del rapporto nucleo-citoplasma==.
 - I ==lobuli== delle TDLU con atipia epiteliale piatta sono ==variabilmente distesi==, in parte per la trasformazione cistica al cui interno è presente ==materiale di secrezione che spesso contiene microcalcificazioni==.
 ##### Iperplasia duttale atipica
-
+![](https://www.pathologyoutlines.com/imgau/breastadhmicroJorns04.jpg)
 - Caratterizzata da una ==proliferazione epiteliale di cellule *monomorfe* distribuite in *modo regolare*==, con un grado lieve di atipia cito-architetturale.
 - Descritta originariamente in termini qualitativi come una lesione con "alcuni ma non tutti" i caratteri morfologici del carcinoma duttale in situ di basso grado nucleare, più recentemente sono stati proposti dei ==criteri quantitativi== per differenziarla dal DCIS di basso grado nucleare. 
 	- In base a questi criteri, si definisce ADH (invece che DCIS di basso grado nucleare) se la lesione è ==tipicamente un microfocolaio che corrisponde a meno di due spazi ghiandolari o a una dimensione inferiore o uguale a 2 mm.==
@@ -80,7 +80,7 @@ sistema/apparato:
 	* Margini sfumati
 	* Presenza di microcalcificazioni 
 #### Lesione sclerosante complessa o cicatrice radiale (radial scar)
-
+![](https://www.pathologyoutlines.com/imgau/breastradialscar_microMuller03.jpg)
 ##### Caratteristiche istologiche
 
 - È presente un ==nucleo centrale== caratterizzato da sclerosi ed elastosi
@@ -108,6 +108,7 @@ sistema/apparato:
 
 - Sono stati descritti casi di associazione tra lesione sclerosante complessa e carcinoma in situ o carcinoma invasivo. Tuttavia, è importante sottolineare che **la lesione sclerosante complessa di per sé è una lesione benigna**. 
 #### Adenosi microghiandolare
+![](https://www.pathologyoutlines.com/imgau/breastmicroglandularadenosisJorns04.jpg)
 - È una variante rara di adenosi. 
 
 ##### Quadro istologico
@@ -167,7 +168,7 @@ sistema/apparato:
 - È caratterizzato da una ==esuberante proliferazione di strutture ghiandolari di tipo adenomatoso o papillare==, rivestite dal doppio strato cellulare epiteliale e mioepiteliale con un variabile grado di iperplasia epiteliale principalmente di tipo usuale.
 - Può presentarsi a qualsiasi età con un picco in perimenopausa.
 - Si presenta clinicamente o con ==secrezione dal capezzolo, spesso ematica, o come nodulo== di consistenza aumentata che può alterare la morfologia del capezzolo.
-- Il capezzolo può presentarsi arrossato o con erosione dell’epitelio di rivestimento ==simulando la malattia di Paget==.
+- Il capezzolo può presentarsi arrossato o con erosione dell’epitelio di rivestimento ==simulando la [[malattia di Paget]]==.
 ### Malattie infiammatorie 
 #### Mastite acuta
 - Si verifica ==quasi sempre durante l’allattamento==, in particolare nelle prime settimane. 
@@ -203,7 +204,7 @@ sistema/apparato:
 - Il dato che spesso le pazienti siano affette da tiroidite autoimmunitaria o da diabete di tipo 1 suggerisce una ==patogenesi autoimmunitaria==. 
 - Anche in questo caso, vista la composizione della lesione, occorre distinguerla da una neoplasia maligna.
 #### Mastite granulomatosa
-- Qualsiasi tipo di malattia granulomatosa, sistemica (tipo la [[sarcoidosi]]) o infettiva (tipo la [[tubercolosi]]), può  localizzarsi a livello del tessuto mammario.
+- Qualsiasi tipo di malattia granulomatosa, sistemica (tipo la [[sarcoidosi]]) o infettiva (tipo la [[Mycobacterium tubercolosis|tubercolosi]]), può  localizzarsi a livello del tessuto mammario.
 
 
 

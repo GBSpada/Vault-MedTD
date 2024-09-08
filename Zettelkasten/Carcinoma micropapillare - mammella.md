@@ -15,6 +15,7 @@ sistema/apparato:
 ## Diagnosi
 ### Macroscopica
 ### Istologica
+![](https://www.pathologyoutlines.com/imgau/breastmalignantmicropapillarysingh08.jpg)
 - Il tumore è formato da nidi di cellule neoplastiche accolte in lacune, che conferiscono alla crescita neoplastica un ==aspetto spugnoso==.
 - Il carcinoma micropapillare è frequentemente associato a invasione vascolare (tipicamente linfatica) e le ==metastasi linfonodali sono molto frequenti==
 ### Biologia molecolare

@@ -17,6 +17,7 @@ sistema/apparato:
 ### Macroscopica
 - Appare simile al carcinoma invasivo NST
 ### Istologica
+![](https://www.pathologyoutlines.com/imgau/breastmalignantcribriformShankaralingappa02.jpg)
 #### Tessuto
 - Come il [[Carcinoma tubulare - mammella|carcinoma tubulare]], il carcinoma cribriforme ha un ==aspetto molto differenziato==, caratterizzato da stroma infiltrato da *strutture cribrate* di varia forma e dimensioni
 	- L'**epitelio**, cubico o cilindrico, presenta un aspetto omogeneo, con un grado di atipia e pleomorfismo basso o moderato.

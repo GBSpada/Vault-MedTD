@@ -21,6 +21,7 @@ sistema/apparato:
 - Diversamente dal DCIS, il LCIS ==non è identificabile macroscopicamente nelle sezioni di tessuto mammario, né, tantomeno, dà luogo a un reperto clinicamente palpabile.== 
 
 ### Istologica
+![](https://www.pathologyoutlines.com/imgau/breastmalignantpleolcisBiernacka02.jpg)
 - **Tessuto**
 	- Si presenta come un lobulo i cui ==duttuli sono distesi e ripieni== da parte delle cellule epiteliali neoplastiche 
 	- Le cellule neoplastiche possono diffondere lungo i dotti insinuandosi tra il mioepitelio e l’epitelio luminale: “==diffusione pagetoide==”.

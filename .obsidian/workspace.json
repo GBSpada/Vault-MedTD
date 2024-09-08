@@ -8,46 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3bd20f0f292a51d3",
+            "id": "edc31cd35aca51fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Testicolo.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "21f1034db56249da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/a.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b64c76d264da1441",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/Endometriosi.md",
+                "file": "Risorse/Mammella.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -86,7 +59,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "45ea08796f45e544",
@@ -133,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/a.md",
+                "file": "Risorse/Mammella.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/a.md",
+                "file": "Risorse/Mammella.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -178,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/a.md"
+                "file": "Risorse/Mammella.md"
               }
             }
           },
@@ -228,34 +202,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "21f1034db56249da",
+  "active": "edc31cd35aca51fd",
   "lastOpenFiles": [
-    "Zettelkasten/Endometriosi.md",
-    "Zettelkasten/a.md",
-    "Zettelkasten/Testicolo.md",
-    "Zettelkasten/Ovaio.md",
-    "Zettelkasten/Salpingi.md",
-    "Zettelkasten/Utero.md",
-    "Zettelkasten/Sindrome dell'ovaio policistico.md",
-    "Zettelkasten/Nota rapida.md",
-    "Zettelkasten/Criptorchidismo.md",
-    "Zettelkasten/Emostasi.md",
-    "Zettelkasten/Trombosi.md",
-    "Zettelkasten/Sindrome di Klinefelter XX+ Y.md",
-    "Zettelkasten/Microbiologia - La Placa.md",
-    "Zettelkasten/Tetracloruro di carbonio.md",
-    "Zettelkasten/Fisiologia gastrointestinale e nutrizione umana.md",
-    "Zettelkasten/Orthomyxovirus e Paramyxovirus.md",
-    "Zettelkasten/Patologie genetica.md",
-    "Zettelkasten/Sindrome di Turner.md",
-    "Zettelkasten/Scritto architetture.md",
-    "Zettelkasten/Pene.md",
-    "Zettelkasten/Carcinoma squamocellulare - pene.md",
-    "Zettelkasten/TNM.md",
-    "Zettelkasten/Carcinoma squamocellulare invasivo - pene.md",
-    "Zettelkasten/Papillomavirus e Polyomavirus.md",
+    "Zettelkasten/Patologia non neoplastica della mammella.md",
+    "Zettelkasten/Malattia di Paget.md",
+    "Zettelkasten/Mastopatia fibrocistica.md",
+    "Risorse/Mammella.md",
+    "Zettelkasten/Tumori stromali della mammella.md",
+    "Zettelkasten/Tumore filloide.md",
+    "Zettelkasten/Fibroadenoma mammario.md",
+    "Zettelkasten/Carcinoma della mammella.md",
+    "Zettelkasten/Carcinoma infiammatorio - mammella.md",
+    "Zettelkasten/Carcinoma micropapillare - mammella.md",
+    "Zettelkasten/Carcinoma papillare - mammella.md",
+    "Zettelkasten/Carcinoma con aspetti neuroendocrini - mammella.md",
+    "Zettelkasten/Carcinoma mucinoso - mammella.md",
+    "Zettelkasten/Carcinoma adenoideo-cistico - mammella.md",
+    "Zettelkasten/Carcinoma con differenziazione apocrina - mammella.md",
+    "Zettelkasten/Carcinoma metaplastico - mammella.md",
+    "Zettelkasten/().md",
+    "Zettelkasten/Carcinoma con aspetti midollari - mammella.md",
+    "Zettelkasten/Carcinoma cribriforme - mammella.md",
+    "Zettelkasten/Carcinoma tubulare - mammella.md",
+    "Zettelkasten/Carcinoma lobulare invasivo - mammella.md",
+    "Zettelkasten/Carcinoma invasivo NST - mammella.md",
+    "Zettelkasten/Carcinoma lobulare in situ di tipo pleomorfo - mammella.md",
+    "Zettelkasten/Carcinoma lobulare in situ di tipo classico - mammella.md",
     "Zettelkasten/Carcinoma duttale in situ - mammella.md",
-    "Zettelkasten/Vulva.md",
+    "Zettelkasten/a.md",
     "Files/Trasporti nelle porzioni del tubulo renale.png",
     "Files/Pasted image 20231214190821.png",
     "Files/Pasted image 20240820181305.png",

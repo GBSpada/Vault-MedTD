@@ -32,6 +32,9 @@ sistema/apparato:
 | A cellule fusate             | Aspetto pseudosarcomatoso                                          |
 | Condroide                    | Implicito                                                          |
 | Osseo                        | Implicito                                                          |
+![Osseo](https://www.pathologyoutlines.com/imgau/breastmetaplasticjorns07.jpg)
+![Cellule fusate](https://www.pathologyoutlines.com/imgau/breastmetaplasticzhang02.jpg)
+![Squamoso](https://www.pathologyoutlines.com/imgau/breastmetaplasticjorns03.jpg)
 #### Diagnosi differenziale ed Immunoistochimica
 - In alcuni di questi casi, ==distinguere== un ==carcinoma== metaplastico ==da un sarcoma== della mammella risulta molto ==difficile==.
 - La ==positività==, nel carcinoma metaplastico, delle cellule neoplastiche ==per specifici marcatori epiteliali come le citocheratine== (tipicamente ad alto peso molecolare come **CK5/6, 14 o 34betaE12**) o la p63 permette di formulare la corretta diagnosi.

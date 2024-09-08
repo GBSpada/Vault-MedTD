@@ -80,7 +80,7 @@ sistema/apparato:
 #### Prognosi
 - Data la benignità della lesione la terapia chirurgica è, oltre che diagnostica, risolutiva
 
-### Endometriosi
+### [[Endometriosi#Endometriosi esterna]]
 ## Neoplastica
 ### Tumori primitivi
 #### Neoplasie epiteliali

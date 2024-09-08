@@ -15,7 +15,7 @@ sistema/apparato:
 - La **prognosi è grave** a causa della particolare ricchezza di vasi linfatici della zona, che favorisce le metastasi linfonodali precoci
 - Qualora questo tumore resti in situ e sviluppi alcune particolari caratteristiche si parla di:
 ### Paget extramammaria
-- La malattia di Paget rappresenta l’1% dei carcinomi della regione vulvare.
+- La [[malattia di Paget]] rappresenta l’1% dei carcinomi della regione vulvare.
 	- La maggior parte delle donne colpite da questa patologia ha più di 60 anni di età.
 
 - Essa è analoga al più frequente morbo di Paget del capezzolo ([[Malattia di Paget]]) tuttavia, mentre in sede mammaria è associata costantemente a un sottostante carcinoma duttale, nella vulva è ==di solito interamente intraepiteliale== e solo in circa il 20-30% dei casi interessa i follicoli piliferi e le ghiandole sebacee.

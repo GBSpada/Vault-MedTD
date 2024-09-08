@@ -21,6 +21,7 @@ sistema/apparato:
 
 ### Macroscopica
 ### Istologica
+![](https://www.pathologyoutlines.com/imgau/breastmalignantpleolcisbiernacka01.jpg)
 - Con o senza necrosi centrale di tipo comedo
 - Con aspetto morfologico ==simile a quello dei DCIS di alto grado nucleare==
 ### Biologica molecolare

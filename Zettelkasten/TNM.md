@@ -18,7 +18,7 @@ tags:
 |---|---|---|
 | **TX** | Il tumore primitivo non può essere valutato | |
 | **T0** | Nessuna evidenza di tumore primitivo | |
-| **Tis** | Carcinoma in situ |  Tis (DCIS): Carcinoma duttale in situ <br> Tis (Paget): Malattia di Paget del capezzolo NON associata a tumore invasivo o DCIS nel parenchima mammario sottostante¹ |
+| **Tis** | Carcinoma in situ |  Tis (DCIS): Carcinoma duttale in situ <br> Tis (Paget): [[Malattia di Paget]] del capezzolo NON associata a tumore invasivo o DCIS nel parenchima mammario sottostante¹ |
 | **T1** | Tumore non superiore a 2,0 cm nel diametro maggiore | T1mi: Microinvasione non superiore a 1 mm nel diametro maggiore <br> T1a: Tumore superiore a 1 mm, ma non oltre 5 mm, nel diametro maggiore <br> T1b: Tumore superiore a 5 mm, ma non oltre 10 mm, nel diametro maggiore <br> T1c: Tumore superiore a 10 mm, ma non oltre 20 mm, nel diametro maggiore |
 | **T2** | Tumore superiore a 20 mm, ma non oltre 50 mm, nel diametro maggiore | |
 | **T3** | Tumore superiore a 50 mm nel diametro maggiore | |

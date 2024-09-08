@@ -38,13 +38,13 @@ sistema/apparato:
 - All’esame istologico la ==morfologia dei villi== placentari ==ricorda== quella che si osserva nel ==materiale abortivo intrauterino==. 
 - Frequente l’osservazione a livello dei villi di alterazioni post-mortem quali la degenerazione idropica, che non deve far ritenere che ci si trovi di fronte a una gravidanza [[Mola idatiforme|molare]].
 - La **risposta della parete salpingea** in caso di una gravidanza tubarica comprende
-	- Reazione deciduale [^1] con foci caratterizzati da reazione di Arias-Stella[^2] in risposta ai cambiamenti ormonali 
+	- Reazione deciduale con foci caratterizzati da reazione di Arias-Stella in risposta ai cambiamenti ormonali 
 	- ==Infiltrato infiammatorio non specifico== composto prevalentemente da linfociti T e macrofagi quale risposta localizzata infiammatoria e/o immunologica che è molto simile a quella che si osserva nella decidua delle gravidanze intrauterine.
 
 
->[!info]- Reazioni deciduali e di Arias Stella
->Il sinciziotrofoblasto, producendo HCG, stimola le ghiandole della mucosa uterina inducendo [[Utero#Iperplasia endometriale]] e alterando l'assetto secretivo per produrre il nutrimento atto a sostenere l'embrione durante la sua *fase istiotrofa* e cioé prima che esso stabilisca un contatto con il sistema vascolare materno (*fase emotrofa*).
->- Nei casi in cui non avviene l'impianto perché si ha un aborto precoce (oppure per una gravidanza extrauterina) questo processo è alterato e si parla di *reazione di Arias Stella*
+>[!info]] [[Reazione deciduale#Reazione di Arias Stella]]
+ 
+^70c2bc
 
 ### Biologia Molecolare
 ### Radiologia

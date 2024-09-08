@@ -11,7 +11,7 @@ sistema/apparato:
 
 --- 
 
-# Caratteristiche comuni
+
 ## Intro: l'unità terminale duttulo-lobulare (TDLU)
 
 ### Il ruolo della TDLU

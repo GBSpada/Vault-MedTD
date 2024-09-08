@@ -28,6 +28,7 @@ sistema/apparato:
 ## Diagnosi
 ### Macroscopica
 ### Istologica
+![](https://www.pathologyoutlines.com/imgau/breastmalignantinflamcarLi01new.jpg)
 - L’esame istologico rivela la presenza di capillari di varia dimensione dermici e intramammari con emboli neoplastici; l’assenza di globuli rossi nei lumi vascolari indica la loro natura linfatica, anche se una componente ematica non può essere esclusa.
 - Intorno ai vasi può essere presente un infiltrato di linfociti e plasmacellule, di entità variabile.
 ### Biologia molecolare

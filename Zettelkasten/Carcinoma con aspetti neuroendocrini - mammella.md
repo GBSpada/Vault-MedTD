@@ -17,6 +17,7 @@ sistema/apparato:
 ### Macroscopica
 - Il carcinoma con aspetti neuroendocrini appare come un nodulo ben circoscritto.
 ### Istologica
+![](https://www.pathologyoutlines.com/imgau/breastNECLi_Tse01.jpg)
 - Il tumore è formato da **nidi o cordoni solidi di cellule** fusate, plasmacitoidi o ampie, con un citoplasma granulare, ==separati da un delicato stroma fibrovascolare==.
 - La crescita è tipicamente di tipo espansivo. 
 - L’*argirofilia* delle cellule neoplastiche viene facilmente evidenziata per la positività a ==cromogranina, sinaptofisina o CD56== (marcatori neuroendocrini).

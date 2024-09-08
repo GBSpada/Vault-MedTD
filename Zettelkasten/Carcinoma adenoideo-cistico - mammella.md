@@ -17,10 +17,11 @@ sistema/apparato:
 ### Macroscopica
 - Il carcinoma adenoideo-cistico è un tumore circoscritto con, talora, un aspetto microcistico.
 ### Istologica
+![](https://www.pathologyoutlines.com/imgau/breastmalignantadenoidcystic_tozbikian04.jpg)
 - Questo istotipo, ==analogo a quello delle ghiandole salivari==, è formato da due tipi di **cellule, epiteliali e mioepiteliali**, organizzate in ==strutture tubulari o cribriformi==. 
 - Le cellule neoplastiche producono sferule o cilindri di ==materiale ialino== che riempiono le cribrature.
 ### Biologia molecolare
-- Appartiene al grupo dei carcinomi i tipo basale
+- Appartiene al grupo dei carcinomi di tipo basale
 ### Radiologia
 ## Trattamento
 

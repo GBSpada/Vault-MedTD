@@ -1,7 +1,7 @@
 {
-  "getLangFromFile": true,
-  "defaultLanguage": "en_US",
-  "normalLang": "en_US",
+  "getLangFromFile": false,
+  "defaultLanguage": "it",
+  "normalLang": "it",
   "shouldShowSynonymPopover": true,
   "shouldShowCustomContextMenu": false,
   "apiSettings": {
@@ -38,7 +38,7 @@
       "synonymApiName": "Open Thesaurus"
     },
     "it": {
-      "definitionApiName": "Free Dictionary API",
+      "definitionApiName": null,
       "synonymApiName": "Altervista"
     },
     "ko": {

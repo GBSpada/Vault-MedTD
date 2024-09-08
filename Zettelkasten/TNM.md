@@ -162,6 +162,26 @@ La stadiazione anatomica del carcinoma della mammella si basa sulla combinazione
 
 **Nota:** La colonna "Stadio" indica a quale stadio corrisponde la combinazione specifica di T, N e M. Ad esempio, un tumore T1N0M0 corrisponde allo Stadio I. 
 
+# Ovaio
+| Stadio  | Definizione                                                                                                                                                                                                                                 |
+| ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **I**   | Neoplasia limitata alle ovaie                                                                                                                                                                                                               |
+| IA      | Neoplasia limitata a un ovaio; capsula tumorale intatta, assenza di tumore sulla superficie ovarica, assenza di ascite                                                                                                                      |
+| IB      | Neoplasia coinvolgente entrambe le ovaie; capsula tumorale intatta, assenza di tumore sulla superficie ovarica, assenza di ascite                                                                                                           |
+| IC      | Neoplasia coinvolgente una o entrambe le ovaie con presenza di ascite o liquido di lavaggio peritoneale positivo per cellule tumorali maligne o con presenza di neoplasia sulla superficie esterna della gonade o con rottura della capsula |
+| **II**  | Neoplasia coinvolgente una o entrambe le ovaie con diffusione pelvica                                                                                                                                                                       |
+| IIA     | Diffusione e/o metastasi all’utero e/o alle tube uterine, assenza di ascite, liquido di lavaggio peritoneale negativo per cellule tumorali maligne                                                                                          |
+| IIB     | Diffusione ad altri tessuti pelvici, assenza di ascite, liquido di lavaggio peritoneale negativo per cellule tumorali maligne                                                                                                               |
+| IIC     | Estensione pelvica (IIA o IIB) con presenza di ascite o liquido di lavaggio peritoneale positivo per cellule tumorali maligne                                                                                                               |
+| **III** | Neoplasia coinvolgente una o entrambe le ovaie con metastasi extraperitoneali microscopiche e/o con metastasi linfonodali                                                                                                                   |
+| IIIA    | Metastasi peritoneali microscopiche extrapelviche                                                                                                                                                                                           |
+| IIIB    | Metastasi peritoneali extrapelviche ≤2 cm                                                                                                                                                                                                   |
+| IIIC    | Metastasi peritoneali extrapelviche >2 cm e/o metastasi linfonodali                                                                                                                                                                         |
+| **IV**  | Metastasi a distanza (escluso le peritoneali)                                                                                                                                                                                               |
+
+
+
+
 
 ---
 # Reference:

@@ -30,7 +30,7 @@ sistema/apparato:
 - Considerazioni sull'**evoluzione**
 	- Le inclusioni dell’epitelio di superficie che formano vere e proprie cisti, forse concomitanti con l’ovulazione, sono considerate benigne.
 		- Sembrano avere però un ruolo nella patogenesi dei tumori ovarici di tipo epiteliale
-#### Cisti semplici mullerianex
+#### Cisti semplici mulleriane
 - Si tratta di ==cisti para-ovariche o intra-ilari==, in genere di piccole-medie dimensioni, con un diametro di uno o più centimetri che possono formarsi ==sulla superficie ovarica o più spesso all’ilo==. 
 - Di solito sono **uniloculate** e ==contengono un liquido chiaro e trasparente==. 
 - L’epitelio di rivestimento della parete varia da piatto a cuboidale.
@@ -94,6 +94,36 @@ sistema/apparato:
 - L’incidenza delle neoplasie maligne ovariche varia nelle diverse aree geografiche, con ==tassi più elevati in Europa e Nord America==.
 	- Nei Paesi africani e nel Sud-Est asiatico si osservano meno di 2 nuovi casi all’anno per 10^5 donne, mentre in Europa e nel Nord America si registrano 15 nuovi casi all’anno per 10^5 donne. 
 - **In Italia** il carcinoma ovarico rappresenta la ==quarta causa di morte nel sesso femminile== dopo il carcinoma polmonare, il carcinoma mammario e il carcinoma del colon-retto.
+### Manifestazioni 
+- In un quarto dei casi, la diagnosi di tumore ovarico avviene ==occasionalmente durante un esame ecografico pelvico effettuato per altri motivi==.
+- Il riscontro di una ==massa pelvica o annessiale deve sempre far pensare a un tumore ovarico==.
+	- Tale sospetto deve trovare successivamente eventuale conferma da un’accurata visita ginecologica e da specifiche indagini di laboratorio e strumentali, in particolare da un’ecografia pelvica.
+- Per ciò che concerne i **dati di laboratorio** un valore *elevato di CA125 sierico* indica con maggiore probabilità la presenza di un carcinoma ovarico
+	- Questo marcatore può risultare ==elevato anche in caso di patologie non neoplastiche==, quali l’endometriosi o altre patologie addominali extraovariche (Raspollini, Taddei, 2007).
+	- D’altro canto, ==livelli normali di CA125 sierico non escludono la presenza di una neoplasia epiteliale ovarica==.
+- ==In oltre il 50% dei tumori maligni ovarici si documentano cellule neoplastiche nel liquido ascitico o nel liquido di lavaggio peritoneale==
+- Per ciò che concerne i sintomi:
+##### Neoplasie epiteliali
+- In fase iniziale
+	- Scarsi o nulli
+	- Di conseguenza, la dignosi avviene in genere in stadio già avanzato. 
+- In fase tardiva
+	- Varia, la paziente riscontra
+		- Tensione con distensione addominale
+		- L’ascite
+		- Sintomi urinari quali disuria
+		- Cistiti ricorrenti
+		- Sintomi gastrointestinali quali dispepsia, stipsi, colon irritabile. 
+##### Tumori cistici
+- Possono essere facilmente complicati da ==rottura== con conseguente sintomatologia da “==addome acuto==”.
+##### Tumori dello stroma
+- I **tumori** ovarici dello **stroma** e dei **cordoni sessuali** possono essere associati a ==iperestrogenismo== o ==iperandrogenismo== con comparsa di ==emorragie utero- vaginali==
+
+### Stadiazione
+- Il sistema di stadiazione usato per le neoplasie maligne ovariche è quello codificato dalla [[TNM#Ovaio|FIGO]]. 
+### Prognosi
+- Nel 90% dei casi, il carcinoma ovarico è diagnosticato in fase di diffusione extrapelvica (stadio III-IV). In questi casi, nonostante il miglioramento delle tecniche chirurgiche e delle terapie mediche adiuvanti, la percentuale di sopravvivenza a 5 anni non supera il 20%. 
+- Al contrario, se la malattia è diagnosticata quando è limitata alle ovaie (stadio I), la sopravvivenza a 5 anni è del 90%.
 ### Classificazione
 - Attualmente è raccomandata una **terminologia** comune che fa riferimento al sistema classificativo formulato nel 2014 dalla **WHO**, che prevede la differenziazione fra tumori ovarici primitivi e secondari.
 	- I **tumori primitivi** originano dai tre elementi che costituiscono l’ovaio:
@@ -104,14 +134,8 @@ sistema/apparato:
 	- I **tumori secondari** sono quelli che metastatizzano all’ovaio da neoplasie primarie extraovariche.
 		- In questa categoria vanno compresi anche i tumori che si estendono alle ovaie direttamente da organi adiacenti
 #### Tumori primitivi
-##### Neoplasie epiteliali
-###### Tumori di tipo sieroso
-###### Tumori di tipo mucinoso
-###### Tumori di tipo endometrioide
-###### Tumori a cellule chiare
-###### Tumori a cellule transizionali
-###### Tumori di tipo siero-mucinoso
-###### Tumori di tipo indifferenziato
+##### [[Neoplasie epiteliali - ovaio]]
+
 ##### Neoplasie a cellule germinali
 ###### Disgerminoma
 ###### Tumore del sacco vitellino

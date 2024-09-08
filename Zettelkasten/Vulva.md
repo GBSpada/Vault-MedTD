@@ -86,7 +86,7 @@ sistema/apparato:
 	- Le **vulviti virali** sono essenzialmente dovute a due gruppi virali: ==Herpes virus== (HSV1 e HSV2) e la famiglia del ==Papillomavirus==.
 	- Le **vulviti batteriche** possono essere causate da microrganismi
 		- Gram-positivi, quali [[Stafilococchi|Staphylococcus]], [[Streptococchi ed enterococchi|Streptococcus]], [[Corynebacterium]]
-		- Gram-negativi, quali [[Neisserie e batteri correlati|Neisseria]], [[Calymmatobacterium]] (agente eziologico del granuloma inguinale) o [[Treponema Pallidum|Treponema]]
+		- Gram-negativi, quali [[Neisserie e batteri correlati|Neisseria]], [[Klebsiella granulomatis]] (agente eziologico del granuloma inguinale) o [[Treponema Pallidum|Treponema]]
 #### Diagnosi e morfologia
 - Per quanto riguarda le **vulviti da Candida**, la ==diagnosi== è essenzialmente ==di laboratorio==, anche se il micete è ben visibile negli strisci cervico- vaginali in corso di screening. 
 	- Tuttavia, ==il reperto di microrganismi nel preparato citologico cervico-vaginale, *se non associato a un infiltrato infiammatorio granulocitario* non è patognomonico di infezione attiva==.

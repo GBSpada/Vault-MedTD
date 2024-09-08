@@ -271,7 +271,7 @@ Mola idatiforme
 
 [^1]: fase grave e potenzialmente grave dell'infezione tubercolare in cui il bacillo infetta a livello sistemico attraverso il circolo ematico
 
-[^2]: +++
+
 
 --- 
 # Reference

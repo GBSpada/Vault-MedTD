@@ -5,7 +5,7 @@ Tag: #Microbiologia
 > Se ne conoscono 15 *serovar* (sierotipi) con diversa patogenicità
 
 ## Serovar A, B, Ba e C
-> Responsabili del [[tracoma]]
+> Responsabili del *tracoma endemico*
 > - Congiuntivite follicolare
 - Lo stadio attivo si osserva soprattutto nei bambini 
 - Negli adulti l'esito fibroso provoca delle ==retrazioni del margine palpebrale superiore==

@@ -21,12 +21,25 @@
             }
           },
           {
-            "id": "a9b87d377e401f31",
+            "id": "c9bed22d56a4a230",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Neoplasie epiteliali - ovaio.md",
+                "file": "Zettelkasten/Neoplasie a cellule germinali - ovaio.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6520ffe09bf914c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Ovaio.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -63,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "salpingo",
+                "query": "arid",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -196,17 +209,9 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
-          },
-          {
-            "id": "f70246359c5c6771",
-            "type": "leaf",
-            "state": {
-              "type": "dictionary-view",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -233,10 +238,18 @@
   },
   "active": "3ad151fcc251c666",
   "lastOpenFiles": [
-    "Zettelkasten/Neoplasie epiteliali - ovaio.md",
+    "Zettelkasten/Neoplasie a cellule germinali - ovaio.md",
     "Zettelkasten/a.md",
-    "Zettelkasten/Senza nome 2.md",
     "Zettelkasten/Ovaio.md",
+    "Zettelkasten/Neoplasie epiteliali - ovaio.md",
+    "Zettelkasten/Senza nome 3.md",
+    "Zettelkasten/Reazione deciduale.md",
+    "Zettelkasten/Carcinoma con aspetti neuroendocrini - mammella.md",
+    "Zettelkasten/Patologia non neoplastica della mammella.md",
+    "Risorse/Mammella.md",
+    "Zettelkasten/Tumori stromali della mammella.md",
+    "Zettelkasten/Tumore filloide.md",
+    "Zettelkasten/Senza nome 2.md",
     "Risorse/Apparato genitale femminile.md",
     "Zettelkasten/Salpingi.md",
     "Risorse/Apparato genitale maschile.md",
@@ -251,14 +264,6 @@
     "Zettelkasten/Vagina.md",
     "Zettelkasten/Rabdomiosarcoma embrionale.md",
     "Zettelkasten/Carcinoma squamoso - vagina.md",
-    "Zettelkasten/Carcinoma squamoso - vulva (copy 1).md",
-    "Zettelkasten/Adenocarcinoma - vulva (copy 1).md",
-    "Zettelkasten/Utero.md",
-    "Zettelkasten/Adenocarcinoma - utero.md",
-    "Zettelkasten/Deficit della fase luteale.md",
-    "Zettelkasten/TNM.md",
-    "Zettelkasten/Sindrome dell'ovaio policistico.md",
-    "Zettelkasten/Carcinoma della mammella.md",
     "Files/Trasporti nelle porzioni del tubulo renale.png",
     "Files/Pasted image 20231214190821.png",
     "Files/Pasted image 20240820181305.png",

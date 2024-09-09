@@ -136,12 +136,8 @@ sistema/apparato:
 #### Tumori primitivi
 ##### [[Neoplasie epiteliali - ovaio]]
 
-##### Neoplasie a cellule germinali
-###### Disgerminoma
-###### Tumore del sacco vitellino
-###### Carcinoma embrionale
-###### Coriocarcinoma non gestazionale
-###### Teratoma
+##### [[Neoplasie a cellule germinali - ovaio]]
+
 ##### Neoplasie ad origine dai cordoni sessuali e dallo stroma
 ###### Tumore a cellule della granulosa
 ###### Fibroma

@@ -4,11 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "5b1017ad5b0d64c9",
+        "id": "4be86d06cfa00fe8",
         "type": "tabs",
         "children": [
           {
-            "id": "3ad151fcc251c666",
+            "id": "439bc34dccc89eec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Nota rapida.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4c54632b08c10183",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Utero.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a074cce07b0da7cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,34 +45,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "c9bed22d56a4a230",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/Neoplasie a cellule germinali - ovaio.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6520ffe09bf914c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/Ovaio.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -211,7 +212,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -236,34 +237,36 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3ad151fcc251c666",
+  "active": "a074cce07b0da7cf",
   "lastOpenFiles": [
-    "Zettelkasten/Neoplasie a cellule germinali - ovaio.md",
-    "Zettelkasten/a.md",
-    "Zettelkasten/Ovaio.md",
-    "Zettelkasten/Neoplasie epiteliali - ovaio.md",
-    "Zettelkasten/Senza nome 3.md",
-    "Zettelkasten/Reazione deciduale.md",
-    "Zettelkasten/Carcinoma con aspetti neuroendocrini - mammella.md",
-    "Zettelkasten/Patologia non neoplastica della mammella.md",
-    "Risorse/Mammella.md",
-    "Zettelkasten/Tumori stromali della mammella.md",
-    "Zettelkasten/Tumore filloide.md",
-    "Zettelkasten/Senza nome 2.md",
-    "Risorse/Apparato genitale femminile.md",
-    "Zettelkasten/Salpingi.md",
-    "Risorse/Apparato genitale maschile.md",
+    "Zettelkasten/Utero.md",
     "Zettelkasten/Nota rapida.md",
-    "Zettelkasten/Cervice.md",
-    "Zettelkasten/Neisseria Gonorrhoeae.md",
-    "Zettelkasten/Chlamydia Trachomatis.md",
-    "Zettelkasten/tracoma endemico.md",
-    "Zettelkasten/Vulva.md",
-    "Zettelkasten/Adenocarcinoma - vulva.md",
-    "Zettelkasten/Carcinoma squamoso - vulva.md",
-    "Zettelkasten/Vagina.md",
-    "Zettelkasten/Rabdomiosarcoma embrionale.md",
-    "Zettelkasten/Carcinoma squamoso - vagina.md",
+    "Zettelkasten/a.md",
+    "Zettelkasten/Patologia non neoplastica della mammella.md",
+    "Zettelkasten/Ovaio.md",
+    "Zettelkasten/Tumore filloide.md",
+    "Condivisi/AnatPatBruno/Tratto gastrointestinale/Tratto gastrointestinale.md",
+    "Condivisi/AnatPatBruno/Tratto gastrointestinale/Intestino tenue - Istologia.md",
+    "Condivisi/AnatPatBruno/Tratto gastrointestinale/Neoplasie dell'intestino crasso.md",
+    "Condivisi/AnatPatBruno/Tratto gastrointestinale/Ulcera peptica gastrica e duodenale.md",
+    "Condivisi/AnatPatBruno/Tratto gastrointestinale/Tumori del canale anale.md",
+    "Condivisi/AnatPatBruno/Tratto gastrointestinale/Stomaco.md",
+    "Condivisi/AnatPatBruno/Tratto gastrointestinale/Rettocolite ulcerosa.md",
+    "Condivisi/AnatPatBruno/Tratto gastrointestinale/Neoplasie dell_intestino crasso.md",
+    "Condivisi/AnatPatBruno/Tratto gastrointestinale/Morbo di Chron.md",
+    "Condivisi/AnatPatBruno/Tratto gastrointestinale/Malattia celiaca.md",
+    "Condivisi/AnatPatBruno/Tratto gastrointestinale/Intestino crasso - Istologia.md",
+    "Condivisi/AnatPatBruno/Tratto gastrointestinale/Intestino crasso - Anatomia.md",
+    "Condivisi/AnatPatBruno/Tratto gastrointestinale/Gastrite.md",
+    "Condivisi/AnatPatBruno/Tratto gastrointestinale/Esofago di Barret.md",
+    "Condivisi/AnatPatBruno/Tratto gastrointestinale/Diverticoli.md",
+    "Condivisi/AnatPatBruno/Tratto gastrointestinale/Ernia iatale.md",
+    "Condivisi/AnatPatBruno/Tratto gastrointestinale/Carcinoma squamoso dell_esofago.md",
+    "Condivisi/AnatPatBruno/Tratto gastrointestinale/Carcinoma gastrico.md",
+    "Condivisi/AnatPatBruno/Tratto gastrointestinale/Carcinoma della giunzione gastroesofagea.md",
+    "Condivisi/AnatPatBruno/Tratto gastrointestinale/Carcinoma colorettale.md",
+    "Condivisi/AnatPatBruno/Tratto gastrointestinale",
+    "Condivisi/AnatPatBruno",
     "Files/Trasporti nelle porzioni del tubulo renale.png",
     "Files/Pasted image 20231214190821.png",
     "Files/Pasted image 20240820181305.png",
@@ -285,11 +288,9 @@
     "Zettelkasten/Metabolismo lipoproteine.canvas",
     "Files/Pasted image 20240215211857.png",
     "Files/Pasted image 20240215203800.png",
-    "Libri/Fisiologia Medica (F. Conti) (z-lib.org).pdf",
     "Zettelkasten/Patologia clinica - Fegato.canvas",
     "Zettelkasten/Patologia clinica tiroidea.canvas",
     "Zettelkasten/Fisiologia urinario.canvas",
-    "Files/Recording 20240208100334.webm",
     "Zettelkasten/Untitled.canvas",
     "Zettelkasten/Mappa Architetture e Sistemi.canvas",
     "Zettelkasten/Fisiologia endocrino.canvas",

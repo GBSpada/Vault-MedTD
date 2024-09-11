@@ -134,16 +134,101 @@ sistema/apparato:
 	- I **tumori secondari** sono quelli che metastatizzano all’ovaio da neoplasie primarie extraovariche.
 		- In questa categoria vanno compresi anche i tumori che si estendono alle ovaie direttamente da organi adiacenti
 #### Tumori primitivi
-##### [[Neoplasie epiteliali - ovaio]]
+##### Neoplasie epiteliali - ovaio
+- Rappresentano il ==60% delle neoplasie ovariche==. 
+	- Colpiscono sia le donne in età riproduttiva sia quelle in età avanzata.
+- **Derivano** dall’==epitelio di superficie ovarico== di origine mesoteliale e dal ==sottostante stroma== ovarico.
+- Sono **classificate** secondo il ==tipo cellulare== e vengono **sottoclassificate** in base
+	- Agli ==aspetti architetturali== 
+	- Alle ==caratteristiche nucleari== (alto, medio e basso grado di malignità) 
+	- Alla ==presenza o assenza di invasione stromale== (benigni, maligni e borderline).
+		- Quest’ultimo aspetto è di fondamentale importanza clinica perché si *correla con la prognosi e quindi con l’approccio terapeutico*.
+###### Epidemiologia ed eziologia
+- Le neoplasie epiteliali maligne dell’ovaio rappresentano il ==30% dei carcinomi del tratto genitale femminile== e 
+- I **fattori di rischio** conosciuti sono 
+	- Nulliparità
+	- Infertilità
+	- Prima gravidanza in età superiore ai 35 anni
+	- Età
+	- Etnia
+	- Obesità
+	- Esposizione al talco
+	- Terapia sostitutiva ormonale a base di estrogeni
+	- Pregresso tumore mammario, endometriale o colico 
+	- Anamnesi familiare positiva per carcinoma dell’ovaio.
+- La **maggior parte** dei tumori ovarici epiteliali è ==sporadica==
+- ==Pattern ereditari== si riscontrano in circa il 10% delle neoplasie maligne epiteliali.
+	- Le **condizioni genetiche associate** all’insorgenza di questi tumori sono 
+		- La *sindrome familiare del carcinoma mammario e ovarico* (*BOCS*) 
+		- La *sindrome specifica del carcinoma ovarico familiare* (*SSOCS*) 
+		- La ==sindrome ereditaria del carcinoma colico non polipoide di tipo II== 
+	- Sia la BOCS sia la SSOCS sono causate da una ==mutazione ereditaria dei geni BRCA1 e BRCA2== ([[Carcinoma della mammella#Gene BRCA1]]), e sono in varianti fenotipiche della stessa mutazione genetica. 
+		- Nella popolazione generale, il ==rischio== di sviluppare un carcinoma ovarico è dell’1,8%, ma ==sale al 20-60% nelle donne con mutazione di BRCA1 e BRCA2==
 
-##### [[Neoplasie a cellule germinali - ovaio]]
+
+###### Classificazione (istotipi)
+- [[Tumori di tipo sieroso - ovaio]]
+- [[Tumori di tipo mucinoso - ovaio]]
+- [[Tumori di tipo endometrioide - ovaio]]
+- [[Tumori a cellule chiare - ovaio]]
+- [[Tumori a cellule transizionali - ovaio]]
+- [[Tumori di tipo siero-mucinoso - ovaio]]
+- [[Tumori di tipo indifferenziato - ovaio]]
+
+
+##### Neoplasie a cellule germinali
+
+>[!info] Definizione
+>- Gruppo eterogeneo di tumori che origina dalle cellule germinali che colonizzano l’ovaio a differenti stadi di sviluppo.
+
+
+###### Eziologia
+- Sconosciuta
+###### Epidemiologia. 
+- I tumori a cellule germinali rappresentano il 30% delle neoplasie ovariche. Nel 95% dei casi si tratta di tumori benigni, il rimanente 5% è maligno.
+- I tumori germinali maligni sono le ==più comuni neoplasie ovariche in età pediatrica e giovanile==.
+
+###### Manifestazioni
+- Le forme maligne si presentano clinicamente con dolore pelvico e senso di peso addominale. 
+- Le forme benigne possono essere reperti occasionali durante un esame ecografico pelvico effettuato per altra ragione. 
+###### Terapia
+- La terapia chirurgica attuale dei tumori germinali maligni è di tipo conservativo, con asportazione della massa e conservazione dell’ovaio controlaterale e dell’utero, seguita da chemioterapia post-operatoria.
+
+###### Classificazione
+- La modalità di differenziazione cellulare condiziona i **diversi istotipi**, questi mostrano un diverso comportamento biologico, con conseguenti implicazioni prognostiche
+	- Il primo è costituito dai **tumori a cellule germinali immature** (disgerminoma, carcinoma embrionale, coriocarcinoma, tumore del sacco vitellino e teratoma immaturo);
+	- Il secondo gruppo comprende **tumori a cellule germinali mature** composti da un’ampia gamma di tessuti somatici (teratomi maturi, struma ovarii).
+		- In rari casi, all’interno di teratomi maturi cistici si possono sviluppare focolai di carcinoma squamoso o di carcinoide.
+- **Tipologie**
+	- [[Disgerminoma]]
+	- [[Tumore del sacco vitellino#Ovaio]]
+	- [[Carcinoma embrionale#Ovaio]]
+	- [[Coriocarcinoma non gestazionale]]
+	- [[Teratoma]]
+
+
 
 ##### Neoplasie ad origine dai cordoni sessuali e dallo stroma
-###### Tumore a cellule della granulosa
-###### Fibroma
-###### Tecoma
-###### Tumore a cellule del Sertoli
-###### Tumore a cellule del Sertoli-Leydig
+- Rappresentano il 10% delle neoplasie primitive ovariche e sono i ==più frequenti tumori funzionanti associati a manifestazioni endocrine==.
+	- Sono tumori composti da ==cellule dello stroma ovarico== (che a sua volta deriva dai cordoni sessuali della gonade embrionale) ==specializzate nella produzione di ormoni steroidei==. 
+		- Le cellule neoplastiche possono presentare una **differenziazione** 
+			- In senso ormonale ==femminile== 
+				- Cellule della granulosa 
+				- Cellule della teca 
+			- In senso ormonale maschile 
+				- Cellule del Sertoli 
+				- Cellule di Leydig
+	- Questi tumori possono dare **sintomatologia molto precoce**, dal momento che sono per lo più funzionanti e producono, a seconda della differenziazione, estrogeni oppure androgeni. 
+		- Altri sintomi di questi tumori possono essere quelli legati alla **presenza di una massa pelvica** associata o meno ad algie addominali: in tal caso il tumore è solitamente palpabile all’esame pelvico.
+		- In un ==10% dei casi== il tumore può andare incontro a ==rottura con conseguente emoperitoneo==. 
+	- Nel 10% dei casi il tumore ==può invece non evidenziarsi fino a quando l’ovaio non viene sezionato
+- Dal 10 al 50% dei casi, il tumore a cellule della granulosa **va incontro a recidive**, alcune di queste possono essere talmente tardive da comparire anche 20-30anni dopo l’iniziale diagnosi. 
+- Il ==fattore prognostico più importante è lo stadio della malattia==.
+###### [[Tumore a cellule della granulosa]]
+###### [[Fibroma]]
+###### [[Tecoma]]
+###### [[Tumore a cellule del Sertoli]]
+###### [[Tumore a cellule del Sertoli-Leydig]]
 
 #### Tumori secondari
 

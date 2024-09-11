@@ -1,9 +1,10 @@
-- È il **corrispettivo ovarico del** più frequente [[Seminoma]] testicolare
-- È il ==più frequente tumore a cellule germinali dell’ovaio==, rappresentando quasi la metà delle forme maligne. 
-	- Mostra un ==picco di incidenza fra il II e il III decennio di vita==. 
-- Si presenta come una ==massa pelvica in rapida crescita==. È importante diagnosticarlo correttamente, in quanto ==risponde bene alla chemioterapia post-operatoria==. 
-	- È ==monolaterale nel 90% dei casi== e può raggiungere un diametro di 15 cm. 
-- All’esame macroscopico appare ben capsulato, solido, di colore bianco sporco.
-- È caratterizzato da una proliferazione monomorfa di cellule di forma poligonale, con citoplasma abbondante e pallido e con nuclei abbastanza uniformi (Figura 16.34) che ricordano le cellule germinali primordiali.
-- Gli aggregati di cellule crescono in trabecole, o piccoli nidi, e sono separati da setti di tessuto fibroso con un infiltrato infiammatorio linfocitario e con rari macrofagi. 
-- Sono presenti atipie nucleari, nucleoli prominenti e numerose figure mitotiche. Dato che si può presentare in forma mista con altre neoplasie germinali, quali il carcinoma embrionale o il coriocarcinoma, che hanno un comportamento biologico più aggressivo, è importante effettuare un ampio campionamento della massa per l’esame istologico per rilevare eventuali foci tumorali con aspetti più aggressivi.
+#### Coriocarcinoma gestazionale
+- Si presenta macroscopicamente con ==uno o più noduli emorragici di consistenza molle e di colorito rosso scuro==
+- Il quadro istologico è caratterizzato da una ==proliferazione bifasica di cito- e sinciziotrofoblasto== o di trofoblasto intermedio e sinciziotrofoblasto che ==riproduce l’aspetto bilaminare del trofoblasto quale appare allo stadio di blastocisti==.
+- Si riconoscono ==nidi o cordoni cellulari infiltranti la parete uterina== in cui la parte più interna è costituita da citotrofoblasto o trofoblasto intermedio, quella più esterna da sinciziotrofoblasto. 
+	- La quantità di tessuto neoplastico presente in sede uterina è assai variabile e non raramente si riconoscono solo piccoli nidi neoplastici nel contesto di estesi fenomeni necrotici ed emorragici, comuni in questa neoplasia.
+	- ==Gruppi di cellule neoplastiche sono frequentemente rilevabili in sede endovascolare==, a testimonianza della **spiccata angiofilia** di questo tumore. 
+- Il grado di atipia e l’attività mitotica sono variabili talora molto spiccati, talaltra meno pronunciate rispetto al normale trofoblasto durante la fase di impianto. 
+- L’==assenza dei villi placentari== è uno dei più importanti criteri diagnostici per la diagnosi di coriocarcinoma
+
+![](https://i.imgur.com/MPG1xoy.png)

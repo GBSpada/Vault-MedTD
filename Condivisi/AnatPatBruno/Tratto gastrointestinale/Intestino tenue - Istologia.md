@@ -236,7 +236,7 @@ Tag: #Istologia #ApparatoDigerente
 		- connessi ad un ciuffo di lunghi e rigidi microvilli apicali, che sporgono nel lume intestinale
 	- distribuite nell'epitelio sovrastante le placche di Peyer in rapporto 10:1 rispetto alle zone dell'epitelio intestinale lontane dal tessuto linfoide
 - Funzione
-	- ignota, ma pare siano responsabili dell'**attivazione della risposta immunitaria di tipo 2** contro le infezioni parassitarie (in particolare contro gli *elminti*)
+	- ignota, ma pare siano responsabili dell'attivazione della [[Malattie del sistema immunitario#Linfociti $T_H2$|risposta immunitaria di tipo 2]] contro le infezioni parassitarie (in particolare contro gli *elminti*)
 		1. secernono *IL-25*
 		2. attivazione dei linfociti TH2, che producono *IL-4* e *IL-13*
 		3. tali citochine provocano l'iperplasia delle cellule mucipare

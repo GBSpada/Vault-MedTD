@@ -263,8 +263,58 @@ sistema/apparato:
 [[Leiomioma - utero]]
 [[Leiomiosarcoma - utero]]
 ## Malattie trofoblastiche gestazionali
-### Coriocarcinoma gestazionale
-Mola idatiforme
+- Rientra in questo capitolo un **eterogeneo spettro di condizioni patologiche**, caratterizzate dalla ==proliferazione di tessuto trofoblastico connessa alla gravidanza==. 
+- La WHO ha raggruppato in questa definizione:
+	- la mola idatidea o vescicolare;
+	- il coriocarcinoma o corion-epitelioma;
+		- In rari casi può
+			- Colpire anche il sesso maschile
+			- Insorgere in sedi diverse dall’utero, senza alcuna correlazione con una gravidanza in atto o pregressa.
+		- Si parla di [[Coriocarcinoma non gestazionale]]
+	- il tumore trofoblastico del sito placentare;
+	- il tumore trofoblastico epitelioide;
+	- un gruppo miscellaneo di condizioni, spesso reperti del tutto accidentali, quali 
+		- Il sito placentare esagerato
+		- Inoduli e le placche placentari
+- **Malignità**
+	- Alcune di queste lesioni (come il coriocarcinoma) sono francamente neoplastiche
+	- Altre invece, come la mola invasiva, vengono considerate come una proliferazione di tessuto placentare anomalo con potenzialità di trasformazione maligna.
+- Queste patologie sono accomunate tra loro da una **spiccata sensibilità alla chemioterapia**. 
+
+### Epidemiologia
+- La **frequenza** delle malattie trofoblastiche gestazionali, rappresentate principalmente dalla mola idatidea, **varia ampiamente tra le diverse popolazioni**. 
+	- Esse infatti complicano ==1 ogni 120 gravidanze in Asia e Sud America== contro ==0,6-1,1 ogni 1000 negli Stati Uniti==.
+- Colpiscono soprattutto donne di età superiore ai 40 anni o inferiore ai 20. 
+- Una storia di aborti spontanei e infertilità o una precedente gravidanza complicata da una malattia trofoblastica gestazionale aumentano il rischio di insorgenza di queste patologie.
+### Eziologia
+- Da un punto di vista eziopatogenetico, **alla base** di molte di queste patologie, in particolare la mola nelle sue diverse espressioni, ==vi è un’anomalia della fecondazione==. 
+	- La **mola completa** nella gran parte dei casi ha un ==cariotipo diploide 46==, XX o più raramente 46, XY con tutti i cromosomi di origine paterna (androgenesi).
+		- Si ritiene che essa derivi dalla ==fertilizzazione di un ovulo che ha perso i suoi cromosomi==
+			- Da parte di uno ==spermatozoo aploide 23, X che auto-replica il suo patrimonio cromosomico== 
+			- Da parte di ==due spermatozoi== 
+				- 23, X 
+				- 23, Y 
+	- La **mola parziale** in oltre il 90% dei casi dimostra ==cariotipo triploide== (69, XXY). 
+		- Questo particolare corredo cromosomico è il risultato della ==fecondazione di un ovulo normale da parte di due spermatozoi aploidi==.
+	- Oltre il 50% dei coriocarcinomi e il 15% dei tumori del sito placentare evolvono da una mola completa.
+
+### Morfologia
+#### Mola idatidea
+![](https://i.imgur.com/h1FmKgQ.png)
+
+- Con il termine di mola idatidea, dal greco *hydatis* (acqua) e dal latino *mola* (ammasso), si indicano lesioni caratterizzate macroscopicamente e microscopicamente da
+	- ==Villi placentari rigonfi per== *idrope* (imbibizione acquosa) 
+		- Questi al loro interno presentano delle lacune acellulate chiamate cisterne 
+	- ==Proliferazione trofoblastica== (citotrofoblasto, sinciziotrofoblasto e trofoblasto intermedio) ==atipica==, di grado variabile, circonferenziale al villo. 
+- Le **alterazioni** descritte sono
+	- ==Più marcate== e coinvolgono la gran parte dei villi placentari ==nella cosiddetta mola completa==
+	- ==Più moderate== e limitate solo ad alcuni villi ==nella mola parziale== 
+		- In questa, sono frequentemente riconoscibili profonde ==introflessioni del rivestimento trofoblastico nel mesenchima villoso== che ==contrastano con la forma rotondeggiante dei villi che si osserva nella mola completa== 
+- Quando la mola ==invade il tessuto miometriale e gli spazi vascolari e si dissemina== in sedi lontane per via ematogena si parla rispettivamente di *mola invasiva e di mola metastatizzante*.
+	- Esse rappresentano una possibile evoluzione della mola completa, di cui riproducono le caratteristiche morfologiche.
+
+>[!info]- Villi corionici in condizioni normali
+>![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Chorionic_villi_-_intermed_mag.jpg/1024px-Chorionic_villi_-_intermed_mag.jpg)
 
 
 

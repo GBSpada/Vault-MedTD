@@ -39,10 +39,10 @@ sistema/apparato:
 ## Epidemiologia
 
 - È presente nel 2-8% dei pazienti con storia di [[criptorchidismo]], attorno allo 0,5% dei giovani adulti normali e nel 63-99% dei testicoli sede di tumori germinali. 
-## Manifestazioni
-
 ## Diagnosi
-### Macroscopica
+### Clinica
+- Il **60% circa delle neoplasie germinali produce ormoni** come β-HCG, proteine fetali, α-fetoproteina o fattori derivati dalla distruzione tessutale (LDH), misurabili nel siero del paziente
+	- La ==concentrazione sierica== dei marcatori cresce con la severità della malattia e viene considerata come un parametro ==indipendente della stadiazione== 
 ### Istologica
 ![Neoplasia germinale intratubulare indeterminata. a) I tubuli con GCNIS hanno caratteri atrofici, le cellule neoplastiche sono ampie, simili agli spermatogoni prepuberali, e disposte sulla membrana del tubulo. b) Come gli spermatogoni fetali, le cellule neoplastiche mostrano un alto contenuto di glicogeno. c) Espressione di membrana di fosfatasi alcalina placentare.](https://i.imgur.com/rAcgNDQ.png)
 
@@ -62,17 +62,23 @@ sistema/apparato:
 ### Biologia Molecolare
 - Espressione di membrana di fosfatasi acida placentare (PLAP), c-Kit (CD117), nucleare di OCT3/4 e SOX17, il regolatore dominante della linea germinale
 - Hanno un corredo genico tra *l’ipertriploide e l’ipopentaploide*, e ==mancano del guadagno selettivo 12p, caratteristico dei tumori invasivi==.
-### Radiologia
-## Trattamento
 
-## Prognosi
+## Trattamento
+- La presenza di GCNIS nella biopsia testicolare è indicazione alla ==orchiectomia profilattica==
+## Prognosi ed evoluzione
+
+![](https://i.imgur.com/ASbYyDI.png)
+
+
+- La GCNIS è il ==precursore dei seminomi e dei non-seminomi== 
+	- **I primi** sono formati da ==gonociti simili alla GCNIS== 
+	- **I secondi** riprogrammati a ==mimare strutture dello sviluppo dell’embrione==:
+		- Il [[carcinoma embrionale]], infatti, rappresenta la ==controparte neoplastica della cellula staminale embrionale== capace di generare
+			- Neoplasie composte da **tessuti extraembrionali** 
+				- [[Tumore del sacco vitellino]] e il [[Utero#Coriocarcinoma gestazionale]]
+			- **Tessuti somatici** fetali o differenziati nel teratoma
 - L’evoluzione in tumore invasivo avviene in 5 anni nel 50% dei casi, e in 10 anni nel 70% degli uomini con GCNIS.
 	- L'evento che scatena la progressione verso la forma invasiva è la perdita del segmento 12p
-	- La presenza di GCNIS nella biopsia testicolare è indicazione alla ==orchiectomia profilattica==
-
-
-
-
 
 
 

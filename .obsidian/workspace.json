@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "97b5b81d0f878348",
+            "id": "0d8d7193162ce6f4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Neoplasia delle cellule germinali in situ.md",
+                "file": "Zettelkasten/Teratoma.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,7 +34,7 @@
             }
           },
           {
-            "id": "79aead84deeaf645",
+            "id": "ce8394a9dbca6aa0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -47,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/a.md",
+                "file": "Zettelkasten/Teratoma.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/a.md",
+                "file": "Zettelkasten/Teratoma.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/a.md"
+                "file": "Zettelkasten/Teratoma.md"
               }
             }
           },
@@ -237,12 +237,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "79aead84deeaf645",
+  "active": "0d8d7193162ce6f4",
   "lastOpenFiles": [
-    "Zettelkasten/Utero.md",
     "Zettelkasten/a.md",
-    "Zettelkasten/Neoplasia delle cellule germinali in situ.md",
+    "Zettelkasten/Teratoma.md",
     "Zettelkasten/Testicolo.md",
+    "Zettelkasten/Carcinoma embrionale.md",
+    "Zettelkasten/Seminoma.md",
+    "Zettelkasten/Neoplasia delle cellule germinali in situ.md",
+    "Zettelkasten/Utero.md",
     "Zettelkasten/Carcinoma invasivo NST - mammella.md",
     "Zettelkasten/Reazione di Feulgen.md",
     "Zettelkasten/Nota rapida.md",
@@ -262,9 +265,6 @@
     "Condivisi/AnatPatBruno/Tratto gastrointestinale/Intestino crasso - Istologia.md",
     "Condivisi/AnatPatBruno/Tratto gastrointestinale/Intestino crasso - Anatomia.md",
     "Condivisi/AnatPatBruno/Tratto gastrointestinale/Gastrite.md",
-    "Condivisi/AnatPatBruno/Tratto gastrointestinale/Esofago di Barret.md",
-    "Condivisi/AnatPatBruno/Tratto gastrointestinale/Diverticoli.md",
-    "Condivisi/AnatPatBruno/Tratto gastrointestinale/Ernia iatale.md",
     "Condivisi/AnatPatBruno/Tratto gastrointestinale",
     "Condivisi/AnatPatBruno",
     "Files/Trasporti nelle porzioni del tubulo renale.png",

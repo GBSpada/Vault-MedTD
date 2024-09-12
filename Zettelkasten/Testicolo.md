@@ -195,7 +195,20 @@ sistema/apparato:
 	- Per esempio la diossina che si sviluppa negli incendi (i vigili del fuoco hanno maggiori probabilità di sviluppare neoplasie rispetto alla popolazione generale) 
 	- L’esposizione ai pesticidi come il DDT.
 ### Tipologie
-#### Neoplasie delle cellule germinali
+#### Neoplasie delle cellule germinal
+
+> [!warning] Modello patogenetico dei differenti tumori testicolari delle cellule germinali
+> ![](https://i.imgur.com/7DwzQiN.png)
+> - La **neoplasia in situ delle cellule germinali** GCNIS origina dalle cellule staminali embrionali 
+> 	- I ==gonociti== sono bloccati in fase pre-spermatogonica e vengono ==stimolati alla poliploidizzazione==, ==dormiente fino alla pubertà==, questa progredisce 
+> 		- Verso la trasformazione ==verso il seminoma==
+> 		- ==Verso== uno dei vari ==tumori non seminomatosi== che, nel 60% dei casi, contengono una componente seminomatosa
+> - I **tumori non correlati con GCNIS** includono i teratomi, i tumori del sacco vitellino e i tumori spermatocitici.
+> 	- I **[[Teratoma|teratomi]]** ==originano dai gonociti==, ma presentano un imprinting parziale.
+> 	- Il [[tumore del sacco vitellino]] ==origina da una componente cellulare del teratoma non GCNIS-correlato== per perdite e guadagni specifici di materiale genetico
+> 	- Il [[tumore spermatocitico]] ==origina dagli spermatogoni e dagli spermatociti==
+> - Si ritiene che i teratomi pre-puberi, il tumore del sacco vitellino dell’infanzia, così come il seminoma spermatogenico dell’adulto, nonessendo associati a GCNIS, originino direttamente dalla trasformazione neoplastica delle cellule germinali, senza il passaggio per la lesione in situ.
+
 ##### [[Neoplasia delle cellule germinali in situ]]
 ##### [[Seminoma]]
 ##### [[Carcinoma embrionale]]

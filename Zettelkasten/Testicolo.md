@@ -214,10 +214,18 @@ sistema/apparato:
 ##### [[Carcinoma embrionale]]
 ##### [[Teratoma]]
 ##### [[Tumore del sacco vitellino]]
-##### [[Coriocarcinoma]]
+##### [[Coriocarcinoma gestazionale]]
 ##### [[Tumori misti delle cellule germinali]]
-##### [[Tumore spermacitico]]
+##### [[Tumore spermatocitico]]
 #### Neoplasie dei cordoni sessuali/stromali delle gonadi
+- Il 2-5% dei tumori testicolari degli adulti e il 25% dei tumori testicolari dei bambini origina dalle cellule dei cordoni sessuali o dello stroma:
+	- Cellule di Leydig
+	- Cellule del Sertoli
+	- Cellule della granulosa e della teca.
+- In **gran parte**, si tratta di ==tumori benigni== non funzionali [^2] 
+- Come per i tumori delle cellule germinali, i tumori stromali testicolari sono ==simili a quelli ovarici==.
+- Il 10% di questi tumori metastatizza, soprattutto negli adulti, e ==non è possibile predirne il comportamento in base ai soli criteri istologici==.
+- Alcuni di questi tumori insorgono **in sindromi da insensibilità androgenica o nella sindrome adrenogenitale**: in questo caso ==devono essere definiti come forme simil-tumorali== e non come vere neoplasie.
 ##### [[Tumori delle cellule di Leyidig]]
 ##### [[Tumori delle cellule del Sertoli]]
 #### Linfomi dei testicoli e dei tessuti paratesticolari
@@ -233,6 +241,7 @@ sistema/apparato:
 
 
 [^1]: Testicoli, incredibbile eh? 
+[^2]: Fondamentale in quanto nel caso in cui lo fossero provocherebbero sindromi ormonali
 
 --- 
 # Reference:

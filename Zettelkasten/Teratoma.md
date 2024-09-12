@@ -67,15 +67,22 @@ sistema/apparato:
 	- La chemioterapia post-operatoria a sua volta si modula in base al grading e alla presenza o meno di impianti neoplastici peritoneali.
 
 ## Testicolo
+
 ### Epidemiologia
 - Nei bambini, il teratoma ha un picco di incidenza fra il 1° e il 2° anno di età, e sia il teratoma sia le cisti dermoidi sono da considerare neoplasie benigne.
 - Nell’adulto, invece, il tumore è sempre clinicamente maligno. Il teratoma puro è piuttosto raro (pari al 27% dei tumori testicolari), mentre circa il 50% dei tumori germinali misti ha una componente teratomatosa.
 ### Morfologia
+![](https://i.imgur.com/5CyvBCV.png)
+
 #### Macroscopica
 - La neoplasia si presenta come una ==massa solida, irregolare, circoscritta==, che viene spesso confusa all’esame clinico con l’idrocele del testicolo
 #### Microscopica
 - È composta da tessuti a differente istogenesi e con diversi gradi di maturità: tessuto polmonare, intestinale, tiroideo, epiteliale, cartilagineo, neuroectodermico o forme miste a blastema fetale.
-### Prognosi ed evoluione
+### Prognosi ed evoluzione
+- Il ==30% dei teratomi metastatizza==.
+	- La ==composizione cellulare== delle metastasi può essere ==differente da quella del tumore primario==
+		- Infatti, la cellula dotata di capacità metastatiche è il precursore germinale neoplastico che poi si differenzia negli organi dove avviene l’impianto secondario.
+- Una delle componenti tessutali del teratoma – primitivo o metastatico – può andare incontro a ==trasformazione somatica neoplastica maligna==: per esempio, in carcinoma, sarcoma o tumori neuroectodermici primitivi (PNET).
 
 
 

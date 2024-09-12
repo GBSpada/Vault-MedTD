@@ -16,9 +16,11 @@ sistema/apparato:
 --- 
 
 ## Ovaio
-
 - Questa neoplasia rappresenta il ==10% dei tumori germinali maligni==, ed è caratterizzata da una *differenziazione extraembrionale delle cellule neoplastiche, in direzione del sacco vitellino o di strutture para-vitelline* (ecco perché studiare medicina in italia, che poesia)
-- Il picco d’**incidenza** è ==fra il I e il II decennio di vita==.
+	- Le struttture para-vitelline sono l'allantoide ed il mesenchima extraembrionale
+### Epidemiologia
+- Il picco d’**incidenza** è ==fra il I e il II decennio di vita==
+### Manifestazioni
 - Si presenta **clinicamente** con ==dolore addominale associato a una massa pelvica in rapida crescita==.
 	- In caso di ==rottura o a torsione== i sintomi sono quelli dell'addome acuto
 ### Aspetto macroscopico
@@ -33,9 +35,26 @@ sistema/apparato:
 	- ==Papille== isolate ==con un vaso centrale== e gettoni periferici di ==cellule epiteliali embrionali==
 		 - *Corpi di Schiller-Duval*
 	 - ==Globuli intensamente eosinofili==, positivi alla reazione acida di Schiff (PAS) e resistenti all’enzima diastasi. 
-- Le cellule neoplastiche sono tipicamente immunoreattive per l’α-fetoproterina.
+- Le cellule neoplastiche sono tipicamente immunoreattive per l’==α-fetoproterina==.
 
-
+## Testicolo
+### Epidemiologia
+- È la ==neoplasia testicolare più frequente nei== **bambini** 
+	- Il picco di incidenza in età pediatrica è intorno a 16-17 mesi, può insorgere fino agli 11 anni di età e non è associato a GCNIS 
+	- Ha un secondo distinto picco di incidenza postpuberale attorno ai 33 anni.
+- **Negli adulti** il tumore si manifesta prevalentemente come una componente di tumori misti delle cellule germinali
+### Diagnosi
+#### Clinica
+- È associato ad **alti livelli sierici di $\alpha$-fetoproteina**
+- Il tumore si manifesta come una ==massa scrotale asintomatica==. 
+- Alla **sonografia**, appare come una ==massa solida== con ecostruttura ben distinta dal parenchima testicolare.
+#### Morfologica
+- All’esame **macroscopico** appare come una ==massa soffice, mucoide==, grigiastra.
+- **Istologicamente**, uno stesso tumore presenta ==diversi pattern di crescita cellulare==: solido, microcistico, mixoide, macrocistico, endodermico, enterico, epatoide, papillare, sarcomatoide.
+##### Immunoistochimica
+- Le cellule sono immunoreattive per ==α-fetoproteina e citocheratine e glipicano 3, mentre non esprimono CD30 e OCT3/4==.
+### Prognosi ed evoluzione
+- Nei bambini predilige la via di metastatizzazione ematogena, negli adulti la via linfatica.
 
 
 

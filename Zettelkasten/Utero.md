@@ -335,24 +335,16 @@ sistema/apparato:
 		- In questa, sono frequentemente riconoscibili profonde ==introflessioni del rivestimento trofoblastico nel mesenchima villoso== che ==contrastano con la forma rotondeggiante dei villi che si osserva nella mola completa== 
 - Quando la mola ==invade il tessuto miometriale e gli spazi vascolari e si dissemina== in sedi lontane per via ematogena si parla rispettivamente di *mola invasiva e di mola metastatizzante*.
 	- Esse rappresentano una possibile evoluzione della mola completa, di cui riproducono le caratteristiche morfologiche.
-##### Coriocarcinoma gestazionale
-- Si presenta macroscopicamente con ==uno o più noduli emorragici di consistenza molle e di colorito rosso scuro==
-- Il quadro istologico è caratterizzato da una ==proliferazione bifasica di cito- e sinciziotrofoblasto== o di trofoblasto intermedio e sinciziotrofoblasto che ==riproduce l’aspetto bilaminare del trofoblasto quale appare allo stadio di blastocisti==.
-- Si riconoscono ==nidi o cordoni cellulari infiltranti la parete uterina== in cui la parte più interna è costituita da citotrofoblasto o trofoblasto intermedio, quella più esterna da sinciziotrofoblasto. 
-	- La quantità di tessuto neoplastico presente in sede uterina è assai variabile e non raramente si riconoscono solo piccoli nidi neoplastici nel contesto di estesi fenomeni necrotici ed emorragici, comuni in questa neoplasia.
-	- ==Gruppi di cellule neoplastiche sono frequentemente rilevabili in sede endovascolare==, a testimonianza della **spiccata angiofilia** di questo tumore. 
-- Il grado di atipia e l’attività mitotica sono variabili talora molto spiccati, talaltra meno pronunciate rispetto al normale trofoblasto durante la fase di impianto. 
-- L’==assenza dei villi placentari== è uno dei più importanti criteri diagnostici per la diagnosi di coriocarcinoma
-
-![](https://i.imgur.com/MPG1xoy.png)
-
-
-
-[^1]: fase grave e potenzialmente grave dell'infezione tubercolare in cui il bacillo infetta a livello sistemico attraverso il circolo ematico
+##### [[Coriocarcinoma gestazionale]]
 
 ### Prognosi ed evoluzione
 - Il coriocarcinoma ha un elevato potere ==metastatizzante per via ematica==, e pertanto talora esordisce clinicamente attraverso segni e sintomi riferibili alla disseminazione metastatica in sede polmonare (presenti nel 50% dei casi), vaginale, cerebrale, epatica e/o in altri organi. 
 	- In qualche caso è presente la lesione metastatica senza che sia documentabile alcuna lesione in sede uterina, evidentemente andata incontro a involuzione dopo aver dato luogo alla disseminazione metastatica
+
+
+
+
+[^1]: fase grave e potenzialmente grave dell'infezione tubercolare in cui il bacillo infetta a livello sistemico attraverso il circolo ematico
 
 --- 
 # Reference

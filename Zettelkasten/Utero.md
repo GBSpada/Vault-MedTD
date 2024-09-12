@@ -297,9 +297,32 @@ sistema/apparato:
 	- La **mola parziale** in oltre il 90% dei casi dimostra ==cariotipo triploide== (69, XXY). 
 		- Questo particolare corredo cromosomico è il risultato della ==fecondazione di un ovulo normale da parte di due spermatozoi aploidi==.
 	- Oltre il 50% dei coriocarcinomi e il 15% dei tumori del sito placentare evolvono da una mola completa.
+### Diagnosi
+#### Clinica
+- La **diagnosi** di una malattia trofoblastica gestazionale, particolarmente la mola parziale, ==segue spesso un aborto== spontaneo. 
+	- Il coriocarcinoma ==può svilupparsi in associazione a una gravidanza normale==, in atto o pregressa, con un periodo di latenza fino a un anno dopo il parto o dopo un aborto.
+- La diagnosi quasi sempre precoce di queste patologie (grazie all’esteso uso dell’ecografia in gravidanza) ha reso di **rara osservazione alcuni altri sintomi osservati in passato** quali 
+	- Anemia
+	- Pre-eclampsia 
+	- Ipertiroidismo,
+		- Legato all’azione tireotropa della β-hCG.
+- In tutti i casi vi è un’**aumentata produzione di gonadotropina corionica** (β-hCG).
+	- Utile ==nel monitoraggio della risposta alla terapia== o nei controlli successivi al trattamento. 
+	- ==Responsabile dell’iperemesi== comunemente riferita da queste donne.
+	- Alla base della formazione di *cisti ovariche luteiniche*
+#### Ecografica
 
-### Morfologia
-#### Mola idatidea
+- La diagnosi di queste patologie si avvale, oltre che del dosaggio della β- hCG, anche dell’**ecografia sovrapubica o transvaginale**.
+	- In particolare, nel caso della **mola**, le caratteristiche ecografiche variano **a seconda dell’epoca gestazionale**.
+		- Le mole idatiformi, che si manifestano ==dall’8ª alla 12ª settimana== appaiono sotto forma di una ==massa intracavitaria omogeneamente ecogenica== per la presenza, in questo stadio, di villi piccoli del diametro mediamente intorno ai 2 mm
+		- ==Tra la 18ª e la 20ª settimana le vescicole== raggiungono i 10 mm per cui ==vengono individuate== all’ecografia come degli spazi cistici. 
+	- Nella mola completa non si documenta la presenza dell’embrione o del **feto** che invece è **presente** ==nella mola parziale==
+#### Morfologica
+
+>[!info]- Villi corionici in condizioni normali
+>![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Chorionic_villi_-_intermed_mag.jpg/1024px-Chorionic_villi_-_intermed_mag.jpg)
+
+##### Mola idatidea
 ![](https://i.imgur.com/h1FmKgQ.png)
 
 - Con il termine di mola idatidea, dal greco *hydatis* (acqua) e dal latino *mola* (ammasso), si indicano lesioni caratterizzate macroscopicamente e microscopicamente da
@@ -312,16 +335,24 @@ sistema/apparato:
 		- In questa, sono frequentemente riconoscibili profonde ==introflessioni del rivestimento trofoblastico nel mesenchima villoso== che ==contrastano con la forma rotondeggiante dei villi che si osserva nella mola completa== 
 - Quando la mola ==invade il tessuto miometriale e gli spazi vascolari e si dissemina== in sedi lontane per via ematogena si parla rispettivamente di *mola invasiva e di mola metastatizzante*.
 	- Esse rappresentano una possibile evoluzione della mola completa, di cui riproducono le caratteristiche morfologiche.
+##### Coriocarcinoma gestazionale
+- Si presenta macroscopicamente con ==uno o più noduli emorragici di consistenza molle e di colorito rosso scuro==
+- Il quadro istologico è caratterizzato da una ==proliferazione bifasica di cito- e sinciziotrofoblasto== o di trofoblasto intermedio e sinciziotrofoblasto che ==riproduce l’aspetto bilaminare del trofoblasto quale appare allo stadio di blastocisti==.
+- Si riconoscono ==nidi o cordoni cellulari infiltranti la parete uterina== in cui la parte più interna è costituita da citotrofoblasto o trofoblasto intermedio, quella più esterna da sinciziotrofoblasto. 
+	- La quantità di tessuto neoplastico presente in sede uterina è assai variabile e non raramente si riconoscono solo piccoli nidi neoplastici nel contesto di estesi fenomeni necrotici ed emorragici, comuni in questa neoplasia.
+	- ==Gruppi di cellule neoplastiche sono frequentemente rilevabili in sede endovascolare==, a testimonianza della **spiccata angiofilia** di questo tumore. 
+- Il grado di atipia e l’attività mitotica sono variabili talora molto spiccati, talaltra meno pronunciate rispetto al normale trofoblasto durante la fase di impianto. 
+- L’==assenza dei villi placentari== è uno dei più importanti criteri diagnostici per la diagnosi di coriocarcinoma
 
->[!info]- Villi corionici in condizioni normali
->![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Chorionic_villi_-_intermed_mag.jpg/1024px-Chorionic_villi_-_intermed_mag.jpg)
-
+![](https://i.imgur.com/MPG1xoy.png)
 
 
 
 [^1]: fase grave e potenzialmente grave dell'infezione tubercolare in cui il bacillo infetta a livello sistemico attraverso il circolo ematico
 
-
+### Prognosi ed evoluzione
+- Il coriocarcinoma ha un elevato potere ==metastatizzante per via ematica==, e pertanto talora esordisce clinicamente attraverso segni e sintomi riferibili alla disseminazione metastatica in sede polmonare (presenti nel 50% dei casi), vaginale, cerebrale, epatica e/o in altri organi. 
+	- In qualche caso è presente la lesione metastatica senza che sia documentabile alcuna lesione in sede uterina, evidentemente andata incontro a involuzione dopo aver dato luogo alla disseminazione metastatica
 
 --- 
 # Reference

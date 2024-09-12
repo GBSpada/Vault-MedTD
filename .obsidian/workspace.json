@@ -8,25 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "439bc34dccc89eec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/Nota rapida.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "4c54632b08c10183",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Utero.md",
+                "file": "Zettelkasten/Testicolo.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,7 +21,20 @@
             }
           },
           {
-            "id": "a074cce07b0da7cf",
+            "id": "97b5b81d0f878348",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Neoplasia delle cellule germinali in situ.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "79aead84deeaf645",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -237,11 +237,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a074cce07b0da7cf",
+  "active": "79aead84deeaf645",
   "lastOpenFiles": [
     "Zettelkasten/Utero.md",
-    "Zettelkasten/Nota rapida.md",
     "Zettelkasten/a.md",
+    "Zettelkasten/Neoplasia delle cellule germinali in situ.md",
+    "Zettelkasten/Testicolo.md",
+    "Zettelkasten/Carcinoma invasivo NST - mammella.md",
+    "Zettelkasten/Reazione di Feulgen.md",
+    "Zettelkasten/Nota rapida.md",
     "Zettelkasten/Patologia non neoplastica della mammella.md",
     "Zettelkasten/Ovaio.md",
     "Zettelkasten/Tumore filloide.md",
@@ -261,10 +265,6 @@
     "Condivisi/AnatPatBruno/Tratto gastrointestinale/Esofago di Barret.md",
     "Condivisi/AnatPatBruno/Tratto gastrointestinale/Diverticoli.md",
     "Condivisi/AnatPatBruno/Tratto gastrointestinale/Ernia iatale.md",
-    "Condivisi/AnatPatBruno/Tratto gastrointestinale/Carcinoma squamoso dell_esofago.md",
-    "Condivisi/AnatPatBruno/Tratto gastrointestinale/Carcinoma gastrico.md",
-    "Condivisi/AnatPatBruno/Tratto gastrointestinale/Carcinoma della giunzione gastroesofagea.md",
-    "Condivisi/AnatPatBruno/Tratto gastrointestinale/Carcinoma colorettale.md",
     "Condivisi/AnatPatBruno/Tratto gastrointestinale",
     "Condivisi/AnatPatBruno",
     "Files/Trasporti nelle porzioni del tubulo renale.png",

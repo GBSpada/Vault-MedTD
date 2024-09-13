@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Testicolo.md",
+                "file": "Risorse/Apparato genitale maschile.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,7 +21,20 @@
             }
           },
           {
-            "id": "ce8394a9dbca6aa0",
+            "id": "675e29fde710318b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Prostata.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d5599a45cb6a08c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,8 +45,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "449d53436ec2fd98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Testosterone.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -120,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Testicolo.md",
+                "file": "Zettelkasten/Testosterone.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Testicolo.md",
+                "file": "Zettelkasten/Testosterone.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -165,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/Testicolo.md"
+                "file": "Zettelkasten/Testosterone.md"
               }
             }
           },
@@ -223,11 +250,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4c54632b08c10183",
+  "active": "449d53436ec2fd98",
   "lastOpenFiles": [
-    "Zettelkasten/Tumori delle cellule del Sertoli.md",
     "Zettelkasten/a.md",
+    "Zettelkasten/Testosterone.md",
+    "Zettelkasten/Prostata.md",
+    "Zettelkasten/Interleuchina 8.md",
+    "Risorse/Apparato genitale maschile.md",
     "Zettelkasten/Testicolo.md",
+    "Zettelkasten/Tumori delle cellule del Sertoli.md",
     "Zettelkasten/Tumori delle cellule di Leyidig.md",
     "Zettelkasten/Tumore spermatocitico.md",
     "Zettelkasten/Tumori misti delle cellule germinali.md",
@@ -247,10 +278,6 @@
     "Zettelkasten/Tumore filloide.md",
     "Condivisi/AnatPatBruno/Tratto gastrointestinale/Tratto gastrointestinale.md",
     "Condivisi/AnatPatBruno/Tratto gastrointestinale/Intestino tenue - Istologia.md",
-    "Condivisi/AnatPatBruno/Tratto gastrointestinale/Neoplasie dell'intestino crasso.md",
-    "Condivisi/AnatPatBruno/Tratto gastrointestinale/Ulcera peptica gastrica e duodenale.md",
-    "Condivisi/AnatPatBruno/Tratto gastrointestinale/Tumori del canale anale.md",
-    "Condivisi/AnatPatBruno/Tratto gastrointestinale/Stomaco.md",
     "Condivisi/AnatPatBruno/Tratto gastrointestinale",
     "Condivisi/AnatPatBruno",
     "Files/Trasporti nelle porzioni del tubulo renale.png",

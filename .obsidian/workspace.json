@@ -13,54 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Risorse/Apparato genitale maschile.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "675e29fde710318b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Zettelkasten/Prostata.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
-          },
-          {
-            "id": "d5599a45cb6a08c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/a.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "449d53436ec2fd98",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/Testosterone.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "arid",
+                "query": "tmprs",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -147,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Testosterone.md",
+                "file": "Zettelkasten/Prostata.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Testosterone.md",
+                "file": "Zettelkasten/Prostata.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -192,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/Testosterone.md"
+                "file": "Zettelkasten/Prostata.md"
               }
             }
           },
@@ -225,7 +185,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -250,34 +210,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "449d53436ec2fd98",
+  "active": "4c54632b08c10183",
   "lastOpenFiles": [
+    "Zettelkasten/Pene.md",
     "Zettelkasten/a.md",
-    "Zettelkasten/Testosterone.md",
     "Zettelkasten/Prostata.md",
-    "Zettelkasten/Interleuchina 8.md",
+    "Zettelkasten/Testosterone.md",
     "Risorse/Apparato genitale maschile.md",
     "Zettelkasten/Testicolo.md",
-    "Zettelkasten/Tumori delle cellule del Sertoli.md",
+    "Zettelkasten/Seminoma.md",
     "Zettelkasten/Tumori delle cellule di Leyidig.md",
-    "Zettelkasten/Tumore spermatocitico.md",
     "Zettelkasten/Tumori misti delle cellule germinali.md",
+    "Zettelkasten/Neoplasia delle cellule germinali in situ.md",
+    "Zettelkasten/Tumore spermatocitico.md",
+    "Zettelkasten/Tumore del sacco vitellino.md",
+    "Zettelkasten/Teratoma.md",
+    "Zettelkasten/Sindrome di Turner.md",
+    "Zettelkasten/Scroto.md",
+    "Zettelkasten/Interleuchina 8.md",
+    "Zettelkasten/Tumori delle cellule del Sertoli.md",
     "Zettelkasten/Ovaio.md",
     "Zettelkasten/Utero.md",
     "Zettelkasten/Coriocarcinoma gestazionale.md",
-    "Zettelkasten/Tumore del sacco vitellino.md",
-    "Zettelkasten/Teratoma.md",
     "Zettelkasten/Coriocarcinoma.md",
     "Zettelkasten/Carcinoma embrionale.md",
-    "Zettelkasten/Seminoma.md",
-    "Zettelkasten/Neoplasia delle cellule germinali in situ.md",
     "Zettelkasten/Carcinoma invasivo NST - mammella.md",
     "Zettelkasten/Reazione di Feulgen.md",
     "Zettelkasten/Nota rapida.md",
     "Zettelkasten/Patologia non neoplastica della mammella.md",
-    "Zettelkasten/Tumore filloide.md",
-    "Condivisi/AnatPatBruno/Tratto gastrointestinale/Tratto gastrointestinale.md",
-    "Condivisi/AnatPatBruno/Tratto gastrointestinale/Intestino tenue - Istologia.md",
     "Condivisi/AnatPatBruno/Tratto gastrointestinale",
     "Condivisi/AnatPatBruno",
     "Files/Trasporti nelle porzioni del tubulo renale.png",

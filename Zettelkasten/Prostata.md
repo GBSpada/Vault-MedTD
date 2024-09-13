@@ -153,13 +153,144 @@ https://medicine.nus.edu.sg/pathweb/normal-histology/prostate/
 	- Il carcinoma della prostata è ==responsabile di circa il 4% di tutte le morti per cancro==, anche se **solamente il 5,6% degli uomini con carcinoma della prostata morirà a causa della neoplasia**. 
 - L’==alta incidenza== del carcinoma della prostata ==riflette== non soltanto un aumento del rischio, ma anche ==il miglioramento delle tecniche diagnostiche e lo screening sistematico== dei pazienti prima che appaia la sintomatologia.
 	- La **bassa mortalità** è quindi responsabile dell’elevata prevalenza del tumore della prostata
+
+### Fisiopatologia
+- Definito sembra essere il ruolo degli [[Testosterone|ormoni sessuali]] maschili ==sia nell’insorgenza==, ==sia nella crescita== della neoplasia.
+	- Il polimorfismo genico di [[Testosterone#^66e290|SRD5A2]], e ancora di più quello del recettore degli androgeni, potrebbero spiegare le differenze interetniche rilevate nell’incidenza. 
+	- Circa la metà dei carcinomi della prostata mostra una *fusione TMPRSS2-ERG* che fonde l’oncogene ERG a sequenze, di solito non tradotte, del gene androgeno-regolato TMPRSS2, che quindi causerà l’iperespressione di ERG.
+### Eziologia
+#### Fattori genetici
+- Il fatto che i **fattori genetici** abbiano un ==ruolo importante== nello sviluppo della neoplasia è documentato 
+	- Dalla distribuzione geografica
+	- Dalla differente incidenza del carcinoma della prostata nei diversi gruppi etnici
+	- Dal fatto che ==popolazioni a basso rischio==, come quelle asiatiche, mantengano lo ==stesso rischio relativo anche dopo l’emigrazione== da più generazioni in Paesi ad alta incidenza. 
+##### Ereditarietà
+- È di fondamentale importanza anche la **familiarità** (la presenza di uno o più parenti con carcinoma della prostata aumenta il rischio di 5-11 volte)
+- L’ereditarietà appare **dominante e X-linked**. 
+- La classificazione molecolare dei carcinomi della prostata prevede a oggi ==6 famiglie di alterazioni genetiche guida ==(vedi [[#Fisiopatologia]]) che in gran parte si sovrappongono, 
+	- Le famiglie con ==ETS riarrangiato== 
+	- Quelle con la ==fusione TMPRSS2-ERG== 
+	- Infine quelli con ==mutazione di SPOP e delezione di CHD1==, che escludono mutualmente le altre mutazioni
+#### Fattori ambientali
+- D’altro canto, l’incremento del rischio – rilevato in popolazioni di tutte le etnie – e l’insorgenza in età progressivamente inferiore suggeriscono come **anche fattori ambientali e stile di vita** siano rilevanti.
+##### Carcinogeni alimentari
+- Sebbene non sia stato ancora stabilito quali siano questi fattori, ==crescenti evidenze== puntano sull’importanza dei danni tessutali dovuti ai ==carcinogeni alimentari==, agli ==estrogeni delle carni== e agli ossidanti, come le cause scatenanti di un **ambiente prostatico infiammatorio** capace di innescare e stimolare lo sviluppo della neoplasia.
+	- Studi di coorte indicano un **forte correlazione positiva** ==fra aumento del rischio e una dieta ricca di grassi animali e carni rosse conservate o arrostite, latte e formaggi==.
+	- **Al contrario**, il ==licopene==, gli ==acidi grassi omega 3 del pesce==, ==soia e verdure crucifere==, come broccoli e cavoli, sono protettivi.
+	- I ==danni genici somatici ed epigenetici== riscontrati  nell’atrofia proliferativa infiammatoria, nella neoplasia intraepiteliale prostatica PIN e nel carcinoma della prostata forniscono una ==prova degli effetti dell'infiammazione sull'epitelio== e quindi del legame fra carcinogeni e sviluppo del cancro
+##### Altri fattori
+- Gli effetti di fattori ambientali, per esempio occupazionali, e del comportamento sessuale non sono ancora stati chiariti. 
+### Diagnosi
+#### Clinica
+- La ==maggioranza== dei carcinomi della prostata è **asintomatica**
+- Lesioni sospette vengono **in genere individuate** mediante ==screening dell’antigene prostatico specifico (PSA) sierico, seguito da esame digitorettale (DRE) e diagnostica per immagini==
+	- ==Livelli sierici di PSA molto alti sono indice di un tumore molto avanzato==, di solito metastatizzante le ossa
+	- Lo screening ha permesso di identificare la maggior parte dei carcinomi in uno stadio tale da rendere molto rare le manifestazioni date da forme più avanzate quali: dolore pelvico, ostruzione urinaria e rettale, sanguinamento
+#### Ecografica
+- Alla **ultrasonografia transrettale**, il 70-75% dei tumori si presenta come un’==area ipoecoica==
+	- ==Nel 25-30%== ==la neoplasia risulta isoecoica== e viene confusa con il tessuto normale.
+
+#### Criterio per l'agobiopsia
+- I pazienti con alti livelli di PSA, oppure con esplorazione digitorettale o diagnostica per immagini sospette, vengono sottoposti a biopsie prostatiche multiple, in modo da esplorare tutto l’organo, per la **conferma istologica della diagnosi**
+
+
+> [!info] info
+> Il tumore della prostata insorge prevalentemente dalla zona periferica, ma ==l’8% delle rimozioni della zona transizionale iperplastica== – eseguite ==mediante resezione transuretrale (TURP)== – ==risulta== poi ==positivo per carcinoma==
+
 ### Classificazione
 #### Neoplasia prostatica intraepiteliale
+- ==La maggioranza delle neoplasie prostatiche== origina dalla **trasformazione neoplastica dell’epitelio secernente della porzione acinare delle ghiandole**
+	- Questa progressivamente va incontro a displasia ingravescente, neoplasia in situ, e in seguito acquisisce caratteri di invasività.
+	- Il 20-25% delle HGPIN progredisce verso una neoplasia invasiva entro un anno e la sua estensione è un predittore forte di neoplasia nelle biopsie susseguenti.
+##### Morfologia
+![](https://i.imgur.com/PyUSTN3.png)
+
+###### Aspetto tissutale
+- La PIN può assumere diversi pattern di crescita: piatta, papillare, cribriforme, a ciuffi, invertita, a cellule ad anello con castone 
+- La neoplasia intraepiteliale di **alto grado** (HGPIN) è caratterizzata dalla ==proliferazione== di cellule epiteliali secernenti displastiche ==all’interno dei dotti e degli acini ghiandolari==. 
+- Le cellule dello strato basale sono rarefatte o focalmente perdute
+	- ==Fondamentale per la diagnosi differenziale==
+###### Aspetto cellulare
+- Le cellule presentano gli ==stessi caratteri citologici e fenotipici del carcinoma invasivo== con
+	- **Nuclei** ingranditi 
+	- Numerosi **nucleoli** prominenti
+###### Immunoistochimica
+- La dimostrazione della presenza di cellule dello strato basale conferma la diagnosi di HGPIN e richiede che vengano identificate mediante colorazione immunoistochimica, sfruttando la loro peculiare espressione 
+	- **Citoplasmatica** di ==citocheratine ad alto peso molecolare CK5/6 o 34βE12==
+	- **Nucleare** di ==p63==.
+##### Biologia molecolare
+- Le alterazioni geniche delle **HGPIN** sono **simili a quelle delle neoplasie invasive**:
+	- LOH 8p12-21, 8p22, 12pter-p12 e 10q11.2
+	- Guadagno dei cromosomi 7, 8,10,12, 8p24
+	- Espressione della proteina ERG e perdita di PTEN. 
+- È inoltre epigeneticamente simile al carcinoma invasivo in termine di ==alleli metilati del gene proapoptotico ASC, o dei geni APC, GSTP1 e RARB2==
 #### Adenocarcinoma della prostata
+##### Carcinoma intraduttale
+- Definisce una proliferazione intraduttale o intracinare caratterizzata da una ==severa displasia architetturale e citologica==, di solito ==associata a carcinoma invasivo di grado elevato==. 
+- Di fatto rappresenta la ==diffusione tumorale invasiva all’interno di dotti e acini== durante la progressione di neoplasie prostatiche aggressive di origine acinare o duttale
+##### Carcinoma invasivo
+![](https://i.imgur.com/HfuB1mz.png)
+
+###### Macroscopicamente 
+
+- Il carcinoma della prostata è di solito ==multicentrico== e prevalentemente localizzato ==alla periferia dell’organo==.
+- La **superficie di taglio** del carcinoma si presenta sotto forma di ==noduli multipli, bianco- giallastri==, ==di consistenza aumentata==, “sottocapsulari” difficilmente riconoscibili rispetto al parenchima non neoplastico. 
+
+###### Microscopicamente
+- Il ==98%== degli adenocarcinomi prostatici origina ==dalla porzione acinare== delle ghiandole prostatiche, i restanti originano dalla porzione duttale.
+- Il **carcinoma** appare composto da ==piccole ghiandole dismorfiche==, più o meno confluenti, affollate e disorganizzate, ==che infiltrano lo stroma prostatico== e scompaginano il disegno ghiandolare dell’organo. 
+	- I **tumori ben differenziati** sono composti da ==ghiandole piccole, rotondeggianti, uniformi== e tappezzate da un ==unico strato di cellule== neoplastiche, 
+		- Queste appaiono a loro volta uniformi, con nucleoli evidenti e ==positive per alfa-metil-CoA racemasi (AMACR) e NKX3.1==
+		- Le cellule dello strato basale CK34βE12+/p63+ sono assenti.
+	- **Nei tumori scarsamente differenziati**
+		- **Le cellule**
+			- Diventano ==polimorfe==, ==ipercromatiche==, aumenta l’evidenza dei nucleoli 
+		- **L’organizzazione ghiandolare** diventa ==sempre meno evidente e rudimentale==, fino a quadri di crescita caratterizzati da singole cellule infiltranti lo stroma o da pattern di crescita solida.
+			- Spesso, le ghiandole neoplastiche hanno un ==contenuto denso==, a volte mucinoso e rosato o che forma cristalloidi eosinofili.
+		- I *corpora amylacea* frequenti nel parenchima normale ==sono== di solito ==assenti==.
+- È da notare che le cellule neoplastiche hanno una ==citologia molto variabile==. 
+	- L’**unico carattere costante** è la presenza di un ==nucleo contenente uno o più nucleoli eosinofili==, molto grandi, con un alone perinucleolare decolorato e cromatina addensata alla periferia.
+
+### Prognosi ed evoluzione
+- I fattori prognostici più importanti sono rappresentati dal ==grado di differenziazione e dallo stadio della neoplasia==. 
+	- Gli stadi I e II hanno una sopravvivenza del 90%
+	- Lo stadio III del 40%
+	- Lo stadio IV del 10% a 5 anni.
+- Fattori prognostici infausti sono l’invasione neurale e vascolare e la presenza di tumore sui margini chirurgici.
+#### Stadiazione
+- Al contrario di altre neoplasie, nelle quali l’andamento clinico è determinato dalla popolazione cellulare meno differenziata, nel carcinoma della prostata ==la prognosi è meglio definita dalla somma dei due gradi di differenziazione più rappresentati nella neoplasia==
+- Per questo motivo, il grading del carcinoma della prostata viene stabilito mediante il **sistema di gradazione di Gleason** 
+	- Si basa sul riconoscimento di ==cinque pattern di crescita ghiandolare e di infiltrazione==, ognuno definito con un numero progressivo (**score**) che va da 1, il più differenziato, a 5, il più displastico. 
+	- Per ogni tumore, ==i due pattern di crescita più rappresentati== vengono stabiliti e ==identificati con lo score== appropriato, e la somma dei due numeri definisce il grado di differenziazione della neoplasia.
+		- I **tumori più differenziati** hanno uno ==score 2== (1+1)
+		- I **meno differenziati** hanno uno ==score 10== (5+5). 
+		- La maggioranza dei carcinomi della prostata ha uno score compreso fra 5 (2+3) e 7 (3+4).
+
+- Il grado di Gleason ha buon valore prognostico, tuttavia alcune sue caratteristiche di valutazione hanno un ==impatto negativo sulla valutazione clinica del paziente==: 
+	- Per esempio, uno score **7** può essere dovuto a un grado di Gleason ==3+4 o 4+3==, che hanno una gravità ma vengono entrambi interpretati come una neoplasia di grado intermedio
+- ==Per questo motivo==, un gruppo di studio condotto da Epstein J.I. nel 2015 ha validato un ==sistema di gradazione alternativo==, pur basandosi sui principi elaborati da Gleason. Tale sistema è stato ==adottato== ufficialmente nel 2017 ==dall’American Joint Committee on Cancer (AJCC)==
+#### Metastasi e diffusione
+>[!warning] Nota bene:
+>- ==La disseminazione== tumorale diffusa, spesso associata a sepsi e polmonite, ==è la causa principale di morte== per carcinoma prostatico. 
 
 
-
-
+- Un’alta percentuale di carcinomi della prostata **invade** ==precocemente la capsula dell’organo e il tessuto periprostatico== a causa della loro posizione sottocapsulare.
+	- L’invasione **perineurale** ==all’interno della prostata== è praticamente ==sempre presente==, tuttavia non influenza la prognosi, ed è frequente anche l’invasione dei nervi periprostatici. 
+	- Le **vescichette seminali** sono ==interessate== per estensione diretta della neoplasia
+	- Mentre l’invasione diretta della **vescica** è ==rara== e tardiva. 
+- Il carcinoma **metastatizza** per ==via linfatica ai linfonodi otturatori==, e successivamente diffonde agli iliaci e ai periaortici. 
+	- Anche le metastasi **polmonari** avvengono per via linfatica, ==attraverso il dotto toracico==.
+- Le ==cellule neoplastiche sono precocemente isolabili dal sangue== e la **metastatizzazione per via ematica** del carcinoma prostatico ==predilige lo scheletro==: le coste, la colonna vertebrale e le ossa della pelvi.
+	- Si tratta di localizzazioni frequenti, molto dolorose e spesso seguite da fratture patologiche, che rappresentano un problema clinico molto significativo.
+#### Marcatori molecolari
+- Infine, l’andamento del carcinoma della prostata è determinato da alcuni **marcatori genetici e molecolari**. 
+	- Pazienti con **DNA tumorale diploide**, anche in presenza di metastasi linfonodali, ==sopravvivono in media 20 anni dopo l’asportazione== chirurgica della neoplasia. 
+	- Pazienti con **DNA aneuploide**, invece, ==meno di 5 anni==. 
+- Gli **stadi precoci** della carcinogenesi sono caratterizzati da ==perdite alleliche dell’8p, 10q e del 16q==; 
+- I tumori **più avanzati** da ==perdite alleliche di 13p gene RB, 17p gene p53 e 18q gene DCC==.
+	- ==Guadagni allelici dei cromosomi 7, 8 e 12 sono caratteristici dei tumori più aggressivi==, e sono marcatori prognostici negativi.
+	- La presenza di **attività telomerasica** rappresenta un marcatore di progressione neoplastica.
+	- L’**amplificazione dei geni** ==c-erbB-2 e c-erbB-3== correla con la progressione e le recidive.
 
 --- 
 # Reference:

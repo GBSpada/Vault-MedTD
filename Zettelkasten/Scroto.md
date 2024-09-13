@@ -14,7 +14,7 @@ sistema/apparato:
 # Istologia 
 # Anatomia patologia
 ## Carcinoma dello scroto
-
+- Non ha rilevanza se non per il fatto che è stato il primo esempio di cancerogenesi chimica
 
 
 

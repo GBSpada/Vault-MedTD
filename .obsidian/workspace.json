@@ -4,23 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "4be86d06cfa00fe8",
+        "id": "24ec17c691c2bf55",
         "type": "tabs",
         "children": [
           {
-            "id": "4c54632b08c10183",
+            "id": "9058d330f99589b9",
+            "type": "leaf",
+            "state": {
+              "type": "mindmap",
+              "state": {}
+            }
+          },
+          {
+            "id": "88d46519d9a050f4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Prostata.md",
+                "file": "Condivisi/AnatPatBruno/Tratto gastrointestinale/Tratto gastrointestinale.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -107,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Prostata.md",
+                "file": "Condivisi/AnatPatBruno/Tratto gastrointestinale/Tratto gastrointestinale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Prostata.md",
+                "file": "Condivisi/AnatPatBruno/Tratto gastrointestinale/Tratto gastrointestinale.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -152,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/Prostata.md"
+                "file": "Condivisi/AnatPatBruno/Tratto gastrointestinale/Tratto gastrointestinale.md"
               }
             }
           },
@@ -185,11 +194,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 829.5,
+    "width": 331.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -210,11 +219,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4c54632b08c10183",
+  "active": "88d46519d9a050f4",
   "lastOpenFiles": [
+    "Condivisi/AnatPatBruno/Tratto gastrointestinale/Adenocarcinoma dell'esofago.md",
+    "Condivisi/AnatPatBruno/Tratto gastrointestinale/Tratto gastrointestinale.md",
+    "Condivisi/AnatPatBruno/Tratto gastrointestinale/Esofago di Barret.md",
+    "Zettelkasten/Malattie neoplastiche.md",
+    "Zettelkasten/Fisiologia gastrointestinale e nutrizione umana.md",
+    "Condivisi/AnatPatBruno/Tratto gastrointestinale/Diverticoli.md",
+    "Condivisi/AnatPatBruno/Tratto gastrointestinale/Ernia iatale.md",
+    "Condivisi/AnatPatBruno/Tratto gastrointestinale/Stomaco.md",
+    "Condivisi/AnatPatBruno/Tratto gastrointestinale/Intestino crasso - Istologia.md",
+    "Condivisi/AnatPatBruno/Tratto gastrointestinale/Intestino tenue - Istologia.md",
+    "Zettelkasten/Prostata.md",
     "Zettelkasten/Pene.md",
     "Zettelkasten/a.md",
-    "Zettelkasten/Prostata.md",
     "Zettelkasten/Testosterone.md",
     "Risorse/Apparato genitale maschile.md",
     "Zettelkasten/Testicolo.md",
@@ -228,16 +247,6 @@
     "Zettelkasten/Sindrome di Turner.md",
     "Zettelkasten/Scroto.md",
     "Zettelkasten/Interleuchina 8.md",
-    "Zettelkasten/Tumori delle cellule del Sertoli.md",
-    "Zettelkasten/Ovaio.md",
-    "Zettelkasten/Utero.md",
-    "Zettelkasten/Coriocarcinoma gestazionale.md",
-    "Zettelkasten/Coriocarcinoma.md",
-    "Zettelkasten/Carcinoma embrionale.md",
-    "Zettelkasten/Carcinoma invasivo NST - mammella.md",
-    "Zettelkasten/Reazione di Feulgen.md",
-    "Zettelkasten/Nota rapida.md",
-    "Zettelkasten/Patologia non neoplastica della mammella.md",
     "Condivisi/AnatPatBruno/Tratto gastrointestinale",
     "Condivisi/AnatPatBruno",
     "Files/Trasporti nelle porzioni del tubulo renale.png",

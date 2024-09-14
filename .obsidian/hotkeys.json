@@ -133,5 +133,6 @@
       ],
       "key": "ArrowRight"
     }
-  ]
+  ],
+  "app:go-forward": []
 }

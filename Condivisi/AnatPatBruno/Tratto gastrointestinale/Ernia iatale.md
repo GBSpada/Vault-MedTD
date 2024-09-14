@@ -36,9 +36,9 @@ Tag: #ApparatoDigerente #Anatomiapatologica
 - I sintomi si accentuano quando il paziente assume posizioni favorenti il reflusso (giacere supini) o in caso di obesità
 ### Complicanze
 - Per entrambi i tipi
-- ==ulcere==
-- ==sanguinamento==
-- ==perforazione==
+	- ==ulcere==
+	- ==sanguinamento==
+	- ==perforazione==
 - Ernia paraesofagea
 	- ==ostruzione==
 	- ==strozzamento==

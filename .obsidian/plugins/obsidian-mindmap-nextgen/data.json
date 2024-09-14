@@ -1,10 +1,8 @@
 {
   "version": "2.0",
   "layout": [
-    {
-      "type": "pinned",
-      "path": "Condivisi/AnatPatBruno/Tratto gastrointestinale/Intestino crasso - Istologia.md"
-    },
+    null,
+    null,
     null
   ],
   "settings": {

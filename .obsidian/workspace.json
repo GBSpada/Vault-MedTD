@@ -8,20 +8,38 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9058d330f99589b9",
-            "type": "leaf",
-            "state": {
-              "type": "mindmap",
-              "state": {}
-            }
-          },
-          {
-            "id": "88d46519d9a050f4",
+            "id": "38e6a85a75bfb0d1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Condivisi/AnatPatBruno/Tratto gastrointestinale/Tratto gastrointestinale.md",
+                "file": "Risorse/Apparato genitale femminile.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ba125c8a085f21d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Vulva.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2783a336a47900d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Carcinoma squamoso - vulva.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -29,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -116,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Condivisi/AnatPatBruno/Tratto gastrointestinale/Tratto gastrointestinale.md",
+                "file": "Zettelkasten/Carcinoma squamoso - vulva.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Condivisi/AnatPatBruno/Tratto gastrointestinale/Tratto gastrointestinale.md",
+                "file": "Zettelkasten/Carcinoma squamoso - vulva.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -161,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Condivisi/AnatPatBruno/Tratto gastrointestinale/Tratto gastrointestinale.md"
+                "file": "Zettelkasten/Carcinoma squamoso - vulva.md"
               }
             }
           },
@@ -219,10 +237,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "88d46519d9a050f4",
+  "active": "2783a336a47900d8",
   "lastOpenFiles": [
-    "Condivisi/AnatPatBruno/Tratto gastrointestinale/Adenocarcinoma dell'esofago.md",
+    "Zettelkasten/Vulva.md",
+    "Zettelkasten/Carcinoma squamoso - vulva.md",
+    "Risorse/Apparato genitale femminile.md",
+    "Zettelkasten/Ciclo mestruale.md",
+    "Zettelkasten/Testicolo.md",
+    "Zettelkasten/Ovaio.md",
+    "Condivisi/AnatPatBruno/Tratto gastrointestinale/Tumori del canale anale.md",
     "Condivisi/AnatPatBruno/Tratto gastrointestinale/Tratto gastrointestinale.md",
+    "Condivisi/AnatPatBruno/Tratto gastrointestinale/Carcinoma colorettale.md",
+    "Condivisi/AnatPatBruno/Tratto gastrointestinale/Neoplasie dell'intestino crasso.md",
+    "Condivisi/AnatPatBruno/Tratto gastrointestinale/Rettocolite ulcerosa.md",
+    "Condivisi/AnatPatBruno/Tratto gastrointestinale/Morbo di Chron.md",
+    "Condivisi/AnatPatBruno/Tratto gastrointestinale/Malattia celiaca.md",
+    "Condivisi/AnatPatBruno/Tratto gastrointestinale/Ulcera peptica gastrica e duodenale.md",
+    "Condivisi/AnatPatBruno/Tratto gastrointestinale/Gastrite.md",
+    "Condivisi/AnatPatBruno/Tratto gastrointestinale/Adenocarcinoma dell'esofago.md",
     "Condivisi/AnatPatBruno/Tratto gastrointestinale/Esofago di Barret.md",
     "Zettelkasten/Malattie neoplastiche.md",
     "Zettelkasten/Fisiologia gastrointestinale e nutrizione umana.md",
@@ -233,20 +265,6 @@
     "Condivisi/AnatPatBruno/Tratto gastrointestinale/Intestino tenue - Istologia.md",
     "Zettelkasten/Prostata.md",
     "Zettelkasten/Pene.md",
-    "Zettelkasten/a.md",
-    "Zettelkasten/Testosterone.md",
-    "Risorse/Apparato genitale maschile.md",
-    "Zettelkasten/Testicolo.md",
-    "Zettelkasten/Seminoma.md",
-    "Zettelkasten/Tumori delle cellule di Leyidig.md",
-    "Zettelkasten/Tumori misti delle cellule germinali.md",
-    "Zettelkasten/Neoplasia delle cellule germinali in situ.md",
-    "Zettelkasten/Tumore spermatocitico.md",
-    "Zettelkasten/Tumore del sacco vitellino.md",
-    "Zettelkasten/Teratoma.md",
-    "Zettelkasten/Sindrome di Turner.md",
-    "Zettelkasten/Scroto.md",
-    "Zettelkasten/Interleuchina 8.md",
     "Condivisi/AnatPatBruno/Tratto gastrointestinale",
     "Condivisi/AnatPatBruno",
     "Files/Trasporti nelle porzioni del tubulo renale.png",

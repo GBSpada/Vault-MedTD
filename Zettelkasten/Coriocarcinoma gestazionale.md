@@ -16,7 +16,6 @@ sistema/apparato:
 - Prima di iniziare leggi: [[Utero#Malattie trofoblastiche gestazionali]]
 
 
-## Uterino
 
 ![](https://i.imgur.com/MPG1xoy.png)
 
@@ -27,18 +26,6 @@ sistema/apparato:
 	- ==Gruppi di cellule neoplastiche sono frequentemente rilevabili in sede endovascolare==, a testimonianza della **spiccata angiofilia** di questo tumore. 
 - Il grado di atipia e l’attività mitotica sono variabili talora molto spiccati, talaltra meno pronunciate rispetto al normale trofoblasto durante la fase di impianto. 
 - L’==assenza dei villi placentari== è uno dei più importanti criteri diagnostici per la diagnosi di coriocarcinoma
-
-
-## Testicolare
-### Epidemiologia
-- È ==molto raro==, rappresentando meno dell’1% dei tumori delle cellule germinali.
-	- Costituisce una componente dei tumori misti delle cellule germinali in circa l’8% dei casi. 
-	- La prevalenza è di 0,8 su 105 persone di sesso maschile. 
-	- Colpisce ==giovani fra i 25 e i 30 anni di età==
-### Morfologia
-- Le cellule neoplastiche sono costituite da ==sinciziotrofoblasti, citotrofoblasti e cellule trofoblastiche intermedie==.
-#### Immunoistochimica
-- Esprimono β-HCG, la subunità α della inibina, EMA, citocheratina, e localmente PLAP 
 
 
 

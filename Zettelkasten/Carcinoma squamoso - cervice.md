@@ -44,8 +44,7 @@ sistema/apparato:
 ### Istologica
 - Cellule relativamente grandi, di tipo cheratinizzante o non cheratinizzante. 
 - Nel ==5% circa dei casi==, le cellule neoplastiche mostrano una differenziazione di ==tipo neuroendocrino==
-### Biologia Molecolare
-### Radiologia
+
 ## Prognosi
 ### Estensione e metastasi
 - Il carcinoma cervicale può estendersi per propagazione diretta fino a coinvolgere le strutture contigue, come la vescica, gli ureteri, il retto e la vagina

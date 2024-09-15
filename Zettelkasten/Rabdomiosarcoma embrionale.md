@@ -13,7 +13,7 @@ sistema/apparato:
 --- 
 ## Manifestazioni e aspetto macroscopico
 - La neoplasia ==si estrinseca nella parete vaginale anteriore e può arrivare a protrudere dalla vagina stessa==
-	- Ha una consistenza molle e un aspetto polipoide, che la rende simile a un grappolo d’uva [^1]
+	- Ha una consistenza molle e un aspetto polipoide
 ## Microscopicamente
 - **Istologicamente** è costituita da ==piccole cellule con una protrusione citoplasmatica polare== che le fa assomigliare a una racchetta da tennis.
 	- **Al di sotto dell’epitelio** vaginale le ==cellule neoplastiche sono addensate, costituendo== il cosiddetto “*strato cambiale*”

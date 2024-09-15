@@ -134,7 +134,7 @@ sistema/apparato:
 	- I **tumori secondari** sono quelli che metastatizzano all’ovaio da neoplasie primarie extraovariche.
 		- In questa categoria vanno compresi anche i tumori che si estendono alle ovaie direttamente da organi adiacenti
 #### Tumori primitivi
-##### Neoplasie epiteliali - ovaio
+##### Neoplasie epiteliali
 - Rappresentano il ==60% delle neoplasie ovariche==. 
 	- Colpiscono sia le donne in età riproduttiva sia quelle in età avanzata.
 - **Derivano** dall’==epitelio di superficie ovarico== di origine mesoteliale e dal ==sottostante stroma== ovarico.
@@ -222,7 +222,7 @@ sistema/apparato:
 		- Altri sintomi di questi tumori possono essere quelli legati alla **presenza di una massa pelvica** associata o meno ad algie addominali: in tal caso il tumore è solitamente palpabile all’esame pelvico.
 		- In un ==10% dei casi== il tumore può andare incontro a ==rottura con conseguente emoperitoneo==. 
 	- Nel 10% dei casi il tumore ==può invece non evidenziarsi fino a quando l’ovaio non viene sezionato
-- Dal 10 al 50% dei casi, il tumore a cellule della granulosa **va incontro a recidive**, alcune di queste possono essere talmente tardive da comparire anche 20-30anni dopo l’iniziale diagnosi. 
+- Dal 10 al 50% dei casi, il tumore a cellule della granulosa **va incontro a recidive**, alcune di queste possono essere talmente tardive da comparire anche 20-30 anni dopo l’iniziale diagnosi. 
 - Il ==fattore prognostico più importante è lo stadio della malattia==.
 ###### [[Tumore a cellule della granulosa]]
 ###### [[Fibroma]]

@@ -30,7 +30,7 @@ sistema/apparato:
 
 #### [[Malattia infiammatoria pelvica]] 
 ### Salpingite istimica nodosa
-- Analoga all'[[Utero#Endometriosi e adenomiosi]]
+- Analoga all'[[Endometriosi]]
 	- Stroma citogeno e ghiandole endometriali a livello della parete tubarica.
 - Conseguenze della salpingite istmica nodosa sono l’infertilità e un maggiore rischio di gravidanza ectopica. 
 - È stata osservata una sua associazione con la salpingite cronica.

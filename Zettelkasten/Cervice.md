@@ -58,7 +58,7 @@ sistema/apparato:
 
 FONDAMENTALE TENERLA A MENTE NELLA DIAGNOSI DIFFERENZIALE DI ADENOCARCINOMA
 
-### Neoplasie maligne
+
 ### Neoplasie maligne intraepiteliali
 #### Fisiopatologia e rapporto con classificazione
 ##### Dalla Displasia al Carcinoma Invasivo
@@ -94,7 +94,7 @@ La progressione verso il carcinoma invasivo è influenzata da:
 
 #### Diagnosi
 - La neoplasia intraepiteliale cervicale ==non è visibile a occhio nudo==, tranne rare lesioni cheratinizzate.
-- La diagnosi avviene tramite ==screening citologico== (Pap test[^2]) con prelievo di cellule dalla ==giunzione squamo-colonnare, sede di origine della neoplasia==.
+- La diagnosi avviene tramite ==screening citologico== (Pap test) con prelievo di cellule dalla ==giunzione squamo-colonnare, sede di origine della neoplasia==.
 	- La classificazione citologica si basa sul [[Pap Test e bethesda system]] (2001).
 - In caso di anomalie, si procede con la *colposcopia*, che evidenzia le lesioni tramite ==acido acetico== e ne permette la ==biopsia mirata==.
 	- La colposcopia valuta anche la topografia, i rapporti con la giunzione squamo-colonnare e l'estensione della lesione.
@@ -106,8 +106,6 @@ La progressione verso il carcinoma invasivo è influenzata da:
 	- **Lesioni ad alto rischio**:
 		- Trattamento con conizzazione per la valutazione istologica.
 		- L'asportazione ha un successo tra 80% e 97%. 
-
-
 
 
 ### Neoplasie invasive

@@ -164,7 +164,7 @@ sistema/apparato:
 			- Nelle lesioni ad alto grado si sono raccolte le restanti lesioni VIN II e tutte le lesioni VIN III.
 		- ==Nella vulva== è stata ==aggiunta== anche, come precursore, la “*neoplasia vulvare intraepiteliale di tipo differenziato*”.
 			- Capace di maturare alla base dell’epitelio pavimentoso, ma soprattutto ==non correlata con una precedente infezione da HPV==, come invece è la norma nelle due precedenti. 
-			- È stata raccolta sotto questa terminologia una serie di definizioni come *iperplasia atipica, displasia, malattia di Bowen, eritroplasia di Queyrat, carcinoma in situ, carcinoma in situ di tipo simplex, carcinoma intraepiteliale.*
+		- È stata raccolta sotto questa terminologia una serie di definizioni come *iperplasia atipica, displasia, malattia di Bowen, eritroplasia di Queyrat, carcinoma in situ, carcinoma in situ di tipo simplex, carcinoma intraepiteliale.*
 - **Istologicamente**, tali lesioni sono caratterizzate da 
 	- ==Vari gradi di perdita della normale maturazione dell’epitelio==
 	- Si osservano dei cheratinociti con un aumentato rapporto nucleo-citoplasma
@@ -182,9 +182,9 @@ sistema/apparato:
 	- A differenza dei carcinomi squamocellulari, che insorgono in altri distretti corporei, il carcinoma della vulva ha una **prognosi spesso sfavorevole**
 		- Sia perché ==in genere è diagnosticato in fasi avanzate== nonostante sia un tumore di superficie, 
 		- Sia a causa del ==ricco drenaggio linfatico locale, che facilita le metastasi== nei linfonodi omo- e controlaterali inguinofemorali.
-### [[Carcinoma squamoso - vulva]]
-### [[Adenocarcinoma - vulva]]
-### [[Melanoma]]
+#### [[Carcinoma squamoso - vulva]]
+#### [[Adenocarcinoma - vulva]]
+#### [[Melanoma]]
 
 
 

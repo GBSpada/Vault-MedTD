@@ -73,8 +73,6 @@ sistema/apparato:
 - Rivste la superficie del *muso di tinca (o ectocervice)*
 	- ![](https://i.imgur.com/wwNilWT.png)
 	- Fa seguito a quella endocervicale a livello dell'orifizio esterno dell'utero e riveste la porzione vaginale
-
-
 - **Epitelio pavimentoso composto**
 	- Ricco di glicogeno (vedi vagina)
 - **Lamina propria**
@@ -256,7 +254,7 @@ sistema/apparato:
 - Le lesioni neoplastiche primitive del corpo-fondo uterino comprendono i tumori epiteliali, i tumori mesenchimali e misti, i tumori del trofoblasto, i linfomi e le leucemie e i tumori miscellanei. 
 - ==Nella maggior parte dei casi==, tuttavia, si osservano tumori epiteliali, prevalentemente ==adenocarcinomi==
 ### Tumori epiteliali
-[[Adenocarcinoma endometriale]]
+[[adenocarcinoma - utero]]
 ### Tumori misti
 [[Carcinosarcoma - utero]]
 ### Tumori mesenchimali
@@ -270,7 +268,7 @@ sistema/apparato:
 		- In rari casi può
 			- Colpire anche il sesso maschile
 			- Insorgere in sedi diverse dall’utero, senza alcuna correlazione con una gravidanza in atto o pregressa.
-		- Si parla di [[Coriocarcinoma non gestazionale]]
+				- Si parla di [[Coriocarcinoma non gestazionale]]
 	- il tumore trofoblastico del sito placentare;
 	- il tumore trofoblastico epitelioide;
 	- un gruppo miscellaneo di condizioni, spesso reperti del tutto accidentali, quali 
@@ -311,7 +309,6 @@ sistema/apparato:
 	- ==Responsabile dell’iperemesi== comunemente riferita da queste donne.
 	- Alla base della formazione di *cisti ovariche luteiniche*
 #### Ecografica
-
 - La diagnosi di queste patologie si avvale, oltre che del dosaggio della β- hCG, anche dell’**ecografia sovrapubica o transvaginale**.
 	- In particolare, nel caso della **mola**, le caratteristiche ecografiche variano **a seconda dell’epoca gestazionale**.
 		- Le mole idatiformi, che si manifestano ==dall’8ª alla 12ª settimana== appaiono sotto forma di una ==massa intracavitaria omogeneamente ecogenica== per la presenza, in questo stadio, di villi piccoli del diametro mediamente intorno ai 2 mm

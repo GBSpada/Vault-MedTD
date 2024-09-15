@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Risorse/Apparato genitale femminile.md",
+                "file": "Risorse/Apparato genitale maschile.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "ba125c8a085f21d0",
+            "id": "6151a3dc8e5ef258",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Vulva.md",
+                "file": "Zettelkasten/Prostata.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "2783a336a47900d8",
+            "id": "750750feaf6a0383",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Carcinoma squamoso - vulva.md",
+                "file": "Zettelkasten/Testicolo.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Carcinoma squamoso - vulva.md",
+                "file": "Zettelkasten/Prostata.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Carcinoma squamoso - vulva.md",
+                "file": "Zettelkasten/Prostata.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/Carcinoma squamoso - vulva.md"
+                "file": "Zettelkasten/Prostata.md"
               }
             }
           },
@@ -216,8 +216,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 331.5,
-    "collapsed": true
+    "width": 308.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -237,34 +236,36 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2783a336a47900d8",
+  "active": "6151a3dc8e5ef258",
   "lastOpenFiles": [
-    "Zettelkasten/Vulva.md",
-    "Zettelkasten/Carcinoma squamoso - vulva.md",
-    "Risorse/Apparato genitale femminile.md",
-    "Zettelkasten/Ciclo mestruale.md",
     "Zettelkasten/Testicolo.md",
-    "Zettelkasten/Ovaio.md",
-    "Condivisi/AnatPatBruno/Tratto gastrointestinale/Tumori del canale anale.md",
-    "Condivisi/AnatPatBruno/Tratto gastrointestinale/Tratto gastrointestinale.md",
-    "Condivisi/AnatPatBruno/Tratto gastrointestinale/Carcinoma colorettale.md",
-    "Condivisi/AnatPatBruno/Tratto gastrointestinale/Neoplasie dell'intestino crasso.md",
-    "Condivisi/AnatPatBruno/Tratto gastrointestinale/Rettocolite ulcerosa.md",
-    "Condivisi/AnatPatBruno/Tratto gastrointestinale/Morbo di Chron.md",
-    "Condivisi/AnatPatBruno/Tratto gastrointestinale/Malattia celiaca.md",
-    "Condivisi/AnatPatBruno/Tratto gastrointestinale/Ulcera peptica gastrica e duodenale.md",
-    "Condivisi/AnatPatBruno/Tratto gastrointestinale/Gastrite.md",
-    "Condivisi/AnatPatBruno/Tratto gastrointestinale/Adenocarcinoma dell'esofago.md",
-    "Condivisi/AnatPatBruno/Tratto gastrointestinale/Esofago di Barret.md",
-    "Zettelkasten/Malattie neoplastiche.md",
-    "Zettelkasten/Fisiologia gastrointestinale e nutrizione umana.md",
-    "Condivisi/AnatPatBruno/Tratto gastrointestinale/Diverticoli.md",
-    "Condivisi/AnatPatBruno/Tratto gastrointestinale/Ernia iatale.md",
-    "Condivisi/AnatPatBruno/Tratto gastrointestinale/Stomaco.md",
-    "Condivisi/AnatPatBruno/Tratto gastrointestinale/Intestino crasso - Istologia.md",
-    "Condivisi/AnatPatBruno/Tratto gastrointestinale/Intestino tenue - Istologia.md",
+    "Risorse/Apparato genitale maschile.md",
     "Zettelkasten/Prostata.md",
+    "Zettelkasten/Scroto.md",
     "Zettelkasten/Pene.md",
+    "Zettelkasten/Carcinoma squamocellulare - pene.md",
+    "Risorse/Apparato genitale femminile.md",
+    "Zettelkasten/Ovaio.md",
+    "Zettelkasten/Tumore a cellule del Sertoli-Leydig.md",
+    "Zettelkasten/Tumore a cellule del Sertoli.md",
+    "Zettelkasten/Tecoma.md",
+    "Zettelkasten/Fibroma.md",
+    "Zettelkasten/Tumore a cellule della granulosa.md",
+    "Zettelkasten/Teratoma.md",
+    "Zettelkasten/Coriocarcinoma non gestazionale.md",
+    "Zettelkasten/Carcinoma embrionale.md",
+    "Zettelkasten/Tumore del sacco vitellino.md",
+    "Zettelkasten/Disgerminoma.md",
+    "Zettelkasten/Tumori di tipo indifferenziato - ovaio.md",
+    "Zettelkasten/Tumori di tipo siero-mucinoso - ovaio.md",
+    "Zettelkasten/Tumori a cellule transizionali - ovaio.md",
+    "Zettelkasten/Tumori a cellule chiare - ovaio.md",
+    "Zettelkasten/Tumori di tipo endometrioide - ovaio.md",
+    "Zettelkasten/Tumori di tipo mucinoso - ovaio.md",
+    "Zettelkasten/Tumori di tipo sieroso - ovaio.md",
+    "Zettelkasten/Endometriosi.md",
+    "Condivisi/AnatPatBruno/Respiratorio/drive-download-20240914T162932Z-001.zip",
+    "Condivisi/AnatPatBruno/Respiratorio",
     "Condivisi/AnatPatBruno/Tratto gastrointestinale",
     "Condivisi/AnatPatBruno",
     "Files/Trasporti nelle porzioni del tubulo renale.png",
@@ -279,12 +280,10 @@
     "Libri",
     "Files/LEZIONE 21 - ANGELONE.pdf",
     "Files/LEZIONE 20 - ANGELONE.pdf",
-    "Files/pancreas endocrino.pdf",
     "Files/Fattori coagulazione.png",
     "Zettelkasten/Emostasi.canvas",
     "Files/Cascata coagulativa.png",
     "Zettelkasten/Fisiologia Digerente.canvas",
-    "Files/Patologia Clinica II - Catalano.pdf",
     "Zettelkasten/Metabolismo lipoproteine.canvas",
     "Files/Pasted image 20240215211857.png",
     "Files/Pasted image 20240215203800.png",

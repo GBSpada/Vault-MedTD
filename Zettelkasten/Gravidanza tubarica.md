@@ -34,8 +34,7 @@ sistema/apparato:
 	- Questo, qualora evidenziabile, appare in genere scarsamente attaccato alla parete. È sempre ==utile eseguire un attento campionamento della parete tubarica per dimostrare la presenza di trofoblasto== così da confermare la sede ectopica della gravidanza.
 ### Istologica
 
- 
-- All’esame istologico la ==morfologia dei villi== placentari ==ricorda== quella che si osserva nel ==materiale abortivo intrauterino==. 
+- All’esame istologico la ==morfologia dei villi== placentari ==ricorda== quella che si osserva nel ==materiale abortivo intrauterino==
 - Frequente l’osservazione a livello dei villi di alterazioni post-mortem quali la degenerazione idropica, che non deve far ritenere che ci si trovi di fronte a una gravidanza [[Mola idatiforme|molare]].
 - La **risposta della parete salpingea** in caso di una gravidanza tubarica comprende
 	- Reazione deciduale con foci caratterizzati da reazione di Arias-Stella in risposta ai cambiamenti ormonali 
@@ -43,11 +42,9 @@ sistema/apparato:
 
 
 >[!info]] [[Reazione deciduale#Reazione di Arias Stella]]
- 
+
 ^70c2bc
 
-### Biologia Molecolare
-### Radiologia
 ## Trattamento
 Generalmente **chirurgico** (==rimozione del sacco gestazionale o della tuba coinvolta==) per lo più per via laparoscopica, ma ==in casi selezionati il trattamento medico con metotrexato può rappresentare una valida alternativa==. 
 - Va sottolineato che ==circa un quarto delle gravidanze tubariche si risolve spontaneamente== e il *trattamento osservazionale* è un valido management.

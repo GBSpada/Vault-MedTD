@@ -18,7 +18,7 @@ sistema/apparato:
 		- Essa ==si manifesta in donne giovani== (età media al momento della diagnosi: 17 anni) ==le cui madri sono state trattate con== *dietilstilbestrolo (DES) durante la gravidanza*.
 		- Lo sviluppo di questa neoplasia interessa circa ==1 su 1000 giovani donne esposte a estrogeni di sintesi durante la vita intrauterina==. 
 	- **Altre forme** di adenocarcinoma vaginale (endometrioide, endocervicale, intestinale) sono state descritte in letteratura, ma rappresentano delle ==rarità assolute==.
-## Morfologia e patogenei
+## Morfologia e patogenesi
 - La neoplasia insorge nella porzione anterosuperiore della vagina, sotto forma di una ==massa esofitica che può raggiungere dimensioni ragguardevoli==.
 - **Istologicamente** si tratta di ==cellule vacuolate contenenti glicogeno==.
 	- Possono essere presenti alterazioni nucleari di grado variabile

@@ -20,7 +20,7 @@ sistema/apparato:
 ## Fisiopatologia
 - Si ritiene che questi tumori **originino** o 
 	- Dall’==epitelio celomatico== di superficie ovarico
-		- *Resodio di Walthard*
+		- *Residui di Walthard*
 	- Oppure da ==inclusioni corticali== che sono andate incontro a ==metaplasia transizionale==. 
 - Dato che l’==abbozzo delle gonadi è contiguo al mesonefro==, parte del quale forma la vescica, e che ==entrambi sono coperti da uno strato continuo mesoteliale==, non sorprende che nell’epitelio delle gonadi possa verificarsi una metaplasia transizionale. 
 - Evidenze sperimentali accomunano i tumori di Brenner (benigni, borderline e maligni), ma non il carcinoma transizionale ovarico, alle neoplasie uroteliali.

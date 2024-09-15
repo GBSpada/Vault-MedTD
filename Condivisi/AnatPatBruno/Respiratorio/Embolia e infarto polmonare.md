@@ -125,7 +125,7 @@ Tag: #Patologia #Anatomiapatologica #ApparatoRespiratorio
 - In seguito a rottura delle membrane e parziale distacco di placenta
 - Le *contrazioni uterine* favoriscono il passaggio di liquido amniotico nel plesso venoso uterino
 #### Emboli trofoblastici
-- Possono presentarsi in pazienti con ==neoplasia trofoblastica==
+- Possono presentarsi in pazienti con ==neoplasia trofoblastica== ([[Utero#Malattie trofoblastiche gestazionali]])
 #### Altri emboli
 - Provenienza
 	- tessuto nervoso

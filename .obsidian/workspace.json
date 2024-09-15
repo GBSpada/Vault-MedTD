@@ -11,11 +11,30 @@
             "id": "a34502707d3212ef",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Condivisi/AnatPatBruno/Cute/Cute.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "417e2028eb578bcc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Condivisi/AnatPatBruno/Cute/Melanoma.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,6 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Condivisi/AnatPatBruno/Cute/Melanoma.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,6 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Condivisi/AnatPatBruno/Cute/Melanoma.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -144,7 +165,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Condivisi/AnatPatBruno/Cute/Melanoma.md"
+              }
             }
           },
           {
@@ -200,34 +223,36 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a34502707d3212ef",
+  "active": "417e2028eb578bcc",
   "lastOpenFiles": [
-    "Risorse/Apparato genitale maschile.md",
-    "Zettelkasten/Prostata.md",
-    "Zettelkasten/Testicolo.md",
-    "Zettelkasten/Tumori delle cellule del Sertoli.md",
-    "Zettelkasten/Tumori delle cellule di Leyidig.md",
-    "Zettelkasten/Coriocarcinoma non gestazionale.md",
-    "Zettelkasten/Coriocarcinoma gestazionale.md",
-    "Zettelkasten/Tumore del sacco vitellino.md",
-    "Zettelkasten/Teratoma.md",
-    "Zettelkasten/Carcinoma embrionale.md",
-    "Zettelkasten/Seminoma.md",
-    "Zettelkasten/Neoplasia delle cellule germinali in situ.md",
-    "Zettelkasten/Criptorchidismo.md",
-    "Zettelkasten/Scroto.md",
-    "Zettelkasten/Pene.md",
-    "Zettelkasten/Carcinoma squamocellulare - pene.md",
-    "Risorse/Apparato genitale femminile.md",
-    "Zettelkasten/Ovaio.md",
-    "Zettelkasten/Tumore a cellule del Sertoli-Leydig.md",
-    "Zettelkasten/Tumore a cellule del Sertoli.md",
-    "Zettelkasten/Tecoma.md",
-    "Zettelkasten/Fibroma.md",
-    "Zettelkasten/Tumore a cellule della granulosa.md",
-    "Zettelkasten/Disgerminoma.md",
-    "Zettelkasten/Tumori di tipo indifferenziato - ovaio.md",
-    "Zettelkasten/Tumori di tipo siero-mucinoso - ovaio.md",
+    "Condivisi/AnatPatBruno/Cute/Melanoma.md",
+    "Condivisi/AnatPatBruno/Cute/Cute.md",
+    "Condivisi/AnatPatBruno/Cute/Nevi.md",
+    "Condivisi/AnatPatBruno/Cute/Glossario cute.md",
+    "Condivisi/AnatPatBruno/Respiratorio/Vie aeree.md",
+    "Condivisi/AnatPatBruno/Cute/Albinismo.md",
+    "Condivisi/AnatPatBruno/Cute/Carcinoma a cellule di Merkel (carcinoma neuroendocrino primitivo cutaneo).md",
+    "Condivisi/AnatPatBruno/Cute/Carcinoma basocellulare.md",
+    "Condivisi/AnatPatBruno/Cute/Carcinoma squamocellulare (tegumento).md",
+    "Condivisi/AnatPatBruno/Cute/Cheratosi attinica.md",
+    "Condivisi/AnatPatBruno/Cute/Cheratosi seborroica.md",
+    "Condivisi/AnatPatBruno/Cute/Dermatite allergica da contatto.md",
+    "Condivisi/AnatPatBruno/Cute/Dermatite erpetiforme o di Duhring.md",
+    "Condivisi/AnatPatBruno/Cute/Epidermide.md",
+    "Condivisi/AnatPatBruno/Cute/Eritema polimorfo (o multiforme).md",
+    "Condivisi/AnatPatBruno/Cute/Lichen planus.md",
+    "Condivisi/AnatPatBruno/Cute/Malattia di Bowen.md",
+    "Condivisi/AnatPatBruno/Cute/Malattia di Paget extramammaria.md",
+    "Condivisi/AnatPatBruno/Cute/Pemfigo.md",
+    "Condivisi/AnatPatBruno/Cute/Psoriasi.md",
+    "Condivisi/AnatPatBruno/Cute/drive-download-20240915T155301Z-001.zip",
+    "Condivisi/AnatPatBruno/Cute",
+    "Condivisi/AnatPatBruno/Respiratorio/Mesotelioma maligno.md",
+    "Condivisi/AnatPatBruno/Respiratorio/Pleuriti.md",
+    "Condivisi/AnatPatBruno/Respiratorio/Sarcoidosi.md",
+    "Condivisi/AnatPatBruno/Respiratorio/Polmoniti interstiziali idiopatiche.md",
+    "Condivisi/AnatPatBruno/Respiratorio/Tubercolosi polmonare.md",
+    "Condivisi/AnatPatBruno/Respiratorio/Polmoniti infettive.md",
     "Condivisi/AnatPatBruno/Respiratorio/drive-download-20240914T162932Z-001.zip",
     "Condivisi/AnatPatBruno/Respiratorio",
     "Condivisi/AnatPatBruno/Tratto gastrointestinale",
@@ -242,8 +267,6 @@
     "Files/PATOLOGIA CLINICA 1.pdf",
     "Digerente bruno",
     "Libri",
-    "Files/LEZIONE 21 - ANGELONE.pdf",
-    "Files/LEZIONE 20 - ANGELONE.pdf",
     "Files/Fattori coagulazione.png",
     "Zettelkasten/Emostasi.canvas",
     "Files/Cascata coagulativa.png",

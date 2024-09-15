@@ -4,50 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "24ec17c691c2bf55",
+        "id": "274ddfa2ea05f42b",
         "type": "tabs",
         "children": [
           {
-            "id": "38e6a85a75bfb0d1",
+            "id": "a34502707d3212ef",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Risorse/Apparato genitale maschile.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6151a3dc8e5ef258",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/Prostata.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "750750feaf6a0383",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/Testicolo.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +102,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Prostata.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +118,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Prostata.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -178,9 +144,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Zettelkasten/Prostata.md"
-              }
+              "state": {}
             }
           },
           {
@@ -236,11 +200,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6151a3dc8e5ef258",
+  "active": "a34502707d3212ef",
   "lastOpenFiles": [
-    "Zettelkasten/Testicolo.md",
     "Risorse/Apparato genitale maschile.md",
     "Zettelkasten/Prostata.md",
+    "Zettelkasten/Testicolo.md",
+    "Zettelkasten/Tumori delle cellule del Sertoli.md",
+    "Zettelkasten/Tumori delle cellule di Leyidig.md",
+    "Zettelkasten/Coriocarcinoma non gestazionale.md",
+    "Zettelkasten/Coriocarcinoma gestazionale.md",
+    "Zettelkasten/Tumore del sacco vitellino.md",
+    "Zettelkasten/Teratoma.md",
+    "Zettelkasten/Carcinoma embrionale.md",
+    "Zettelkasten/Seminoma.md",
+    "Zettelkasten/Neoplasia delle cellule germinali in situ.md",
+    "Zettelkasten/Criptorchidismo.md",
     "Zettelkasten/Scroto.md",
     "Zettelkasten/Pene.md",
     "Zettelkasten/Carcinoma squamocellulare - pene.md",
@@ -251,19 +225,9 @@
     "Zettelkasten/Tecoma.md",
     "Zettelkasten/Fibroma.md",
     "Zettelkasten/Tumore a cellule della granulosa.md",
-    "Zettelkasten/Teratoma.md",
-    "Zettelkasten/Coriocarcinoma non gestazionale.md",
-    "Zettelkasten/Carcinoma embrionale.md",
-    "Zettelkasten/Tumore del sacco vitellino.md",
     "Zettelkasten/Disgerminoma.md",
     "Zettelkasten/Tumori di tipo indifferenziato - ovaio.md",
     "Zettelkasten/Tumori di tipo siero-mucinoso - ovaio.md",
-    "Zettelkasten/Tumori a cellule transizionali - ovaio.md",
-    "Zettelkasten/Tumori a cellule chiare - ovaio.md",
-    "Zettelkasten/Tumori di tipo endometrioide - ovaio.md",
-    "Zettelkasten/Tumori di tipo mucinoso - ovaio.md",
-    "Zettelkasten/Tumori di tipo sieroso - ovaio.md",
-    "Zettelkasten/Endometriosi.md",
     "Condivisi/AnatPatBruno/Respiratorio/drive-download-20240914T162932Z-001.zip",
     "Condivisi/AnatPatBruno/Respiratorio",
     "Condivisi/AnatPatBruno/Tratto gastrointestinale",

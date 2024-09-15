@@ -214,7 +214,7 @@ sistema/apparato:
 ##### [[Carcinoma embrionale]]
 ##### [[Teratoma]]
 ##### [[Tumore del sacco vitellino]]
-##### [[Coriocarcinoma gestazionale]]
+##### [[Coriocarcinoma non gestazionale]]
 ##### [[Tumori misti delle cellule germinali]]
 ##### [[Tumore spermatocitico]]
 #### Neoplasie dei cordoni sessuali/stromali delle gonadi

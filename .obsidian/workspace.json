@@ -4,18 +4,50 @@
     "type": "split",
     "children": [
       {
-        "id": "2a32c0bff2a18870",
+        "id": "713b8d44ee9e6a16",
         "type": "tabs",
         "children": [
           {
-            "id": "eb80cbc974f16eb7",
+            "id": "9bf22698d99bafff",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Condivisi/AnatPatBruno/Pancreas/Pancreas.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f4f37fe60bc3d94b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Condivisi/AnatPatBruno/Tratto gastrointestinale/Tratto gastrointestinale.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "52e627041b321b1f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Condivisi/AnatPatBruno/Tratto gastrointestinale/Intestino tenue - Istologia.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,7 +105,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 387.51103591918945
+    "width": 387.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "4ebe4af6d516db54",
@@ -100,6 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Condivisi/AnatPatBruno/Tratto gastrointestinale/Tratto gastrointestinale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Condivisi/AnatPatBruno/Tratto gastrointestinale/Tratto gastrointestinale.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -142,7 +177,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Condivisi/AnatPatBruno/Tratto gastrointestinale/Tratto gastrointestinale.md"
+              }
             }
           },
           {
@@ -178,8 +215,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.5,
-    "collapsed": true
+    "width": 308.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,12 +235,16 @@
       "peerdraft:Show my Peerdraft Shares": false
     }
   },
-  "active": "eb80cbc974f16eb7",
+  "active": "f4f37fe60bc3d94b",
   "lastOpenFiles": [
+    "Condivisi/AnatPatBruno/Tratto gastrointestinale/Intestino tenue - Istologia.md",
+    "Condivisi/AnatPatBruno/Tratto gastrointestinale/Tratto gastrointestinale.md",
+    "Condivisi/AnatPatBruno/Pancreas/Pancreas.md",
+    "Files/Vascolarizzazione trofica del polmone.png",
+    "Files/apprendimento.pdf",
     "Condivisi/AnatPatBruno/Fegato e vie biliari/Fegato e vie biliari.md",
     "Condivisi/AnatPatBruno/Fegato e vie biliari/Concetti generali - Fegato.md",
     "Risorse/Mammella.md",
-    "Condivisi/AnatPatBruno/Tratto gastrointestinale/Tratto gastrointestinale.md",
     "Condivisi/AnatPatBruno/Tratto gastrointestinale/Tumori del canale anale.md",
     "Condivisi/AnatPatBruno/Tratto gastrointestinale/Neoplasie dell'intestino crasso.md",
     "Condivisi/AnatPatBruno/Tratto gastrointestinale/Carcinoma colorettale.md",
@@ -225,8 +265,6 @@
     "Zettelkasten/Tumore a cellule della granulosa.md",
     "Condivisi/AnatPatBruno/Cute/Glossario cute.md",
     "Files/GLOSSARIO.md",
-    "Condivisi/AnatPatBruno/Apparato cardiocircolatorio/Poliangioite granulomatosa (o granulosi di Wegener).md",
-    "Zettelkasten/Rinite allergica.md",
     "Condivisi/AnatPatBruno/Sistema endocrino",
     "Condivisi/AnatPatBruno/Apparato urinario",
     "Condivisi/AnatPatBruno/Fegato e vie biliari",
@@ -237,7 +275,6 @@
     "Condivisi/AnatPatBruno/Testa e collo",
     "Condivisi/AnatPatBruno/drive-download-20240915T211222Z-001.zip",
     "Files/Grafico Tensione-Lunghezza muscolare.png",
-    "Condivisi/AnatPatBruno/Cute/drive-download-20240915T155301Z-001.zip",
     "Files/Trasporti nelle porzioni del tubulo renale.png",
     "Files/Pasted image 20231214190821.png",
     "Files/Pasted image 20240820181305.png",
@@ -249,7 +286,6 @@
     "Files/Cascata coagulativa.png",
     "Zettelkasten/Fisiologia Digerente.canvas",
     "Zettelkasten/Metabolismo lipoproteine.canvas",
-    "Files/Pasted image 20240215211857.png",
     "Zettelkasten/Patologia clinica - Fegato.canvas",
     "Zettelkasten/Patologia clinica tiroidea.canvas",
     "Zettelkasten/Fisiologia urinario.canvas",

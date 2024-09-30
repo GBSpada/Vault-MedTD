@@ -38,4 +38,4 @@ Molecola: Vitamina
 --- 
 # Reference: 
 [[Patologia Generale - McCance]] (meccanismo d’azione)
-[[Fisiologia  - Conti Volume 2]] (aspetto nutrizionale)
+[[Fisiologia della nutrizione]] (aspetto nutrizionale)

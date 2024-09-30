@@ -8,20 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9bf22698d99bafff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Condivisi/AnatPatBruno/Pancreas/Pancreas.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f4f37fe60bc3d94b",
+            "id": "909dc5fbbd59b6d6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -34,20 +21,45 @@
             }
           },
           {
-            "id": "52e627041b321b1f",
+            "id": "e0f100329f5aadb0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Condivisi/AnatPatBruno/Tratto gastrointestinale/Intestino tenue - Istologia.md",
+                "file": "Zettelkasten/Istologia dello stomaco.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "49cc6533e252c3d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Condivisi/AnatPatBruno/Tratto gastrointestinale/Stomaco.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "30986e575839c5db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/a.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -77,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tmprs",
+                "query": "\"conti\"",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -86,7 +98,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "45ea08796f45e544",
@@ -211,7 +224,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -235,36 +248,36 @@
       "peerdraft:Show my Peerdraft Shares": false
     }
   },
-  "active": "f4f37fe60bc3d94b",
+  "active": "5e8a87031e0aee6a",
   "lastOpenFiles": [
-    "Condivisi/AnatPatBruno/Tratto gastrointestinale/Intestino tenue - Istologia.md",
+    "Condivisi/AnatPatBruno/Tratto gastrointestinale/Stomaco.md",
     "Condivisi/AnatPatBruno/Tratto gastrointestinale/Tratto gastrointestinale.md",
+    "Zettelkasten/Istologia dello stomaco.md",
+    "Zettelkasten/a.md",
+    "Zettelkasten/Untitled 3.md",
+    "Risorse/Apparato genitale maschile.md",
     "Condivisi/AnatPatBruno/Pancreas/Pancreas.md",
+    "Condivisi/AnatPatBruno/Tratto gastrointestinale/Rettocolite ulcerosa.md",
+    "Zettelkasten/Emoagglutinina.md",
+    "Condivisi/AnatPatBruno/Apparato locomotore/Sarcoma di Kaposi.md",
+    "Zettelkasten/Fisiologia della nutrizione.md",
+    "Zettelkasten/T3 e T4.md",
+    "Zettelkasten/Vitamina E.md",
+    "Zettelkasten/Vitamina K.md",
+    "Zettelkasten/Vitamina D - Colecalciferolo.md",
+    "Zettelkasten/Trasportatori del glucosio (GLUT).md",
+    "Zettelkasten/biochimica 13.md",
+    "Zettelkasten/Motilità del sistema gastrointestinale.md",
+    "Zettelkasten/Sistema nervoso enterico.md",
+    "Zettelkasten/Digestione e assorbimento.md",
+    "Zettelkasten/Fisiologia gastrointestinale e nutrizione umana.md",
+    "Risorse/Fisiologia  - Conti Volume 2.md",
+    "Zettelkasten/Secrezioni del sistema gastrointestinale.md",
+    "Templates/Idea core.md",
+    "Condivisi/AnatPatBruno/Tratto gastrointestinale/Intestino tenue - Istologia.md",
+    "Risorse/Apparato genitale femminile.md",
     "Files/Vascolarizzazione trofica del polmone.png",
     "Files/apprendimento.pdf",
-    "Condivisi/AnatPatBruno/Fegato e vie biliari/Fegato e vie biliari.md",
-    "Condivisi/AnatPatBruno/Fegato e vie biliari/Concetti generali - Fegato.md",
-    "Risorse/Mammella.md",
-    "Condivisi/AnatPatBruno/Tratto gastrointestinale/Tumori del canale anale.md",
-    "Condivisi/AnatPatBruno/Tratto gastrointestinale/Neoplasie dell'intestino crasso.md",
-    "Condivisi/AnatPatBruno/Tratto gastrointestinale/Carcinoma colorettale.md",
-    "Condivisi/AnatPatBruno/Tratto gastrointestinale/Morbo di Chron.md",
-    "Condivisi/AnatPatBruno/Tratto gastrointestinale/Rettocolite ulcerosa.md",
-    "Condivisi/AnatPatBruno/Tratto gastrointestinale/Malattia celiaca.md",
-    "Condivisi/AnatPatBruno/Tratto gastrointestinale/Carcinoma della giunzione gastroesofagea.md",
-    "Condivisi/AnatPatBruno/Tratto gastrointestinale/Carcinoma gastrico.md",
-    "Condivisi/AnatPatBruno/Tratto gastrointestinale/Ulcera peptica gastrica e duodenale.md",
-    "Condivisi/AnatPatBruno/Tratto gastrointestinale/Gastrite.md",
-    "Condivisi/AnatPatBruno/Tratto gastrointestinale/Esofago di Barret.md",
-    "Zettelkasten/Carcinoma della mammella.md",
-    "Zettelkasten/Carcinoma tubulare - mammella.md",
-    "Zettelkasten/Carcinoma lobulare invasivo - mammella.md",
-    "Condivisi/AnatPatBruno/Testa e collo/Testa e collo.md",
-    "Condivisi/AnatPatBruno/Testa e collo/Neoplasie maligne delle ghiandole salivari.md",
-    "Zettelkasten/Tecoma.md",
-    "Zettelkasten/Tumore a cellule della granulosa.md",
-    "Condivisi/AnatPatBruno/Cute/Glossario cute.md",
-    "Files/GLOSSARIO.md",
     "Condivisi/AnatPatBruno/Sistema endocrino",
     "Condivisi/AnatPatBruno/Apparato urinario",
     "Condivisi/AnatPatBruno/Fegato e vie biliari",

@@ -27,5 +27,7 @@
   "quick-latex",
   "peerdraft",
   "copilot",
-  "obsidian-linter"
+  "obsidian-linter",
+  "obsidian-heading-shifter",
+  "heading-level-indent"
 ]

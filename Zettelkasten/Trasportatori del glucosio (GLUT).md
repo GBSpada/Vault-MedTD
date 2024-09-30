@@ -1,6 +1,12 @@
+---
+stato: 
+tags: 
+sistema/apparato:
+---
 07-02-2023 12:14
-Stato: #ideaL
-Tag: #Biochimica #Fisiologia 
+
+--- 
+
 
 ## GLUT-1
 In tutti i tessuti
@@ -12,3 +18,10 @@ Neuroni
 Muscolo e tessuto adiposo
 ## GLUT-5
 Responsabile del trasporto del fruttosio
+
+
+
+--- 
+# Reference:
+[[Fisiologia della nutrizione]]
+[[Biochimica- Sbobine Dolce]]

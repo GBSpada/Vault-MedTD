@@ -3,8 +3,46 @@ Stato: #Idealibro
 Tag: #ApparatoDigerente 
 
 ---
-S
+# Fisiologia
+## [[Fisiologia della nutrizione]]
+## [[Sistema nervoso enterico]]
+## [[Motilità del sistema gastrointestinale]]
+## [[Secrezioni del sistema gastrointestinale]]
+## [[Digestione e assorbimento]]
 
+# Distretti
+## Esofago
+### Patologia
+#### Patologia non neoplastica
+##### Anomalie congenite
+##### Patologie da alterazioni motorie
+ ![Esofago, principali lesioni congenite e motorie dell’esofago, schema grafico](https://i.imgur.com/7t7yezG.png)
+###### [[Diverticoli]]
+###### [[Ernia iatale]]
+##### Patologia infiammatoria
+###### Malattia da reflusso gastroesofageo
+
+###### [[Esofago di Barret|Metaplasia colonnare (esofago di Barret)]]
+###### Esofagiti infettive e da agenti esogeni
+
+#### Patologia neoplastica
+##### Tumori epiteliali benigni
+
+##### Tumori epiteliali maligni
+
+###### [[Carcinoma squamoso dell'esofago|Carcinoma squamoso]]
+###### [[Adenocarcinoma dell'esofago|Adenocarcinoma]]
+##### Tumori non epiteliali
+
+## Stomaco
+### Anatomia 
+
+### [[Istologia dello stomaco]]
+### Patologia
+## Intestino 
+### Tenue
+### Crasso
+## Canale anale
 # Istologia
 ## Intestino
 ### [[Intestino tenue - Istologia|Intestino tenue]]
@@ -15,26 +53,6 @@ S
 ## [[Intestino crasso - Anatomia|Intestino crasso]]
 # Anatomia patologica
 ## Patologia dell'esofago
-### Patologia non neoplastica
-#### Anomalie congenite
-#### Patologie da alterazioni motorie
-- ![Esofago, principali lesioni congenite e motorie dell’esofago, schema grafico](https://i.imgur.com/7t7yezG.png)
-##### [[Diverticoli]]
-##### [[Ernia iatale]]
-#### Patologia infiammatoria
-##### Malattia da reflusso gastroesofageo
-
-##### [[Esofago di Barret|Metaplasia colonnare (esofago di Barret)]]
-##### Esofagiti infettive e da agenti esogeni
-
-### Patologia neoplastica
-#### Tumori epiteliali benigni
-
-#### Tumori epiteliali maligni
-
-##### [[Carcinoma squamoso dell'esofago|Carcinoma squamoso]]
-##### [[Adenocarcinoma dell'esofago|Adenocarcinoma]]
-#### Tumori non epiteliali
 ## Patologia dello stomaco
 ### Patologia non neoplastica
 #### [[Gastrite]]

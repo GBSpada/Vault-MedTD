@@ -184,6 +184,7 @@ Tag: #Anatomia #ApparatoDigerente
 - Contatti
 	- testa del pancreas (posteriormente)
 	- lobo quadrato del fegato (anteriormente)
+
 ## Mezzi di fissità e comportamento del peritoneo
 >[!warning]
 > Lo stomaco è un **organo intraperitoneale**, localizzato all'interno della cavità peritoneale e ricoperto dalla tonaca sierosa parietale.
@@ -266,6 +267,7 @@ Tag: #Anatomia #ApparatoDigerente
 					- [[Stomaco#Legamento gastrosplenico|legamento gastrosplenico]]
 					- seconda parte tra milza e parete posteriore dell'addome
 		3. al termina della rotazione, si viene a formare la *borsa omentale* (al di dietro dello stomaco)
+
 ## Configurazione interna
 - La superficie interna ha un *colore grigio roseo*, che diviene più rosso durante la digestione, in seguito al maggiore afflusso di sangue
 	- ne cadavere, a seguito dell'azione del succo gastrico, assume una ==colorazione grigio-bruna==
@@ -306,6 +308,7 @@ Tag: #Anatomia #ApparatoDigerente
 		- lato gastrico che sale gradualmente
 		- lato duodenale che cade bruscamente verso la superficie intestinale
 - ![Configurazione interna del piloro](https://i.imgur.com/v2rSf7U.png)
+
 ## Vasi e nervi
 - ![Arterie gastriche](https://i.imgur.com/OBHyvcw.png)
 - ![Stomaco, innervazione](https://i.imgur.com/riJBp8X.jpg)
@@ -505,5 +508,6 @@ Tag: #Anatomia #ApparatoDigerente
 
 
 ---
+
 # Reference
 [[Tratto gastrointestinale]]

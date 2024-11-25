@@ -122,7 +122,7 @@ Tag: #ApparatoCardiocircolatorio #Anatomiapatologica #Patologia
 		- [[Herpesvirus#Citomegalovirus|Citomegalovirus]]
 		- [[Herpesvirus#Virus della varicella e dell'*herpes zoster*|Varicella-zoster]]
 	- [[Rickettsie]]
-	- [[Le spirochete|Spirochete]] (sifilide da [[Treponema Pallidum]] - stadio terziario della malattia)
+	- [[Spirochete|Spirochete]] (sifilide da [[Treponema Pallidum]] - stadio terziario della malattia)
 - In alcune infezioni virali, nel siero e nelle lesioni vasali sono evidenti immunocomplessi:
 	- es. vasculiti associate a [[Epatiti|epatite]]
 		- complesso *HBsAg-antiHB-sAg* nella [[Poliarterite nodosa (PAN)|PAN]]

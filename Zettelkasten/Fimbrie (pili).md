@@ -10,7 +10,7 @@ Tag: #Microbiologia
 - Alcuni carboidrati recettoriali sono in grado di saturare la capacità dei batteri di aderire alle membrane
 	- Sulla base degli zuccheri in grado di generare questo fenomeno distinguiamo vai tipi di fimbrie
 ## Curli
-- Presenti in alcune [[Enterobacteriaceae]] (batteri gram negativi che albergano nel tratto digestivo)
+- Presenti in alcuni [[Enterobatteri]] (batteri gram negativi che albergano nel tratto digestivo)
 	- Proteine amiloidi, permettono l'adesione a numerose superfici e sono implicate nella formazione di biofilm
 	- I loro monomeri sono tossici
 ## Pili F 

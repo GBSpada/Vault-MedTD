@@ -1,5 +1,5 @@
 {
-  "openAIApiKey": "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",
+  "openAIApiKey": "enc_djEx1aJWVD0epCuyEHhib6BWA9h85sg+/z6B5HAveNRGL+w8SN9B9d6uAPJ6XU+r0X/5tcegVwYgM3wjekmIxwrsMg==",
   "openAIOrgId": "",
   "huggingfaceApiKey": "",
   "cohereApiKey": "",
@@ -9,7 +9,7 @@
   "azureOpenAIApiDeploymentName": "",
   "azureOpenAIApiVersion": "",
   "azureOpenAIApiEmbeddingDeploymentName": "",
-  "googleApiKey": "AIzaSyCFTa9f_8MBslJD97oqJXk6CXyVWo33iVs",
+  "googleApiKey": "enc_djEx98IjW9cfUSJKY7vJCDmmMIVHb+LD3A2MM8u1jvzObrbzOqp5R1NSR2fRRroRsipc",
   "openRouterAiApiKey": "",
   "defaultModelKey": "gemini-1.5-pro|google",
   "embeddingModelKey": "text-embedding-3-small|openai",

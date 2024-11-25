@@ -72,7 +72,7 @@ sistema/apparato: CardioCircolatorio
 ##### Cause
 ###### [[Filiariosi]]
 - Fibrosi massiccia dei vasi linfatici e dei linfonodi inguinali provoca edema dei genitali esterni e degli arti inferiori: *elefantiasi*
-###### [[Cancro della mammella]]
+###### [[Carcinoma della mammella]]
 - Grave edema degli arti superiori
 	- Può complicare l'asportazione chirurgica e l'irradiazione
 

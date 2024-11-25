@@ -4,7 +4,7 @@ Tag: #Microbiologia
 
 -  Le spore sono facilmente evidenziabili al microscopio ottico 
 	- Corpicciolo ==rifrangente== e ==incolore== all'interno del batterio
-- Nei bacillus il diametro della spora non eccede quello della cellula batterica, nei [[I batteri anaerobi obbligati - Clostridi|clostridium]] si e la cellula appare ingrossata in sua corrispondenza
+- Nei bacillus il diametro della spora non eccede quello della cellula batterica, nei [[Clostridi|clostridium]] si e la cellula appare ingrossata in sua corrispondenza
 ## Ultrastruttura
 ![Ultrastruttura di una spora batterica](https://i.imgur.com/oNLNzEJ.png)
 ### Struttura interna vegetativa

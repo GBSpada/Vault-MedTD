@@ -23,8 +23,8 @@ Tag: #Microbiologia
 ## [[Bacilli gram-negativi non fermentanti]]
 ## [[Bacilli Gram-negativi di incerta classificazione]]
 ## [[Legionelle]]
-## [[I batteri anaerobi obbligati - Clostridi]]
-## [[Le spirochete]]-
+## [[Clostridi]]
+## [[Spirochete]]-
 ## [[Bartonelle]]
 ## [[Rickettsie]]-
 ## [[Ehrlichie]]

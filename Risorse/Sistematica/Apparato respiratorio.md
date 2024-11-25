@@ -1,250 +1,14 @@
+---
+stato: indice
+sistema/apparatorespi: respiratorio
+---
 2024-04-13 19:37
-Stato: #idealibro 
-Tag: #Anatomia #ApparatoRespiratorio 
 
 ---
-# Apparato respiratorio
-## Caratteristiche generali
-![Apparato respiratorio, localizzazione dei principali organi](https://i.imgur.com/GjtOn46.png)
-### Decorso
-- Comincia con le *vie aerifere* (o *vie aeree superiori*):
-	- cavità nasali
-	- seni paranasali
-	- faringe
-- Giunge fino al mediastino  (*vie aeree inferiori*):
-	- trachea
-		- si biforca e dà vita ai bronchi extrapolmonari
-			- si ramificano nell'albero bronchiale, all'interno del parenchima polmonare
-### Vie aerifere
-- Organi cavi che trasportano aria
-- Superficie respiratoria
-	- polmoni
-## Naso esterno
-- Al centro del volto, forma piramidale
-### Facce
-![Naso esterno, facce](https://i.imgur.com/8VD9pjt.jpg)
-#### Posteriore
-- Contorno dell'*apertura piriforme* (ossa nasali e mascellari)
-- ![Naso esterno, faccia posteriore](https://i.imgur.com/FCPCys5.jpg)
-#### Laterali
-- Parte superiore
-	- fissa, perché provvista di scheletro osseo
-- Parte inferiore
-	- mobile e cartilaginea, perché costituisce le *ali del naso*
-#### Base
-- Sottosetto lungo la linea mediana
-	- *narici*
-- Epitelio ricchissimo di gh. sebacee
-	- i dotti sboccano in corrispondenza di peli finissimi (*vibrisse*)
-- ![Naso esterno, base](https://i.imgur.com/eHeHVL9.png)
-### Struttura
-#### Scheletro
-- ![Naso esterno, scheletro](https://i.imgur.com/JVcwx8F.jpg)
-#### Strato muscolare
-- ![Naso esterno, strato muscoalare](https://i.imgur.com/ObIdI0X.jpg)
-#### Parte cartilaginea
-##### Cartilagine del setto
-- Lamina quadrangolare preposta a colmare il gap fra lamina perpendicolare dell'etmoide e vomere
-##### Cartilagini laterali
-- Lamine quadrangolari, si pongono in rapporto coi margini inferiori delle ossa nasali
-##### Cartilagini alari
-- Forma a ferro di cavallo, determinano la base della piramide e il lobulo
-### Vasi e nervi (naso)
-- ![Naso esterno, irrorazione arteriosa](https://i.imgur.com/CR5JmWa.jpg)
-## Cavità nasali
->[!info]
-> **Cavità nasali**: due condotti simmetrici, allungati sul piano sagittale e appiattiti su quello trasversale, scavati nel naso esterno e nello scheletro della faccia.
-> - Ogni cavità nasale è divisibile in una parte anteroinferiore, più piccola, il *vestibolo del naso*, e in una parte più ampia, la *cavità nasale propriamente detta*.
-- Divise dal *setto nasale*, una lamina sagittale mediana in parte ossea in parte cartilaginea
-- Larghezza
-	- maggiore nella parte anteriore
-	- si restringono posteriormente e superiormente
-- Comunicano con
-	- esterno → narici
-	- rinofaringe → *coane* (due aperture di forma ovoidale)
-![Cavità nasali](https://i.imgur.com/emHKmAn.jpg)
-### Vestibolo del naso
->[!info]
-> **Vestibolo del naso**: fa seguito alla narice e ha uno scheletro internamente cartilagineo, rivestito internamente dalla cute. Appare come una fessura allungata sagittalmente, che presenta
-> - orifizio anteriore (*narice*),
-> - orifizio superiore
-> 	- in continuità con la cavità nasale propriamente detta
-> - due pareti (laterale e mediale).
-#### Forma, posizione e rapporti
-![Vestibolo del naso, configurazione interna della parete laterale della cavità nasale dx](https://i.imgur.com/GZRF1da.jpg)
-#### Anatomia microscopica
-- Rivestito da cute sottile
-	- strato corneo ridotto, da cui sporgono peli grossi e rigidi, con direzione variabile (*vibrisse*)
-		- prima barriera contro l'ingresso del pulviscolo atmosferico
-	- ghiandole sebacee
-		- numerose, annesse ai peli
-	- continua in alto e indietro con la *tonaca mucosa respiratoria*
-		- tappezza la cavità nasale propriamente detta, attraverso una zona di transizione in cui l'epitelio perde, dapprima, lo strato corneo e si trasforma, poi, in epitelio cilindrico pluriseriato
-### Cavità nasali propriamente dette
-#### Forma, posizione e rapporti
-##### Volta
-- Formata, da dietro in avanti, da
-	- corpo dello *sfenoide*
-	- *lamina cribrosa* dell'etmoide
-	- parti laterali della *spina nasale* dell'osso frontale
-	- faccia profonda delle ossa nasali
-	- angolo diedro formato da
-		- cartilagini alari maggiori
-		- cartilagine del setto nasale
-- In corrispondenza della parte posteriore della volta, si trova l'apertura del *seno sfenoidale*
-##### Pavimento
-- Formato da
-	- *processi palatini* delle mascelle
-	- *lamine orizzontali* delle ossa palatine
-- ![Naso esterno, scheletro](https://i.imgur.com/JVcwx8F.jpg)
-##### Parete mediale (o settale)
-- Appare liscia
-- Rappresentata dal *setto nasale*, che separa fra loro le due cavità nasali
-- Costituita da
-	- *lamina perpendicolare* dell'etmoide
-	- vomere
-	- in avanti, dalla cartilagine del setto nasale
-- Risulta spesso asimmetrica: il setto nasale può essere deviato verso uno dei due lati fino a mettersi in contatto con la parete laterale della cavità nasale
-##### Parete laterale
-- Superficie molto irregolare (presenza di diversi rilievi e depressioni)
-- Presenta, dall'alto verso il basso, la sporgenza delle tre **conche** (o cornetti) **nasali superiore**, **media** e **inferiore**
-	- costituiscono il tetto, rispettivamente, dei **meati nasale superiore**, **medio** e **inferiore**
-	- al di sopra della conca nasale superiore, si può, talvolta, notare il rilievo formato dalla **conca nasale suprema** (residuo di una primitiva conca nasale superiore)
-	- ![Cavità nasale dx, scheletro della parete laterale](https://i.imgur.com/XxOaxtA.jpg)
-- Tonaca mucosa respiratoria
-	- riveste entrambe le facce delle conche nasali
-	- attraverso gli orifizi di comunicazione, tappezza anche i seni paranasali (cavità scavate nelle ossa craniofacciali e comunicanti con le cavità nasali)
-- ![Cavità nasale dx, parete laterale](https://i.imgur.com/GDhCN2g.jpg)
-- Comunicano
-	- anteriormente
-		- vestibolo del naso
-	- posteriormente
-		- si aprono nella rinofaringe attraverso le *coane*
-			- mettono in comunicazione le cavità nasali con la rinofaringe
-			- due aperture con contorno quadrangolare delimitate
-				- corpo dell'osso sfenoide (superiormente)
-				- lamine mediali dei *processi pterigoidei* dell'osso sfenoide (lateralmente)
-				- margine posteriore del vomere (medialmente)
-				- margine posteriore della *lamina orizzontale* dell'osso palatino (inferiormente)
-			- ![Cavità nasali, coane](https://i.imgur.com/jkEbKUW.jpg)
-#### Vasi e nervi
-##### Arterie
-- ![Cavità nasali, arterie della cavità nasale sx](https://i.imgur.com/daFbBT6.jpg)
-- ![Cavità nasali, arterie della cavità nasale dx](https://i.imgur.com/ti1aarZ.jpg)
-###### Epistassi
-- Nel terzo anteriore del setto nasale, inferiormente, le arterie che vascolarizzano le cavità nasali si anastomizzano formando una ricca rete di arteriole e capillari che si spingono fino a ridosso dell'epitelio
-	- questa regione è nota come *locus Valsalvae* o *area di Kiesselbach*
-	- sede più frequente di ==epistassi==
-		- soprattutto in adolescenti e individui ipertesi
-		- se l'emorragia è imponente, può essere difficile bloccarla, essendo alimentata da un così ampio ventaglio di arterie provenienti da diversi distretti
-##### Vene
-- ![Cavità nasali, vene della cavità nasale dx](https://i.imgur.com/OCk23yz.jpg)
-##### Linfatici
-- ![Cavità nasali, rete linfatica della mucosa della cavità nasale](https://i.imgur.com/w0SJbcp.jpg)
-##### Nervi
-- ![Cavità nasali, innervazione della cavità nasale sx](https://i.imgur.com/aIQYOsN.jpg)
-- ![Cavità nasali, innervazione della cavità nasale sx](https://i.imgur.com/Shnbi0n.jpg)
-#### Anatomia microscopica
-- ![Cavità nasali, suddivisione](https://i.imgur.com/PjqUm14.png)
-##### Tonaca mucosa respiratoria
-- Si presenta di colorito roseo, lucente e alquanto spessa
-###### Epitelio respiratorio
-- Tipo: *cilindrico pseudostratificato ciliato*
-- Cellularità
-	- cellule ciliate
-	- cellule caliciformi
-- Ruolo del muco
-	- aderisce alla superficie dell'epitelio
-	- umidifica la tonaca mucosa sottoposta alla continua ventilazione della colonna di aria inspirata ed espirata
-	- conglutina le particelle di pulviscolo, che, col movimento delle ciglia, vengono convogliate nella rinofaringe
-- ![Cavità nasali, mucosa respiratoria](https://i.imgur.com/1GzIcSB.jpg)
-###### Lamina propria
-- Fortemente aderente al periostio
-- Costituita da tessuto connettivo povero di fibre elastiche
-	- più lasso nella parte superficiale
-		- linfociti raccolti in noduli linfoidi aggregati, che secernono Ig
-	- più denso nella parte profonda
-		- aderente al periostio
-- Sono presenti numerose ghiandole tubulo-acinose ramificate di tipo misto (*ghiandole nasali*)
-	- il cui secreto
-		- trattiene le particelle corpuscolate, depurando l'aria inspirata
-		- ha azione antibatterica, dovuta al contenuto di *lisozima*
-##### Tonaca mucosa olfattiva
-- Localizzata nelle cavità nasali in corrispondenza della *lamina cribrosa* dell'etmoide
-- **Epitelio olfattivo**
-	- di tipo *cilindrico pseudostratificato*
-	- costituito da tre tipi di cellule:
-		- cellule olfattive (o *neuroni sensoriali olfattivi*),
-		- *cellule epiteliali di sostegno*,
-		- *cellule basali*
-- ![Mucosa olfattiva, organizzazione](https://i.imgur.com/ziZ3om7.jpg)
-###### Cellule olfattive
-- Molto allungate
-- In esse si distinguono
-	- *corpo*
-		- occupa la zona profonda dell'epitelio olfattivo
-		- accoglie un nucleo globoso
-	- *prolungamento esterno* (*dendrite*)
-		- si porta alla superficie dell'epitelio, dove si dilata nel *bulbo dendritico* (o vescicola olfattiva)
-			- da cui si irradiano le ciglia
-			- contiene le strutture che percepiscono gli stimoli olfattivi
-	- *prolungamento interno* (*assone olfattivo* o *fibra del nervo olfattivo*)
-		- più sottile di quello esterno
-		- si distacca dall'estremità profonda del corpo per portarsi nella lamina propria della tonaca mucosa, dove costituisce i filamenti (o filuzzi) del nervo olfattivo
-###### Cellule epiteliali di sostegno
-- Elementi sottili che si estendono per tutta l'altezza dell'epitelio
-- Intercalate tra le cellule olfattive
-	- ne abbracciano i prolungamenti esterni in superficie
-	- presentano contorni irregolari in profondità
-		- (dovendosi adattare ai corpi delle cellule olfattive)
-###### Cellule basali
-- Piccoli elementi piramidali applicati direttamente sulla sottile membrana (o lamina) basale
-- Contraggono stretti rapporti con gli assoni delle cellule olfattive
-	- intorno ad essi inviano prolungamenti, che formano un involucro neurilemmale simile alla guaina mielinica assonica
-###### Lamina propria
-- Ricca di linfociti
-	- possono aggregarsi in noduli linfoidi aggregati di dimensioni e densità variabili (**tessuto linfoide associato al naso** (*Nose Associated Lymphoid Tissue*, NALT))
-	- produzione di *IgA*
-- Accoglie filamenti olfattivi e *gh. olfattive* (*di Bowman*)
-	- tubuloacinose semplici a secrezione sieromucosa
-	- secernono sostanze ad azione protettiva
-		- es. *lisozima*
-	- secreto
-		- si riversa sulle superficie della tonaca mucosa, costituendo un solvente per le sostanze odorose
-		- contiene una proteina con grande affinità per queste sostanze (*OBP*, *Odorant Binding Protein*)
-			- si lega ai recettori presenti sulle ciglia olfattive, stimolandoli
-			- agisce come carrier delle sostanze odorose
-## Seni paranasali
-- ![Seni paranasali, conformazione generale](https://i.imgur.com/bC62Kwl.jpg)
-### Seno mascellare
-- ![Seno mascellare](https://i.imgur.com/U4guDsO.jpg)
-### Seno sfenoidale
-- ![Seno sfenoidale](https://i.imgur.com/zLHrMR7.jpg)
-### Seno frontale
-- ![Seni frontali](https://i.imgur.com/wtForDG.jpg)
-### Cellule etmoidali
-- ![Cellule etmoidali](https://i.imgur.com/xpqulpY.jpg)
-### Struttura
-#### Tonaca mucosa
-- Più sottile di quella che riveste le cavità nasali
-- Strettamente aderente al periostio
-#### Epitelio
-- Cilindrico semplice, con cellule caliciformi intercalate
-- Presenta ciglia vibratili che si muovono verso gli orifizi di comunicazione dei seni paranasali con le cavità nasali
-#### Lamina propria
-- Scarso corredo ghiandolare
-- Non presenta noduli linfoidi né plessi venosi
-#### Patologie
-##### Infiammazioni e infezioni
-- La stretta comunicazione che si stabilisce tra i seni paranasali può favorire il propagarsi delle infiammazioni
-- La presenza di orifizi stretti fra le cellule etmoidali rende difficoltoso debellare le ==infezioni etmoidali==
-##### Sinusite
-- La mucosa può essere sede di processi infiammatori e infettivi
-	- cui reagisce con ==edema== e ristagno di muco
-- Se le infezioni si cronicizzano, radiologicamente danno luogo a *opacizzazione dei seni*
-##### Mastoiditi
-- Ripetuti fatti infettivi e infiammatori delle mucose nasali possono diffondersi agli spazi mastoidei
-	- soprattutto nel neonato e nel bambino
+
+# Distretti
+## [[Naso esterno - cavità e seni paranasali]]
+
 ## Faringe
 - ![Faringe](https://i.imgur.com/Sf32wXg.jpg)
 ### Generalità
@@ -1358,6 +1122,15 @@ Tag: #Anatomia #ApparatoRespiratorio
 
 
 
+
+
+
+---2
+
+
+Patologia delle vie aeree
+Patologia polmonare
+Patologia della pleura
 
 
 

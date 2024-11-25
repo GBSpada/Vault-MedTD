@@ -481,8 +481,15 @@ $$OH^{-}+CO_{2}\xrightarrow[\text{anidrasi carbonica}]\,HCO_3^-$$
 >- La forma in cui troviamo gli acidi biilari è quindi quella di sali leganti svariati cationi (tra cui il sodio)
 >	- La polarità conferita dai cationi ostacola il passaggio attraverso le membrane fosfolipidiche proteggendo le mucose e garantendo la permanenza all'interno di lume per tutta la digestione 
 #### Fosfolipidi
-
+ - Il secondo più abbondante gruppo di composti organici
+	 - I principali sono le *lecitine*
+ - Anfipatici ma insolubili in acqua ed infatti cristallizzano
+	 - Gli acidi biliari però riescono a rompere questi cristalli garantendo la solubilizzazione dei fosfolipidi che entrano a far parte delle micelle
+- Il ruolo principale è quello di garantire maggiore ==solubilità== nei confronti di alcuni grassi come il ==colesterolo==
 #### Colesterolo
+- Solo il 4% dei sali biliari
+	- Ruolo fondamentale di deposito per l'organismo
+- Se troppo alte le concentrazioni precipitano sotto forma di sali e possono causare calcoli
 #### Pigmenti biliari
 #### Ioni inorganici
 ### Produzione della bile

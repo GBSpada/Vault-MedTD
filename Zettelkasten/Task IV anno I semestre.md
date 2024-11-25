@@ -4,9 +4,9 @@ kanban-plugin: basic
 
 ---
 
-## Aprile
+## Lezioni:
 
-- [ ] 2: capitolo 54 conti
+- [ ] De sarro: evidenziazione libro
 
 
 ***

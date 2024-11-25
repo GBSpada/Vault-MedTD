@@ -1,13 +1,25 @@
-2024-04-03 15:32
-Stato: #idealibro 
-Tag: #Anatomiapatologica #ApparatoDigerente 
-
 ---
-# Tumori del canale anale
+stato: indice
+tags:
+  - Anatomia
+  - AnatomiaPatologica
+sistema/apparato:
+  - Digerente
+---
+\07-10-2024 \10:05
+
+--- 
+
+# Anatomia 
+[[Intestino crasso#Configurazione interna]]
+
+# Patologia
+## Non neoplastica
+## Neoplastica
 
 ![Classificazione dei tumori del canale anale](https://i.imgur.com/IXQJJRp.jpg)
-- Le neoplasie (benigne e maligne) derivanti dall'epidermide e dagli annessi epidermici ([[Intestino crasso - Anatomia#Configurazione interna|quarto segmento del canale anale]]) sono simili a quelle cutanee
-## Lesioni precancerose (neoplasie non invasive) e tumori epiteliali benigni
+- Le neoplasie (benigne e maligne) derivanti dall'epidermide e dagli annessi epidermici ([[Intestino crasso#Configurazione interna|quarto segmento del canale anale]]) sono simili a quelle cutanee
+### Lesioni precancerose (neoplasie non invasive) e tumori epiteliali benigni
 -  Le *neoplasie intraepiteliali* possono originare da tutte le componenti epiteliali del canale anale:
 	- epitelio colonnare
 	- epitelio transizionale
@@ -29,7 +41,7 @@ Tag: #Anatomiapatologica #ApparatoDigerente
 		- spesso, associazione con *HPV-16*
 >[!info]
 > **pagetoide**: simil-==malattia di Paget==, caratterizzata da lesioni del capezzolo simili ad una placca psoriasica o eczematosa unilaterale.
-## Tumori epiteliali maligni (carcinomi)
+### Tumori epiteliali maligni (carcinomi)
 - Neoplasie a bassa incidenza (< 1 x 100mila/anno)
 - Tipologia
 	- ==carcinoma squamoso==
@@ -52,7 +64,7 @@ Tag: #Anatomiapatologica #ApparatoDigerente
 	2. derivazione da sfondati ghiandolari annessi alla mucosa anale;
 	3. origine dal rivestimento colonnare di tramiti fistolosi
 		- negli ultimi due casi, iniziale localizzazione intraparietale ed affioramento nel piano mucoso solo quando la proliferazione neoplastica è già espansa nel contesto parietale
-## Tumori non epiteliali
+### Tumori non epiteliali
 - Neoplasie benigne
 	- rare
 	- quelle di derivazione dai tessuti molli sono le prevalenti
@@ -68,6 +80,14 @@ Tag: #Anatomiapatologica #ApparatoDigerente
 
 
 
----
-# Reference
+
+
+
+
+
+
+
+
+--- 
+# Reference:
 [[Tratto gastrointestinale]]

@@ -1,15 +1,23 @@
-2024-04-02 16:14
-Stato: #idealibro 
-Tag: #Istologia #ApparatoDigerente 
-
 ---
-# Intestino tenue
+stato: indice
+tags:
+  - Istologia
+sistema/apparato:
+  - Digerente
+---
+\07-10-2024 \09:39
+
+--- 
+
+# Anatomia
+
+# Istologia
 ## Introduzione
 - Canale molto lungo (dai 6 ai 7 m), con diametro relativamente piccolo
 	- collega lo stomaco all'intestino crasso e può essere suddiviso in tre regioni in base all'anatomia e alle sue funzioni
 - Stratificazione
 	- ![Intestino tenue, stratificazione](https://i.imgur.com/xre987e.png)
-## Suddivisione
+## Suddivisione nel decorso
 ### Duodeno
 - Regione più prossimale, con decorso a forma di "C" e lunghezza limitata a 20-25 cm
 - Stratificazione
@@ -70,7 +78,7 @@ Tag: #Istologia #ApparatoDigerente
 - Zona di assorbimento di
 	- *vitamina K* (anche il digiuno)
 	- *vitamina B12*
-## Caratteristiche morfofunzionali dell'intestino tenue
+## Caratteristiche morfofunzionali dell'intestino tenue (pop. cellulari)
 >[!Funzioni]
 > - **digestiva**: viene completata la digestione del cibo, che giunge dallo stomaco, mediante secrezione di enzimi
 > - **assorbente**: permette ai prodotti finali della digestione di passare selettivamente attraverso vasi linfatici e sanguigni
@@ -246,8 +254,13 @@ Tag: #Istologia #ApparatoDigerente
 
 
 
+# Patologia
 
 
----
-# Reference
+
+
+
+
+--- 
+# Reference:
 [[Tratto gastrointestinale]]

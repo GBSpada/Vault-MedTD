@@ -4,59 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "713b8d44ee9e6a16",
+        "id": "3b6bc7b4c43e1ee7",
         "type": "tabs",
         "children": [
           {
-            "id": "909dc5fbbd59b6d6",
+            "id": "7fd0df4ed2d9b774",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Condivisi/AnatPatBruno/Tratto gastrointestinale/Tratto gastrointestinale.md",
+                "file": "Risorse/Testi/Semeiotica - Fradà.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Semeiotica - Fradà"
             }
           },
           {
-            "id": "e0f100329f5aadb0",
+            "id": "203cb7eaabb63a04",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Istologia dello stomaco.md",
+                "file": "Risorse/Testi/Semeiotica - Fradà.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "49cc6533e252c3d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Condivisi/AnatPatBruno/Tratto gastrointestinale/Stomaco.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "30986e575839c5db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/a.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Semeiotica - Fradà"
             }
           }
         ]
@@ -71,7 +49,7 @@
       {
         "id": "14a2e795bec73f38",
         "type": "tabs",
-        "dimension": 79.44501541623843,
+        "dimension": 69.13580246913581,
         "children": [
           {
             "id": "f97d3cfed9c8a951",
@@ -80,7 +58,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "byModifiedTime"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -89,29 +69,32 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"conti\"",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "45ea08796f45e544",
         "type": "tabs",
-        "dimension": 20.554984583761563,
+        "dimension": 30.864197530864192,
         "children": [
           {
             "id": "f8db43a76001cff7",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -137,44 +120,9 @@
               "state": {
                 "sortOrder": "alphabetical",
                 "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "1d0373882184470a",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Condivisi/AnatPatBruno/Tratto gastrointestinale/Tratto gastrointestinale.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              }
-            }
-          },
-          {
-            "id": "83984a49ec6149eb",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Condivisi/AnatPatBruno/Tratto gastrointestinale/Tratto gastrointestinale.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": false
-              }
-            }
-          },
-          {
-            "id": "5e8a87031e0aee6a",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -182,7 +130,9 @@
             "type": "leaf",
             "state": {
               "type": "git-history-view",
-              "state": {}
+              "state": {},
+              "icon": "history",
+              "title": "History"
             }
           },
           {
@@ -191,8 +141,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Condivisi/AnatPatBruno/Tratto gastrointestinale/Tratto gastrointestinale.md"
-              }
+                "file": "Risorse/Testi/Semeiotica - Fradà.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Semeiotica - Fradà"
             }
           },
           {
@@ -204,7 +156,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           },
           {
@@ -212,7 +166,9 @@
             "type": "leaf",
             "state": {
               "type": "copilot-chat-view",
-              "state": {}
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
             }
           },
           {
@@ -220,15 +176,63 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "a8bd6a32c5d31c13",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Risorse/Testi/Semeiotica - Fradà.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Semeiotica - Fradà"
+            }
+          },
+          {
+            "id": "ae9ae5bab2893117",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Risorse/Testi/Semeiotica - Fradà.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Semeiotica - Fradà"
+            }
+          },
+          {
+            "id": "3d61957d76dbde24",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Zettelkasten/Cibo.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for Cibo"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 308.5
+    "width": 329.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -244,49 +248,50 @@
       "obsidian-git:Open Git source control": false,
       "translate:Open translation view": false,
       "templater-obsidian:Templater": false,
-      "copilot:Copilot Chat": false,
-      "peerdraft:Show my Peerdraft Shares": false
+      "peerdraft:Show my Peerdraft Shares": false,
+      "copilot:Copilot Chat": false
     }
   },
-  "active": "5e8a87031e0aee6a",
+  "active": "7fd0df4ed2d9b774",
   "lastOpenFiles": [
-    "Condivisi/AnatPatBruno/Tratto gastrointestinale/Stomaco.md",
-    "Condivisi/AnatPatBruno/Tratto gastrointestinale/Tratto gastrointestinale.md",
-    "Zettelkasten/Istologia dello stomaco.md",
-    "Zettelkasten/a.md",
-    "Zettelkasten/Untitled 3.md",
-    "Risorse/Apparato genitale maschile.md",
-    "Condivisi/AnatPatBruno/Pancreas/Pancreas.md",
-    "Condivisi/AnatPatBruno/Tratto gastrointestinale/Rettocolite ulcerosa.md",
-    "Zettelkasten/Emoagglutinina.md",
-    "Condivisi/AnatPatBruno/Apparato locomotore/Sarcoma di Kaposi.md",
-    "Zettelkasten/Fisiologia della nutrizione.md",
-    "Zettelkasten/T3 e T4.md",
-    "Zettelkasten/Vitamina E.md",
-    "Zettelkasten/Vitamina K.md",
-    "Zettelkasten/Vitamina D - Colecalciferolo.md",
-    "Zettelkasten/Trasportatori del glucosio (GLUT).md",
-    "Zettelkasten/biochimica 13.md",
+    "Risorse/Testi/Semeiotica - Fradà.md",
+    "Zettelkasten/Cibo.md",
     "Zettelkasten/Motilità del sistema gastrointestinale.md",
-    "Zettelkasten/Sistema nervoso enterico.md",
-    "Zettelkasten/Digestione e assorbimento.md",
-    "Zettelkasten/Fisiologia gastrointestinale e nutrizione umana.md",
-    "Risorse/Fisiologia  - Conti Volume 2.md",
-    "Zettelkasten/Secrezioni del sistema gastrointestinale.md",
-    "Templates/Idea core.md",
-    "Condivisi/AnatPatBruno/Tratto gastrointestinale/Intestino tenue - Istologia.md",
-    "Risorse/Apparato genitale femminile.md",
+    "Risorse/Sistematica/Tratto gastrointestinale.md",
+    "Zettelkasten/Criptorchidismo.md",
+    "Zettelkasten/Testicolo.md",
+    "Files/Pasted image 20241112123910.png",
+    "Risorse/Testi/Patologia Generale - McCance.md",
+    "Zettelkasten/Iperkaliemia.md",
+    "Zettelkasten/Edema.md",
+    "Zettelkasten/Libro McCance.md",
+    "Condivisi/AnatPatBruno/Apparato cardiocircolatorio/Vasculiti.md",
+    "Condivisi/AnatPatBruno/Apparato cardiocircolatorio/Crioglobulinemia mista.md",
+    "Risorse/Testi/Neurofisiologia - Conti Volume 1.md",
+    "exportMdFileToHtml.py",
+    "ObsidianToHtmlConverter/exportMdFileToHtml.py",
+    "ObsidianToHtmlConverter/README.md",
+    "ObsidianToHtmlConverter",
+    "Zettelkasten/Ipervolemia.md",
+    "Zettelkasten/Ipovolemia.md",
+    "Zettelkasten/Vasopressina.md",
+    "Risorse/Varie/Basi di dati - Progetto.md",
+    "Risorse/Didattica/Architetture e Sist. di calcolo - Sbobine.md",
+    "Risorse/Varie",
+    "Risorse/Testi/Data mining e Bioimmagini - Libri.md",
+    "Risorse/Didattica/Architetture e Sist. di calcolo - Slide e lezioni.md",
+    "Zettelkasten/Patologia dell'apparato cardiovascolare.md",
+    "Risorse/Testi/Medicina interna - Harrison.md",
+    "Risorse/Testi/Patologia Generale - Robbins.md",
+    "Risorse/Didattica/Patologia clinica - Lezioni, slide e sbobine.md",
+    "Risorse/Didattica/PGSS - lezioni e slide.md",
+    "Risorse/Didattica",
+    "Risorse/Testi",
+    "Files/Recording 20241029124813.m4a",
+    "Files",
+    "Recording 20241009105600.webm",
+    "Risorse/Sistematica",
     "Files/Vascolarizzazione trofica del polmone.png",
-    "Files/apprendimento.pdf",
-    "Condivisi/AnatPatBruno/Sistema endocrino",
-    "Condivisi/AnatPatBruno/Apparato urinario",
-    "Condivisi/AnatPatBruno/Fegato e vie biliari",
-    "Condivisi/AnatPatBruno/Sistema nervoso centrale",
-    "Condivisi/AnatPatBruno/Pancreas",
-    "Condivisi/AnatPatBruno/Apparato cardiocircolatorio",
-    "Condivisi/AnatPatBruno/Apparato locomotore",
-    "Condivisi/AnatPatBruno/Testa e collo",
-    "Condivisi/AnatPatBruno/drive-download-20240915T211222Z-001.zip",
     "Files/Grafico Tensione-Lunghezza muscolare.png",
     "Files/Trasporti nelle porzioni del tubulo renale.png",
     "Files/Pasted image 20231214190821.png",
@@ -296,7 +301,6 @@
     "Files/Pasted image 20240819134218.png",
     "Files/Fattori coagulazione.png",
     "Zettelkasten/Emostasi.canvas",
-    "Files/Cascata coagulativa.png",
     "Zettelkasten/Fisiologia Digerente.canvas",
     "Zettelkasten/Metabolismo lipoproteine.canvas",
     "Zettelkasten/Patologia clinica - Fegato.canvas",

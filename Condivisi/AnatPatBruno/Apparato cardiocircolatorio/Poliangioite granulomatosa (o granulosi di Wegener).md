@@ -73,7 +73,7 @@ Tag: #ApparatoCardiocircolatorio #Patologia
 	- presenza di granulomi
 	- rapida risposta alla terapia citotossica immunosoppressiva (==ciclofosfamide==)
 	- quasi costante presenza (90%) dei *c-ANCA*
-- Predilezione per l'[[apparato respiratorio]]
+- Predilezione per l'[[Apparato respiratorio]]
 	- suggerisce l'esistenza di una sensibilizzazione ad antigeni assunti per via inalatoria (non ancora identificati)
 ## Morfologia
 ### Forme

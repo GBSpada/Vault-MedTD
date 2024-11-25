@@ -40,29 +40,11 @@ E assieme ad essi i loro derivati come gli acidi teicuronici
 #### Nel caso di ambienti isotonici?
 - In ambienti isotonici i batteri riescono a sopravvivere anche alla perdita della parete cellulare ma cambiano la loro morfologia diventando *protoplasti* cioè sferici
 - Eventualmente questi batteri possono risintetizzare la loro parete ma necessitano di terreni di coltura appropriati
-- ==Consente di resistere in ambienti a concentrazioni saline più elevate senza essere batteri *alofili* in senso stretto== 
+- ==Consente di resistere in ambienti a concentrazioni saline più elevate senza essere batteri *alofili sensu stricto*== 
 ###  Sinceramente bho 
 - Probabilmente aiuta, legando grandi quantità di cationi, a mantenere un ambiente adeguato per gli enzimi sintetici della membrana
 
-# Nei micobatteri
-
-![Parete cellulare dei micobatteri n](https://i.imgur.com/oYvOvY8.png)
-- Il peptidoglicano è ricoperto da uno strato di carboidrati e lipidi tra cui:
-	- *Arabino-galattani* 
-		- Legano al peptidoglicano gli *acidi micolici*
-			- Acidi grassi a catena ramificata
-			- A cui vengono legati *glicolipidi fenolici*
-	- **Glicolipidi** ancorati alla membrana tra cui
-		- Fosfoinositido-mannani
-		- Lipo-arabino-mannani
-
-## Reattività e coloranti
-La struttura esterna dei micobatteri li rende resistenti agli *acidi minerali*:  *acidoresistenza* 
-- Tutti i fenomeni legati allo scambio di nutrienti e altre molecole con l'ambiente sono rallentati
->[!warning] Conseguenze di questa resistenza
->Nonostante le condizioni "culturali" siano favorevoli, i micobatteri crescono molto lentamente 
-
-
+# Vedi: [[Gli involucri esterni dei Micobatteri]]
 
 
 ---

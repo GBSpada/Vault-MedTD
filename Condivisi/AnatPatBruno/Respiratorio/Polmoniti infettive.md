@@ -1,5 +1,5 @@
 2024-04-25 16:52
-Stato: #idealibro 
+Stato: #idealibro
 Tag: #Anatomiapatologica #Microbiologia #Infettivologia #ApparatoRespiratorio
 
 ---

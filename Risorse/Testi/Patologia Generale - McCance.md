@@ -236,9 +236,7 @@ tags:
 		- Aumentando o diminuendo la ventilazione 
 			- Così facendo viene modulata la concentrazione di CO2
 		- Producendo urina più acida o più alcalina
-			- Fosfato dibasico e ammoniaca legano gli idrogenioni formando fosfato monobasico e ammonio [[Trasporto
-![[Recording 20240208164642.webm]]
- a livello del tubulo contorto prossimmale.png]]
+			- Fosfato dibasico e ammoniaca legano gli idrogenioni formando fosfato monobasico e ammonio [[Trasporto a livello del tubulo contorto prossimmale.png]]
 			- Il riassorbimento di ione bicarbonato favorisce un equilibrio più alcalino del tampone bicarbonato
 - I tamponi sono sostanze che assorbono gli acidi o le basi in eccesso per ridurre al minimo le fluttuazioni del pH
 - I tamponi esistono come coppie acido-base

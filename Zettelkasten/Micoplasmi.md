@@ -30,7 +30,7 @@ Tag: #Microbiologia
 
 ## Classificazione
 
-La **Classe Mollicutes** comprend\e quattro ordini:
+La **Classe Mollicutes** comprende quattro ordini:
 
 1. Mycoplasmatales
 2. Entomoplasmatales

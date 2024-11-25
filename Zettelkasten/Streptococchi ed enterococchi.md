@@ -1,4 +1,4 @@
-	01-06-2023 16:27
+01-06-2023 16:27
 Stato: #ideaL
 Tag: #Microbiologia 
 
@@ -42,7 +42,6 @@ Tag: #Microbiologia
 - Le colonie risultano circondate da un alone di emolisi completa
 - Quali batteri lo sono?
 	- [[Streptococcus pyogenes]]
-	- 
 #### Gamma-emolitici o non emolitici
 - [[Streptococcus agalactiae]]
 		- Raramente è beta emolitico ma producendo la co-emolisina è in grado di completare l'azione emolitica della citolisina beta dello [[Staphylococcus aureus]]

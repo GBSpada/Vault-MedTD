@@ -1,6 +1,10 @@
+---
+stato: ideaL
+tags:
+  - Microbiologia
+---
 26-08-2023 05:06
-Stato: #ideaL
-Tag: #Microbiologia 
+
 
 - O meningococco
 ## Intro

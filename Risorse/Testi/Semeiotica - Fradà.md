@@ -98,12 +98,43 @@ tags:
 #### Aspetto superficiale
 ##### Cute
 - Colore
-- 
+- Strie
+- Peli
+- Infiammazione
 ##### Reticolo venoso sottocutaneo
+- Direzione 
 ##### Reticoli venosi tipo cava-cava e tipo porta-cava
-
+- Discendente fisiologico
+- Ascendente cava inf cava sup
+- Periombelicale
+- Caput medusae
+- Puro/porta-cava
+- Con genitali e cosce
+- Discendente con interessamento toracico
 
 ### Palpazione
+#### Intro
+##### Approccio al paziente
+- La **posizione** d'elezione è il decubito supino con gli arti inferiori flessi e le mani dietro la testa in maniera tale da rilassare la parete addominale
+- L'esplorazione deve essere comfortevole dal lato termico
+- L'esplorazione deve partire dal quadrante più distante da quello dolente, preferibilmente dal basso
+
+##### Tipi di palpazione
+- Innanziutto bsiogna distingue
+
+ 
+- Tipi di palpazione
+	- A scosse
+	- Combinata
+	- A mano doppia
+	- 
+##### Reazioni alla palpazione
+- Contrazione di difesa != contrattura
+- Valutare iperalgesia cutanea
+##### Rilievi peculiari
+- Tumefazioni endoaddominali vs della parete
+- Onfalite e metastasi
+
 #### Fiotto addominale
 #### Palpazione del fegato
 #### Palpazione della milza

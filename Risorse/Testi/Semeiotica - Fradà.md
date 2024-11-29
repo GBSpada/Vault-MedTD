@@ -120,7 +120,8 @@ tags:
 - L'esplorazione deve partire dal quadrante più distante da quello dolente, preferibilmente dal basso
 
 ##### Tipi di palpazione
-- Innanziutto bsiogna distingue
+- Alla palpazione superficiale segue quella profonda, bisogna però che il paziente moduli la respirazione per migliorare il
+- 
 
  
 - Tipi di palpazione

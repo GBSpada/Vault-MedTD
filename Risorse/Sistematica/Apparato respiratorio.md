@@ -481,7 +481,8 @@ sistema/apparatorespi: respiratorio
 			- organi a livello dell'apertura superiore del torace (superiormente):
 				- vasi succlavi,
 				- *plesso brachiale*,
-				- *muscolo scaleno anteriore*
+				- *muscolo scaleno 
+				- anteriore*
 	- separati da uno spazio mediano compreso tra la colonna vertebrale e lo sterno (*mediastino*)
 		- accoglie il sacco pericardico con
 			- cuore,

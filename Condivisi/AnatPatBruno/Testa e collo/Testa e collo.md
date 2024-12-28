@@ -4,7 +4,9 @@ Tag: #Testaecollo #Anatomiapatologica
 
 ---
 
+# Distretti
 ## [[Naso esterno - cavità e seni paranasali]]
+## [[Faringe]]
 ## Patologia dell'orecchio
 ### Malattie infiammatorie
 #### Otiti
@@ -16,36 +18,7 @@ Tag: #Testaecollo #Anatomiapatologica
 ##### Carcinoma basocellulare
 ##### Carcinoma squamocellulare
 ### Otosclerosi
-#### Patologia dell'orecchio medio e interno1111
-## Patologia del cavo orale e dell'orofaringe
-### Malattie infiammatorie
-#### Malattie infettive
-##### Virali
-##### Batteriche
-##### Micotiche
-#### Malattie non infettive
-##### Afta
-##### Glossiti carenziali
-### Neoplasie e lesioni simil-neoplastiche
-#### Generalità e classificazione
-#### Neoplasie e lesioni simil-neoplastiche non odontogene benigne
-##### Iperplasia fibrosa e/o cellulare infiammatoria
-##### Granuloma piogenico
-##### Granuloma riparativo a cellule giganti periferico
-##### Papilloma squamocellulare
-#### Neoplasie non odontogene maligne
-##### Carcinoma squamocellulare e i suoi precursori
-#### Neoplasie e lesioni simil-neoplastiche odontogene
-##### Cisti odontogene
-#### Neoplasie odontogene
-##### Ameloblastoma
-##### Odontoma
-### Manifestazioni orali di malattie sistemiche
-#### Manifestazioni associate a malattie infettive
-#### Manifestazioni associate a malattie dermatologiche
-#### Manifestazioni associate a malattie ematologiche
-#### Pigmentazione melanica presente in corso di morbo di Addison, displasia fibrosa dell'osso, emocromatosi e sindrome di Peutz-Jegher
-#### Iperplasia fibrosa gengivale secondaria a terapia cronica con idantoina nell'epilessia
+#### Patologia dell'orecchio medio e interno
 ## Patologia delle ghiandole salivari
 ### Malattie infiammatorie
 #### Generalità

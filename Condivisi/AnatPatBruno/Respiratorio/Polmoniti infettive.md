@@ -379,4 +379,4 @@ Tag: #Anatomiapatologica #Microbiologia #Infettivologia #ApparatoRespiratorio
 
 ---
 # Reference
-[[Vie aeree]]
+[[Apparato respiratorio]]

@@ -77,5 +77,5 @@ Tag: #ApparatoRespiratorio  #Anatomiapatologica
 
 ---
 # Reference
-[[Vie aeree]]
+[[Apparato respiratorio]]
 [[Zettelkasten/Edema|Edema]]

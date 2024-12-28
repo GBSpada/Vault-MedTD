@@ -1,56 +1,19 @@
 ---
-stato: "#ideaL"
+stato: indice
 tags:
-  - "#PatologiaGenerale"
-  - "#ApparatoCardiocircolatorio"
+  - Anatomia
+  - Istologia
+  - Patologia
 sistema/apparato:
+  - Respiratorio
 ---
-03-10-2023 14:55
+\2024-12-28 \16:06
 
 --- 
 
+## Anatomia
 
-
-
-
-
-
-
-
-
-
-
-
-
-
---- 
-# Reference: [[Patologia Generale - Robbins]]
-
-\2024-12-28 \16:05
-
---- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
---- 
-# Reference:
-
-
-## Faringe
-- ![Faringe](https://i.imgur.com/Sf32wXg.jpg)
+![Faringe](https://i.imgur.com/Sf32wXg.jpg)
 ### Generalità
 - Appartiene a
 	- apparato respiratorio, essendo compresa tra le cavità nasali e la laringe
@@ -112,3 +75,41 @@ sistema/apparato:
 - Presenta il *tubercolo faringeo* (osso occipitale)
 #### Inferiore
 - Al livello della *cartilagine cricoide*
+
+## Fisiologia
+
+## Patologia
+### Malattie infiammatorie
+#### Malattie infettive
+##### Virali
+##### Batteriche
+##### Micotiche
+#### Malattie non infettive
+##### Afta
+##### Glossiti carenziali
+### Neoplasie e lesioni simil-neoplastiche
+#### Generalità e classificazione
+#### Neoplasie e lesioni simil-neoplastiche non odontogene benigne
+##### Iperplasia fibrosa e/o cellulare infiammatoria
+##### Granuloma piogenico
+##### Granuloma riparativo a cellule giganti periferico
+##### Papilloma squamocellulare
+#### Neoplasie non odontogene maligne
+##### Carcinoma squamocellulare e i suoi precursori
+#### Neoplasie e lesioni simil-neoplastiche odontogene
+##### Cisti odontogene
+#### Neoplasie odontogene
+##### Ameloblastoma
+##### Odontoma
+### Manifestazioni orali di malattie sistemiche
+#### Manifestazioni associate a malattie infettive
+#### Manifestazioni associate a malattie dermatologiche
+#### Manifestazioni associate a malattie ematologiche
+#### Pigmentazione melanica presente in corso di morbo di Addison, displasia fibrosa dell'osso, emocromatosi e sindrome di Peutz-Jegher
+#### Iperplasia fibrosa gengivale secondaria a terapia cronica con idantoina nell'epilessia
+
+
+--- 
+# Reference:
+[[Apparato respiratorio]]
+[[Testa e collo]]

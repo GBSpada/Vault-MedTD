@@ -53,7 +53,7 @@ Tag: #ApparatoRespiratorio #Anatomiapatologica
 ##### Microscopicamente
 - Tessuto fibrosclerotico denso con aree di accumulo di pigmento
 ## *Sindrome di Caplan*
-- Associazione tra [[Artrite reumatoide|artrite reumatoide]] e [[Vie aeree#Pneumoconiosi|pneumoconiosi]]
+- Associazione tra [[Artrite reumatoide|artrite reumatoide]] e [[Apparato respiratorio#Pneumoconiosi|pneumoconiosi]]
 - Storia:
 	1. descritta da Caplan nel 1953 in alcuni peculiari quadri radiologici di lavoratori delle miniere di carbone affetti da artrite reumatoide;
 	2. dopo le segnalazioni, analoghi quadri sono stati riportati anche in altre pneumoconiosi
@@ -72,4 +72,4 @@ Tag: #ApparatoRespiratorio #Anatomiapatologica
 
 ---
 # Reference
-[[Vie aeree]]
+[[Apparato respiratorio]]

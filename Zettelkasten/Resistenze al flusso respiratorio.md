@@ -2,7 +2,7 @@
 Stato: #ideaL 
 Tag: #ApparatoRespiratorio #Fisiologia 
 
-- Non sono misurabili lungo tutto il sistema respiratorio
+-  bNon sono misurabili lungo tutto il sistema respiratorio
     - Se ne identificano quattro principali tra
         - Aria inspirata - aria alveolare
             - [[Convezione ventilatoria]]

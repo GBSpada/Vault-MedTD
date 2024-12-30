@@ -2,8 +2,9 @@
 Stato: #ideaL 
 Tag: #ApparatoRespiratorio #Fisiologia 
 
--  bNon sono misurabili lungo tutto il sistema respiratorio
-    - Se ne identificano quattro principali tra
+-  Il transito di questi gas lungo il sistema respiratorio incontra continuamente delle resistenze 
+- Essendo queste molto complesse da valutare -e non sempre significative- se ne prendono in considerazione
+- Se ne identificano quattro principali tra
         - Aria inspirata - aria alveolare
             - [[Convezione ventilatoria]]
         - Aria alveolare - sangue arterioso

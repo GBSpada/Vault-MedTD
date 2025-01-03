@@ -47,9 +47,18 @@ Poiché la resistenza è il reciproco della conduttanza si può descrivere, ipot
 - La [[Pressione parziale]] dell'O2 viene valutata in questi momenti specifici, stessa cosa per quella della CO2 ![](https://i.imgur.com/egAuqSU.png)
 
 
-##### [[Convezione ventilatoria]] 
+##### Convezione ventilatoria
+- Sostenuta dalla ventilazione polmonare che permette il movimento d'aria tra l'ambiente e gli alveoli polmonari e viceversa
+	- La forza motrice è data dal ==gradiente pressorio tra aria ambiente e aria alveolare== 
+- Solo una parte è funzionale ed è detta *ventilazione alveolare (Va)*
+    - Il resto rimane nel cosidetto *spazio morto (VD)*
 
-##### - [[Trasferimento dei gas a livello alveolo-capillare]]
+    
+##### - [[Trasferimento dei gas a livello alveolo-capillare]]	
+- PAO2 è la pressione parziale di O2 nel sangue arterioso
+	- DL è la capacità di diffusione per l'O2 tra alveolo e capillare
+- [[Capacità di diffusione e cenni perfusione]]
+	- KL è una costante di proporzionalità
 ##### - [[Convezione circolatoria]]
 ##### - [[Diffusione dei gas a livello tessutale#Basic]] 
 

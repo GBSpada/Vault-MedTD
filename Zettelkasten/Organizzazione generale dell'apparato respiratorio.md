@@ -50,10 +50,33 @@ Poiché la resistenza è il reciproco della conduttanza si può descrivere, ipot
 ##### Convezione ventilatoria
 - Sostenuta dalla ventilazione polmonare che permette il movimento d'aria tra l'ambiente e gli alveoli polmonari e viceversa
 	- La forza motrice è data dal ==gradiente pressorio tra aria ambiente e aria alveolare== 
-- Solo una parte è funzionale ed è detta *ventilazione alveolare (Va)*
+- Solo una parte è funzionale ed è detta *ventilazione alveolare (VA)*
     - Il resto rimane nel cosidetto *spazio morto (VD)*
 
+$$V_{O}= V_{A}\beta_g(P_{IO_2}-P_{AO_2})$$
+- Per descrivere la convezione ventilatoria passiamo per la definizione di flusso di ossigeno (dato che l'aria inspirata ha solo la pressione parziale dell'ossigeno) dove:
+
+1. \VO2V_{O_2}\:
     
+    - **Flusso di ossigeno** (ml/min o L/min).
+    - Rappresenta la quantità di ossigeno trasportata in un'unità di tempo, influenzata dalla ventilazione alveolare e dal gradiente di pressione dell'ossigeno.
+2. **VAV_A**:
+    
+    - **Ventilazione alveolare** (ml/min o L/min).
+    - Volume di aria che raggiunge gli alveoli per unità di tempo, escludendo lo spazio morto anatomico.
+3. **βg\beta_g**:
+    
+    - **Solubilità del gas** (dimensionale o ml O2_2/ml aria · mmHg).
+    - Fattore di proporzionalità che descrive la capacità del gas (ossigeno) di dissolversi nel sangue o nell'aria alveolare, spesso legato alla legge di Henry.
+4. **PIO2P_{IO_2}**:
+    
+    - **Pressione parziale di ossigeno inspirato** (mmHg o kPa).
+    - Determinata dalla frazione di ossigeno nell'aria inspirata (FIO2F_{I O_2}) e dalla pressione atmosferica totale: PIO2=FIO2⋅(Patm−PH2O)P_{IO_2} = F_{I O_2} \cdot (P_{atm} - P_{H_2O}) Dove PatmP_{atm} è la pressione atmosferica e PH2OP_{H_2O} è la pressione del vapore acqueo.
+5. **PAO2P_{AO_2}**:
+    
+    - **Pressione parziale di ossigeno alveolare** (mmHg o kPa).
+    - Determinata dall'equilibrio tra l'ossigeno introdotto dalla ventilazione e il suo consumo metabolico. È calcolabile con l'equazione alveolare: PAO2=PIO2−PACO2RP_{AO_2} = P_{IO_2} - \frac{P_{ACO_2}}{R} Dove PACO2P_{ACO_2} è la pressione parziale di CO2_2 alveolare e RR è il quoziente respiratorio.
+
 ##### - [[Trasferimento dei gas a livello alveolo-capillare]]	
 - PAO2 è la pressione parziale di O2 nel sangue arterioso
 	- DL è la capacità di diffusione per l'O2 tra alveolo e capillare

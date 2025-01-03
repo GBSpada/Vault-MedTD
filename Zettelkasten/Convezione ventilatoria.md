@@ -5,7 +5,7 @@ Tag: #ApparatoRespiratorio #Fisiologia
 - Sostenuta dalla ventilazione polmonare
     - Questa permette il movimento d'aria tra l'ambiente e gli alveoli polmonari e viceversa
     - La forza motrice è data dal gradiente pressorio tra aria ambiente e aria alveolare 
-        - ![[Equazione di conduttanza dell'ossigeno da alveolo a sangue.png]]
+        - $V_$
             - PAO2 è la pressione parziale di O2 nel sangue arterioso
             - DL è la capacità di diffusione per l'O2 tra alveolo e capillare
                 - [[Capacità di diffusione e cenni perfusione]]

@@ -123,8 +123,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 387.51103591918945,
-    "collapsed": true
+    "width": 387.51103591918945
   },
   "right": {
     "id": "4ebe4af6d516db54",
@@ -202,25 +201,15 @@
             }
           },
           {
-            "id": "16691d5be7b3f545",
-            "type": "leaf",
-            "state": {
-              "type": "copilot-chat-view",
-              "state": {},
-              "icon": "message-square",
-              "title": "Copilot"
-            }
-          },
-          {
             "id": "efa100939263ae26",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/Endometriosi.md"
+                "file": "Zettelkasten/Organizzazione generale dell'apparato respiratorio.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Endometriosi"
+              "title": "Outline of Organizzazione generale dell'apparato respiratorio"
             }
           },
           {
@@ -236,9 +225,19 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
+          },
+          {
+            "id": "e1b651edab27b77f",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       },
       {
         "id": "39371a1e271841aa",
@@ -264,8 +263,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 776.5,
-    "collapsed": true
+    "width": 437.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -285,7 +283,7 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "deb64efb983fa472",
+  "active": "e1b651edab27b77f",
   "lastOpenFiles": [
     "Risorse/Sistematica/Apparato respiratorio.md",
     "Zettelkasten/Resistenze al flusso respiratorio.md",

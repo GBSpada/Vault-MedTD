@@ -11,7 +11,7 @@
   "azureOpenAIApiEmbeddingDeploymentName": "",
   "googleApiKey": "enc_djEx98IjW9cfUSJKY7vJCDmmMIVHb+LD3A2MM8u1jvzObrbzOqp5R1NSR2fRRroRsipc",
   "openRouterAiApiKey": "",
-  "defaultModelKey": "gemini-1.5-pro|google",
+  "defaultModelKey": "gpt-4o-mini|openai",
   "embeddingModelKey": "text-embedding-3-small|openai",
   "temperature": 0.7,
   "maxTokens": 1000,

@@ -69,4 +69,4 @@ Tag: #ApparatoRespiratorio #Anatomiapatologica
 
 ---
 # Reference
-[[Vie aeree]]
+[[Apparato respiratorio]]

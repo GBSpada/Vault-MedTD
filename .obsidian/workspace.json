@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "274ddfa2ea05f42b",
+        "id": "fd21d5bd776f6642",
         "type": "tabs",
         "children": [
           {
+<<<<<<< HEAD
             "id": "a45eda9781389567",
+=======
+            "id": "c6fda07ed379ddb7",
+>>>>>>> origin/main
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "Condivisi/AnatPatBruno/Apparato urinario/Apparato urinario.md",
                 "mode": "source",
                 "backlinks": true,
@@ -53,14 +58,38 @@
               "type": "markdown",
               "state": {
                 "file": "Condivisi/AnatPatBruno/Apparato urinario/Carcinoma uroteliale.md",
+=======
+                "file": "Risorse/Sistematica/Apparato respiratorio.md",
+>>>>>>> origin/main
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Apparato respiratorio"
+            }
+          },
+          {
+            "id": "deb64efb983fa472",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Organizzazione generale dell'apparato respiratorio.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Organizzazione generale dell'apparato respiratorio"
             }
           }
         ],
+<<<<<<< HEAD
         "currentTab": 3
+=======
+        "currentTab": 1
+>>>>>>> origin/main
       }
     ],
     "direction": "vertical"
@@ -80,8 +109,10 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
-              }
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -90,13 +121,19 @@
             "state": {
               "type": "search",
               "state": {
+<<<<<<< HEAD
                 "query": "\"MEN\"",
+=======
+                "query": "ptialina",
+>>>>>>> origin/main
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           }
         ],
@@ -112,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -129,6 +168,7 @@
       {
         "id": "91675aacfd27c02e",
         "type": "tabs",
+        "dimension": 76.19047619047619,
         "children": [
           {
             "id": "ae4351b16c3fe865",
@@ -138,7 +178,9 @@
               "state": {
                 "sortOrder": "alphabetical",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -147,7 +189,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Condivisi/AnatPatBruno/Apparato urinario/Carcinoma uroteliale.md",
+=======
+                "file": "Zettelkasten/Endometriosi.md",
+>>>>>>> origin/main
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +201,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Endometriosi"
             }
           },
           {
@@ -164,10 +212,16 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "Condivisi/AnatPatBruno/Apparato urinario/Carcinoma uroteliale.md",
+=======
+                "file": "Zettelkasten/Endometriosi.md",
+>>>>>>> origin/main
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Endometriosi"
             }
           },
           {
@@ -175,7 +229,9 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -183,7 +239,9 @@
             "type": "leaf",
             "state": {
               "type": "git-history-view",
-              "state": {}
+              "state": {},
+              "icon": "history",
+              "title": "History"
             }
           },
           {
@@ -192,8 +250,15 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "Condivisi/AnatPatBruno/Apparato urinario/Carcinoma uroteliale.md"
               }
+=======
+                "file": "Zettelkasten/Organizzazione generale dell'apparato respiratorio.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Organizzazione generale dell'apparato respiratorio"
+>>>>>>> origin/main
             }
           },
           {
@@ -205,51 +270,74 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           },
           {
-            "id": "a61a7b0a9240cf6c",
+            "id": "dd8e7dc4e7c8359d",
             "type": "leaf",
             "state": {
               "type": "copilot-chat-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "f7ec32d647bbd84b",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
+      },
+      {
+        "id": "39371a1e271841aa",
+        "type": "tabs",
+        "dimension": 23.809523809523807,
+        "children": [
+          {
+            "id": "ed5bf6c530e9f52f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Nota rapida.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Nota rapida"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
+<<<<<<< HEAD
     "width": 434.5,
     "collapsed": true
+=======
+    "width": 437.5
+>>>>>>> origin/main
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Apri selezione rapida": false,
-      "graph:Apri vista grafo": false,
-      "canvas:Crea nuova lavagna": false,
-      "daily-notes:Apri nota del giorno": false,
-      "templates:Inserisci modello": false,
-      "command-palette:Apri riquadro comandi": false,
-      "audio-recorder:Avvia/ferma registrazione": false,
+      "obsidian-git:Open Git source control": false,
+      "peerdraft:Show my Peerdraft Shares": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
       "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "translate:Open translation view": false,
-      "copilot:Copilot Chat": false,
-      "peerdraft:Show my Peerdraft Shares": false,
-      "obsidian-git:Open Git source control": false
+      "copilot:Copilot Chat": false
     }
   },
+<<<<<<< HEAD
   "active": "7553f390804079be",
   "lastOpenFiles": [
     "Condivisi/AnatPatBruno/Apparato urinario/Tumori delle vie urinarie.md",
@@ -298,15 +386,65 @@
     "Files/Fattori coagulazione.png",
     "Zettelkasten/Emostasi.canvas",
     "Files/Cascata coagulativa.png",
+=======
+  "active": "dd8e7dc4e7c8359d",
+  "lastOpenFiles": [
+    "Zettelkasten/Volumi polmonari semplici.md",
+    "Zettelkasten/Suddivisione della ventilazione.md",
+    "Zettelkasten/Ventilazione alveolare.md",
+    "Zettelkasten/Organizzazione generale dell'apparato respiratorio.md",
+    "Zettelkasten/Spazio morto anatomico e fisiologico (VD).md",
+    "Zettelkasten/Convezione ventilatoria.md",
+    "Zettelkasten/Trasferimento dei gas a livello alveolo-capillare.md",
+    "Zettelkasten/API.md",
+    "Zettelkasten/Resistenze al flusso respiratorio.md",
+    "Zettelkasten/Pressione parziale.md",
+    "Risorse/Sistematica/Apparato respiratorio.md",
+    "Zettelkasten/Perché i muscoli respiratori sono striati.md",
+    "Zettelkasten/Sistema di controllo della respirazione.md",
+    "Zettelkasten/leggi di Dalton.md",
+    "Zettelkasten/Movimento dei gas.md",
+    "Zettelkasten/Untitled 2.md",
+    "Zettelkasten/Pressione parziale ossigeno trachea.md",
+    "Zettelkasten/Definizione cascata dell'ossigeno.md",
+    "Zettelkasten/Endometriosi.md",
+    "Zettelkasten/Utero.md",
+    "Risorse/Sistematica/Apparato genitale femminile.md",
+    "Zettelkasten/Fisiologia respiratorio.md",
+    "Risorse/Testi/Fisiologia  - Conti Volume 2.md",
+    "Zettelkasten/Acido mesodiaminopimelico.md",
+    "Zettelkasten/Polmoni.md",
+    "Zettelkasten/Controllo chimico e nervoso della respirazione.md",
+>>>>>>> origin/main
     "Zettelkasten/Fisiologia Digerente.canvas",
+    "exportMdFileToHtml.py",
+    "Risorse/Varie",
+    "Risorse/Testi",
+    "Risorse/Sistematica",
+    "Risorse/Didattica",
+    "Condivisi/AnatPatBruno/Testa e collo",
+    "Condivisi/AnatPatBruno/Sistema nervoso centrale",
+    "Condivisi/AnatPatBruno/Sistema endocrino",
+    "Condivisi/AnatPatBruno/Respiratorio",
+    "Condivisi/AnatPatBruno/Pancreas",
     "Zettelkasten/Metabolismo lipoproteine.canvas",
     "Files/Pasted image 20240215211857.png",
+    "Files/Pasted image 20240215203800.png",
+    "Files/Azione dell'ADH (vasopressina).png",
     "Zettelkasten/Patologia clinica - Fegato.canvas",
     "Zettelkasten/Patologia clinica tiroidea.canvas",
     "Zettelkasten/Fisiologia urinario.canvas",
+    "Files/Meccanismi di trasporto nei due tipi cellulari dell'epitelio del tubulo contorto distale.png",
     "Zettelkasten/Untitled.canvas",
+    "Files/2023-03-05 15_34_25-Lezione-20221222_143540-Registrazione della riunione.mp4.png",
+    "Files/2023-03-17 12_40_11-New chat.png",
+    "Files/2023-04-19 15_32_50-Riunione in _General_ _ Microsoft Teams.png",
+    "Files/Andamento superficie di sezione vie aeree.png",
+    "Files/Cascata coagulativa.png",
+    "Files/Pasted image 20230903175913.png",
     "Zettelkasten/Mappa Architetture e Sistemi.canvas",
     "Zettelkasten/Fisiologia endocrino.canvas",
+    "Zettelkasten/Emostasi.canvas",
     "Zettelkasten/Metabolismo lipoproteine___.canvas"
   ]
 }

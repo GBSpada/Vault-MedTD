@@ -70,7 +70,7 @@ Tag: #Microbiologia
 	- Tra esse alcuni farmaci che però poi risultano inattivati a causa degli enzimi presenti
 >[!warning] Nota bene :
 > Fondamentale nei processi di farmaco-resistenza, i gram positivi sono costretti a secernere nella matrice grandi quantità degli enzimi presenti
-#### [[Il sacculo o parete cellulare batterica|Parete cellulare]]
+#### [[Peptidoglicano]]
 
 
 

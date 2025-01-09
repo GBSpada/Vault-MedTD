@@ -1,7 +1,11 @@
+---
+stato: ideaL
+tags:
+  - Microbiologia
+---
 31-05-2023 16:54
-Stato: #ideaL
-Tag: #Microbiologia 
 
+--- 
 ## In generale
 - Prendono il nome da Albert Neisser che descrisse il gonococco
 ### Morfologia
@@ -17,9 +21,8 @@ Tag: #Microbiologia
 ## [[Neisseria Gonorrhoeae]]
 ## [[Neisseria Meningitidis]]
 
-##### Bho
-[[Moraxelle]]
-[[Kingelle]]
+## [[Moraxelle]]
+## [[Kingelle]]
 
 
 

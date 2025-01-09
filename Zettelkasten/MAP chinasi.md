@@ -1,4 +1,15 @@
+---
+stato: "#ideaLez"
+tags:
+  - PatologiaGenerale
+  - Citologia
+  - BiologiaMolecolare
+---
+
 31-03-2023 12:10
+
+--- 
+
 Stato: #IdeaLez
 Tag: #PatologiaGenerale #Citologia #BiologiaMolecolare 
 

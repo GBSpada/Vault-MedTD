@@ -121,8 +121,9 @@ Tag: #Microbiologia
 ## Reazioni sierologiche
 - Sia gli anticorpi contro le tossine che quelli contro gli antigeni superficiali sono presenti in soggetti sani di conseguenza non ci sono reazioni sierologiche con peso diagnostico
 ## Sensibilità agli antibiotici e chemioterapici
-- Tra i più importanti teniamo a mente gli [[MRSA]] (methicillinresistant staphylococcus aureus)
-	- Questi sono ormai una emergenza sanitaria ed ormai tra essi emergono addirittura ceppi resistenti agli [[Il metabolismo batterico#Fuori dalla membrana|antibiotici glicopeptidici]] ([[vancomicina]])
+### MRSA
+- Tra i più importanti teniamo a mente gli [[MRSA]] (methicillin resistant staphylococcus aureus)
+	- Questi sono ormai una emergenza sanitaria ed ormai tra essi emergono addirittura ceppi resistenti agli [[Peptidoglicano#Fuori dalla membrana|antibiotici glicopeptidici]] ([[vancomicina]])
 ## Metodi di immunizzazione
 - Tra le opzioni più efficaci risultano gli **==autovaccini==** isolati da lesioni di un singolo paziente
 	- Essi comprendono anche un addizione di emolisina alfa resa atossica

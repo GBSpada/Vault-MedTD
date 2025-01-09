@@ -34,7 +34,7 @@ Tag: #Cardiologia
 	- alleviata da
 		- riposo
 		- somministrazione di ==vasodilatatori==
-			- ==*nitroglicerina*==
+			- ==*nitroglicerina*== (*calvasin* commercialmente)
 			- ==calcio-antagonisti==
 ## Angina variante (o di Prinzmetal)
 - Rara forma di ischemia miocardica episodica
@@ -53,7 +53,10 @@ Tag: #Cardiologia
 		- trombosi parziale
 		- embolizzazione
 		- vasospasmo
-- necrosi miocardica in ca. 50% dei pazienti
+- Necrosi miocardica in ca. 50% dei pazienti
+### Angina ingravescente
+- Nel caso di stenosi progressive
+
 
 
 

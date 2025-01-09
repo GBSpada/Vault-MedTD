@@ -6,7 +6,7 @@ Tag: #Microbiologia
 - Si parla di pneumococco o diplococcus pneumoniae ma in realtà  ha caratteristiche per le quali è assimilabile ad un streptococco quindi **streptococcus pneumoniae**
 - Si dispone comunque a coppie
 ### Caratteristiche assimilabili all'essere (strepto)cocchi
-- [[Streptococchi ed enterococchi#Caratteristiche associabili all'essere ==cocchi==]]
+- [[Streptococchi ed enterococchi#Caratteristiche generali]]
 	- Cambia solo che gli pneumococchi, a differenza di altri streptococchi, possono svolgere reazioni ossidativa in presenza di ossigeno atmosferico grazie al sistema degli enzimi flavoproteici
 		- Producono in questo caso perossido di idrogeno che però si accumula nella coltura perché non possono sintetizzare catalasi o perossidasi 
 ### Metabolismo

@@ -218,4 +218,4 @@ Tag: #ApparatoRespiratorio #Anatomiapatologica #Microbiologia
 
 ---
 # Reference
-[[Vie aeree]]
+[[Apparato respiratorio]]

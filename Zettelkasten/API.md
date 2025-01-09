@@ -6,6 +6,7 @@ Tag: #ArchitettureDiCalcolo #SistemiOperativi
 - Uno strato di software "superiore" al kernel, quasi un'interfaccia con funzionalità aggiuntive per poter interagire con il SO attraverso [[System call]]
 
 
+
 ---
 # References 
 [[Architetture e Sist. di calcolo - Sbobine]]

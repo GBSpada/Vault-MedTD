@@ -141,4 +141,4 @@ Tag: #Patologia #Anatomiapatologica #ApparatoRespiratorio
 # Reference
 [[Zettelkasten/Embolia|Embolia]]
 [[Alterazioni fisiopatologiche dei vasi sanguigni]]
-[[Vie aeree]]
+[[Apparato respiratorio]]

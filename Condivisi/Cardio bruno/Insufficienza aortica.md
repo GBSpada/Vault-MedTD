@@ -33,7 +33,7 @@ Tag: #Cardiologia
 				- congenitamente deformata
 				- valvola normale (raramente)
 			- può portare a perforazione/erosione di uno o più lembi valvolari
-		- [[Zettelkasten/Le spirochete|sifilide]] o ==spondilite anchilosante==
+		- [[Spirochete|sifilide]] o ==spondilite anchilosante==
 			- portano i lembi valvolari a fibrosi e retrazione
 		- rottura traumatica e avulsione della valvola aortica
 			- cause poco comuni

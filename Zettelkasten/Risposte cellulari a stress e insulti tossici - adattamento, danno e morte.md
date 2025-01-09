@@ -37,7 +37,7 @@ Le cellule in condizioni normali si trovano in uno stato di equilibrio detto di 
 - Agenti vasoattivi
 	- [[Endotelina]] 1, [[Angiotensina]]
 ##### Vie di trasduzione del segnale implicate
-[[PKB]], [[GPCR e PKA]]
+[[PKB]], [[GPCR]]
 
 ###### Fattori embrionali ed espressione genica
 - L'ipertrofia viene spesso associata ad una modificazione nell'espressione delle proteine contrattili dalla forma adulta a quella fetale o neonatale

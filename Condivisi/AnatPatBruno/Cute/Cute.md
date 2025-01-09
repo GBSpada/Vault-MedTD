@@ -205,7 +205,7 @@ Tag: #ApparatoTegumentario
 			- ==impregnazione argentica==
 			- evidenziazione dei prodotti intermedi della sintesi di melanina (meno efficacemente)
 >[!warning]
-> I melanociti sono fisiologicamente presenti in distretti diversi da quello cutaneo, quali l'occhio, le meningi, la mucosa della bocca, il tratto digerente ([[Intestino crasso - Anatomia|intestino crasso]]), la vagina e altri organi. Pertanto, ognuna di queste sedi può costituire il *punto d'insorgenza* di una patologia benigna o maligna dei melanociti.
+> I melanociti sono fisiologicamente presenti in distretti diversi da quello cutaneo, quali l'occhio, le meningi, la mucosa della bocca, il tratto digerente ([[Intestino crasso]]), la vagina e altri organi. Pertanto, ognuna di queste sedi può costituire il *punto d'insorgenza* di una patologia benigna o maligna dei melanociti.
 #### Approfondimento: concetto di regressione
 >[!info]
 > **Regressione**: distruzione (molto spesso parziale, raramente totale) della popolazione neoplastica ad opera di un infiltrato linfocitario specificamente "armato" contro alcuni determinanti antigenici del tumore.

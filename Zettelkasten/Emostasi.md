@@ -79,9 +79,9 @@ La piastrina ritorna velocemente alla morfologia iniziale 
 - Fondamentalmente dobbiamo distinguere due fenomeni ==cronologicamente sequenziali== che dipendono da vie intrinsecamente connesse attraverso il rilascio di calcio dal REL
 
 ##### Attivazione delle fosfolipasi C: degranulazione
-- Interazione del collagene coi recettori della superficie piastrinica: [[GPCR e PKA|GPCR]] 
+- Interazione del collagene coi recettori della superficie piastrinica: [[GPCR|GPCR]] 
 - Attivazione della [[PLC - Fosfolipasi C]] da parte della subunità attiva della GPCR
-	- Rilascio di [[DAG]]((Rivedi via della [[PKC]]))
+	- Rilascio di [[DAG]]((Rivedi via della [[GPCR#Tipo Q|PKC]]))
 	- Rilascio di IP3
 		- Liberazione di ioni Ca2+ nel citosol
 - Attivazione combinata della PKC da parte del DAG e del calcio

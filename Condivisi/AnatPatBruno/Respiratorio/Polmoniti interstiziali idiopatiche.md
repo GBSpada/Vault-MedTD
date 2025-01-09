@@ -246,4 +246,4 @@ Tag: #Anatomiapatologica #ApparatoRespiratorio
 
 ---
 # Reference
-[[Vie aeree]]
+[[Apparato respiratorio]]

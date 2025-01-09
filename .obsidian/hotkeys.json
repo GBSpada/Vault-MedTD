@@ -134,5 +134,13 @@
       "key": "ArrowRight"
     }
   ],
-  "app:go-forward": []
+  "app:go-forward": [],
+  "editor:fold-all": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "PageDown"
+    }
+  ]
 }

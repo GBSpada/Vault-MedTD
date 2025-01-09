@@ -163,7 +163,7 @@ Tag: #SistemaNervoso #Anatomia #Istologia  #Anatomiapatologica
 - Fino al 25% dei tumori solidi metastatizza al SNC
 	- talora le metastasi rappresentano il primo palesamento
 	- soprattutto tumori di
-		- [[Vie aeree#Tumori maligni|polmone]]
+		- [[Apparato respiratorio#Tumori maligni|polmone]]
 		- mammella
 		- [[melanoma]]
 - Preferenziale localizzazione in corrispondenza del passaggio tra sostanza grigia e bianca

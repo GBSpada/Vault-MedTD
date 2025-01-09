@@ -23,7 +23,7 @@ Tag: #Microbiologia
 >Non ha senso tenere sempre a mente se un batterio è anaerobio o aerobio:
 >	- Quasi tutti i batteri sono anaerobi facoltativi e quindi basta tenere a mente le eccezioni
 >		- [[Brucelle]] : aerobi obbligati
->		- [[I batteri anaerobi obbligati - Clostridi]]
+>		- [[Clostridi]]
 >
 
 >[!example] Esempio 3: i terreni di coltura

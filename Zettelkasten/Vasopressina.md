@@ -11,7 +11,6 @@ Molecola: Ormone
 --- 
 
 ## Azione
-![[Azione dell'ADH (vasopressina).png]]
 
 
 ## Regolazione

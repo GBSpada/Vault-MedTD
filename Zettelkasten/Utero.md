@@ -15,7 +15,6 @@ sistema/apparato:
 # Anatomia
 
 
-
 # Istologia
 
 ![](https://i.imgur.com/TdDWXFe.png)

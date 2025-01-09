@@ -1,110 +1,58 @@
 {
   "main": {
-    "id": "2ecc0bee04754f06",
+    "id": "06b6a117aa9eb760",
     "type": "split",
     "children": [
       {
-        "id": "fd21d5bd776f6642",
+        "id": "93a6fba12293b834",
         "type": "tabs",
         "children": [
           {
-<<<<<<< HEAD
-            "id": "a45eda9781389567",
-=======
-            "id": "c6fda07ed379ddb7",
->>>>>>> origin/main
+            "id": "0760cd7f901e643a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
-                "file": "Condivisi/AnatPatBruno/Apparato urinario/Apparato urinario.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b9bf6d2c40ebefdd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/Prostata.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ba523338572d77b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Condivisi/AnatPatBruno/Apparato urinario/Tumori delle vie urinarie.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7553f390804079be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Condivisi/AnatPatBruno/Apparato urinario/Carcinoma uroteliale.md",
-=======
-                "file": "Risorse/Sistematica/Apparato respiratorio.md",
->>>>>>> origin/main
+                "file": "Zettelkasten/Gli steroidi corticosurrenalici e antagonisti.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Apparato respiratorio"
+              "title": "Gli steroidi corticosurrenalici e antagonisti"
             }
           },
           {
-            "id": "deb64efb983fa472",
+            "id": "42e6ae8b83e7c243",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Organizzazione generale dell'apparato respiratorio.md",
+                "file": "Zettelkasten/Farmacologia clinica dei glucocorticoidi.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Organizzazione generale dell'apparato respiratorio"
+              "title": "Farmacologia clinica dei glucocorticoidi"
             }
           }
         ],
-<<<<<<< HEAD
-        "currentTab": 3
-=======
         "currentTab": 1
->>>>>>> origin/main
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "c6a357b68203d2c3",
+    "id": "3dfc2723076f9c01",
     "type": "split",
     "children": [
       {
-        "id": "14a2e795bec73f38",
+        "id": "b0d55328606e1eb2",
         "type": "tabs",
-        "dimension": 79.44501541623843,
         "children": [
           {
-            "id": "f97d3cfed9c8a951",
+            "id": "dd3f9ac7f986ea8d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -112,157 +60,99 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Esplora risorse"
             }
           },
           {
-            "id": "10385395cd655dc7",
+            "id": "8e35b99c9b60ccf7",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-<<<<<<< HEAD
-                "query": "\"MEN\"",
-=======
-                "query": "ptialina",
->>>>>>> origin/main
+                "query": "",
                 "matchingCase": false,
-                "explainSearch": true,
-                "collapseAll": true,
+                "explainSearch": false,
+                "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Ricerca"
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "45ea08796f45e544",
-        "type": "tabs",
-        "dimension": 20.554984583761563,
-        "children": [
+          },
           {
-            "id": "f8db43a76001cff7",
+            "id": "99b28f5c18e5964f",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "title": "Segnalibri"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 387.51103591918945,
+    "width": 300,
     "collapsed": true
   },
   "right": {
-    "id": "4ebe4af6d516db54",
+    "id": "9b124d1723805888",
     "type": "split",
     "children": [
       {
-        "id": "91675aacfd27c02e",
+        "id": "ad64303b8201c677",
         "type": "tabs",
-        "dimension": 76.19047619047619,
         "children": [
           {
-            "id": "ae4351b16c3fe865",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "alphabetical",
-                "useHierarchy": true
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
-            "id": "1d0373882184470a",
+            "id": "d9e0463a6323a4f1",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "Condivisi/AnatPatBruno/Apparato urinario/Carcinoma uroteliale.md",
-=======
-                "file": "Zettelkasten/Endometriosi.md",
->>>>>>> origin/main
+                "file": "Zettelkasten/Organizzazione generale dell'apparato respiratorio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Endometriosi"
+              "title": "Riferimenti a Organizzazione generale dell'apparato respiratorio"
             }
           },
           {
-            "id": "83984a49ec6149eb",
+            "id": "9c8a87cc4fa36600",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "Condivisi/AnatPatBruno/Apparato urinario/Carcinoma uroteliale.md",
-=======
-                "file": "Zettelkasten/Endometriosi.md",
->>>>>>> origin/main
+                "file": "Zettelkasten/Organizzazione generale dell'apparato respiratorio.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Endometriosi"
+              "title": "Collegamenti in uscita da Organizzazione generale dell'apparato respiratorio"
             }
           },
           {
-            "id": "5e8a87031e0aee6a",
+            "id": "310b302ab1904476",
             "type": "leaf",
             "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
-          {
-            "id": "5b9fbfc75c00330c",
-            "type": "leaf",
-            "state": {
-              "type": "git-history-view",
-              "state": {},
-              "icon": "history",
-              "title": "History"
-            }
-          },
-          {
-            "id": "efa100939263ae26",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
+              "type": "tag",
               "state": {
-<<<<<<< HEAD
-                "file": "Condivisi/AnatPatBruno/Apparato urinario/Carcinoma uroteliale.md"
-              }
-=======
-                "file": "Zettelkasten/Organizzazione generale dell'apparato respiratorio.md"
+                "sortOrder": "frequency",
+                "useHierarchy": true
               },
-              "icon": "lucide-list",
-              "title": "Outline of Organizzazione generale dell'apparato respiratorio"
->>>>>>> origin/main
+              "icon": "lucide-tags",
+              "title": "Etichette"
             }
           },
           {
-            "id": "978235b3d9c00135",
+            "id": "0f1b829c00154b09",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -272,179 +162,71 @@
                 "searchQuery": ""
               },
               "icon": "lucide-archive",
-              "title": "All properties"
+              "title": "Tutte le proprietà"
             }
           },
           {
-            "id": "dd8e7dc4e7c8359d",
+            "id": "0483361cb6425729",
             "type": "leaf",
             "state": {
-              "type": "copilot-chat-view",
+              "type": "outline",
+              "state": {
+                "file": "Zettelkasten/Organizzazione generale dell'apparato respiratorio.md"
+              },
+              "icon": "lucide-list",
+              "title": "Struttura di Organizzazione generale dell'apparato respiratorio"
+            }
+          },
+          {
+            "id": "f543aab003e9eb38",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
               "state": {},
-              "icon": "message-square",
-              "title": "Copilot"
+              "icon": "history",
+              "title": "History"
             }
           }
         ],
-        "currentTab": 7
-      },
-      {
-        "id": "39371a1e271841aa",
-        "type": "tabs",
-        "dimension": 23.809523809523807,
-        "children": [
-          {
-            "id": "ed5bf6c530e9f52f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/Nota rapida.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Nota rapida"
-            }
-          }
-        ]
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-<<<<<<< HEAD
-    "width": 434.5,
+    "width": 278.5,
     "collapsed": true
-=======
-    "width": 437.5
->>>>>>> origin/main
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
-      "peerdraft:Show my Peerdraft Shares": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "audio-recorder:Start/stop recording": false,
-      "templater-obsidian:Templater": false,
+      "switcher:Apri selezione rapida": false,
+      "graph:Apri vista grafo": false,
+      "canvas:Crea nuova lavagna": false,
+      "daily-notes:Apri nota del giorno": false,
+      "templates:Inserisci modello": false,
+      "command-palette:Apri riquadro comandi": false,
+      "audio-recorder:Avvia/ferma registrazione": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false,
       "translate:Open translation view": false,
+      "templater-obsidian:Templater": false,
+      "peerdraft:Show my Peerdraft Shares": false,
       "copilot:Copilot Chat": false
     }
   },
-<<<<<<< HEAD
-  "active": "7553f390804079be",
+  "active": "42e6ae8b83e7c243",
   "lastOpenFiles": [
-    "Condivisi/AnatPatBruno/Apparato urinario/Tumori delle vie urinarie.md",
-    "Zettelkasten/Cervice.md",
-    "Zettelkasten/Papillomavirus e Polyomavirus.md",
-    "Zettelkasten/Prostata.md",
-    "Condivisi/AnatPatBruno/Apparato urinario/Glomerulonefriti a patogenesi immunologica.md",
-    "Condivisi/AnatPatBruno/Apparato urinario/Apparato urinario.md",
-    "Files/Sindrome nefrosica.md",
-    "Zettelkasten/Patologia clinica - Rene.md",
-    "Condivisi/AnatPatBruno/Cute/Cute.md",
-    "Condivisi/AnatPatBruno/Cute/Carcinoma squamocellulare (tegumento).md",
-    "Condivisi/AnatPatBruno/Tratto gastrointestinale/Carcinoma squamoso dell'esofago.md",
-    "Condivisi/AnatPatBruno/Cute/Melanoma.md",
-    "Condivisi/AnatPatBruno/Sistema endocrino/Neoplasie endocrine multiple (MEN).md",
-    "Condivisi/AnatPatBruno/Sistema endocrino/Carcinoma corticosurrenalico.md",
-    "Condivisi/AnatPatBruno/Sistema nervoso centrale/Sistema nervoso centrale.md",
-    "Condivisi/AnatPatBruno/Sistema nervoso centrale/Gliomi diffusi.md",
-    "Zettelkasten/Ovaio.md",
-    "Condivisi/AnatPatBruno/Pancreas/Pancreas.md",
-    "Condivisi/AnatPatBruno/Cute/Carcinoma a cellule di Merkel (carcinoma neuroendocrino primitivo cutaneo).md",
-    "Condivisi/AnatPatBruno/Pancreas/Pancreatite.md",
-    "Zettelkasten/Pancreatite.md",
-    "Condivisi/AnatPatBruno/Sistema endocrino/Tumori tiroidei.md",
-    "Condivisi/AnatPatBruno/Sistema endocrino/Carcinoma follicolare.md",
-    "Condivisi/AnatPatBruno/Sistema endocrino/Gozzo.md",
-    "Condivisi/AnatPatBruno/Sistema endocrino/Gozzo tossico (morbo di Graves o morbo di Flajani-Basedow).md",
-    "Zettelkasten/Testicolo.md",
-    "Condivisi/AnatPatBruno/Sistema endocrino",
-    "Condivisi/AnatPatBruno/Apparato urinario",
-    "Condivisi/AnatPatBruno/Fegato e vie biliari",
-    "Condivisi/AnatPatBruno/Sistema nervoso centrale",
-    "Condivisi/AnatPatBruno/Pancreas",
-    "Condivisi/AnatPatBruno/Apparato cardiocircolatorio",
-    "Condivisi/AnatPatBruno/Apparato locomotore",
-    "Condivisi/AnatPatBruno/Testa e collo",
-    "Condivisi/AnatPatBruno/drive-download-20240915T211222Z-001.zip",
-    "Files/Grafico Tensione-Lunghezza muscolare.png",
-    "Condivisi/AnatPatBruno/Cute/drive-download-20240915T155301Z-001.zip",
-    "Files/Trasporti nelle porzioni del tubulo renale.png",
-    "Files/Pasted image 20231214190821.png",
-    "Files/Pasted image 20240820181305.png",
-    "Files/Pasted image 20240815033708.png",
-    "Files/Pasted image 20240819161459.png",
-    "Files/Pasted image 20240819134218.png",
-    "Files/Fattori coagulazione.png",
-    "Zettelkasten/Emostasi.canvas",
-    "Files/Cascata coagulativa.png",
-=======
-  "active": "dd8e7dc4e7c8359d",
-  "lastOpenFiles": [
-    "Zettelkasten/Volumi polmonari semplici.md",
-    "Zettelkasten/Suddivisione della ventilazione.md",
-    "Zettelkasten/Ventilazione alveolare.md",
-    "Zettelkasten/Organizzazione generale dell'apparato respiratorio.md",
-    "Zettelkasten/Spazio morto anatomico e fisiologico (VD).md",
-    "Zettelkasten/Convezione ventilatoria.md",
-    "Zettelkasten/Trasferimento dei gas a livello alveolo-capillare.md",
-    "Zettelkasten/API.md",
-    "Zettelkasten/Resistenze al flusso respiratorio.md",
-    "Zettelkasten/Pressione parziale.md",
-    "Risorse/Sistematica/Apparato respiratorio.md",
-    "Zettelkasten/Perché i muscoli respiratori sono striati.md",
-    "Zettelkasten/Sistema di controllo della respirazione.md",
-    "Zettelkasten/leggi di Dalton.md",
-    "Zettelkasten/Movimento dei gas.md",
-    "Zettelkasten/Untitled 2.md",
-    "Zettelkasten/Pressione parziale ossigeno trachea.md",
-    "Zettelkasten/Definizione cascata dell'ossigeno.md",
-    "Zettelkasten/Endometriosi.md",
+    "Zettelkasten/Micobatteri.md",
+    "Zettelkasten/Colorazione di Gram.md",
     "Zettelkasten/Utero.md",
-    "Risorse/Sistematica/Apparato genitale femminile.md",
+    "Zettelkasten/Adenocarcinoma - utero.md",
+    "Zettelkasten/Farmacologia clinica dei glucocorticoidi.md",
+    "Zettelkasten/Carcinosarcoma - utero.md",
+    "Zettelkasten/Gli steroidi corticosurrenalici e antagonisti.md",
+    "Zettelkasten/Organizzazione generale dell'apparato respiratorio.md",
+    "Zettelkasten/Trasferimento dei gas a livello alveolo-capillare.md",
+    "Zettelkasten/legge di Graham.md",
     "Zettelkasten/Fisiologia respiratorio.md",
-    "Risorse/Testi/Fisiologia  - Conti Volume 2.md",
-    "Zettelkasten/Acido mesodiaminopimelico.md",
-    "Zettelkasten/Polmoni.md",
-    "Zettelkasten/Controllo chimico e nervoso della respirazione.md",
->>>>>>> origin/main
-    "Zettelkasten/Fisiologia Digerente.canvas",
-    "exportMdFileToHtml.py",
-    "Risorse/Varie",
-    "Risorse/Testi",
-    "Risorse/Sistematica",
-    "Risorse/Didattica",
-    "Condivisi/AnatPatBruno/Testa e collo",
-    "Condivisi/AnatPatBruno/Sistema nervoso centrale",
-    "Condivisi/AnatPatBruno/Sistema endocrino",
-    "Condivisi/AnatPatBruno/Respiratorio",
-    "Condivisi/AnatPatBruno/Pancreas",
-    "Zettelkasten/Metabolismo lipoproteine.canvas",
-    "Files/Pasted image 20240215211857.png",
-    "Files/Pasted image 20240215203800.png",
-    "Files/Azione dell'ADH (vasopressina).png",
-    "Zettelkasten/Patologia clinica - Fegato.canvas",
-    "Zettelkasten/Patologia clinica tiroidea.canvas",
-    "Zettelkasten/Fisiologia urinario.canvas",
-    "Files/Meccanismi di trasporto nei due tipi cellulari dell'epitelio del tubulo contorto distale.png",
-    "Zettelkasten/Untitled.canvas",
-    "Files/2023-03-05 15_34_25-Lezione-20221222_143540-Registrazione della riunione.mp4.png",
-    "Files/2023-03-17 12_40_11-New chat.png",
-    "Files/2023-04-19 15_32_50-Riunione in _General_ _ Microsoft Teams.png",
-    "Files/Andamento superficie di sezione vie aeree.png",
-    "Files/Cascata coagulativa.png",
-    "Files/Pasted image 20230903175913.png",
-    "Zettelkasten/Mappa Architetture e Sistemi.canvas",
-    "Zettelkasten/Fisiologia endocrino.canvas",
-    "Zettelkasten/Emostasi.canvas",
-    "Zettelkasten/Metabolismo lipoproteine___.canvas"
+    "Zettelkasten/().md",
+    "Risorse/Sistematica/Apparato respiratorio.md"
   ]
 }

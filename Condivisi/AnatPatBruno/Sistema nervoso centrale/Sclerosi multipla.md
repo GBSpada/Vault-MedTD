@@ -19,7 +19,7 @@ Tag: #SistemaNervoso #Anatomiapatologica
 ### Predisposizione genetica
 - Suggerita da
 	- casi con aggregazione familiare
-	- rischio aumentato nei parenti di secondo e terzo grado di pazienti con SM
+	- rischio aumentato nei parenti di secondo e terzo grado di pazienti con SM- ==**Idrope della colecisti**==
 	- concordanza del 25% nei gemelli monozigoti
 - Collegata ad alcuni aplotipi MHC
 	- es. [[Malattie del sistema immunitario#HLA e malattie|HLA DR2]]

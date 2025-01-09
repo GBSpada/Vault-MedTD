@@ -6,7 +6,7 @@ tags:
 sistema/apparato:
   - Tegumentario
 ---
-\31-08-2024 \02:54
+-\31-08-2024 \02:54
 
 --- 
 ### Lesioni epiteliali benigne

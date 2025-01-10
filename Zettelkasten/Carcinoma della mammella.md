@@ -369,7 +369,7 @@ Vedi [[|]]
 
 
 
-### Radiologica
+o### Radiologica
 ## Terapia
 
 - Le raccomandazioni cliniche per il trattamento sistemico sono state definite **in funzione della classificazione molecolare del tumore** che prende in considerazione determinati fattori clinico-patologici:

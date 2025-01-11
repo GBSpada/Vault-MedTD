@@ -65,19 +65,79 @@ F -->|metabolismo epatico| G[Pregnantriolo]
 - I pazienti devono ricevere ==dosi elevate di cortisolo== durante e dopo l'intervento chirurgico.
 	- Dosi di 300 mg di cortisolo idrosolubile (ad es. come emisuccinato, N.d.T.) vanno senz'altro somministrate, come infusione IV continua il giorno dell'intervento. 
 	- La dose dev'essere ridotta alle ==quantità normali di sostituzione in maniera graduale==, in quanto una rapida riduzione puo portare a febbre e dolori articolari. 
-- Nel caso sia stata effettuata la surrenectomia, il **mantenimento a lungo termine** è simile a quello indicato precedentemente per l'insufficienza corticosurrenalica (per l'impiego in alcune forme di sindrome di Cushing di mifepristone e pasireotide, si vedano pagg. 7 99 -800, N.d.T.).
+- Nel caso sia stata effettuata la surrenectomia, il **mantenimento a lungo termine** è simile a quello indicato precedentemente per l'insufficienza corticosurrenalica 
+	- Per l'impiego in alcune forme di sindrome di Cushing di mifepristone e pasireotide, si veda [[Gli steroidi corticosurrenalici e antagonisti#Inibitori della sintesi ed antagonisti dei glucocorticoidi]]
 #### Sindrome della resistenza generalizzata primaria ai glucocorticoidi (sindrome di Chrousos)
+##### Eziologia
 - Questa rara condizione genetica, acquisita o su base ereditaria, è generalmente dovuta a ==mutazioni inattivanti del gene del recettore per i glucocorticoidi==.
-- Nel tentativo di compensare questo difetto, l'**asse ipotalamo-ipofisi-surrene** è **iperfunzionante** con aumentata produzione di ACTH che porta ad elevati livelli circolanti di 
-	- Cortisolo e di precursori del cortisolo, quali corticosterone e 11-deossicorticosterone con attività mineralcorticoide 
-		- Cpertensione, con o senza alcalosi metabolica
-	- Androgeni surrenalici.
-		- , e iperandrogenismo, che si manifesta con virilizzazione e pubertà precoce nei bambini e acne, irsutismo, calvizie di tipo maschile e irregolarità mestruali (principalmente oligomenorrea e ipofertilità) nelle donne.
-- La terapia di questa sindrome consiste di alte dosi di glucocorticoidi sintetici, come il desametasone essenzialmente privo di attività mineralcorticoide.
+##### Manifestazioni e fisiopatologia
+- Nel tentativo di compensare questo difetto, l'**asse ipotalamo-ipofisi-surrene** è **iperfunzionante** con aumentata produzione di ACTH che porta ad **elevati livelli circolanti di** 
+	- **Cortisolo** e di precursori del cortisolo, quali corticosterone e 11-deossicorticosterone con attività mineralcorticoide 
+		- Portando di conseguenza ad ==ipertensione==, con o senza alcalosi metabolica
+	- **Androgeni surrenalici**.
+		- Con conseguente ==iperandrogenismo==, che si manifesta con ==virilizzazione== e ==pubertà precoce== nei bambini e acne, ==irsutismo==, ==calvizie== di tipo maschile e ==irregolarità mestruali== (principalmente oligomenorrea e ipofertilità) nelle donne.
+##### Terapia
+- La terapia di questa sindrome consiste di **alte dosi di glucocorticoidi sintetici**, come il desametasone essenzialmente privo di attività mineralcorticoide.
 - Questi dosaggi vengono aggiustati gradualmente al fine di normalizzare la produzione del cortisolo, dei precursori del cortisolo e degli ormoni androgeni
 #### Aldosteronismo
+>[!warning] Nota bene:
+>Questa sindrome viene qui ricordata per informazione e non perché i glucocorticoidi risultino efficaci in senso soppressivo (N.d.T.)
+
+##### Eziologia
+- L'**aldosteronismo primario** di regola è conseguenza di un'eccessiva produzione di aldosterone dovuta ad un ==adenoma corticosurrenalico==.
+	- Puo esser anche dovuto ad un'**abnorme secrezione da parte di ghiandole iperplastiche o di un tumore maligno**.
+- Questa sindrome può esser prodotta da eccessiva secrezione di 11-deossicorticosterone, corticosterone o di 18-idrossicorticosterone, tutti composti ad attività mineralcorticoide. 
+##### Manifestazioni
+- I segni clinici come ipertensione, affaticamento e tetania, sono ==conseguenti alla continua perdita di potassio con le urine==, la quale porta a [[ipokaliemia]], [[Alcalosi metabolica]] ed [[ipernatremia]]. 
+- A **differenza dei pazienti con aldosteronismo secondario**, quelli affetti da aldosteronismo primario presentano ==bassi livelli di attività reninica plasmatica e di angiotensina II==. 
+- Qualora vengano trattati con **fludrocortisone** (0,2 mg due volte al giorno per os per 3 giorni) o con acetato di **desossicorticosterone** (20 $mg/l \;die$ IM per 3 giorni), essi ==non riescono a ritenere sodio== e la secrezione di aldosterone non risulta ridotta in maniera significativa.
+##### Diagnosi e trattamento
+- Quando il disturbo è lieve, ==può essere difficile diagnosticarlo con la misurazione della potassiemia==. 
+	- Può essere invece diagnosticato da un ==rapporto a  umentato tra aldosterone plasmatico e renina=
+- Si riscontra invece in essi un **miglioramento con la somministrazione di spironolattone**, che blocca i recettori dell'aldosterone, e la risposta a questo composto ha valore diagnostico e terapeutico
 
 ### Uso di glucocorticoidi a scopo diagnostico
+- E talora necessario sopprimere la secrezione di ACTH allo scopo di identificare l'origine di un particolare ormone e stabilire se la sua produzione sia o meno influenzata da quella di ACTH. In queste circostanze, risulta utile l'impiego di composti molto potenti quali il desametasone, dato che l'effetto si ha per piccole quantità ed è minore la possibilità di confusione nell'interpretazione delle determinazioni ormonali nel sangue e nelle urine. Ad es., se una completa soppressione della secrezione di ACTH può essere raggiunta con l'uso di 50 mg di cortisolo, i 17-idrossicorticoidi urinari suoi metaboliti saranno 15-18 mg nelle 24 ore, dato che un terzo della dose viene recuperato nelle urine come 17-idrossicorticoidi. Se si utilizzerà la dose equivalente di desametasone, ossia 1,5 mg, l'escrezione sarà solo di 0,5 mgl/24 ore ed i livelli ematici saranno bassi.
+Il test di soppressione al desametasone risulta utile
+per la diagnosi di sindrome di Cushing ed è stato anche
+usato nella diagnosi differenziale degli stati depressivi.
+Un mg di desametasone viene somministrato per os
+alle 23, ed un prelievo di plasma è effettuato al matti-
+no successivo. In individui normali, le concentrazioni
+di cortisolo sono di regola inferiori a3 p.gldL, mentre
+nella sindrome di Cushing sono di regola superiori a
+5 1;gldL.I risultati sono meno attendibili in presenza
+di depressione, ansietà, malattie concomitanti ed altre
+situazioni comportanti stress, oppure se il paziente ha
+preso farmaci che aumentano il catabolismo epatico del
+desametasone. Per distinguere fra ipercortisolismo do-
+r,uto a stati d'ansia, depressione ed alcolismo (sindrome
+pseudo-Cushing) da un lato e sindrome di Cushing vera
+dall'altro, viene eseguito un test combinato che consiste
+nella somministrazione di desametasone (0,5 mgper os
+ogni 6 ore per due giorni) seguita da un test standard di
+stimolazione con ormone stimolante la corticotropina
+(CRH), 1 mg/kg somministrato come bolo IV 2 ore do-
+po 1'ultima dose di desametasone.
+Nei pazienti in cui è stata diagnosticata clinicamente
+una sindrome di Cushing, e la diagnosi è stata conferma-
+ta da elevato cortisolo libero nelle urine, la soppressione
+indotta da alte dosi di desametasone potrà aiutare a distin-
+guere i pazienti con malattia di Cushing da quelli con tu-
+mori della corteccia surrenalicaproducenti steroidi o con
+sindromi carulterizzate da produzione ectopica di ACTH.
+Il desametasone è somministrato per os alla dose di 0,5
+mg ogni 6 ore per due giomi, seguiti da2mg ogni 6 ore
+per altri due giorni, e sono quindi misurati nelle urine il
+cortisolo o i suoi metaboliti (test di Liddle); in alternati-
+va, il desametasone è somministrato in una singola dosedi 8 mg alle23 ed il cortisolo plasmatico viene misurato
+alle 8 del mattino seguente. Nei pazienti con malattia di
+Cushing, l'effetto soppressivo del desametasone pro-
+durrà una riduzione del 50% dei livelli di ormone. Nei
+pazienti in cui non si verifica tale soppressione, il livello
+di ACTH sarà basso in presenza di un tumore surrenalico
+producente cortisolo, ma sarà elevato nei pazienti con
+una neoplasia ectopica producente ACTH
 
 ## Corticosteroidi surrenalici e stimolazione della maturazione polmonare nel feto
 

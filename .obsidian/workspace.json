@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "9b124d1723805888",
@@ -215,10 +214,12 @@
   "active": "42e6ae8b83e7c243",
   "lastOpenFiles": [
     "Zettelkasten/Gli steroidi corticosurrenalici e antagonisti.md",
+    "Zettelkasten/Ipervolemia.md",
+    "Zettelkasten/Farmacologia clinica dei glucocorticoidi.md",
+    "Zettelkasten/Ipernatremia.md",
     "Zettelkasten/Carcinoma lobulare in situ di tipo classico - mammella.md",
     "Zettelkasten/Carcinoma della mammella.md",
     "Zettelkasten/Carcinoma lobulare invasivo - mammella.md",
-    "Zettelkasten/Farmacologia clinica dei glucocorticoidi.md",
     "Zettelkasten/Micobatteri.md",
     "Zettelkasten/Colorazione di Gram.md",
     "Zettelkasten/Utero.md",

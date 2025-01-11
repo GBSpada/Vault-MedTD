@@ -10,6 +10,6 @@ Files/
 .DS_Store
 
 # to only exclude plugin configuration. Might be useful to prevent some plugin from exposing sensitive data
-.obsidian/plugin
+.obsidian/plugins
 
 .obsidian/workspace

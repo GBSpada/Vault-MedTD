@@ -162,7 +162,7 @@ Tag: #SistemaEndocrino #Anatomiapatologica
 ##### Decorso clinico
 - Se non trattati, si va incontro a
 	- regressione progressiva (voleeevi) delle singole funzioni dell'adenoipofisi
-	- [[diabete]]
+	- [[Diabete mellito]]
 #### Adenomi producenti gonadotropine
 - Si presentano come macroadenomi
 - Possono costituire un problema diagnostico

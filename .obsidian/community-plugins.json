@@ -7,10 +7,8 @@
   "obsidian-style-settings",
   "table-editor-obsidian",
   "obsidian-image-toolkit",
-  "obsidian-mindmap-nextgen",
   "calendar",
   "obsidian-pandoc",
-  "obsidian-kanban",
   "obsidian-advanced-slides",
   "flashcards-obsidian",
   "smart-connections",
@@ -20,7 +18,6 @@
   "terminal",
   "translate",
   "obsidian-imgur-plugin",
-  "obsidian-enhancing-mindmap",
   "templater-obsidian",
   "obsidian-dictionary-plugin",
   "quick-latex",
@@ -28,5 +25,12 @@
   "copilot",
   "obsidian-linter",
   "obsidian-heading-shifter",
-  "heading-level-indent"
+  "heading-level-indent",
+  "obsidian-custom-frames",
+  "find-unlinked-files",
+  "obsidian-quiet-outline",
+  "obsidian-kanban",
+  "obsidian-importer",
+  "obsidian-enhancing-mindmap",
+  "obsidian-mindmap-nextgen"
 ]

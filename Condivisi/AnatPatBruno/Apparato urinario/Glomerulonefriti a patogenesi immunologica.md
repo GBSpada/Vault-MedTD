@@ -17,7 +17,7 @@ Tag: #ApparatoUrinario #Anatomiapatologica
 - Seconda causa di IRC nella popolazione mondiale
 	- con notevoli differenze a seconda delle aree geografiche
 	- ponendosi al primo posto in Australia
-		- e al terzo, dopo [[diabete]] e [[ipertensione]] negli USA
+		- e al terzo, dopo [[Diabete mellito]] e [[ipertensione]] negli USA
 ### Inquadramento delle glomerulonefriti a patogenesi immunologica
 >[!info]
 >Gruppo più rilevante delle malattie glomerulari. I meccanismi patogenetici coinvolti sono complessi e non completamente noti. Possono essere diversi i moventi iniziali che innescano il processo (es. autoimmunità, neoplasie, agenti infettivi, farmaci, ecc.).

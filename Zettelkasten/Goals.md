@@ -4,9 +4,9 @@ kanban-plugin: basic
 
 ---
 
-## III anno MedTD
+## MedTD
 
-- [ ] [[Task IV anno I semestre]]
+- [ ] [[Task]]
 - [ ] Passare one note su obs
 
 
@@ -53,12 +53,6 @@ kanban-plugin: basic
 ## Libri
 
 - [ ] Social intelligence and nonverbal communication
+- [ ] Apologia di socrate
+- [ ] Così parlò zarathustra
 
-
-
-
-%% kanban:settings
-```
-{"kanban-plugin":"basic","show-checkboxes":true}
-```
-%%

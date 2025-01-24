@@ -36,7 +36,7 @@ Tag: #Testaecollo #Anatomiapatologica
 - Quadro caratteristico
 	- ==tumefazione delle ghiandole coinvolte==, in particolare delle parotidi
 - ==Complicanza meningitica== → quella più terribile
-- ==Coinvolgimento del pancreas== → associato allo sviluppo di [[diabete]]
+- ==Coinvolgimento del pancreas== → associato allo sviluppo di [[Diabete mellito]]
 ##### Batteriche
 - Conseguenti a ostruzione dei dotti principali della ghiandola coinvolta ad opera di *calcoli* (==sialolitiasi==)
 	- blocco del drenaggio della saliva per la presenza di residui alimentari

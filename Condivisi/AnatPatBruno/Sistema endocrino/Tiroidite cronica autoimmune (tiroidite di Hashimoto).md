@@ -18,7 +18,7 @@ Tag: #SistemaEndocrino #Anatomiapatologica
 		- *anti-ormoni tiroidei*
 	- non è infrequente
 		- l'associazione con altre patologie autoimmuni
-			- [[diabete#Tipo I|diabete mellito di tipo I]]
+			- [[Diabete mellito#Tipo I|diabete mellito di tipo I]]
 			- [[sindrome di Sjögren]]
 		- familiarità per disturbi autoimmunitari
 			- soprattutto [[Gozzo tossico (morbo di Graves o morbo di Flajani-Basedow)|morbo di Graves]]

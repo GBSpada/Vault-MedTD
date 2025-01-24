@@ -35,7 +35,7 @@ Tag: #ApparatoDigerente #Anatomiapatologica
 #### Patologie
 ##### [[Pancreatite#Pancreatite cronica|Pancreatite cronica]]
 - In tutte le sue forme, ma particolarmente quelle su base genetico-ereditaria (rischio del 40-70%)
-##### [[Diabete]]
+##### [[Diabete mellito]]
 - Associato, ma non ha un ruolo diretto
 #### Alterazioni geniche
 >[!info]

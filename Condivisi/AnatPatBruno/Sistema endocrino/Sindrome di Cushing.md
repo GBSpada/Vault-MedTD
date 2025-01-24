@@ -58,7 +58,7 @@ Tag: #SistemaEndocrino #Anatomiapatologica
 			- ==acne==
 			- ==oligomenorrea==
 			- voce profonda
-	- [[diabete]] conclamato (insulino-resistente)
+	- [[Diabete mellito]] conclamato (insulino-resistente)
 		1. ne consegue l'instaurarsi di ==osteoporosi==
 			- soprattutto alla colonna vertebrale
 		2. conseguente cifosi dorsale

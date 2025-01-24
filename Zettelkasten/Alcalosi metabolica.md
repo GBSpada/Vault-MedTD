@@ -45,7 +45,7 @@ sistema/apparato:
 - **Vomito prolungato**
 - Aspirazione gastrica
 - Eccessiva assunzione di bicarbonato
-- Iperaldosteronismo con ipokaliemia
+- Iperaldosteronismo con ipokaliemia vedi ([[Farmacologia clinica dei glucocorticoidi#Sull'equilibrio elettrolitico]])
 - Terapia diuretica
 ## Manifestazioni
 - Sintomi variegati e dipendenti dalle cause del disturbo

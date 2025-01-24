@@ -40,6 +40,5 @@ Il trattamento per la sindrome di Pickwick può includere la gestione dell'obesi
 
 
 
-
 --- 
 # Reference: GPT

@@ -61,7 +61,7 @@ Tag: #Anatomiapatologica #ApparatoDigerente
 - Osservazione di un'**eccessiva neoduttulogenesi periportale associata a colangite linfocitaria**
 	- ulteriori indagini per evitare confusione con una malattia vanificante delle vie biliari
 >[!warning]
-> Il quadro istologico non è specifico: lesioni elementari molto simili sono riscontrabili in epatopatie da farmaci, nella sindrome metabolica, nel [[Morbo di Wilson|morbo di Wilson]], nel [[Diabete|diabete]] e nel deficit congenito di $\alpha_1$-antitripsina. È quindi opportuno che il patologo, anche nei casi più conclamati, utilizzi sempre il termine di “epatopatia di tipo alcolico” lasciando aperte altre possibilità di diagnosi finale clinicopatologica.
+> Il quadro istologico non è specifico: lesioni elementari molto simili sono riscontrabili in epatopatie da farmaci, nella sindrome metabolica, nel [[Morbo di Wilson|morbo di Wilson]], nel [[Diabete mellito|diabete]] e nel deficit congenito di $\alpha_1$-antitripsina. È quindi opportuno che il patologo, anche nei casi più conclamati, utilizzi sempre il termine di “epatopatia di tipo alcolico” lasciando aperte altre possibilità di diagnosi finale clinicopatologica.
 ### Correlazioni anatomocliniche
 - La manifestazioni variano a seconda del quadro morfologico epatico:
 	1. [[Epatopatie tossico-metaboliche#Steatosi alcolica|steatosi alcolica]]: prima manifestazione clinico-patologica
@@ -74,7 +74,7 @@ Tag: #Anatomiapatologica #ApparatoDigerente
 > Sotto questa definizione vengono comprese una serie di malattie che hanno in comune un’**alterazione, acquisita o congenita del metabolismo** con conseguente **accumulo epatico di un’ingente quantità di sostanze**, che divengono **tossiche** per il fegato. La condizione acquisita più frequente è senz’altro la ==steatoepatite non alcolica==.
 ### Steatosi epatica non alcolica (Non Alcoholic Fatty Liver Disease, NAFLD)/Steatoepatite non alcolica (Non Alcoholic SteatoHepatis, NASH)
 >[!info]
-> Si tratta di un'epatopatia con alterazioni morfologiche tipiche del danno cronico da alcol, in soggetti non bevitori, associata ad obesità e a [[Diabete#Tipo II|diabete mellito di tipo 2]].
+> Si tratta di un'epatopatia con alterazioni morfologiche tipiche del danno cronico da alcol, in soggetti non bevitori, associata ad obesità e a [[Diabete mellito#Tipo II|diabete mellito di tipo 2]].
 #### Epidemiologia
 - Da molti considerata la **nuova epidemia del 2000** in Europa e USA
 	- strettamente legata all'errata alimentazione, alla diminuzione dell'attività fisica e all'obesità

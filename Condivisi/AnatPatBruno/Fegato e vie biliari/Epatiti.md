@@ -188,7 +188,7 @@ Tag: #Anatomiapatologica #ApparatoDigerente
 - Generalmente conseguenza di un'infezione da batteri piogeni in sede addominale
 	- si verifica raramente a causa dell'efficace clearance batterica da parte delle [[Concetti generali - Fegato#Cellule di Kupffer|cellule di Kupffer]]
 - Condizioni predisponenti
-	- [[Diabete|diabete mellito]] e altre malattie croniche debilitanti
+	- [[Diabete mellito|diabete mellito]] e altre malattie croniche debilitanti
 	- somministrazione di ==cortisonici== o di ==farmaci chemioterapici==
 	- immunodeficienze congenite o acquisite
 - Microrganismi causanti

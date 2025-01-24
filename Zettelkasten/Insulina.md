@@ -35,10 +35,10 @@ Molecola: Ormone
 ## Azione
 - Si basa tutta sulle vie di segnalazioni conseguenti al legame con il suo **recettore**
 	- Recettore tirosin-chinasico composto da due catene unite da ponti disolfuro
-		- $\alpha$, ha un dominzio extracellulare
+		- $\alpha$, ha un dominio extracellulare
 		- Porzione transmembrana
 		- $\beta$, porzione intracellulare autofosforilante
-
+- [[PKB]]
 ### In base alla componente cellulare
 #### Sui [[Trasportatori del glucosio (GLUT)]]
 ![](https://i.imgur.com/BtzSgGm.png)
@@ -64,7 +64,7 @@ Molecola: Ormone
 #### SNC
 - Regolazione dell’omeostasi metabolica
 - In topi carenti di IR a livello cerebrale si è sviluppata rapidamente una condizione di obesità 
-	- L’alterazione, a livello del nucleo aracuato, regolava negativamente la gluconeogenesi
+	- L’alterazione, a livello del nucleo arcuato, regolava negativamente la gluconeogenesi
 
 
 ## Regolazione

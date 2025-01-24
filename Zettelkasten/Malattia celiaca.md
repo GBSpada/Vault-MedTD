@@ -265,7 +265,7 @@ Tag: #ApparatoDigerente #Anatomiapatologica #Patologia #Immunologia
 - Fratture patologiche
 ### Malattia datata non trattata
 - Insorgenza di patologie correlate
-	- [[Diabete#Tipo I|diabete di tipo I]]
+	- [[Diabete mellito#Tipo I|diabete di tipo I]]
 	- [[Cute#Dermatite erpetiforme o di Duhring|dermatite erpetiforme]]
 	- tiroidite autoimmune
 	- collagenopatie

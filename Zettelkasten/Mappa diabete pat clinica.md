@@ -7,7 +7,7 @@ mindmap-plugin: basic
 
 --- 
 
-> Per la patologia: [[Diabete]]
+> Per la patologia: [[Diabete mellito]]
 
 ## Esami di laboratorio
 

@@ -14,7 +14,7 @@ Tag: #ApparatoDigerente
 ### [[Pancreatite]]
 ### [[Carcinoma pancreatico]]
 ## Pancreas endocrino
-### [[Diabete]]
+### [[Diabete mellito]]
 ### Proliferazioni endocrine
 
 

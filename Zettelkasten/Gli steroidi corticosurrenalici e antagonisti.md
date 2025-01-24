@@ -309,6 +309,18 @@ Tag: #Farmacologia #Antinfiammatori #SistemaEndocrino #Endocrinologia
 - Azioni di sintesi simili a quelle del cortisolo
 - Essi si legano a recettori intracellulari specifici di natura proteica e producono i medesimi effetti con diversi rapporti di potenza di attività glucocorticoide rispetto a quella mineralcorticoide
 ### [[Farmacologia clinica dei glucocorticoidi]]
+### Aldosterone
+
+#### Effetti fisiologici e farmacologici
+
+#### Metabolismo
+
+### Desossicorticosterone (DOC)
+
+### Fludrocortisone
+
+
+
 # Inibitori e antagonisti degli ormoni corticosurrenalici
 - ==Inibitori della sintesi== → agiscono a diversi livelli
 - ==Agonista== → agisce a livello recettoriale

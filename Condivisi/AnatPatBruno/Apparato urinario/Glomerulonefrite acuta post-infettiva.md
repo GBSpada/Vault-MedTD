@@ -18,7 +18,7 @@ Tag: #ApparatoUrinario #Anatomiapatologica
 		- sia nei Paesi occidentali che in quelli in via di sviluppo
 		- spesso in presenza di
 			- comorbilità
-				- [[diabete]], vasculopatie generalizzate, neoplasie
+				- [[Diabete mellito]], vasculopatie generalizzate, neoplasie
 			- condizioni debilitanti
 				- alcolismo, uso di stupefacenti per via endovenosa
 ### Forme dell'età anziana

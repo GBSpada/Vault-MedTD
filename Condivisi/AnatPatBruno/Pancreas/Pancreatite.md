@@ -181,7 +181,7 @@ Tag: #ApparatoDigerente #Anatomiapatologica
 >[!info]
 > Malattia infiammatoria a decorso persistente e progressivo, caratterizzata da danno cronico delle strutture ghiandolari acinari, fibrosi diffusa e atrofia, con conseguente insufficienza funzionale permanente
 > - sia a carico della componente esocrina (==steatorrea==, malassorbimento)
-> - sia, meno frequentemente, a carico di quella endocrina ([[diabete]])
+> - sia, meno frequentemente, a carico di quella endocrina ([[Diabete mellito]])
 ### Epidemiologia
 - Incidenza
 	- 9-62 casi/100mila/anno
@@ -301,7 +301,7 @@ Tag: #ApparatoDigerente #Anatomiapatologica
 - Aumentato rischio di [[carcinoma pancreatico]]
 	- stima > 30% in pazienti di oltre 70 anni
 ##### Complicanze
-- Instaurazione di [[diabete]] a seguito della compromissione della componente insulare
+- Instaurazione di [[Diabete mellito]] a seguito della compromissione della componente insulare
 	- specie nei casi di lunga durata con diffusa atrofia parenchimale
 
 

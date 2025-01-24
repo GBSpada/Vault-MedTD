@@ -13,7 +13,7 @@
     "margin": "0",
     "downscalePercent": 64
   },
-  "spellcheck": false,
+  "spellcheck": true,
   "showLineNumber": false,
   "showFrontmatter": false,
   "defaultViewMode": "source",

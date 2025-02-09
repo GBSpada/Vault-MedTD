@@ -300,7 +300,7 @@ $$OH^{-}+CO_{2}\xrightarrow[\text{anidrasi carbonica}]\,HCO_3^-$$
 - Caffeina, calcio, peptidi, amminoacidi aromatici stimolano la secrezione in maniera non inibibile tramite atropina
 ##### Vedere [[Gastrina#Regolazione]]
 ##### Fase intestinale
-- Il duodeno è ricco di cellule secernenti gastrina stimolate dalla presenza di protidi [[Fisiologia gastrointestinale e nutrizione umana#^baf3f6]]
+- Il duodeno è ricco di cellule secernenti gastrina stimolate dalla presenza di protidi 
 #### Inibizione della secrezione
 - L'==abbassamento del pH== è uno stimolo inibitorio per la produzione di gastrina ed eccitatorio per la produzione di somatostatina
 - Alcuni ormoni, definiti collettivamente *enterogastroni*, possono rallentare lo svuotamento gastrico e la secrezione gastrica in caso il chimo risulti particolarmente acido o iperosmotico

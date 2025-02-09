@@ -8,27 +8,22 @@ tags:
 
 --- 
 
+
  | Denominazione                                                | Funzione |
  | ------------------------------------------------------------ | -------- |
- | [[Fibrinogeno - Fibrina]]                        |          |
- | [[Protrombina]]                                 |          |
- | [[Tromboplastina - Tissue Factor]]             |          |
+ | [[Fibrinogeno - Fibrina]]                                    |          |
+ | [[Protrombina]]                                              |          |
+ | [[Tromboplastina - Tissue Factor]]                           |          |
  | Calcio                                                       |          |
- | [[Proaccellerina]]                               |          |
- | [[Accellerina]]                                 |          |
- | [[Proconvertina]]                              |          |
- | [[Fattore anitemofilico A]]                   |          |
- | [[Fattore di Christmas]]                        |          |
+ | [[Proaccellerina]]                                           |          |
+ | [[Accellerina]]                                              |          |
+ | [[Proconvertina]]                                            |          |
+ | [[Fattore anitemofilico A]]                                  |          |
+ | [[Fattore di Christmas]]                                     |          |
  | [[Fattore X - Fattore di Stuart-Prower]]                     |          |
  | [[Fattore XI - Antecedente plasmatico della tromboplastina]] |          |
  | [[Fattore XII - Fattore di hageman]]                         |          |
  | [[Fattore XIII - Fattore stabilizzante la fibrina]]          |          |
-
-
-
-
-
-
 
 
 

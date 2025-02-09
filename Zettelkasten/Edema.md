@@ -99,7 +99,7 @@ sistema/apparato: CardioCircolatorio
 - Può essere anche fatale
 - Fondamentale in quanto conseguenza di malattia cardiaca è renale
 - Può compromettere la cicatrizzazione delle ferite o la guarigione dalle infezioni
-#### Edema polmonare
+#### [[Edema polmonare]]
 - In caso di 
 	- [[Insufficienza ventricolare sinistra]]
 	- [[Insufficienza renale]]

@@ -95,7 +95,7 @@ Tag: #SistemaEndocrino #Anatomiapatologica
 	- rappresentano un'indicazione per il trattamento chirurgico per i possibili *traumi da compressione* e, addirittura, *rottura delle circostanti strutture*
 ## [[Gozzo tossico (morbo di Graves o morbo di Flajani-Basedow)]]
 
-
+## Gozzo tossico nodulare (malattia di Plummer)
 
 
 

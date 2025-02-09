@@ -8,24 +8,6 @@ sistema/apparato:
 --- 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
---- 
-# Reference:
-
-
 ## Meccanica respiratoria
 #### Intro
 - [[In quali termini descriviamo la meccanica respiratoria]]

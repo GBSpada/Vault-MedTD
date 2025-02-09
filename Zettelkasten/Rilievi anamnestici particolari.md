@@ -591,13 +591,60 @@ tags:
 	- Mancanza di ovulazione o incapacità dell'==ovulo== fecondato di allogarsi
 	- Insufficiente attività secretoria dell'==endometrio==
 ## Alterazioni della temperatura corporea
-### Febbre
-### Ipotermia
+### [[Febbre]]
+### [[Ipotermia]]
 ## Dimagrimento
+- Manifestazione condivisa da numerose malattie, ci sono molti **fattori di cui accertarsi**
+### Cause fisiologiche/non organiche
+- Abitudini alimentari
+- Composizione della dieta
+- Attività fisica 
+- Disturbi gastrointestinali associati
+- Utilizzo di sostanze voluttuarie 
+- Fumo di sigaretta
+- Disturbi del sonno associati
+- Coesistenza con febbre
+- Stato d'ansia/depressione
+- Crescita somatica in soggetti pediatrici
+### Cause patologiche/organiche
+#### In presenza di aumentato appetito
+- Diabete mellito
+- Ipertiroidismo
+#### In presenza di anoressia
+- Insufficienza cardiorespiratoria
+- Con anoressia psichica
+- Malattie infettive e **tumori**
+	- Le neoplasie maligne in particolare sono associate a calo ponderale, specie nell'anziano
+#### Malattie endocrine
+- Morbo di Addison
+- Ipopituitarismo
+- Emopatie
+- Epatopatie
+#### Assunzione di farmaci
+- Anfetamine
+- Digitale
+- Altri farmaci che irritano la mucosa gastrica o ne alterano il tono/peristalsi
 ## Alterazioni della sudorazione
+### Iperidrosi 
+- **Ipertermia**
+- **Fattori specifici**
+	- Emozionali
+	- Vegetativi
+	- Endocrini
+	- Circolatori
+- **Farmaci**
+	- Antipiretici
+	- Colinergici
+- **Localizzata** 
+### Anidrosi
+- Assenza congenita delle ghiandole
+- Alterazioni funzionali o anatomiche delle ghiandole
+	- Sclerodermia
+	- Psoriasi
+	- Lichen planus
+	- Mixedema
 ## Instabilità emotiva, ansia e depressione
-
-
+- Lassa sta
 
 
 

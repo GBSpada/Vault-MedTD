@@ -2,8 +2,9 @@
 stato: "#ideaL"
 tags:
   - PatologiaGenerale
-sistema/apparato:
+  - Semeiotica
 ---
+dfjklò
 12-01-2024 18:26
 
 --- 
@@ -15,12 +16,14 @@ sistema/apparato:
 ## Fisiopatologia
 
 ![](https://i.imgur.com/N3oEo6F.png)
+### Inizialmente
 
-- Il meccanismo fisiopatologico della febbre ha inizio con l'introduzione di pirogeni esogeni o endotossine batteriche
+- Il meccanismo fisiopatologico della febbre ha **inizio** con l'introduzione di ==pirogeni esogeni== o endotossine batteriche
 	- I più frequentemente riscontrati 
 		- Il complesso lipopolisaccaridico della parete cellulare di batteri gram positivi [[Gli involucri esterni dei Gram-positivi]]
 	- I [[Zettelkasten/Virologia|virus]]
-- La risposta del sistema immunitario porta alla produzione dei primi pirogeni endogeni
+### Reazione a catena
+- La **risposta** del **sistema immunitario** porta alla produzione dei primi ==pirogeni endogeni==
 	- Più frequenti
 		- Prostaglandina E2
 		- [[Interleuchina 1]]
@@ -35,7 +38,8 @@ sistema/apparato:
 			- Autonoma
 - Si innescano quindi contemporaneamente i **meccanismi per produrre calore e per conservarlo**
 	- In più viene ==ridotta la produzione di [[Vasopressina]]== per ridurre il volume di liquidi corporei da riscaldare
-- Alcune molecole endogene, criogeni endogeni o antipiretici) si occupano della regolazione inibitoria della febbre, ad esse possono essere attribuite le fluttuazioni della risposta febbrile
+### Inibizione
+- Alcune **molecole endogene**, *criogeni endogeni* o antipiretici) si occupano della regolazione inibitoria della febbre, ad esse possono essere attribuite le fluttuazioni della risposta febbrile
 	- Vasopressina
 	- [[MSH]] ([[Proopiomelanocortina (POMC)]])
 	- [[CRH]] 
@@ -53,18 +57,107 @@ sistema/apparato:
 - Aumentano la trasformazione linfocitaria e la motilità granulocitaria
 	- La fagocitosi viene potenziata, possibile aumento di interferone antivirale
 
+## Sintomi associati
+### Aumento della frequenza
+- ==Cardiaca==
+	- 8-10 battiti per 1°
+	- ==Aumento del lavoro cardiaco== per esaltazione dei processi metabolici
+- ==Respiratoria==
+	- 2 cicli respiratori per 1°
+### Cute
+- Calda 
+- Arrossata
+- Sudorazione 
+- Riattivazione herpes simplex con comparsa di vescicole alle labbra
+### Alterazioni generiche della cenestesi [^1]
+- Cefalea
+- Astenia
+- Dolori osteo-muscolari
+- Sonnolenza o agitazione
+- Malessere generale
+- Anoressia
+- Disturbi digestivi
+### Gravi manifestazioni sistemiche
+- Coma
+- Delirio
+- **Convulsioni**
+	- Specialmente nei bambini
+	- Si risolvono spontaneamente in genere
+	- Associate a sviluppo di epilessia del lobo temporale in una piccola percentuale di bambini
+### Variazioni termiche distrettuali
+- *Ipertermia distrettuale cutanea*
+	- Nella sede di processi flogistici in rapporto all'iperafflusso di sangue arterioso
+- Da registrare con 
+	- Termometri
+		- A bulbo piatto 
+		- Termoelettrici
+	- Termografi
 
-## Suora i 39°C
-### Convulsioni
-- Più frequenti nei bambini, specialmente se inferiori ai 5 anni
-	- Nel 75% dei bambini sono inferiori ai 20 minuti
-- Nel 40% dei casi inferiori ai 5 minuti
-#### Effetti
-- Si risolvono spontaneamente in genere
-- Associate a sviluppo di epilessia del lobo temporale in una piccola percentuale di bambini
-## Febbre di origine sconosciuta
-- Superiore ai 38,3 gradi la cui causa resta ignota dopo 3 giorni di indagini ospedaliere
+
+## Febbre di origine sconosciuta o *criptogenetica*
+- Superiore ai 38,3 gradi la cui causa resta ignota dopo 3 giorni di indagini ospedaliere 
+	- Fradà dice 3 settimane ma la medicina è andata avanti
 - Forma classica, nosocomiale, neutropenica, associata ad HIV
+- L'iter diagnostico non può venire standardizzato
+	- Mancano, ad esempio, le correlazioni dirette tra indici di laboratorio e risultati delle colture cellulari -> difficoltà nella valutazione delle malattie infettive
+## Caratteristiche temporali
+- L'andamento è variabile durante le varie fasi dello stato patologico
+### Insorgenza
+- Brusca
+- Graduale 
+### Sfebbramento
+- Gradualmente fino a normalizzarsi
+	- Es [[Salmonelle#Tifo da Salmonella Typhi|tifo addominale]] 
+- Bruscamente (in qualche ora)
+	- Polmonite da [[Pneumococchi - Streptococcus pneumoniae]]
+		- A causa della profusa sudorazione
+### Fase 'di stato'
+#### Continua
+- Oscillazioni nelle 24 ore che non superano il grado
+#### Remittente 
+- Oscillazioni superano il grado senza scendere la soglia di sfebbramento
+#### Intermittente
+- La temperatura scende sotto i 37 gradi
+##### Febbre settica
+- Si ripresenta quotidianamente e talora ripetutamente nel corso delle 24 ore
+- Preceduta da brivido scuotente per aumentare la produzione di calore
+#### Ricorrente
+- Periodi di febbre elevata con periodi di apiressia
+#### A carattere terzanario
+- A giorni alterni, tipica di alcuni tipi di ==malaria==
+#### A carattere quaternario
+- Dopo due giorni di apiressia
+	- Sempre associata alla ==malaria==
+#### Febbre ondulante
+- Periodi di 10-15 giorni di febbre con graduali ascese e discese intercalati nell'arco di settimane
+##### Caratteristica di
+- **Linfomi tipo Hodgkin**
+	- Detta *febbre di Ebstein-Cardarelli*
+- **Brucellosi**
+	- Tra una 'campata' ed un'altra di febbre si suole riscontrare qualche modesta elevazione, assente nell'Hodgkin
+#### Febbre difasica
+
+##### Tempistiche
+- Primo periodo (circa qualche giorno)
+	- Febbre 
+- Seconda fase
+	- Sfebbramento
+- Per chiudere il ciclo
+	- Ripresa febbrile
+##### Caratteristica di
+- [[Condivisi/Cardio bruno/Orthomyxovirus e Paramyxovirus#Virus del morbillo]] 
+	- La ripresa della febbre coincide con la comparsa dell'esantema
+- Leptospirosi
+	- Cadendo la febbre con la comparsa dell'ittero
+- Malattie virali in generale
+	- In rapporto ai cicli di sviluppo intracellulare del virus 
+- Malattie batteriche in generale
+	- Spesso a causa della precoce sospensione del trattamento antibiotico
+
+#### Febbre effimera
+- Max 1 giorno
+#### Febbre irregolare
+- Non reintra in nessuno dei tipi descritti precedentemente
 
 
 
@@ -74,5 +167,10 @@ sistema/apparato:
 
 
 
+---
+# Glossario
+[^1]: Normale sensazione di benessere dell'organismo avvertita dall'individuo, dal greco *koinos* -> comune e *aisthesis* -> sensazione
 --- 
-# Reference: [[Patologia Generale - McCance]]
+# Reference: 
+[[Patologia Generale - McCance]]
+[[Semeiotica - Fradà]]

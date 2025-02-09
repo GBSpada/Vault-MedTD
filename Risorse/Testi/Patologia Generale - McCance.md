@@ -314,14 +314,18 @@ tags:
 - Negli esseri umani la temperatura
 	- Si mantiene tra i 37 e i 41 gradi
 	- In condizioni normali oscilla tra i 36,2 e i 37,7
+		- Ci sono individui che hanno una temperatura più alta su base neurovegetativa
+		- In particolare giovani donne con psiconeurosi
+			- In questi casi la febbre non reagisce alla somministrazione di antipiretici ma a quella di sedativi
 - Non tutte le parti del corpo hanno la stessa temperatura
 	- La temperatura interna è più alta di 0,5 gradi
+	- Rettale: 37,8
 - La temperatura interna varia in risposta a
 	- Attività
 	- Temperatura ambientale
 	- Ritmo circadiano
 	- Ciclo mestruale
-		- Forti fluttuazioni, grosso incremento prima dell'ovulazione 
+		- Forti fluttuazioni, grosso incremento con l'ovulazione (circa 1°)
 
 >[!info] Controllo ipotalamico della temperatura
 >La termocezione è regolata dall'ipotalamo
@@ -438,7 +442,7 @@ tags:
 - Durante questi interventi l'esposizione delle cavità corporee alla sala operatoria (fredda) induce notevole ipotermia
 - Infondere soluzioni a temperatura ambiente per via endovenosa, utilizzare farmaci che inibiscono la termoregolazione e inalare anestetici non tiepidi contribuisce
 - L'anestesia induce a sua volta ipotermia
-	- Riduce la funzione ppiastrinica
+	- Riduce la funzione piastrinica
 	- Contribuisce alla necessità di trasfusioni
 - L'uso di soluzioni riscaldate e di pre riscaldamento per via aerea o cutanea contribuisce alla riduzione delle complicanze post operatorie
 ###### Ustioni termiche

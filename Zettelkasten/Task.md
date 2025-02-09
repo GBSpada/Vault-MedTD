@@ -4,18 +4,9 @@ kanban-plugin: basic
 
 ---
 
-## Med interna
+## Risveglio
 
-- [ ] Nardo: Libro + lezioni
-- [ ] Medicina interna: Fradà
-- [ ] Scienze tecniche: sbobine
-
-
-## Morning routine
-
-- [ ] Programmi
-- [ ] Fermenti
-- [ ] Cucina
+- [ ] **30 minuti:** obiettivi semplici, meditazione
 
 
 

@@ -1,8 +1,7 @@
 ---
 stato: indice
-sistema/apparatorespi: respiratorio
-tags: 
 sistema/apparato:
+  - Respiratorio
 ---
 2024-04-13 19:37
 

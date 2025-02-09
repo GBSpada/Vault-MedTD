@@ -12,16 +12,21 @@ tags:
 
 ## Semeiotica generale del dolore
 ## [[Rilievi anamnestici particolari]]
-
+## [[Esame obiettivo generale]]
 # Semeiotica speciale
 ## Capo
 ## Collo
 ## Torace
-## Apparato respiratorio
-## Cuore e grossi vasi
+## Apparato respiratorio - 
+## Cuore e grossi vasi -
 ## Mediastino
-## Esplorazione funzionale del cardiovascolare
-## [[Semeiotica fisica dell'addome]]
+## Esplorazione funzionale del cardiovascolare - (elettrocardio)
+## [[Semeiotica fisica dell'addome]] - 
+## Urinario
+## Nervoso
+## Endocrino
+## Genitali femminili e maschili
+
 
 
 

@@ -7,7 +7,7 @@ Tag: #Patologia  #Genetica
 - Prima causa di morte: difetti cardiaci
 ## Segni clinici
 - Deficit cognitivo presente ma superabile
-- Caratteristiche morfologiche facciali
+- Caratteristiche morfologiche facciali ([[Esame obiettivo generale#Mongoloide]])
 - 40% dei pazienti hanno difetti cardiaci 
 - 50% unica piega in flessione sul palmo
 - Diminuzione del tono muscolare

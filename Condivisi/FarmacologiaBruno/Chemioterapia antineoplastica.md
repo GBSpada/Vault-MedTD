@@ -512,7 +512,7 @@ Tag: #Farmacologia #Patologia #Chemioterapici #Oncologia
 
 
 [^1]: Nella misura in cui la totalità delle cellule può virtualmente essere considerata impegnata ad attraversare le varie fasi del ciclo cellulare; quindi le caratteristiche della leucemia sono costanti e prevedibili.
-[^2]: Vedi [[Cardiomiopatie#Endomiocardite di Loeffler|endomiocardite di Loeffler]].
+[^2]: Vedi [[Miocardiopatie e miocarditi#Endomiocardite di Loeffler|endomiocardite di Loeffler]].
 [^3]: OS: Overall Survival ; PFS: Progressive Free Survival
 [^4]: la particella proteolitica attiva del proteasoma 26S
 [^5]: letargia, stato confusionale, allucinazioni e, nei casi più gravi, coma

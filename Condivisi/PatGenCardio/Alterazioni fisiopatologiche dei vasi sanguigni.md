@@ -51,7 +51,7 @@ Tag: #Cardiologia
 			- principale elemento cellulare della *tonaca media*
 			- attività influenzata dalle cellule endoteliali
 				- produzione di **NO**/**endoteline**
-			- importante ruolo nella riparazione vascolare e nei processi patologici ([[Patogenesi, prevenzione e trattamento dell'aterosclerosi|aterosclerosi]])
+			- importante ruolo nella riparazione vascolare e nei processi patologici ([[Aterosclerosi|aterosclerosi]])
 				- capacità di proliferazione e sintesi
 					- *collagene*
 					- *elastina*
@@ -96,7 +96,7 @@ Tag: #Cardiologia
 	- col passare del tempo, cellule muscolari lisce dell'intima → stato non proliferativo
 	- l'ispessimento intimale, nel frattempo, può aver causato ostacolazioni al flusso sanguigno
 ## Patologia vascolare ipertensiva
-[[Ipertensione]]
+[[Ipertensione arteriosa]]
 ## Aneurismi e dissecazioni
 [[Aneurismi e dissecazioni]]
 ## Vasculiti

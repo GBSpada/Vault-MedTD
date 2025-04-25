@@ -5,7 +5,7 @@ Tag: #ApparatoUrinario #Anatomiapatologica
 ---
 # Anatomia patologica
 ## Definizione e inquadramento
-- Vedi [[Lupus eritematoso sistemico (LES)#Rene|LES]]
+- Vedi [[Lupus eritematoso sistemico#Rene|LES]]
 - Danno renale polimorfo e mutevole nel tempo
 	- in rapporto al variare della condizione immunologica del paziente
 - Indagine bioptica
@@ -65,8 +65,8 @@ Tag: #ApparatoUrinario #Anatomiapatologica
 ##### Infiltrazione di elementi infiammatori mono/polimorfonucleati
 ##### Depositi granulari di Ig e frazioni complementari lungo le membrane basali tubulari
 ##### Lesioni vascolari
-- [[Ipertensione#Arteriosclerosi ialina|Arteriosclerosi ialina]] (aspecifica)
-- [[Lupus eritematoso sistemico (LES)#Vasi sanguigni|Vasculopatia lupica]] (più grave)
+- [[Ipertensione arteriosa#Arteriosclerosi ialina|Arteriosclerosi ialina]] (aspecifica)
+- [[Lupus eritematoso sistemico#Vasi sanguigni|Vasculopatia lupica]] (più grave)
 - Microangiopatia trombotica
 - Vasculite vera e propria
 - Cui si aggiungono
@@ -98,4 +98,4 @@ Tag: #ApparatoUrinario #Anatomiapatologica
 ---
 # Reference
 [[Glomerulonefriti a patogenesi immunologica]]
-[[Lupus eritematoso sistemico (LES)]]
+[[Lupus eritematoso sistemico]]

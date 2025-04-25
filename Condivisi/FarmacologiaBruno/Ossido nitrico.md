@@ -99,7 +99,7 @@ Tag: #Farmacologia #ApparatoCardiocircolatorio #SistemaNervoso
 - Glutatione
 	- interagendo con NO, in condizioni fisiologiche, dà origine a *S-nitrosoglutatione* (*GSNO*)
 		- considerato una forma stabile di NO e un suo donatore endogeno (con lunga $t_{1/2}$)
-	- il GSH vasale è ridotto in caso di [[diabete]] o [[Patogenesi, prevenzione e trattamento dell'aterosclerosi|aterosclerosi]]
+	- il GSH vasale è ridotto in caso di [[diabete]] o [[Aterosclerosi|aterosclerosi]]
 		- ciò può giustificare l'aumentata incidenza di complicanze cardiovascolari caratteristica di queste malattie
 ### Residui tirosinici
 >[!info]- Ossidi dell'azoto
@@ -186,7 +186,7 @@ Tag: #Farmacologia #ApparatoCardiocircolatorio #SistemaNervoso
 	- l'uso di nitroprussiato come donatore di NO viene ==attualmente sconsigliato==
 ### Ossido nitrico per via inalatoria
 - Determina ==riduzione della pressione arteriosa polmonare== e ==migliorata perfusione delle zone di ventilazione polmonare==
-- Usato per il trattamento di [[ipertensione]] polmonare, ipossiemia acuta e resurrezione cardiopolmonare
+- Usato per il trattamento di [[Ipertensione]] polmonare, ipossiemia acuta e resurrezione cardiopolmonare
 	- miglioramento a breve-termine della funzionalità polmonare
 - Conservazione ed utilizzo:
 	1. conservato in bombole di gas compresso miscelato con azoto (vi reagisce facilmente)
@@ -225,7 +225,7 @@ Tag: #Farmacologia #ApparatoCardiocircolatorio #SistemaNervoso
 	- altri effetti inibitori sono
 		- attivazione del *plasminogeno*
 		- aumento della fibrinolisi
-- ==Protegge== i vasi da [[Patogenesi, prevenzione e trattamento dell'aterosclerosi|aterosclerosi]]
+- ==Protegge== i vasi da [[Aterosclerosi|aterosclerosi]]
 	- inibizione della proliferazione e della migrazione delle cellule muscolari lisce vascolari
 	- riduce l'adesione all'endotelio di monociti e leucociti
 		- inibizione dell'espressione di molecole di adesione nella superficie endoteliale

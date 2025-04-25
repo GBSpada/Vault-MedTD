@@ -74,7 +74,7 @@ Tag: #Farmacologia #SistemaImmunitario
 - Approvato per il trattamento di ==linfomi follicolari== e ==LLC==
 	- nel linfoma sembra svolgere un ruolo sinergico con la chemioterapia
 - Anche approvato per il trattamento dell'[[artrite reumatoide]] in combinazione con [[metotrexato]] in pazienti che non hanno risposto a terapie anti-TNF-$\alpha$
-- Studi recenti indicano che può essere molto utile per malattie autoimmuni come la SM e il [[Lupus eritematoso sistemico (LES)|LES]]
+- Studi recenti indicano che può essere molto utile per malattie autoimmuni come la SM e il [[Lupus eritematoso sistemico|LES]]
 #### Effetti sfavorevoli
 - È stata indicata la [[rettocolite ulcerosa]]
 ### Trastuzumab
@@ -182,7 +182,7 @@ Tag: #Farmacologia #SistemaImmunitario
 	- frammento Fc di un'immunoglobulina umana IgG$_1$ attivo come immunosoppressore
 #### Meccanismo d'azione
 1. L'attivazione di CTL in caso di rigetto di innesti eterologhi presenta ==due segnali d'attivazione==:
-	1. preattivazione dei linfociti detti, con liberazione della fosfatasi *calcineurina* (parzialmente inibita da inibitori quali [[ciclosporina]] o [[tacrolimus]])
+	1. preattivazione dei linfociti detti, con liberazione della fosfatasi *calcineurina* (parzialmente inibita da inibitori quali [[Ciclosporina]] o [[tacrolimus]])
 	2. interazione di *CD80/86* dell'APC col CD28 dei CTL (anche detto "==segnale di coattivazione==")
 2. Secondariamente, nel corso dell'attivazione linfocitaria, si genera un meccanismo di retrocontrollo negativo che coinvolge la proteina CTLA4
 	- ha un dominio extracellulare omologo a CD28, ma, a causa delle due mutazioni riferite, presenta affinità per CD80/86 sull'APC superiore a quella di CD28

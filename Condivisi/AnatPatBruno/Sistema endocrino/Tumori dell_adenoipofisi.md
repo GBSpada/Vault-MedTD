@@ -27,9 +27,9 @@ Tag: #SistemaEndocrino #Anatomiapatologica
 	- solo nel 3% dei casi riconducibili a
 		- ==mutazioni del gene soppressore MEN 1==
 		- (associati a) ==sindrome da deficit dei geni della succinato deidrogenasi== (SDH)
-		- ==complesso di Carney==
-		- ==sindrome di McCune-Albright==
-### Alterazioni molecolari
+		- [[Sindrome di Carney]]
+		- [[sindrome di McCune-Albright]]
+ ### Alterazioni molecolari
 - Legate al sommarsi di eventi mutazionali e modificazioni epigenetiche
 #### Gene GNAS
 - Nel 40% degli adenomi somatotropi

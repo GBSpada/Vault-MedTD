@@ -16,7 +16,7 @@ Tag: #Microbiologia
 #### Patogene per l'uomo
 ##### Treponema
 - Così tanto sottili da necessitare di metodi di sovra-colorazione che ne aumentino lo spessore per l'identificazione
-###### [[Treponema Pallidum]] 
+###### [[Treponema Pallidum - sifilide]] 
 - Principale patogeno per l'uomo
 - Sottospecie
 	- Ssp. pallidum

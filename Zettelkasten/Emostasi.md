@@ -1,4 +1,4 @@
-*w15*-10-2023 19:32
+15-10-2023 19:32
 Stato: #ideaL 
 Tag: #ApparatoCardiocircolatorio #Fisiologia 
 

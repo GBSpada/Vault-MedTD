@@ -42,12 +42,12 @@ Tag: #ApparatoRespiratorio #Anatomiapatologica
 ##### Manifestazioni cliniche
 ###### Dermatologiche
 - [[Cute#Eritema nodoso|Eritema nodoso]]
-- [[Lupus eritematoso sistemico (LES)|Lupus]] pernio (?)
+- [[Lupus eritematoso sistemico|Lupus]] pernio (?)
 ###### Oftalmiche
 - Uveite
 - Lesioni congiuntivali
 ###### Cardiologico
-- [[Cardiomiopatie|Miocardite]]
+- [[Miocardiopatie e miocarditi|Miocardite]]
 - Alterazioni della conduzione
 ###### Neurologico
 - Parestesie

@@ -17,7 +17,7 @@ Tag: #ApparatoUrinario #Anatomiapatologica
 - Seconda causa di IRC nella popolazione mondiale
 	- con notevoli differenze a seconda delle aree geografiche
 	- ponendosi al primo posto in Australia
-		- e al terzo, dopo [[Diabete mellito]] e [[ipertensione]] negli USA
+		- e al terzo, dopo [[Diabete mellito]] e [[Ipertensione arteriosa]] negli USA
 ### Inquadramento delle glomerulonefriti a patogenesi immunologica
 >[!info]
 >Gruppo più rilevante delle malattie glomerulari. I meccanismi patogenetici coinvolti sono complessi e non completamente noti. Possono essere diversi i moventi iniziali che innescano il processo (es. autoimmunità, neoplasie, agenti infettivi, farmaci, ecc.).
@@ -190,7 +190,7 @@ Tag: #ApparatoUrinario #Anatomiapatologica
 - Se ne elencano le cause
 ###### Lesioni vascolari arteriose
 - Instaurate nella fase acuta
-	- anche in assenza di [[ipertensione]]
+	- anche in assenza di [[Ipertensione arteriosa]]
 - Ischemia → progressiva sclerosi glomerulare
 ###### Variazioni emodinamiche nei glomeruli risparmiati dalla malattia
 1. Vanno incontro a ==ipertrofia compensatoria==
@@ -207,7 +207,7 @@ Tag: #ApparatoUrinario #Anatomiapatologica
 	- *Growth hormon* (*GH*)
 	- *Transforming Growth Factor β* (*TGFβ*)
 - Stimolano le cellule mesangiali
-- Favoriscono la trasformazione [[Ipertensione#Arteriosclerosi ialina|scleroialina]] del glomerulo
+- Favoriscono la trasformazione [[Ipertensione arteriosa#Arteriosclerosi ialina|scleroialina]] del glomerulo
 ###### Proteinuria
 1. Stimola e danneggia l'epitelio tubulare
 2. Conseguente liberazione di molecole di adesione, fattori di crescita, citochine proinfiammatorie e chemochine
@@ -294,7 +294,7 @@ Tag: #ApparatoUrinario #Anatomiapatologica
 #### Modificazioni della membrana basale
 - Ispessimento per cause intrinseche
 	- glomerulopatia diabetica
-	- [[ipertensione]]
+	- [[Ipertensione arteriosa]]
 	- presenza di depositi (come nelle glomerulonefriti)
 #### Depositi
 - Per lo più costituiti da IC

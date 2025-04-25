@@ -13,7 +13,7 @@ Tag: #PatologiaGenerale
 - Non più il microcircolo ma l'intero parenchima
 ### Outcome
 - Fibrosi con perdita di funzione
-	- [[Tubercolosi]]
+	- [[Mycobacterium tubercolosis - tubercolosi]]
 		- Il micobatterio provoca direttamente flogosi cronica e induce direttamente danni al livello del parenchima polmonare
 		- Si formano raccolte definite [[Granuloma]]
 			- Differenti da raccolte benigne

@@ -296,7 +296,7 @@ tags:
 > Che cosa dicono gli studiosi che sostengono la libertà di rifiutare le cure fino al fine vita?
 > - Che il diritto alla vita debba essere disponibile da parte del suo titolare
 
-> Che cosa dicono gi studiosi che non approvano la libertà di rifutare le cure nel fine vita?
+> Che cosa dicono gli studiosi che non approvano la libertà di rifutare le cure nel fine vita?
 > - Che il diritto alla vita vada protetto a prescindere poiché esso è necessario per godere di tutti gli altri diritti e non si può rinunciare ad un diritto senza avere la possibilità di riprenderselo in un secondo momento
 
 ### I principi vigenti nell'ordinamento italiano sul diritto a non curarsi

@@ -38,13 +38,13 @@ Tag: #Farmacologia #Chemioterapici #Oncologia
 ##### Acuta
 - Insorge 2-3 gg dopo la somministrazione
 - Si manifesta con
-	- [[aritmie]] o turbe della conduzione,
+	- [[Aritmie]] o turbe della conduzione,
 	- altre anomalie elettrocardiografiche
 	- miocardite
 	- [[Malattie del pericardio|pericardite]]
 - Per lo più transitoria e spesso asintomatica
 ##### Cronica
-- Si presenta sottoforma di [[cardiomiopatie#Cardiomiopatia dilatativa|cardiomiopatia dilatativa]] e [[scompenso cardiaco]]
+- Si presenta sottoforma di [[Miocardiopatie e miocarditi#Cardiomiopatia dilatativa|cardiomiopatia dilatativa]] e [[Scompenso cardiaco]]
 - Provocata
 	- forse, da eccessiva produzione ROS,
 	- forse dall'interazione con la topoisomerasi IIβ cardiaca

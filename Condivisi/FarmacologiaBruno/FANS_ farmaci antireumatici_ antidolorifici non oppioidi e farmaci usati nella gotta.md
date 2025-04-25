@@ -74,7 +74,7 @@ Tag: #Farmacologia #Antinfiammatori #Antidolorifici #Antireumatici
 - Alle dosi terapeutiche, non alterano la funzionalità piastrinica
 - Efficacia simile a quella dei classici FANS
 - Vantaggio → la tollerabilità gastrointestinale può essere migliore
-- Svantaggi → possono aumentare l'incidenza di [[edema]] e [[ipertensione]]
+- Svantaggi → possono aumentare l'incidenza di [[edema]] e [[Ipertensione]]
 - Commercializzazione
 	- in Italia: ==celecoxib== ed ==etoricoxib== (uso orale), ==parecoxib== (uso parenterale)
 	- negli USA: ==celecoxib== e ==meloxicam==
@@ -283,7 +283,7 @@ Tag: #Farmacologia #Antinfiammatori #Antidolorifici #Antireumatici
 	- ==angioedema==,
 	- ==iperreattività bronchiale all'aspirina==
 >[!warning]
->- Sono stati segnalati casi di meningite asettica (in particolare in pazienti affetti da [[Lupus eritematoso sistemico (LES)|LES]]) e ritenzione idrica.
+>- Sono stati segnalati casi di meningite asettica (in particolare in pazienti affetti da [[Lupus eritematoso sistemico|LES]]) e ritenzione idrica.
 >- Per altri effetti sfavorevoli vedere [[FANS; farmaci antireumatici; antidolorifici non oppioidi e farmaci usati nella gotta#Azioni sfavorevoli|qui]].
 #### Associato all'aspirina
 - Antagonizza l'inibizione irreversibile delle piastrine indotta dall'aspirina
@@ -539,7 +539,7 @@ Tag: #Farmacologia #Antinfiammatori #Antidolorifici #Antireumatici
 	- rimane basso
 - Non è stato evidenziato l'aumento dell'incidenza di neoplasie solide
 	- non è noto se l'incidenza di linfoma sia aumentata
-- Bassa incidenza di *anticorpi dsDNA* e *ANA* ([[Lupus eritematoso sistemico (LES)|lupus]] clinicamente manifesto estremamente raro)
+- Bassa incidenza di *anticorpi dsDNA* e *ANA* ([[Lupus eritematoso sistemico|lupus]] clinicamente manifesto estremamente raro)
 - Rare leucopenia e [[vasculiti]]
 >[!warning]
 >Prima di iniziare la somministrazione di adalimumab (o altri farmaci anti-TNF$\alpha$), è consigliato lo *screening* per un'infezione tubercolare latente o attiva.
@@ -606,7 +606,7 @@ Tag: #Farmacologia #Antinfiammatori #Antidolorifici #Antireumatici
 	- si possono avere infezioni opportuniste
 - Incidenza di neoplasie solide non aumentata
 - Si possono avere test positivi per la presenza di ANA e anti-DNA, ma ciò non costituisce una controindicazione a continuare la terapia
-	- a meno che non compaiano sintomi di [[Lupus eritematoso sistemico (LES)|LES]]
+	- a meno che non compaiano sintomi di [[Lupus eritematoso sistemico|LES]]
 - Reazioni a livello del sito d'infezione
 	- nel 20-40% dei pazienti
 	- generalmente non richiedono la sospensione del farmaco

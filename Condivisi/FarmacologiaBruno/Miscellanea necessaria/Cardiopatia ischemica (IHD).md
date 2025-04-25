@@ -8,7 +8,7 @@ Tag: #Cardiologia
 	- gruppo di sindromi fisiopatologicamente collegate derivanti da un'==**ischemia miocardica**==
 		- squilibrio tra la perfusione miocardica e la richiesta cardiaca di sangue ossigenato
 	- cause
-		- riduzione del flusso ematico coronarico dovuta a [[Patogenesi, prevenzione e trattamento dell'aterosclerosi|lesioni aterosclerotiche]] ostruttive delle arterie coronariche epicardiche
+		- riduzione del flusso ematico coronarico dovuta a [[Aterosclerosi|lesioni aterosclerotiche]] ostruttive delle arterie coronariche epicardiche
 			- spesso indicata come ==**coronaropatia**==
 			- più del 90% dei casi
 		- [[Gibbo/Embolia|emboli coronarici]]

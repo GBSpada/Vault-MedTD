@@ -580,7 +580,7 @@ Tag: #Patologia #Immunologia #SistemaImmunitario
 #### Patologie sistemiche (o generalizzate)
 - Le reazioni autoimmuni sono dirette contro antigeni diffusi
 - Esempio classico:
-	- [[Lupus eritematoso sistemico (LES)|LESS Gold, quello del "Banco dei pugni"]]
+	- [[Lupus eritematoso sistemico|LESS Gold, quello del "Banco dei pugni"]]
 ### Tolleranza immunologica
 >[!info]
 > **Tolleranza immunologica**: mancata risposta linfocitaria alla stimolazione antigenica da parte di determinati antigeni.
@@ -732,7 +732,7 @@ Tag: #Patologia #Immunologia #SistemaImmunitario
 - Attivazione di linfociti T autoreattivi specifici per l'antigene
 - ![Patogenesi dell'autoimmunità, l'ipotesi infettiva: le infezioni potrebbero attivare linfociti autoreattivi, inducendo l'espressione di costimolatori](https://i.imgur.com/qXnklRM.png)
 ### Malattie autoimmuni
-#### [[Lupus eritematoso sistemico (LES)]]
+#### [[Lupus eritematoso sistemico]]
 #### [[Zettelkasten/Artrite reumatoide|Artrite reumatoide]]
 #### [[Sindrome di Sjögren]]
 #### [[Sclerosi sistemica (sclerodermia)]]

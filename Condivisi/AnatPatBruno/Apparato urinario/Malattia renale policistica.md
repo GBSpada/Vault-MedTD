@@ -14,7 +14,7 @@ Tag: #ApparatoUrinario #Anatomiapatologica
 - Dà segni clinici di sé nel III-IV decennio di vita
 	- può essere identificata anche in età infantile
 	- l'IRC interviene ca. 10 anni dopo le prime manifestazioni cliniche
-		- [[ipertensione]]
+		- [[Ipertensione arteriosa]]
 		- ematuria
 		- nefrolitiasi
 	- sviluppato rischio di sviluppare carcinomi a cellule renali
@@ -91,7 +91,7 @@ Tag: #ApparatoUrinario #Anatomiapatologica
 			2. ipoplasia polmonare (da compressione) + oligoidramnios
 			3. ==insufficienza respiratoria==
 	- neonati che sopravvivono
-		- [[ipertensione]] e uremia
+		- [[Ipertensione arteriosa]] e uremia
 			- in tempi variabili
 			- in rapporto alla gravità di espressione della malattia
 - Spesso associata a *fibrosi epatica congenita*

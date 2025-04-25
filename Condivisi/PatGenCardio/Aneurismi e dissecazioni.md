@@ -10,7 +10,7 @@ Tag: #Cardiologia
 		- tipologie
 			- aneurismi vascolari aterosclerotici
 			- aneurismi luetici
-				- ==lue==: infezione da [[Treponema Pallidum]] o [[Spirochete| Spirocheta pallida]]
+				- ==lue==: infezione da [[Treponema Pallidum - sifilide]] o [[Spirochete| Spirocheta pallida]]
 			- aneurismi congeniti
 			- aneurisma ventricolare
 	- ==falso aneurisma== (o ==pseudoaneurisma==)

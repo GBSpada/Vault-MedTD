@@ -245,8 +245,8 @@ Tag: #Farmacologia #Immunoterapia #Immunologia
 - Profilassi e terapia della sindrome GVH acuta e cronica resistente agli steroidi in pazienti sottoposti a [[Rigetto dei trapianti#Trapianto di cellule emopoietiche|trapianto di HSC]]
 - ==Applicazione topica==
 	- usato in alcune patologie dermatologiche
-	- in associazione alla [[ciclosporina]], nel trattamento dell'uveoretinite
->[!info]- Uso nelle prevenzione della [[Patogenesi, prevenzione e trattamento dell'aterosclerosi|ristenosi]]
+	- in associazione alla [[Ciclosporina]], nel trattamento dell'uveoretinite
+>[!info]- Uso nelle prevenzione della [[Aterosclerosi|ristenosi]]
 >Gli ==stent coronarici== a rilascio di sirolimus (o everolimus) sono ritenuti capaci di ridurre la ristenosi e altri effetti sfavorevoli cardiaci in pazienti con grave coronaropatia.
 >- Esiti favorevoli dovuti all'azione antiproliferativa dei due farmaci
 >- Indagini più recenti non hanno consentito di dimostrare questa superiorità degli stent medicati rispetto ai metallici relativamente a due *end point* importanti:
@@ -287,11 +287,11 @@ Tag: #Farmacologia #Immunoterapia #Immunologia
 	- controllare frequentemente i livelli plasmatici del farmaco
 ### Usi clinici
 - Pazienti trapiantati con rigetto resistente al trattamento
-- In associazione al ==prednisone==, come alternativa alla [[ciclosporina]] o al [[tacrolimus]] in pazienti che non tollerano questi farmaci
+- In associazione al ==prednisone==, come alternativa alla [[Ciclosporina]] o al [[tacrolimus]] in pazienti che non tollerano questi farmaci
 - ==Farmaco di scelta== per ==prevenire o ridurre la vasculopatia cronica== in pazienti con trapianto cardiaco allogenico
 - Usato per la profilassi e il ==trattamento della sindrome GVH acuta e cronica== nei pazienti sottoposti a ==trapianto di HSC==
 - Più recenti applicazioni:
-	- [[Lupus eritematoso sistemico (LES)#Rene|nefrite associata al lupus]]
+	- [[Lupus eritematoso sistemico#Rene|nefrite associata al lupus]]
 	- [[artrite reumatoide]]
 	- [[Tratto gastrointestinale#Malattie infiammatorie croniche intestinali (IBD)|malattia infiammatoria intestinale]]
 	- alcune malattie dermatologiche
@@ -346,7 +346,7 @@ Tag: #Farmacologia #Immunoterapia #Immunologia
 - Usata per molti anni nel trattamento di alcune sue manifestazioni
 - Recentemente reintrodotta in USA per il trattamento dell'==eritema nodoso leprosico==
 ##### LES
-- Si è dimostrata utile nelle sue [[Lupus eritematoso sistemico (LES)#Cute|manifestazioni cutanee]]
+- Si è dimostrata utile nelle sue [[Lupus eritematoso sistemico#Cute|manifestazioni cutanee]]
 #### Effetti collaterali
 >A causa di essi, il suo uso è molto strettamente regolato dall'azienda produttrice
 - Maggiore manifestazione: ==teratogenesi==
@@ -496,7 +496,7 @@ Tag: #Farmacologia #Immunoterapia #Immunologia
 - Si ritiene che sopprima il processo intracellulare di elaborazione e caricamento del peptide sulle molecole MHC-II mediante
 	- aumento il pH dei lisosomi/endosomi → inibizione dell'attivazione delle CTL
 #### Usi clinici
-- Trattamento di alcune patologie autoimmuni (es. [[artrite reumatoide]], [[Lupus eritematoso sistemico (LES)|LES]])
+- Trattamento di alcune patologie autoimmuni (es. [[artrite reumatoide]], [[Lupus eritematoso sistemico|LES]])
 - Usata anche sia per trattare che prevenire la [[Rigetto dei trapianti#Reazione di trapianto verso l'ospite (GVH)|sindrome GVH dopo trapianto di midollo allogenico]]
 ### Altri farmaci citotossici
 #### Metotrexato
@@ -592,7 +592,7 @@ Tag: #Farmacologia #Immunoterapia #Immunologia
 - Sicure ed efficaci in pazienti con la [[malattia di Kawasaki]]
 	- riduzione dell'infiammazione sistemica
 	- prevenzione degli aneurismi delle arterie coronarie
-- Risposte cliniche abbastanza convincenti in pazienti con [[Lupus eritematoso sistemico (LES)|LES]] e porpora trombocitopenica idiopatica (ITP) refrattaria
+- Risposte cliniche abbastanza convincenti in pazienti con [[Lupus eritematoso sistemico|LES]] e porpora trombocitopenica idiopatica (ITP) refrattaria
 ### Immunoglobulina Rh$_0$ (D) in micro-dosi
 - Soluzione concentrata (15%) di IgG umane contenenti un titolo elevato di anticorpi diretti contro l'antigene $Rh_0$ (D) dei globuli rossi
 - Nelle mamme:
@@ -787,7 +787,7 @@ Tag: #Farmacologia #Immunoterapia #Immunologia
 	- il paziente, pertanto, può essere considerato "desensibilizzato" solo durante la somministrazione del farmaco
 ## Reazioni autoimmuni (tipo II) ai farmaci
 - I farmaci possono anche essere responsabili di alcune sindromi autoimmuni:
-	- es. [[Lupus eritematoso sistemico (LES)|LES]] a seguito di somministrazione di ==idralazina== o ==procainamide==
+	- es. [[Lupus eritematoso sistemico|LES]] a seguito di somministrazione di ==idralazina== o ==procainamide==
 	- es. "epatite lupoide" da ipersensibilità a lassativi a base di ==ossifenisatina==
 	- es. anemia emolitica su base autoimmunitaria in seguito a somministrazione di ==metildopa==
 	- es. porpora trombocitopenica da ==chinidina==

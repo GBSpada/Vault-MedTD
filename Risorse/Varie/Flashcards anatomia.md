@@ -6,29 +6,86 @@ sistema/apparato:
 26-11-2023 01:04
 
 ---
+### Meccanismi di Nocicezione e Modulazione del Dolore
+1. **Come possiamo far funzionare le fibre anulospirali anche quando le fibre extrafusali si contraggono?**
+   - Mediante l'innervazione dei motoneuroni gamma (fibre fusomotrici) che consentono la contrazione dei due apici del fuso neuromuscolare e il conseguente stiramento del suo ventre, poiché le fibre anulospirali e quelle a fiorame sono recettori di lunghezza.
 
-Question,Answer,Name
-Come possiamo far funzionare le fibre anulospirali anche quando le fibre extrafusali si contraggono?,"Mediante l'innervazione dei motoneuroni gamma (fibre fusomotrici) che consentono la contrazione dei due apici del fuso neuromuscolare e il conseguenze stiramento del suo ventre, poiché le fibre anulospirali e quelle a fiorame sono recettori di lunghezza.",Come possiamo far funzionare le fibre anulospirali anche qua
-Quanti e quali interneuroni servono per il riflesso flessorio o di evitamento? (esempio del chiodo sotto al piede),"Servono 4 strutture di interneuroni. 2 sono inibitorie: una inibisce i muscoli estensori della gamba che evita, l'altra inibisce i muscoli flessori della gamba portante. Le altre 2 sono strutture attivatorie è permettono la contrazione immediata dei flessori della gamba che evita e degli estensori della gamba portante. L'ultima fibra sinapta con il secondo neurone sensitivo che incrocia e sale secondo la via collaterale del dolore al talamo fino al terzo neurone sensitivo che trasmette alla corteccia.",Quanti e quali interneuroni servono per il riflesso flessori
-Quali sono i recettori tattili a rapido adattamento e cosa fanno?,I corpuscoli del Meissner che percepiscono la velocità del movimento ma sono epicritici e quelli del Pacini che sono più protopatici e percepiscono vibrazione.,Quali sono i recettori tattili a rapido adattamento e cosa f
-Quali sono i recettori a lento adattamento e cosa fanno?,"Quelli del merkel che più di tutti permettono il tatto discriminativo. Sono più precisi di quelli del Meissner ma meno veloci e ci danno la durata dello stimolo, la sensibilità spaziale e l'intensità della deformazione cutanea.Quelli del Ruffini ci danno l'informazione sulla conformazione della mano in base alla dislocazione profonda della pelle.",Quali sono i recettori a lento adattamento e cosa fanno?
-Qual è la differenza tra i recettori tattili e i nocicettori?,"I tattili sono capsulati, i nocicettori sono terminazioni libere",Qual è la differenza tra i recettori tattili e i nocicettori
-Quali sono e cosa fanno i tipi di fibre che connettono i recettori al SNC?,"```Le A alfa, più mielinizzate e più spesse, fungono da precettori dei muscoli scheletrici.Le A beta, un intermedio, fungono da meccanocettori della pelle.Le A delta, le meno mielinizzate, recettrici di dolore acuto e temperatura estrema.Le C (chemical), non mielinizzate e molto piccole, recepiscono temperatura, dolore e prurito.```",Quali sono e cosa fanno i tipi di fibre che connettono i rec
-"Che differenza c'è tra dolore nocicettivo, neuropatico e misto?","1) Il dolore nocicettivo è fisiologico e dipende da un'attivazione dei nocicettori. 2) Il dolore neuropatico deriva da una lesione/malattia del sistema somato-sensoriale e non richiede la stimolazione dei recettori, essendo dovuto ad un danno di una struttura nervosa [nervi periferici, corteccia). Si distinguono, inoltre, dolore neuropatico centrale e periferico.Può produrre due tipi di fenomeni:- Di tipo negativo, ipoestesia e ipoalgesia;- Di tipo positivo, disestesia e allodinia.3) Il dolore misto presenta sia componente nocicettiva che neuropatica.","Che differenza c'è tra dolore nocicettivo, neuropatico e mis"
-"Quando si parla di ""dolore idiopatico""?",Quando non se ne conosce la causa.,Quando si parla di dolore idiopatico?
-Descrivi la differenza tra dolore acuto e dolore cronico.,"Nel dolore acuto si ha risposta simpatica per aumentare lo stato d'allerta dell'individuo.Nel dolore cronico, questa risposta tende ad esaurirsi, con conseguente distrofia funzionale e poi organica, che determina una modificazione della sensibilità dei recettori (ALGODISTROFIA).Nel dolore cronico neuropatico si ha una vera e propria ""memoria del dolore"", espressa tramite iperattività della corteccia prefrontale.",Descrivi la differenza tra dolore acuto e dolore cronico.
-Quali sono le conseguenze psico-fisiche di un'esposizione a dolore prolungato?,"Si può avere sensibilizzazione centrale per alcune ore e ciò può portare ad un'ipereccitabilità permanente della via del dolore, causa di IPERALGESIA e ALLODINIA.Psicologicamente parlando, una cronicizzazione porta potenzialmente alla depressione a causa di cali di sostanze quali serotonina e dopamina",Quali sono le conseguenze psico-fisiche di un'esposizione a
-Come funziona il controllo a cancello della nocicezione?,"Nel corno posteriore ci sono gl'interneuroni, agenti sul neurone di proiezione dell'impulso dolorifico (II neurone della via del dolore). Essi vengono inibiti dalle fibre nocicettive e attivati dalle fibre A beta; di conseguenza lo stimolo tattile inibisce lo stimolo nocicettivo.",Come funziona il controllo a cancello della nocicezione?
-Come avviene la modulazione periferica del dolore?,"Conseguentemente al danno, mediante la stimolazione delle fibre non nocicettive.",Come avviene la modulazione periferica del dolore?
-Come avviene la modulazione centrale?,"La modulazione avviene tramite fattori provenienti dal SNC. Le strutture che la controllano sono tre nuclei che proiettano al midollo spinale e modulano i neuroni che producono oppioidi endogeni:1) Grigio periacqueduttale, modulante sulle vie che si dipartono dai successivi due nuclei;2) Nucleo magno del Rafe, serotoninergico;3) Locus coeruleus, noradrenergico.",Come avviene la modulazione centrale?
-Cosa permette di sopportare il dolore?,L'azione combinata della modulazione di base istintiva di natura troncale e della volontà di sopportazione dolorifica di tipo encefalico (corticale).,Cosa permette di sopportare il dolore?
-Con chi interagisce l'interneurone inibitorio del dolore?,"Interagisce sul nocicettore C (1° neurone della via del dolore), inibendo la secrezione di sostanza P nella sinapsi col neurone di proiezione (2° neurone della via del dolore).",Descrivi
-Quale tipo di fibra ha il maggiore quantitativo di recettori mu (recettori degli oppioidi)? Cosa comporta ciò?,Le fibre C (del dolore cronico). Ciò comporta che gli oppioidi agiscano principalmente su di esse contro il dolore cronico.,Quale tipo di fibra ha il maggiore quantitativo di recettori
-Che cosa s'intende per dolore riferito?,Il dolore viscerale proiettato su una zona somatica. Si tratta di associazione tra dolore enterocettivo ed esterocettivo.,Che cosa s'intende per dolore riferito?
-"Cosa s'intende per ""dolore irradiato""?",Un dolore che si prolunga dal punto in cui origina fino alla fine del decorso del nervo interessato (es. colpo della strega).,Cosa s'intende per dolore irradiato?
-Cosa sono i recettori TRP (Transient Receptor Potential)?,"Sono recettori posti sui nocicettori e rispondono agli stimoli dolorifici. Sono bimodali, perché non rispondono soltanto al dolore, ma anche a caldo/freddo. (Es. Il peperoncino, contenente capseicina, interagisce coi recettori sensibili al calcio).",Cosa sono i recettori TRP (Transient Receptor Potential)?
-Qual è il ruolo dei leucociti nella modulazione del dolore?,"Secernono, nel contesto dell'infiammazione, sotto lo stimolo di noradrenalina, interleuchine e citochine, secernono gli oppioidi, inibendo i nocicettori (ruolo identico agl'interneuroni nella modulazione periferica).",Qual è il ruolo dei leucociti nella modulazione del dolore?
+2. **Quanti e quali interneuroni servono per il riflesso flessorio o di evitamento? (esempio del chiodo sotto al piede)**
+   - Servono 4 strutture di interneuroni. 
+     - 2 sono inibitorie: una inibisce i muscoli estensori della gamba che evita, l'altra inibisce i muscoli flessori della gamba portante.
+     - Le altre 2 sono strutture attivatorie e permettono la contrazione immediata dei flessori della gamba che evita e degli estensori della gamba portante.
+     - L'ultima fibra sinapta con il secondo neurone sensitivo che incrocia e sale secondo la via collaterale del dolore al talamo fino al terzo neurone sensitivo che trasmette alla corteccia.
 
+3. **Quali sono i recettori tattili a rapido adattamento e cosa fanno?**
+   - I corpuscoli del Meissner che percepiscono la velocità del movimento, ma sono epicritici.
+   - I corpuscoli del Pacini che sono più protopatici e percepiscono vibrazione.
+
+4. **Quali sono i recettori a lento adattamento e cosa fanno?**
+   - Quelli di Merkel che più di tutti permettono il tatto discriminativo. Sono più precisi di quelli del Meissner, ma meno veloci e ci forniscono la durata dello stimolo, la sensibilità spaziale e l'intensità della deformazione cutanea.
+   - Quelli di Ruffini ci forniscono informazioni sulla conformazione della mano in base alla dislocazione profonda della pelle.
+
+5. **Qual è la differenza tra i recettori tattili e i nocicettori?**
+   - I recettori tattili sono capsulati, mentre i nocicettori sono terminazioni libere.
+
+6. **Quali sono e cosa fanno i tipi di fibre che connettono i recettori al SNC?**
+   - Le fibre A alfa, più mielinizzate e più spesse, fungono da precettori dei muscoli scheletrici.
+   - Le fibre A beta, di dimensioni intermedie, fungono da meccanocettori della pelle.
+   - Le fibre A delta, le meno mielinizzate, sono recettori di dolore acuto e temperatura estrema.
+   - Le fibre C (chemical), non mielinizzate e molto piccole, recepiscono temperatura, dolore e prurito.
+
+7. **Che differenza c'è tra dolore nocicettivo, neuropatico e misto?**
+   - 1) Il dolore nocicettivo è fisiologico e dipende da un'attivazione dei nocicettori.
+   - 2) Il dolore neuropatico deriva da una lesione/malattia del sistema somato-sensoriale e non richiede la stimolazione dei recettori, essendo dovuto a un danno di una struttura nervosa (nervi periferici, corteccia). Si distinguono, inoltre, dolore neuropatico centrale e periferico. Può produrre due tipi di fenomeni:
+     - Di tipo negativo: ipoestesia e ipoalgesia;
+     - Di tipo positivo: disestesia e allodinia.
+   - 3) Il dolore misto presenta sia una componente nocicettiva che neuropatica.
+
+8. **Quando si parla di "dolore idiopatico"?**
+   - Quando non se ne conosce la causa.
+
+9. **Descrivi la differenza tra dolore acuto e dolore cronico.**
+   - Nel dolore acuto si ha risposta simpatica per aumentare lo stato d'allerta dell'individuo. 
+   - Nel dolore cronico, questa risposta tende ad esaurirsi, con conseguente distrofia funzionale e poi organica, che determina una modificazione della sensibilità dei recettori (ALGODISTROFIA). 
+   - Nel dolore cronico neuropatico si ha una vera e propria "memoria del dolore", espressa tramite iperattività della corteccia prefrontale.
+
+10. **Quali sono le conseguenze psico-fisiche di un'esposizione a dolore prolungato?**
+    - Si può avere sensibilizzazione centrale per alcune ore e ciò può portare a un'ipereccitabilità permanente della via del dolore, causa di IPERALGESIA e ALLODINIA. 
+    - Psicologicamente parlando, una cronicizzazione porta potenzialmente alla depressione a causa di cali di sostanze quali serotonina e dopamina.
+
+11. **Come funziona il controllo a cancello della nocicezione?**
+    - Nel corno posteriore ci sono gli interneuroni, che agiscono sul neurone di proiezione dell'impulso dolorifico (II neurone della via del dolore). Essi vengono inibiti dalle fibre nocicettive e attivati dalle fibre A beta; di conseguenza, lo stimolo tattile inibisce lo stimolo nocicettivo.
+
+12. **Come avviene la modulazione periferica del dolore?**
+    - Conseguentemente al danno, mediante la stimolazione delle fibre non nocicettive.
+
+13. **Come avviene la modulazione centrale?**
+    - La modulazione avviene tramite fattori provenienti dal SNC. Le strutture che la controllano sono tre nuclei che proiettano al midollo spinale e modulano i neuroni che producono oppioidi endogeni:
+      - 1) Grigio periacqueduttale, modulante sulle vie che si dipartono dai successivi due nuclei;
+      - 2) Nucleo magno del Rafe, serotoninergico;
+      - 3) Locus coeruleus, noradrenergico.
+
+14. **Cosa permette di sopportare il dolore?**
+    - L'azione combinata della modulazione di base istintiva di natura troncale e della volontà di sopportazione dolorifica di tipo encefalico (corticale).
+
+15. **Con chi interagisce l'interneurone inibitorio del dolore?**
+    - Interagisce sul nocicettore C (1° neurone della via del dolore), inibendo la secrezione di sostanza P nella sinapsi col neurone di proiezione (2° neurone della via del dolore).
+
+16. **Quale tipo di fibra ha il maggiore quantitativo di recettori mu (recettori degli oppioidi)? Cosa comporta ciò?**
+    - Le fibre C (del dolore cronico). Ciò comporta che gli oppioidi agiscano principalmente su di esse contro il dolore cronico.
+
+17. **Che cosa s'intende per dolore riferito?**
+    - Il dolore viscerale proiettato su una zona somatica. Si tratta di un'associazione tra dolore enterocettivo ed esterocettivo.
+
+18. **Cosa s'intende per "dolore irradiato"?**
+    - Un dolore che si prolunga dal punto in cui origina fino alla fine del decorso del nervo interessato (es. colpo della strega).
+
+19. **Cosa sono i recettori TRP (Transient Receptor Potential)?**
+    - Sono recettori posti sui nocicettori e rispondono agli stimoli dolorifici. Sono bimodali, poiché non rispondono soltanto al dolore, ma anche a caldo/freddo. (Es. Il peperoncino, contenente capsaicina, interagisce con i recettori sensibili al calcio).
+
+20. **Qual è il ruolo dei leucociti nella modulazione del dolore?**
+    - Secernono, nel contesto dell'infiammazione, sotto lo stimolo di noradrenalina, interleuchine e citochine, gli oppioidi, inibendo i nocicettori (ruolo identico agli interneuroni nella modulazione periferica).
+
+###
 Question,Answer,Name
 Che tipo di neurotrasmettitore raggiunge le pareti dei vasi?,Noradrenalina,Che tipo di neurotrasmettitore raggiunge le pareti dei vasi?
 Che tipo di recettori per l'acetilcolina media effetti parasimpatici?,I muscarinici,Che tipo di recettori per l'acetilcolina media effetti paras

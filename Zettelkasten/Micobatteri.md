@@ -32,7 +32,7 @@ Tag: #Microbiologia
 - Alcuni micobatteri sono commensali (Mycobacterium smegmatis), altri sono saprofiti o infettano altri animali
 	- Nell'ultimo casso possono capiatre zoonosi come per il M. bovis
 ### Micobatterio della tubercolosi
-- Il più importante patogeno umano è il [[Mycobacterium tubercolosis]]
+- Il più importante patogeno umano è il [[Mycobacterium tubercolosis - tubercolosi]]
 - Confondibile con il mycobacterium africanum che è probabilmente una variante di M.tubercolosis
 ### Micobatteri non tubercolari
 - In genere si tratta di batteri opportunisti ma hanno assunto rilevanza in quanto sono alcuni degli agenti eziologici più importanti in soggetti immunodeficienti (spesso colpiti da [[AIDS]])

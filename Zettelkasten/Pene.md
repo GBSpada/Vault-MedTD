@@ -18,7 +18,7 @@ sistema/apparato:
 ### Malattie infettive a trasmissione sessuale
 #### Condilomi acuminati ([[Zettelkasten/Papillomavirus e Polyomavirus#Papillomavirus umani|HPV]])
 #### Herpes genitale ([[Zettelkasten/Herpesvirus#Virus dell'*herpes simplex*|HSV-2]])
-#### [[Treponema Pallidum#Clinica]]
+#### [[Treponema Pallidum - sifilide#Clinica]]
 #### [[Klebsiella granulomatis#Granuloma inguinale]]
 #### [[Chlamydia Trachomatis#Linfogranuloma venereo]]
 #### [[Haemophilus Ducreyi#Ulcera venerea o Cancroide]]

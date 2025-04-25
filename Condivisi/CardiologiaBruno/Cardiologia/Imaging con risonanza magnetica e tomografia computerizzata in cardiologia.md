@@ -3,7 +3,7 @@ Stato: #idealibro
 Tag: #Cardiologia #ApparatoCardiocircolatorio 
 
 ---
-# Cardiologia generale
+
 ## Risonanza magnetica
 ### Principi di base
 - Tecnica basata sulla ==proprietà magnetiche dei nuclei di H==:
@@ -59,7 +59,7 @@ Tag: #Cardiologia #ApparatoCardiocircolatorio
 - Una piccola percentuale di pazienti soffre di *claustrofobia* e non è in grado di sopportare l'esame nell'ambiente relativamente limitato del cilindro magnetico
 	- sono oggi disponibili apparecchiature con un tunnel aperto
 - L'esame dei ==pazienti clinicamente instabili== è problematico per la ==difficoltà nell'eseguire un attento monitoraggio==
-	- es. nei pazienti con [[aritmie]] significative, la qualità delle img risulta spesso limitata
+	- es. nei pazienti con [[Aritmie]] significative, la qualità delle img risulta spesso limitata
 ## Tomografia computerizzata (TC)
 >[Still screamin', "Free TC, Melly, and Thug"](https://genius.com/30111364/Kanye-west-and-ty-dolla-sign-vultures/Still-screamin-free-tc-melly-and-thug|)
 ### Principi di base
@@ -81,7 +81,7 @@ Tag: #Cardiologia #ApparatoCardiocircolatorio
 - Ottimo strumento per la diagnosi della *[[Dissecazione aortica|dissecazione aortica]]* o di *ulcere penetranti*
 	- è possibile visualizzare l'intero decorso dell'aorta → follow-up dei pazienti
 ### Calcificazioni coronariche
->Nelle arterie coronarie colpite da [[Patogenesi, prevenzione e trattamento dell'aterosclerosi|aterosclerosi]] può essere presente Ca$^{2+}$ (ovviamente assente nelle coronarie normali)
+>Nelle arterie coronarie colpite da [[Aterosclerosi|aterosclerosi]] può essere presente Ca$^{2+}$ (ovviamente assente nelle coronarie normali)
 - Data l'==elevata sensibilità== nell'identificazione delle calcificazioni coronariche, la TC sta assumendo importanza come modalità non invasiva per lo screening e la diagnosi delle *coronaropatie*
 	- entità della calcificazione[^3] ∝ gravità della malattia coronarica
 	- nonostante la sua elevata sensibilità, la sua specificità è scarsa

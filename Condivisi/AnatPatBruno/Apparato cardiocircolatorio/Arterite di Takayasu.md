@@ -97,11 +97,11 @@ Tag: #Cardiologia
 - Tutt'oggi ignota
 - Si suggeriscono due meccanismi patogenetici:
 	- infezioni
-		- [[Treponema Pallidum]], [[Streptococchi viridanti|Streptococco emolitico]] e [[Mycobacterium tuberculosis]]
+		- [[Treponema Pallidum - sifilide]], [[Streptococchi viridanti|Streptococco emolitico]] e [[Mycobacterium tuberculosis]]
 		- anche se nessuno degli agenti infettivi è stato mai trovato nelle lesioni vasali
 	- alterato stato immunitario su un terreno di predisposizione genetica
 		- frequente associazione della patologia con altre malattie a carattere autoimmune:
-			- [[Lupus eritematoso sistemico (LES)|LES]]
+			- [[Lupus eritematoso sistemico|LES]]
 			- [[Sclerosi sistemica (sclerodermia)|sclerodermia]]
 			- pioderma gangrenoso
 			- spondilite anchilosante
@@ -154,7 +154,7 @@ Tag: #Cardiologia
 		- ulcerazioni del setto nasale e del palato
 		- alterazioni retiniche (==amaurosi fugace==) fino alla completa cecità
 		- serie di danni neurologici (==TIA== (==Transient Ischemic Attack==))
-	- può insorgere anche [[ipertensione]]
+	- può insorgere anche [[Ipertensione arteriosa]]
 		- estensione della malattia fino all'imbocco delle arterie renali
 ### Prognosi
 - Correlazione raramente mortale, ma sempre fortemente debilitante

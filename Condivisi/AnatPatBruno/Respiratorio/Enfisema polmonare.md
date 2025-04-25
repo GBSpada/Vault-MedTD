@@ -84,7 +84,7 @@ Tag: #Anatomiapatologica #ApparatoRespiratorio
 	- notevole limitazione dello sforzo fisico
 #### Decorso
 - Graduale, ma progressivo
-- Nell'evoluzione patologica, s'instaura quasi costantemente un'[[Ipertensione#Cardiopatia ipertensiva polmonare|ipertensione polmonare]]
+- Nell'evoluzione patologica, s'instaura quasi costantemente un'[[Ipertensione arteriosa#Cardiopatia ipertensiva polmonare|ipertensione polmonare]]
 	- prevalentemente secondaria alle distorsioni vascolari dovute a
 		- rimaneggiamento parenchimale
 		- vasocostrizione da ==ipercapnia==

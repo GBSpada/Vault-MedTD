@@ -168,7 +168,7 @@ sistema/apparato/ambito: Ematologia
 	- anomalie quali-quantitative del plasminogeno
 	- anomalie del sistema fibrinolitico
 	- disfibrinogenemia
-	- [[Lupus eritematoso sistemico (LES)|LES]]
+	- [[Lupus eritematoso sistemico|LES]]
 	- trombocitosi
 - Condizioni secondarie
 	- Alterazioni della coagulabilità e della fibrinolisi

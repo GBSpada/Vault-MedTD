@@ -8,7 +8,7 @@ Tag: #SistemaEndocrino #Anatomiapatologica
 >**Feocromocitoma**: letteralmente "tumore che si colora con sali di cromo", è un raro tumore della midollare surrenalica, che produce *catecolamine*, responsabili della sintomatologia ipertensiva classicamente associata a tale neoplasia.
 ## Epidemiologia
 - Incidenza di 1 caso su $10^5$ abitanti/anno
-- Causa dell'1-2% delle [[Ipertensione|ipertensioni]]
+- Causa dell'1-2% delle [[Ipertensione arteriosa|ipertensioni]]
 	- questi casi guariscono completamente dopo asportazione chirurgica del tumore
 ## Eziopatogenesi
 ### Sindromi familiari

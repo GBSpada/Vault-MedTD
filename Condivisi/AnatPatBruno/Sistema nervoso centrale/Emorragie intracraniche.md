@@ -106,7 +106,7 @@ Tag: #SistemaNervoso #Anatomiapatologica
 - Sindrome di Elhers-Danlos
 - [[Malattie neoplastiche#Gene NF1|Neurofibromatosi di tipo 1]]
 ###### Displasia fibromuscolare delle arterie intracraniche e coartazione dell'aorta
-###### [[Ipertensione|Ipertensione arteriosa]]
+###### [[Ipertensione arteriosa|Ipertensione arteriosa]]
 ###### Fumo di sigaretta
 ##### Decorso clinico
 1. Eventuale rottura = **==emorragia subaracnoidea==**
@@ -138,7 +138,7 @@ Tag: #SistemaNervoso #Anatomiapatologica
 ## Emorragie intraparenchimali
 ### Emorragie su base ipertensiva
 #### Eziologia
-##### [[Ipertensione|Ipertensione arteriosa]]
+##### [[Ipertensione arteriosa|Ipertensione arteriosa]]
 - Principale causa
 - Se di lunga durata, è associata agli *aneurismi di Charcot-Bouchard*
 	- dilatazioni fusiformi, segmentali, lungo il decorso delle piccole arterie e arteriole

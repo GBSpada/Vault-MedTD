@@ -134,7 +134,7 @@ Tag: #Farmacologia #ApparatoCardiocircolatorio
 - ==Diuretici tiazidici==: indicati nella maggioranza dei pazienti con ipertensione lieve o moderata e con funzionalità renale o cardiaca nella norma
 	- sebbene siano ad alte dosi più natriuretici, il loro effetto antipertensivo, quando impiegati come singolo farmaco, è più marcato con le dosi più basse (25-50 mg) che con le dosi più elevate
 - ==Diuretici dell'ansa==: indicati in
-	- casi gravi di [[ipertensione]], quando vengono impiegati diversi farmaci con proprietà sodioritentive
+	- casi gravi di [[Ipertensione]], quando vengono impiegati diversi farmaci con proprietà sodioritentive
 	- insufficienza renale, quando il valore della filtrazione glomerulare è inferiore a 30-40 mL/min
 	- [[Scompenso cardiaco|insufficienza cardiaca]] o nella [[Cirrosi epatica|cirrosi]], dov'è presente una marcata ritenzione sodica
 - ==Diuretici risparmiatori di potassio==: utili sia per evitare una perdita eccessiva di $K^+$ che per potenziare gli effetti natriuretici di altri farmaci diuretici

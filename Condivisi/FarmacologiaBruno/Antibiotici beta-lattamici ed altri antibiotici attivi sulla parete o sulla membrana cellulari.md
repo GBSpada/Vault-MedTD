@@ -180,7 +180,7 @@ Tag: #Farmacologia #Chemioterapici #Antibiotici
 	- Streptococchi
 	- Meningococchi
 	- Stafilococchi non producenti $\beta$-lattamasi
-	- [[Treponema Pallidum]] e numerose altre spirochete
+	- [[Treponema Pallidum - sifilide]] e numerose altre spirochete
 	- varie specie di Clostridium
 	- [[Actinomiceti]]
 	- altri bacilli gram-positivi e microrganismi anaerobi gram-negativi non secernenti $\beta$-lattamasi
@@ -198,7 +198,7 @@ Tag: #Farmacologia #Chemioterapici #Antibiotici
 - Somministrata *IM*, dà **concentrazioni ematiche basse, ma prolungate**
 	- un'iniezione singola (1,2 milioni di unità) è sufficiente per il trattamento delle *faringiti* da Streptococco $\beta$-emolitico
 	- somministrata una volta ogni 3-4 settimane, previene le reinfezioni streptococciche
-	- alla dose di 2,4 milioni di unità una volta a settimana per 1-3 settimane, è efficace nel trattamento della [[Treponema Pallidum#Clinica|sifilide]]
+	- alla dose di 2,4 milioni di unità una volta a settimana per 1-3 settimane, è efficace nel trattamento della [[Treponema Pallidum - sifilide#Clinica|sifilide]]
 ##### Procaina-penicillina G
 - Anch'essa, somministrata IM, dà concentrazioni ematiche basse, ma prolungate
 - In passato, era il farmaco di scelta per il trattamento della [[Polmoniti infettive|polmonite]] pneumococcica e [[Neisseria Gonorrhoeae#Fisiopatologia|gonorrea]] non complicate

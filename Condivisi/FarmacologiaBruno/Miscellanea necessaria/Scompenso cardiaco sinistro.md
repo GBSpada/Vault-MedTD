@@ -3,69 +3,62 @@ Stato: #Idealezione
 Tag: #Cardiologia 
 
 ---
-# Scompenso cardiaco sinistro
-- Caratteristiche generali
-	- cause
-		- cardiopatia ischemica
-		- ipertensione
-		- valvulopatia aortica e mitralica
-		- cardiomiopatie primitive
-	- effetti clinici e morfologici
-		- conseguenza della congestione (ritorno venoso nella circolazione polmonare)
-		- stasi del sangue nelle camere cardiache sx
-		- perfusione insufficiente dei tessuti a valle con conseguente disfunzione d'organo
-- Morfologia
-	- cuore
-		- dipende dal processo patologico, ma, in genere, **ventricolo sx ipertrofico e spesso dilatato**, talvolta in modo massivo
-		- alterazioni microscopiche
-			- ipertrofia dei miociti
-			- vari gradi di fibrosi interstiziale
-		- ridotta funzione ventricolare
-			- aumento del rischio di fibrillazione atriale
-				- stasi ematica (soprattutto nell'auricola sx, sede di formazione di trombi)
-	- polmoni
-		- **congestione polmonare** + **edema** → polmoni pesanti e umidi
-		- alterazioni polmonari
-			1. edema perivascolare e interstiziale, in particolare a livello dei setti interlobulari
-				- caratteristiche ==*strie B e C di Kerley*== osservabili nell'esame radiografico del torace
-			2. progressivo edema con ispessimento dei setti alveolari
-			3. accumulo di liquido edematoso negli spazi alveolari
-				- alcuni globuli rossi e proteine plasmatiche si riversano nel trasudato edematoso negli spazi alveolari
-					- fagocitosi da parte dei macrofagi, che immagazzinano il ferro in forma di *emosiderina*
-						- noti come ==**cellule dello scompenso cardiaco**==
-						- segno istologico di pregressi episodi di edema polmonare
-- Sintomi
-	- iniziali
-		- tosse e ==dispnea== solamente sotto sforzo
-	- progressione
-		- peggioramento dell'edema polmonare
-			- ==ortropnea== (dispnea in posizione supina, si risolve assumendo una posizione seduta/eretta)
-			- ==dispnea parossistica notturna== (insorge di notte, talmente grave da indurre un senso di soffocamento)
-			- ==fibrillazione atriale==
-				- contrazione scoordinata, caotica della muscolatura dell'atrio, aggrava l'ICC a causa della perdita di Ca2+ atriale
-			- ==riduzione della perfusione renale==
-				- attivazione del sistema r-a-a
-					- ritenzione di acqua e sale (mi fai beene!!!)
-						- maggiore ritenzione di liquidi
-							- esacerbazione dell'edema
-				- ridotta escrezione dei prodotti azotati → ==iperazotemia==
-	- fasi avanzate
-		- ipoperfusione cerebrale → ==encefalopatia ipossica==
-			- irritabilità
-			- perdita della capacità di concentrazione
-			- agitazione
-## Scompenso sistolico
-- Insufficiente frazione di eiezione (insufficienza di pompa)
-## Scompenso diastolico
-- Ventricolo sx: patologicamente rigido, non può rilassarsi durante la diastole
-	- funzione cardiaca salvaguardata a riposo
-	- incapacità di aumento della gittata in risposta ad aumentate richieste metaboliche dei tessuti periferici
-		- ==edema polmonare flash==: edema polmonare a insorgenza rapida causato da aumento nella pressione di riempimento
-- Fattori di rischio
-	- ipertensione (principale)
-	- diabete mellito
-	- obesità
-	- stenosi bilaterale delle arterie renali
+## Caratteristiche generali
+
+Lo scompenso cardiaco è una condizione complessa che può insorgere a causa di diverse patologie cardiache. Tra le cause più comuni troviamo:
+
+- Cardiopatia ischemica
+- Ipertensione
+- Valvulopatie aortica e mitralica
+- Cardiomiopatie primitive
+
+Queste condizioni portano a effetti clinici e morfologici significativi, come la congestione del ritorno venoso nella circolazione polmonare, la stasi del sangue nelle camere cardiache sinistre e una perfusione insufficiente dei tessuti a valle, con conseguenti disfunzioni d'organo.
+
+## Morfologia
+
+Dal punto di vista morfologico, il cuore presenta modifiche che variano a seconda del processo patologico sottostante. In generale, si osserva un ventricolo sinistro ipertrofico e spesso dilatato, talvolta in modo massivo. Le alterazioni microscopiche includono:
+
+- Ipertrofia dei miociti
+- Vari gradi di fibrosi interstiziale
+
+Questi fattori contribuiscono a una ridotta funzione ventricolare. Questa condizione aumenta il rischio di fibrillazione atriale, caratterizzata da una stasi ematica, soprattutto nell'auricola sinistra, dove possono formarsi trombi.
+
+I polmoni, a loro volta, mostrano segni di congestione e edema, risultando pesanti e umidi. Le alterazioni polmonari includono:
+
+- Edema perivascolare e interstiziale
+- Ispessimento dei setti alveolari
+- Accumulo di liquido edematoso negli spazi alveolari
+
+In quest'ultimo caso, alcuni globuli rossi e proteine plasmatiche possono riversarsi nel trasudato. Questo porta alla fagocitosi da parte dei macrofagi, che accumulano ferro sotto forma di emosiderina, noti come "cellule dello scompenso cardiaco", un segno istologico di episodi pregressi di edema polmonare.
+
+## Sintomi
+
+I sintomi dello scompenso cardiaco possono manifestarsi in diverse fasi. Inizialmente, i pazienti possono avvertire tosse e dispnea solo durante sforzi fisici. Con la progressione della malattia, l'edema polmonare può peggiorare, portando a sintomi più gravi come:
+
+- Ortopnea: dispnea in posizione supina alleviata da una posizione seduta o eretta
+- Dispnea parossistica notturna: insorge di notte e può essere così intensa da indurre un senso di soffocamento
+
+La fibrillazione atriale può complicare ulteriormente la situazione, causando contrazioni scoordinate dell'atrio e aggravando l'insufficienza cardiaca a causa della perdita di calcio atriale. Inoltre, la riduzione della perfusione renale attiva il sistema renina-angiotensina-aldosterone, portando a una ritenzione di acqua e sale, che contribuisce all'esacerbazione dell'edema e alla ridotta escrezione dei prodotti azotati, con conseguente iperazotemia.
+
+Nelle fasi avanzate, i pazienti possono sperimentare ipoperfusione cerebrale, che può sfociare in encefalopatia ipossica, caratterizzata da irritabilità, perdita della capacità di concentrazione e agitazione.
+
+## Scompenso cardiaco
+
+Lo scompenso cardiaco può essere classificato in due categorie principali:
+
+- **Scompenso sistolico**: caratterizzato da un'insufficiente frazione di eiezione, che indica una compromissione della capacità di pompare il sangue.
+  
+- **Scompenso diastolico**: il ventricolo sinistro diventa patologicamente rigido e non riesce a rilassarsi durante la diastole. Sebbene la funzione cardiaca possa essere mantenuta a riposo, c'è un'incapacità di aumentare la gittata in risposta a richieste metaboliche superiori, portando a fenomeni come l'edema polmonare flash, che si verifica rapidamente a causa di un aumento della pressione di riempimento.
+
+## Fattori di rischio
+
+Tra i fattori di rischio per lo scompenso cardiaco, l'ipertensione rappresenta il principale. Altri fattori includono:
+
+- Diabete mellito
+- Obesità
+- Stenosi bilaterale delle arterie renali
+
+Questi elementi possono contribuire all'insorgenza e alla progressione della malattia.
 
 ---
 # Reference

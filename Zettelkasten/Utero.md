@@ -151,7 +151,7 @@ sistema/apparato:
 ##### Endometriti croniche specifiche
 - Determinate da vari agenti patogeni quali **batteri** (endometrite tubercolare), **micoplasmi**, **virus** (Citomegalovirus, Herpes virus), ==agenti micotici== e altri. 
 	- L’endometrite *tubercolare* è la ==più comune delle endometriti croniche granulomatose==.
-	- Essa può essere secondaria a una diffusione [[Mycobacterium tubercolosis#Riacutizzazione|miliare]] [^1] o, più spesso, a un’infezione discendente dalle tube di Falloppio.
+	- Essa può essere secondaria a una diffusione [[Mycobacterium tubercolosis - tubercolosi#Riacutizzazione|miliare]] [^1] o, più spesso, a un’infezione discendente dalle tube di Falloppio.
 ##### Aspecifiche
 - Le endometriti acute e croniche aspecifiche vengono soprattutto osservate **in associazione** a 
 	- **Stasi intrauterina** per stenosi del canale cervicale 

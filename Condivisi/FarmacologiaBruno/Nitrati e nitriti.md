@@ -93,7 +93,7 @@ Tag: #Farmacologia #ApparatoCardiocircolatorio
 - Nelle ultime decadi, l'uso del ==nitrato di amile== e del ==nitrito di isobutile== (non dei nitrati) è divenuto popolare in alcune fasce di popolazione ==a scopo afrodisiaco== (erezione)
 #### Attività sulle piastrine
 - Stimolazione della *guanilciclasi* → aumento cGMP → ==diminuzione dell'aggregabilità piastrinica==
-- Ruolo nell'[[Patogenesi, prevenzione e trattamento dell'aterosclerosi|infarto]]: utile nell'angina instabile, se somministrata IV
+- Ruolo nell'[[Aterosclerosi|infarto]]: utile nell'angina instabile, se somministrata IV
 #### Altri effetti
 ##### Legame all'Hb
 - Essa contiene ione $Fe^{2+}$, che reagisce con lo *ione nitrito*, formando *metaemoglobina* (ione $Fe^{3+}$)

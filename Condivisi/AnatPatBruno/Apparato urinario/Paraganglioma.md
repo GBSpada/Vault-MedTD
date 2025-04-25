@@ -10,7 +10,7 @@ Tag: #ApparatoUrinario #Anatomiapatologica
 - Insorge praticamente a qualunque età (10-88 anni)
 	- predilezione per le femn
 - Sintomi di presentazione clinica (da iperfunzione del sistema simpatico)
-	- [[ipertensione]]
+	- [[Ipertensione arteriosa]]
 	- cefalea
 	- palpitazioni
 	- ematuria (nel 50% dei pazienti)

@@ -204,7 +204,7 @@ sistema/apparato:
 - Il dato che spesso le pazienti siano affette da tiroidite autoimmunitaria o da diabete di tipo 1 suggerisce una ==patogenesi autoimmunitaria==. 
 - Anche in questo caso, vista la composizione della lesione, occorre distinguerla da una neoplasia maligna.
 #### Mastite granulomatosa
-- Qualsiasi tipo di malattia granulomatosa, sistemica (tipo la [[sarcoidosi]]) o infettiva (tipo la [[Mycobacterium tubercolosis|tubercolosi]]), può  localizzarsi a livello del tessuto mammario.
+- Qualsiasi tipo di malattia granulomatosa, sistemica (tipo la [[sarcoidosi]]) o infettiva (tipo la [[Mycobacterium tubercolosis - tubercolosi|tubercolosi]]), può  localizzarsi a livello del tessuto mammario.
 
 
 

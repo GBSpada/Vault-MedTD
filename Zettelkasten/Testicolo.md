@@ -123,7 +123,7 @@ sistema/apparato:
 #### Batterica (generica)
 - Insorgono generalmente come ==complicanze di infezioni delle basse vie urinarie==.
 - ==Di solito==, sono dovute a batteri ==Gram-negativi== e sono caratterizzate da infiammazione acuta del tessuto, che può ascessualizzare.
-#### [[Treponema Pallidum|Sifilitica]] 
+#### [[Treponema Pallidum - sifilide|Sifilitica]] 
 - Secondaria e terziaria
 #### Virale
 - Colpisce circa il 20% degli adulti affetti da [[Zettelkasten/Orthomyxovirus e Paramyxovirus#Virus della parotite|parotite epidemica]], ed è caratterizzata da dolore e gonfiore unilaterale delle gonadi.

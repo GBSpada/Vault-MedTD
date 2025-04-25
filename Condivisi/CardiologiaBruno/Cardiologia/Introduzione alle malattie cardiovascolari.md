@@ -24,7 +24,7 @@ Tag: #Cardiologia #ApparatoCardiocircolatorio
 - Arterie più piccole, dotate di una *tunica media relativamente spessa* (in rapporto all'avventizia)
 ##### Arterie di medie dimensioni
 - Possiedono anch'esse una *tunica media rilevante*
-- Maggiormente colpite dall'[[Patogenesi, prevenzione e trattamento dell'aterosclerosi|aterosclerosi]]
+- Maggiormente colpite dall'[[Aterosclerosi|aterosclerosi]]
 ##### Arterie elastiche più grandi
 - *Tunica media molto più strutturata*, costituita da
 	- bande concentriche di cellule muscolari lisce + strati di matrice extracellulare ricca in elastina
@@ -48,7 +48,7 @@ Tag: #Cardiologia #ApparatoCardiocircolatorio
 	- ==barriera permeabile selettiva==
 		- fungendo da interfaccia tra tessuti e compartimento ematico
 		- viene meno in molte patologie cardiovascolari
-			- incluse aterosclerosi e [[ipertensione]]
+			- incluse aterosclerosi e [[Ipertensione arteriosa]]
 			- anche [[edema polmonare]] e altre situazioni di "perdita di integrità capillare"
 	- ==regolazione locale del flusso ematico e del calibro vascolare==
 		- in condizioni fisiologiche, sostanze endogene (quali *prostaciclina*, *fattore iperpolarizzante endotelio-derivato* e *[[ossido nitrico]]*) forniscono uno stimolo vasodilatatore tonico
@@ -129,9 +129,9 @@ Tag: #Cardiologia #ApparatoCardiocircolatorio
 	- immagazzinare l'energia cinetica sistolica
 - **Rigidità da invecchiamento/malattia** → ampliamento della pressione differenziale → aumento del postcarico
 ##### Mediazione di stimoli
-4. Stimolazione da endotossine batteriche → secrezione di citochine proinfiammatorie (*IL-6*) e altri mediatori
-5. Attivazione infiammatoria → secrezione di mediatori protrombotici (es. *fattori tissutali* e *PAI-1*)
-6. Elaborazione di ==fattori di crescita autocrini==
+1. Stimolazione da endotossine batteriche → secrezione di citochine proinfiammatorie (*IL-6*) e altri mediatori
+2. Attivazione infiammatoria → secrezione di mediatori protrombotici (es. *fattori tissutali* e *PAI-1*)
+3. Elaborazione di ==fattori di crescita autocrini==
 #### Funzioni
 - Mantenimento del tono del vaso mediante ==aumento della concentrazione intracellulare di calcio==
 - ![Regolazione della concentrazione di calcio nella cellula muscolare liscia vascolare e dell'actomiosina ATPasi-dipendente.](https://i.imgur.com/WFruFEs.png)
@@ -411,7 +411,7 @@ Tag: #Cardiologia #ApparatoCardiocircolatorio
 #### Grado di attività fisica abituale
 - Es. l'insorgenza di dispnea dopo due piani di scale in un maratoneta in buone condizioni ha un significato molto diverso dall'insorgenza dello stesso sintomo dopo un piano di scale in una persona che conduce vita sedentaria
 #### Dettagliata valutazione del regime terapeutico
-- Es. 1: la persistenza di edema, mancanza di fiato e altre manifestazioni di [[scompenso cardiaco]] in un paziente la cui dieta è rigidamente ristretta in contenuto di Na$^+$ e che viene trattato con dosi ottimali di [[diuretici]] dev'essere interpretata in modo differente dal reperto di manifestazioni analoghe in assenza di queste misure
+- Es. 1: la persistenza di edema, mancanza di fiato e altre manifestazioni di [[Scompenso cardiaco]] in un paziente la cui dieta è rigidamente ristretta in contenuto di Na$^+$ e che viene trattato con dosi ottimali di [[diuretici]] dev'essere interpretata in modo differente dal reperto di manifestazioni analoghe in assenza di queste misure
 - Es. 2: la persistenza di [[angina pectoris]] nonostante la terapia ottimale con farmaci antianginosi è più grave della sua presenza in un paziente non trattato
 ### Elettrocardiogramma
 >[!warning]
@@ -460,7 +460,7 @@ Tag: #Cardiologia #ApparatoCardiocircolatorio
 
 ---
 # Reference
-[[Apparato cardiocircolatorio#Cardiologia|Cardiologia]]
+[[Apparato cardiovascolare#Cardiologia|Cardiologia]]
 
 
 

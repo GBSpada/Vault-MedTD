@@ -122,7 +122,7 @@ Tag: #ApparatoCardiocircolatorio #Anatomiapatologica #Patologia
 		- [[Herpesvirus#Citomegalovirus|Citomegalovirus]]
 		- [[Herpesvirus#Virus della varicella e dell'*herpes zoster*|Varicella-zoster]]
 	- [[Rickettsie]]
-	- [[Spirochete|Spirochete]] (sifilide da [[Treponema Pallidum]] - stadio terziario della malattia)
+	- [[Spirochete|Spirochete]] (sifilide da [[Treponema Pallidum - sifilide]] - stadio terziario della malattia)
 - In alcune infezioni virali, nel siero e nelle lesioni vasali sono evidenti immunocomplessi:
 	- es. vasculiti associate a [[Epatiti|epatite]]
 		- complesso *HBsAg-antiHB-sAg* nella [[Poliarterite nodosa (PAN)|PAN]]
@@ -169,7 +169,7 @@ Tag: #ApparatoCardiocircolatorio #Anatomiapatologica #Patologia
 - Deposizione di anticorpi a livello di
 	- membrana basale
 	- cellule endoteliali attivate dalle citochine
-- In alcune malattie ([[Lupus eritematoso sistemico (LES)|LES]] o [[Malattia di Kawasaki|malattia di Kawasaki]]), sono anche presenti ==anticorpi ad azione citotossica verso le cellule endoteliali==
+- In alcune malattie ([[Lupus eritematoso sistemico|LES]] o [[Malattia di Kawasaki|malattia di Kawasaki]]), sono anche presenti ==anticorpi ad azione citotossica verso le cellule endoteliali==
 	- possono contribuire o predisporre allo sviluppo della malattia
 ## Vasculiti primitive sistemiche
 ### Classificazione
@@ -196,7 +196,7 @@ Tag: #ApparatoCardiocircolatorio #Anatomiapatologica #Patologia
 #### Arteriti associate o malattie specifiche
 ##### Malattia reumatica
 ##### [[Artrite reumatoide]]
-##### [[Lupus eritematoso sistemico (LES)|Lupus eritematoso sistemico]]
+##### [[Lupus eritematoso sistemico|Lupus eritematoso sistemico]]
 
 
 

@@ -3,7 +3,7 @@ Stato: #idealibro
 Tag: #Cardiologia #ApparatoCardiocircolatorio 
 
 ---
-# Cardiologia generale
+
 ## Ecocardiografia bidimensionale
 ### Principi basilari
 >[!info]
@@ -25,6 +25,22 @@ Tag: #Cardiologia #ApparatoCardiocircolatorio
 	- utile nell'*ipertrofia ventricolare sx*
 	- modalità di scelta per *miocardiopatia ipertrofica*
 - ![Ecocardiografia bidimensionale di un paziente con cuore normale.](https://i.imgur.com/92qyq3G.png)
+#### Accorciamento frazionale sistolico
+L'accorciamento frazionale sistolico (AFS) è una misura utilizzata in cardiologia per valutare la funzione contrattile del cuore, in particolare del ventricolo sinistro. Viene calcolato come la differenza tra il volume telesistolico (il volume di sangue rimasto nel ventricolo alla fine della sistole) e il volume telediastolico (il volume di sangue presente nel ventricolo alla fine della diastole), diviso per il volume telediastolico, e moltiplicato per 100 per ottenere una percentuale.
+
+La formula è la seguente:
+
+
+$AFS = \frac{(VTD - VTS)}{VTD} \times 100$
+
+
+Dove:
+- $VTD$ = volume telediastolico
+- $VTS$ = volume telesistolico
+
+Un AFS normale è generalmente superiore al 55%, indicando una buona funzione contrattile del cuore. Valori inferiori possono indicare disfunzione ventricolare e sono spesso utilizzati per diagnosticare condizioni come l'insufficienza cardiaca.
+
+
 ### Anomalie valvolari
 - =="Gold standard"== per la valutazione della morfologia e del movimento delle valvole: è possibile
 	- determinare spessore e mobilità delle cuspidi

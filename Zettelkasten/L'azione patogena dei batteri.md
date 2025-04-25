@@ -20,7 +20,7 @@ Tag: #Microbiologia
 >Sia il malato che il soggetto portatore sano sono le uniche fonti di infezione per altri esseri umani non immuni
 
 - Questi batteri si sono evoluti per, nonostante i sintomi anche gravi, garantire la sopravvivenza dell'organismo infetto per un tempo abbastanza lungo da poter essere trasmessi
-	- Vedi il decorso del [[Treponema Pallidum]] o del [[Mycobacterium leprae]]
+	- Vedi il decorso del [[Treponema Pallidum - sifilide]] o del [[Mycobacterium leprae]]
 #### Batteri a circolazione umana (endogeni)
 - In questo caso il batterio, non provocando di base un processo morboso nella zona adibita alla sua colonizzazione, non impedisce la propria diffusione provocando gravissime sintomatologie in caso di infezione morbosa
 	- [[Clostridi causa di enteriti]], [[Staphylococcus aureus]]

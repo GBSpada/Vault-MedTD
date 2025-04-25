@@ -1,6 +1,12 @@
+---
+stato: ideaL
+tags:
+  - "#Farmacologia"
+  - Immunologia
+  - Immunoterapia
+sistema/apparato:
+---
 2025-01-01 03:58
-Stato: #idealibro 
-Tag: #Farmacologia #Immunoterapia #Immunologia 
 
 ---
 # Farmacologia
@@ -52,8 +58,6 @@ Tag: #Farmacologia #Immunoterapia #Immunologia
 ---
 # Reference
 [[Immunofarmacologia]]
-
-
 
 
 [^1]: È attualmente disponibile una ==soluzione oftalmica== di ciclosporina per il trattamento della ==sindrome grave dell'occhio secco==, così come per la ==sindrome GVH oculare==.

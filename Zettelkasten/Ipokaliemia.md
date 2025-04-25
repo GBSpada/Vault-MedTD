@@ -102,8 +102,5 @@ sistema/apparato:
 
 
 
-
-
-
 --- 
 # Reference: [[Patologia Generale - McCance]]

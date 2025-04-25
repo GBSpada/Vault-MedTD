@@ -20,7 +20,7 @@ Tag: #SistemaEndocrino #Anatomiapatologica
 - Sporadico, raramente ereditario
 	- associabile a forme quali
 		- ==sindrome di Cowden==
-		- ==complesso di Carney==
+		- [[sindrome di Carney]]
 - Favorito da
 	- esposizione a *raggi x* e *γ* nell'infanzia-adolescenza
 	- [[gozzo]]

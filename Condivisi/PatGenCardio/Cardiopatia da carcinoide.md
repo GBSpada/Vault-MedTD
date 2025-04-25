@@ -3,7 +3,6 @@ Stato: #Idealezione
 Tag: #Cardiologia 
 
 ---
-# Cardiopatia da carcinoide
 ## Caratteristiche generali
 - Disturbo sistemico caratterizzato da
 	- arrossamento
@@ -26,15 +25,16 @@ Tag: #Cardiologia
 	- *prostaglandine*
 	- *tachichinine*
 ## Morfologia
-### Lesioni
 - Ispessimenti interni di *colore bianco brillante*
 - Cellule muscolari lisce + sparse fibre di collagene immerse in una ricca matrice di mucopolissaccardici
-- ![Cardiopatia da carcinoide, lesioni caratteristiche](https://i.imgur.com/LpiwwNf.png)
+- Lesioni morfologicamente analoghe sono state osservate con l'impiego degli agenti anoressizzanti fenfluramina e fentermina.
 
 
+![Cardiopatia da carcinoide, lesioni caratteristiche](https://i.imgur.com/LpiwwNf.png)
 
 
-
+- La sindrome da carcinoide (Cap. 230) dà origine a fibrosi endocardica e/o a insufficienza della valvola tricuspide e/o polmonare; 
 
 ---
-# Reference
+# Reference: 
+[[Cardiomiopatia restrittiva]]

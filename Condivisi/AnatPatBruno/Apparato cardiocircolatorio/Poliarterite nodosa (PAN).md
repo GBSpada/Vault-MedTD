@@ -133,13 +133,13 @@ Tag: #Cardiologia
 ### Esordio
 - Può essere insidioso o improvviso
 	- sintomi aspecifici di interessamento multisistemico
-		- febbre, astenia, leucocitosi, neuropatia motoria periferica, dolori addominali, melena e [[ipertensione]]
+		- febbre, astenia, leucocitosi, neuropatia motoria periferica, dolori addominali, melena e [[Ipertensione arteriosa]]
 - La prima manifestazione può consistere in una ==diminuzione della perfusione==
 	- con ulcerazione, infarto, atrofia ischemica o emorragia nelle aree irrorate dalle arterie colpite
 ### Manifestazioni
 #### Cardiache
 - Specifico
-- [[Malattie del pericardio|Pericardite]], [[aritmie]] o [[infarto miocardico]]
+- [[Malattie del pericardio|Pericardite]], [[Aritmie]] o [[infarto miocardico]]
 #### Polmonari
 - Raramente
 - Sindrome di Löffler e asma

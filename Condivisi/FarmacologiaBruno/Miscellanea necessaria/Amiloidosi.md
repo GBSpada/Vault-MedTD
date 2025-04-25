@@ -3,7 +3,7 @@ Stato: #idealibro
 Tag: #Patologia 
 
 ---
-# Patologia
+
 >[!info]
 > *Amiloide*: proteina patologica, che si deposta negli spazi interstiziali di organi e tessuti e che caratterizza un'ampia varietà di quadri clinici.
 ## Generalità
@@ -141,7 +141,7 @@ Tag: #Patologia
 - Osservate in varie Paesi
 - Formate da [[Amiloidosi#Transretina (TTR)|transretina mutante]]
 ### Amiloidosi localizzate
-- Limitate a un singolo organo, senza coinvolgimento sistemico
+- [[Cardiomiopatia restrittiva#amiloidosi cardiaca]]
 ### Amiloidosi endocrina
 - ==Carcinoma midollare della tiroide==
 - ==Insulinoma==
@@ -156,9 +156,9 @@ Tag: #Patologia
 			- il 4% degli Americani di razza nera è portatore dell'allele mutato
 			- la cardiopatia colpisce sia omozigoti che eterozigoti
 - Interessa prevalentemente il cuore
-	- associata a [[Cardiomiopatie|cardiomiopatia]]
+	- associata a [[Miocardiopatie e miocarditi|cardiomiopatia]]
 - Sintomi
-	- [[Cardiomiopatie#Cardiomiopatia restrittiva|cardiomiopatia restrittiva]]
+	- [[Miocardiopatie e miocarditi#Cardiomiopatia restrittiva|cardiomiopatia restrittiva]]
 	- [[Aritmie|aritmie]]
 ## Morfologia
 ### Rene

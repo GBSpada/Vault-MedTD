@@ -12,7 +12,7 @@ Tag: #ApparatoUrinario #Anatomiapatologica
 	- es. GN primitive o secondarie
 		- [[Glomerulonefrite a depositi di IgA (malattia di Berger)|glomerulonefrite a depositi di IgA (malattia di Berger)]]
 		- [[Glomerulonefrite acuta post-infettiva|glomerulonefrite acuta post-infettiva]]
-		- [[Lupus eritematoso sistemico (LES)#Rene|LES]]
+		- [[Lupus eritematoso sistemico#Rene|LES]]
 	- da interpretare come ==segni di cronicizzazione==
 ## Epidemiologia
 - Da parecchi decenni considerata un'importante causa di sindrome nefrosica
@@ -107,7 +107,7 @@ Tag: #ApparatoUrinario #Anatomiapatologica
 - Sindrome nefrosica
 	- accompagnata da
 		- microematuria
-		- [[ipertensione]]
+		- [[Ipertensione arteriosa]]
 	- nel 20-30% dei pazienti, al momento della diagnosi è già presente IRC
 - Dipendenza/resistenza a
 	- terapia steroidea

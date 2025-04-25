@@ -37,4 +37,4 @@ sistema/apparato:
 
 --- 
 # Reference:
-[[Condivisi/FarmacologiaBruno/Miscellanea necessaria/Scompenso cardiaco|Scompenso cardiaco]]
+[[Scompenso cardiaco|Scompenso cardiaco]]

@@ -53,7 +53,7 @@ tags:
 - Altri tipi: bianco
 
 #### Fumo
-#### [[Ipertensione|Ipertensione]]
+#### [[Ipertensione arteriosa|Ipertensione arteriosa]]
 #### Diabete mellito
 #### Attività fisica
 ### Fattori di rischio non modificabili

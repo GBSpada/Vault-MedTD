@@ -14,7 +14,7 @@ Tag: #Patologia #Anatomiapatologica #ApparatoRespiratorio
 	- La maggior parte è clinicamente silente a causa delle piccole dimensioni
 		- Se il 60% del circolo polmonare è ostruito dall'embolo però
 			- Morte improvvisa
-			- [[Ipertensione#Cardiopatia ipertensiva sistemica (sx)|insufficienza cardiaca dx]] (cuore polmonare) 
+			- [[Ipertensione arteriosa#Cardiopatia ipertensiva sistemica (sx)|insufficienza cardiaca dx]] (cuore polmonare) 
 			- Collasso cardiocircolatorio
 	- Se avviene rottura di un'arteria a seguito di embolia non ci sarà necessariamente infarto a causa dell'irrorazione accessoria data dal circolo bronchiale
 # Anatomia patologica

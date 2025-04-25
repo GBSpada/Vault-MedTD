@@ -113,7 +113,7 @@ Tag: #Anatomiapatologica #ApparatoRespiratorio
 	- probabili fattori di rischio:
 		- tabacco (90% dei pazienti)
 		- inquinamento atmosferico
-		- malattie del collagene (può esserci positività per gli [[Lupus eritematoso sistemico (LES)#Autoanticorpi antinucleo (ANA)|ANA]])
+		- malattie del collagene (può esserci positività per gli [[Lupus eritematoso sistemico#Autoanticorpi antinucleo (ANA)|ANA]])
 		- prolungate terapie farmacologiche (==nitrofurantoinici==)
 		- malattie metaboliche o [[Apparato respiratorio#Approfondimento cellule bronchiolari e fibrosi cistica|deficit di surfactante]]
 #### Correlazioni anatomocliniche

@@ -7,7 +7,7 @@ Tag: #Cardiologia
 - Mantenimento della pressione sanguigna sistemica
 	- *ipotensione*: determina inadeguata perfusione degli organi → morte dei tessuti
 	- *ipertensione*: può causare danni agli organi
-		- importante fattore di rischio per l'[[Patogenesi, prevenzione e trattamento dell'aterosclerosi|aterosclerosi]]
+		- importante fattore di rischio per l'[[Aterosclerosi|aterosclerosi]]
 			- valori pressori associati a rischio
 				- p diastolica > 89 mmHg
 				- p sistolica < 139 mmHg

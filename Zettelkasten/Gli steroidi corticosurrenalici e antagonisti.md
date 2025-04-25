@@ -479,11 +479,11 @@ Tag: #Farmacologia #Antinfiammatori #SistemaEndocrino #Endocrinologia
 ##### Alterazioni dell'aldosterone
 - Usato nel trattamento dell'==iperaldosteronismo primario== alla posologia di 50-100 mg/die
 	- ne modifica favorevolmente le manifestazioni
-- Quando usato a scopo diagnostico per l'individuazione di un aldosteronismo in pazienti con [[ipokaliemia]] e [[ipertensione]]:
+- Quando usato a scopo diagnostico per l'individuazione di un aldosteronismo in pazienti con [[ipokaliemia]] e [[Ipertensione arteriosa]]:
 	- 400-500 mg/die per 4-8 gg + adeguato apporto di $Na^+$ e $K^+$ → tassi sierici di $K^+$ nella norma
 	- risulta anche utile nel preparare i sopraddetti pazienti all'intervento chirurgico
 		- dosi di 300-400 mg/die per 2 settimane
-		- riduzione dell'incidenza di [[aritmie|aritmie cardiache]]
+		- riduzione dell'incidenza di [[Aritmie|aritmie cardiache]]
 ##### Irsutismo femminile
 - Funge da ==antagonista androgeno==
 - Dosi di 50-200 mg/die portano ad una riduzione di densità, diametro e velocità di crescita dei peli facciali in pazienti con irsutismo idiopatico o secondario ad eccesso di androgeni
@@ -503,7 +503,7 @@ Tag: #Farmacologia #Antinfiammatori #SistemaEndocrino #Endocrinologia
 - Cefalea
 - Eruzioni cutanee
 ### Eplerenone
-- Approvato per il trattamento dell'[[ipertensione]]
+- Approvato per il trattamento dell'[[Ipertensione arteriosa]]
 	- riduce la mortalità nei pazienti con insufficienza cardiaca
 	- dosaggio standard di 50-100 mg/die
 - In parte più selettivo dello spironolattone e non sono stati riportati effetti sull'*AR*[^7]

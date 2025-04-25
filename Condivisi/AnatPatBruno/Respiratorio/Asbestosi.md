@@ -116,7 +116,7 @@ Tag: #ApparatoRespiratorio #Anatomiapatologica
 - Fibrosi interstiziale diffusa tipicamente restrittiva
 	- spesso con esordio subdolo, ma ingravescente (==dispnea da sforzo==, ==tosse produttiva==, ==astenia==) fino all'**insufficienza respiratoria**
 #### Fasi molto avanzate
-- Frequentemente [[Ipertensione#Cardiopatia ipertensiva sistemica (sx)|ipertensione polmonare]] e [[Scompenso cardiaco destro|cuore polmonare cronico]]
+- Frequentemente [[Ipertensione arteriosa#Cardiopatia ipertensiva sistemica (sx)|ipertensione polmonare]] e [[Scompenso cardiaco destro|cuore polmonare cronico]]
 #### Sintomatologia
 - I primi sintomi possono comparire anche fra 15 e 20 anni dalla prima esposizione
 - ==Dolori intensi== e ==versamento pleurico emorragico== possono essere associati alla comparsa del [[Mesotelioma maligno|mesotelioma]]

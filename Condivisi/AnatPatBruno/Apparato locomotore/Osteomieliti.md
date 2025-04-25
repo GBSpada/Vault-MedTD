@@ -65,7 +65,7 @@ Tag: #ApparatoLocomotore #Anatomiapatologica
 ## Osteomieliti specifiche
 - Più rare di quelle aspecifiche
 - Caratterizzazione
-	- eziologicamente → ==osteomielite [[Mycobacterium tuberculosis|tubercolare]]== e ==osteomielite [[Treponema Pallidum|luetica]]==
+	- eziologicamente → ==osteomielite [[Mycobacterium tuberculosis|tubercolare]]== e ==osteomielite [[Treponema Pallidum - sifilide|luetica]]==
 	- patogeneticamente → rimaneggiamento osseo prevalentemente destruente
 - Via di contatto ematogena
 >[!warning]

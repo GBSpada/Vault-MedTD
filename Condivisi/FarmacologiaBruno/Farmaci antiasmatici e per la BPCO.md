@@ -156,7 +156,7 @@ Tag: #Farmacologia #ApparatoRespiratorio
 - Potente broncodilatatore:
 	- quando inalato come microaerosol da una bomboletta pressurizzata (80-120 $\mu$g) provoca broncodilatazione massima entro 5 min
 	- durata d'azione di 60-90 min
-- Raramente usata oggi: alte dosi scaturivano in [[aritmie]] 
+- Raramente usata oggi: alte dosi scaturivano in [[Aritmie]] 
 ## Farmaci $\beta_2$-selettivi
 - Simpaticomimetici attualmente più impiegati, soprattutto il ==salbutamolo==
 	- differiscono strutturalmente dall'adrenalina per
@@ -270,7 +270,7 @@ Tag: #Farmacologia #ApparatoRespiratorio
 	- concentrazioni molto più elevate (>100 $\mu$mol/L): si ha diminuzione del sequestro di $Ca^{2+}$ dal reticolo sarcoplasmatico
 - Variabilità interindividuale degli effetti clinici:
 	- consumo abituale → ==lieve tachicardia==, ==aumento della gittata cardiaca== e ==aumento delle resistenze periferiche== (con lieve aumento di pressione)
-	- individui sensibili: il consumo di poche tazzine può provocare [[aritmie]]
+	- individui sensibili: il consumo di poche tazzine può provocare [[Aritmie]]
 	- alte dosi → ==rilasciamento della muscolatura vascolare==, ma ==quella dei vasi cerebrali si contrae==
 - ==Riduzione della viscosità ematica==
 	- possono migliorare il flusso ematico in alcune condizioni
@@ -682,7 +682,7 @@ Tag: #Farmacologia #ApparatoRespiratorio
 - Eventuali alternative potrebbero essere
 	- [[FANS; farmaci antireumatici; antidolorifici non oppioidi e farmaci usati nella gotta#Farmaci antireumatici in grado di modificare il processo patologico della malattia (DMARD)|farmaci usati nella terapia dell'artrite reumatoide]]
 	- [[metotrexato]] o iniezioni di sali d'oro
-	- [[ciclosporina]]
+	- [[Ciclosporina]]
 	- [[FANS; farmaci antireumatici; antidolorifici non oppioidi e farmaci usati nella gotta#Etanercept|etanercept]]
 	- ==dupilumab== (un [[Anticorpi monoclonali (MAB)|MAB]])
 		- anticorpo monoclonale del tutto umano verso l'unità $\alpha$ dell'*IL-4R*

@@ -285,7 +285,7 @@ Tag: #ApparatoDigerente #Anatomiapatologica
 	- colesterolo totale
 	- HDL
 	- apolipoproteina A1
-		- associati a un incrementato rischio cardiovascolare su base [[Patogenesi, prevenzione e trattamento dell'aterosclerosi|aterosclerotica]]
+		- associati a un incrementato rischio cardiovascolare su base [[Aterosclerosi|aterosclerotica]]
 	- lipoproteina A
 #### Clinica e storia naturale
 ##### Esordio clinico

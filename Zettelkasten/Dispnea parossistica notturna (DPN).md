@@ -27,4 +27,4 @@ C[Resistenze al flusso di aria]
 
 --- 
 # Reference:
-[[Condivisi/FarmacologiaBruno/Miscellanea necessaria/Scompenso cardiaco|Scompenso cardiaco]]
+[[Scompenso cardiaco|Scompenso cardiaco]]

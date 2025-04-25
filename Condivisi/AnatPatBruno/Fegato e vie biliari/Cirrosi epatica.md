@@ -52,7 +52,7 @@ Tag: #Anatomiapatologica #ApparatoDigerente
 - Aumento del grado di alterazioni circolatorie (a causa dei noduli)
 	- attorno ad ogni noduli viene a formarsi un plesso vascolare
 - ==Marcato aumento delle resistenze vascolari==
-	- base per lo sviluppo dell'[[Ipertensione|ipertensione]] portale e, nei casi gravi, formazione di ==ascite==
+	- base per lo sviluppo dell'[[Ipertensione arteriosa|ipertensione]] portale e, nei casi gravi, formazione di ==ascite==
 ##### Fattori responsabili dell'aumento delle resistenze
 - Sclerosi degli spazi portali
 - Trasformazione delle cellule di Ito in cellule stellate

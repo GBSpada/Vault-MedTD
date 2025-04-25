@@ -31,7 +31,7 @@ Tag: #ApparatoUrinario #Anatomiapatologica
 ### Fattori di rischio
 #### Fumo
 #### Obesità
-#### [[Ipertensione]]
+#### [[Ipertensione arteriosa]]
 #### Trattamento estrogenico sostitutivo
 #### Esposizione all'[[Asbestosi|asbesto]], ai metalli pesanti e ai derivati del petrolio
 #### Rene grinzo

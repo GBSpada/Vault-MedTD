@@ -86,7 +86,7 @@ Tag: #Patologia #Immunologia
 - Gl'immunocomplessi vengono catabolizzati
 - Le lesioni, tendenzialmente, regrediscono
 ##### Esposizione antigenica cronica e ripetuta
-- Es. [[Lupus eritematoso sistemico (LES)]]
+- Es. [[Lupus eritematoso sistemico]]
 - Causa la ==**malattia da siero cronica**==
 - In molti casi, gli antigeni risultano sconosciuti:
 	- [[Poliarterite nodosa (PAN)|poliarterite nodosa (PAN)]]

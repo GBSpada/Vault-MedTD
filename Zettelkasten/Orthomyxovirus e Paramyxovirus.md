@@ -1,4 +1,3 @@
-2023-06-10 12:50
 Stato: #Idealezione
 Tag: #Microbiologia 
 

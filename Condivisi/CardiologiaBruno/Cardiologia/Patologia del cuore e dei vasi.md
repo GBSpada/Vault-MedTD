@@ -9,7 +9,7 @@ Tag: #PatologiaGenerale
 # [[Alterazioni fisiopatologiche dei vasi sanguigni]]
 # [[Scompenso cardiaco]]
 # [[Cardiopatia ischemica (IHD)]]
-# [[Cardiomiopatie]]
+# [[Miocardiopatie e miocarditi]]
 # [[Malattie del pericardio]]
 # [[Aritmie]]
 

@@ -4,7 +4,7 @@ Tag: #Genetica
 
 
 ---
-# Fenomeni che complicano l'interpretazione di un albero genealogico
+
 ## Insorgenza tardiva
 - Esistono della malattie che insorgono in età adulta (*morbo di Huntington*, *emocromatosi*, *malattia policistica renale*); in questi casi si può avere un albero genealogico in cui gl'individui della II generazione sembrano normali, ma bisogna chiedersi: non hanno ricevuto l’allele della malattia o non hanno ancora manifestato la malattia? Se ci troviamo in questa condizione, si esegue un test genetico. Solo tramite quest’ultimo potrò dire se esiste o meno l’allele malattia e fare dunque una diagnosi.
 	-  ![Insorgenza tardiva](https://i.imgur.com/QNn9Ixz.png)
@@ -26,14 +26,17 @@ Tag: #Genetica
 	- Espressività variabile e penetranza incompleta sono un continuum dello stesso fenomeno. La penetranza incompleta è una forma estrema di espressività variabile.
 ## Pleiotropia ed eterogeneità
 ### Eterogeneità
-- **Eterogeneità clinica (o allelica)**: l'espressione variabile può derivare da diversi tipi di mutazioni (cioè alleli diversi) nello stesso locus della malattia. Questa è chiamata eterogeneità allelica.
+#### Eterogeneità clinica (o allelica)
+- l'espressione variabile può derivare da diversi tipi di mutazioni (cioè alleli diversi) nello stesso locus della malattia. Questa è chiamata eterogeneità allelica.
 	- ![Eterogeneità allelica](https://i.imgur.com/XXbJRWF.png)
 	- In alcuni casi, malattie clinicamente distinte possono essere il risultato di eterogeneità allelica, come nelle mutazioni della *β-globina*, che possono causare *anemia falciforme* o varie forme di *β-talassemia*.
 		- Talvolta, la differenza è *quantitativa* (es. fibrosi cistica con e senza insufficienza pancreatica, distrofie di Duchenne e di Becker);
 		- Altre volte è *qualitativa* (alleli diversi dello stesso gene causano patologie molto differenti: l'inattivazione del gene per il recettore degli androgeni causa l'insensibilità agli stessi, ma l'espansione, nello stesso gene, di glutammine causa una malattia differente, ovvero l'*atrofia muscolo-spino-bulbare*).
-- **Eterogeneità genetica (di locus)**: un singolo fenotipo di malattia può essere causato da mutazioni in loci diversi in famiglie diverse.
+#### Eterogeneità genetica (di locus):
+- un singolo fenotipo di malattia può essere causato da mutazioni in loci diversi in famiglie diverse.
 	- ![Eterogeneità genetica](https://i.imgur.com/S5TiJIz.png)
-	- ==**Malattia del rene policistico**==: malattia autosomica dominante, in cui si osserva un progressivo accumulo di cisti renali. I pazienti possono anche sviluppare cisti epatiche, ipertensione, aneurismi cerebrali e difetti delle valvole cardiache. Si verifica in 1:1000 persone di discendenza europea (molto comune).
+##### Malattia del rene policistico
+-  malattia autosomica dominante, in cui si osserva un progressivo accumulo di cisti renali. I pazienti possono anche sviluppare cisti epatiche, ipertensione, aneurismi cerebrali e difetti delle valvole cardiache. Si verifica in 1:1000 persone di discendenza europea (molto comune).
 		- Può essere causata da mutazioni nei geni sul cromosoma 16 (*PKD1*) o sul cromosoma 4 (*PKD2*). Entrambi questi geni codificano per glicoproteine (*policistine*), che attraversano la membrana e interagiscono tra loro; possono anche essere coinvolte nella segnalazione cellulare.
 		- **Modello dei due colpi**: entrambi gli alleli PKD1 o PKD2 devono perdere la funzionalità affinché si formino le cisti.
 		- **Consulenza genetica**:
@@ -42,9 +45,10 @@ Tag: #Genetica
 			- il fenotipo renale varia da pazienti in età avanzata con funzionalità renale conservata a rari casi di reni ingrossati rilevati in utero;
 			- le mutazioni PKD1 sono associate a malattia più grave, reni più grandi, esordio precoce e sviluppo precoce della malattia renale allo stadio terminale, rispetto alle mutazioni PKD2.
 			- si raccomanda ecografia renale anche ai familiari.
-	- ==**Osteogenesi imperfetta**==: causata da difetti nella formazione dell’osso: nel 90% dei casi, si ha un deficit nella formazione del *collagene I*.
-		- Le subunità della tripla elica del pro-collagene sono codificate da due geni: uno sul cromosoma 17 e uno sul 7.
-		- Questo disturbo colpisce da 1 su 15.000 a 1 su 25.000 nati in tutti i gruppi etnici.
+##### Osteogenesi imperfetta
+- Causata da difetti nella formazione dell’osso: nel 90% dei casi, si ha un deficit nella formazione del *collagene I*.
+	- Le subunità della tripla elica del pro-collagene sono codificate da due geni: uno sul cromosoma 17 e uno sul 7.
+	- Questo disturbo colpisce da 1 su 15.000 a 1 su 25.000 nati in tutti i gruppi etnici.
 ### Pleiotropia
 - I geni che hanno più di un effetto distinguibile sul corpo sono detti **pleiotropici**. Ne sono caratteristiche
 	- fibrosi cistica (ghiandole sudoripare, polmoni e pancreas),

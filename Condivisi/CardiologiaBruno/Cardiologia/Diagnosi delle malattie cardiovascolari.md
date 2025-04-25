@@ -1,8 +1,14 @@
-2024-01-26 10:38
-Stato: #idealibro
-Tag: #Cardiologia 
-
 ---
+stato: "#ideaL"
+tags:
+  - Cardiologia
+  - MedicinaInterna
+sistema/apparato:
+  - CardioCircolatorio
+---
+2024-01-26 10:38
+
+--- 
 # Esame obiettivo del sistema cardiovascolare
 - Metodo economico per la valutazione, in grado di fornire importanti informazioni e di orientare la scelta delle successive indagini diagnostiche invasive o non invasive
 - **Parametri valutatori**
@@ -40,7 +46,7 @@ Tag: #Cardiologia
 	- variazioni del calibro di un singolo vaso
 		- utili nella valutazione dei rapporti arterovenosi
 		- restringimenti focali (talvolta detti **beading** o granulazioni)
-- ==**[[Ipertensione]] grave**==
+- ==**[[Ipertensione arteriosa]] grave**==
 	- ==retinopatia ipertensiva== con
 		- emorragie sparse a fiamma
 		- arteriole molto ristrette
@@ -109,6 +115,24 @@ Tag: #Cardiologia
 			- sostiene il gomito rilassato del paziente con la mano dx
 			- comprime l'arteria col pollice
 		- applicazione di gradi variabili di pressione per concentrarsi sulle varie fasi dell'onda sfigmica
+##### Toni di Korotkoff
+I toni di Korotkoff sono stati descritti per la prima volta dal medico russo Nikolai Korotkoff nel 1905 e sono diventati un metodo standard per misurare la pressione arteriosa. Ecco un'espansione sulle fasi e sull'importanza di questi toni:
+
+###### **Fase I**:
+    
+- Quando il bracciale viene gonfiato, la pressione all'interno del bracciale supera quella della pressione sistolica dell'arteria. Quando la pressione del bracciale inizia a scendere, il primo suono che si sente è il risultato del sangue che inizia a fluire attraverso l'arteria compressa. Questo suono è chiaro e può essere descritto come un "tocco" o un "battito". Rappresenta la pressione sistolica.
+###### **Fase II**:
+    
+- In questa fase, i suoni diventano più morbidi e possono assumere un carattere di "soffio". Questo è dovuto al flusso sanguigno che diventa più turbolento mentre la pressione del bracciale continua a diminuire. Questa fase non viene sempre ascoltata chiaramente, e in alcuni casi può essere assente.
+###### **Fase III**:
+    
+- Qui, i suoni ritornano a essere più forti e ben definiti. Il flusso sanguigno è ora completamente turbolento, e i suoni sono chiaramente udibili. Questo indica che la pressione del bracciale è scesa a un livello in cui il sangue fluisce liberamente attraverso l'arteria.
+###### **Fase IV**:
+    
+- I suoni iniziano a diminuire di intensità e diventano più ovattati. Questo segnale indica che ci si avvicina alla pressione diastolica. La transizione da suoni forti a suoni più deboli è importante per la valutazione della pressione.
+###### **Fase V**:
+    
+- Questa fase segna il punto in cui non si sentono più suoni. Questo indica che il flusso sanguigno è tornato alla normalità e rappresenta la pressione diastolica
 #### Polsi arteriosi patologici
 ##### pulsus parvus
 - piccolo e debole
@@ -171,7 +195,7 @@ Tag: #Cardiologia
 ##### polso bigemino
 - alternanza regolare di ampiezza tra le onde pressorie
 - causato da bigeminismo extrasistolico
-##### polso paradosso (di Kussmaul)
+##### polso paradosso
 - accentuazione della fisiologica riduzione dell'ampiezza del polso arterioso osservabile durante l'inspirazione
 ### Polso venoso giugulare
 - Due principali obiettivi
@@ -233,7 +257,7 @@ Tag: #Cardiologia
 - stato patologico
 	- grave [[insufficienza tricuspidale]]
 		- rapida e profonda discesa y nella fase precoce della diastole
-	- [[pericardite costrittiva]] o [[Scompenso cardiaco destro|grave insufficienza del cuore dx]]
+	1- [[pericardite costrittiva]] o [[Scompenso cardiaco destro|grave insufficienza del cuore dx]]
 		- incisura y profonda, con rapido ritorno alla linea di base
 ### Palpazione del precordio
 >[!info]
@@ -268,6 +292,7 @@ Tag: #Cardiologia
 - S'irradia più frequentemente verso la parte sx del collo
 ##### Difetto interventricolare
 - Fremito, in genere, apprezzabile in III e IV spazio intercostale (nei pressi del margine sternale sx)
+- 
 ## Auscultazione cardiaca
 >[!info]- Ruolo del medico
 >1. L'esecuzione dovrebbe essere eseguita in un ambiente tranquillo al fine di evitare le interferenze determinate dal rumore delle normali attività;
@@ -418,6 +443,7 @@ Tag: #Cardiologia
 - T$_4$ dx → pazienti con *ipertrofia ventricolare sx*; si accompagna spesso a un'==onda a prominente nel PVG==
 - Accompagna spesso i *ritardi di conduzione AV*
 ### Soffi cardiaci
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Phonocardiograms_from_normal_and_abnormal_heart_sounds.svg/220px-Phonocardiograms_from_normal_and_abnormal_heart_sounds.svg.png)
 >[!info]
 >**Soffio cardiaco**: suono anomalo del cuore, udibile con lo stetoscopio, causato da flusso sanguigno turbolento, che può indicare condizioni fisiologiche o patologiche.
 - La ==valutazione== può variare in base a
@@ -465,6 +491,13 @@ Tag: #Cardiologia
 
 >[!warning]
 >Spesso, un lieve getto di rigurgito vascolare, evidenziato tramite tecniche [[Diagnosi delle malattie cardiovascolari#Ecocardiografia doppler|eco-Doppler]] con analisi del flusso mediante il colore (color-Doppler), non è associato a un soffio percepibile nonostante un'ottima auscultazione.
+##### Soffi protosistolici
+- Iniziano con T$_1$ e terminano a metà della sistole
+- Tipico in
+	- *ampi difetti del setto interventricolare con ipertensione polmonare*
+	- *difetti molto lievi della muscolatura del setto interventricolare*
+	- *insufficienza tricuspidale senza ipertensione polmonare*
+- Frequente nei ==tossicodipendenti== con [[Endocardite infettiva|endocardite settica]]
 ##### Soffi mesosistolici
 >Spesso presentano una morfologia in crescendo-decrescendo
 >Generati dal *sangue* che attraversa i *tratti di efflusso aortico o polmonare*
@@ -497,13 +530,7 @@ Tag: #Cardiologia
 ###### Soffio nella miocardiopatia ipertrofica
 - Origina all'interno della cavità ventricolare sx
 - Massimo al margine sternale inferiore sx e all'apice, con irradiazione modesta verso le carotidi
-##### Soffi protosistolici
-- Iniziano con T$_1$ e terminano a metà della sistole
-- Tipico in
-	- *ampi difetti del setto interventricolare con ipertensione polmonare*
-	- *difetti molto lievi della muscolatura del setto interventricolare*
-	- *insufficienza tricuspidale senza ipertensione polmonare*
-- Frequente nei ==tossicodipendenti== con [[Endocardite infettiva|endocardite settica]]
+
 ##### Soffi telesistolici
 - Ad alta frequenza, deboli o di moderata intensità, apicali
 - Iniziano in netto ritardo rispetto all'eiezione sistolica, senza mascherare i toni cardiaci
@@ -869,7 +896,7 @@ Tag: #Cardiologia
 
 ---
 # Reference
-[[Apparato cardiocircolatorio#Cardiologia|Cardiologia]]
+[[Apparato cardiovascolare#Cardiologia|Cardiologia]]
 
 
 

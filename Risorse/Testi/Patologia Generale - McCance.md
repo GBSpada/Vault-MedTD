@@ -476,7 +476,7 @@ tags:
 		- Dolore cronico
 		- Depressione cronica
 		- Obesità o invecchiamento 
-###### [[Sindrome da apnea ostruttiva durante il sonno]]
+###### [[Sindrome da apnea ostruttiva durante il sonno (OSAS)]]
 
 ###### Sindrome delle gambe senza riposo
 - Comune disturbo senso-motorio associato a sensazioni spiacevoli che si manifesta a riposo e peggiora nelle ore serali e notturne

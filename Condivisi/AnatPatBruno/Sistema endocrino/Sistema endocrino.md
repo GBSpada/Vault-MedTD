@@ -136,7 +136,7 @@ Tag: #SistemaEndocrino #Istologia #Anatomia #Anatomiapatologica
 			- vedi [[Epidermide#α-MSH|qui]]
 	- sempre per effetto dell'ipocortisolismo:
 		- diminuita resistenza agli stress
-		- deficit di increzione di aldosterone → [[aritmie]] e crisi addominali
+		- deficit di increzione di aldosterone → [[Aritmie]] e crisi addominali
 ##### Sindrome da iperfunzione
 ###### [[Sindrome di Cushing]]
 ###### [[Iperaldosteronismo]]

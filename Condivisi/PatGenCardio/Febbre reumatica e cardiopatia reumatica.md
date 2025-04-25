@@ -11,7 +11,7 @@ Tag: #Cardiologia
 	- da acuta regredisce facilmente verso una forma cronica
 	- valvulopatia fibrotica deformante
 		- unica causa di [[Stenosi mitralica|stenosi mitralica]]
-		- ![Stenosi valvolare aortica "a bocca di pesce"](https://i.imgur.com/q5mBBUs.png)
+		- ![Stenosi valvolare aortica "a bocca di pesce"](https://i.imgur.com/q5mBBUs.png) ^684e7c
 		- ![Stenosi aortica reumatica, che mostra l’ispessimento e la deformazione delle cuspidi con fusione commissurale](https://i.imgur.com/3deuASh.png)
 ## Patogenesi
 - Derivazione dalla risposta immune agli streptococchi di gruppo A

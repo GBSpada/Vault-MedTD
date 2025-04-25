@@ -53,7 +53,7 @@ sistema/apparato:
 
 
 ### Diagnosi
-- Alterano i test sierologici (falsi positivi) per la sifilide ([[Treponema Pallidum]]) perché l'antigene del test diagnostico è fissato su [[cardiolipina]]
+- Alterano i test sierologici (falsi positivi) per la sifilide ([[Treponema Pallidum - sifilide]]) perché l'antigene del test diagnostico è fissato su [[cardiolipina]]
 	- Concetto complesso
 
 

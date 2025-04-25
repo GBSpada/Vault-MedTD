@@ -162,7 +162,7 @@ Tag: #Anatomiapatologica #ApparatoDigerente
 	- nella maggioranza dei casi, paucisintomatica
 	- nel 20% ca. dei casi, più aggressiva (i livelli di transaminasi superano di dieci volte i normali, elevata ipergammaglobulinemia, veloce evoluzione verso la cirrosi)
 ##### Quadro sierologico
-- [[Lupus eritematoso sistemico (LES)#Autoanticorpi antinucleo (ANA)|ANA]]
+- [[Lupus eritematoso sistemico#Autoanticorpi antinucleo (ANA)|ANA]]
 - *Autoanticorpi anti-actina*
 - *Autoanticorpi anti-LKM* (*Liver Kidney Microsome 1*)
 	- diretti contro l'enzima glutatione S-transferasi

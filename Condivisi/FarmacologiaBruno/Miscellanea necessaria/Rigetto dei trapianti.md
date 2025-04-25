@@ -127,7 +127,7 @@ Tag: #Patologia #Immunologia #SistemaImmunitario #ChirugiaGenerale
 	- in molti casi, è meno acuta e caratterizzata da ==marcato ispessimento intimale== per proliferazione di fibroblasti, miociti e macrofagi schiumosi
 - Obliterazione del lume arteriolare → ==**infarto** o **atrofia** della corticale renale==
 - Lesioni vasali di tipo proliferativo
-	- somiglianza a quelle di [[Patogenesi, prevenzione e trattamento dell'aterosclerosi|natura aterosclerotica]]
+	- somiglianza a quelle di [[Aterosclerosi|natura aterosclerotica]]
 	- si ritiene siano dovute alle *citochine* (*mitogene* per le cellule muscolari lisce vasali)
 ###### Depositi di C4d
 - Prodotto di degradazione del complemento
@@ -168,7 +168,7 @@ Tag: #Patologia #Immunologia #SistemaImmunitario #ChirugiaGenerale
 #### Ruolo della terapia immunosoppressiva
 >==Sempre necessaria== (tranne nel caso di gemelli identici)
 - Farmaci
-	- [[ciclosporina]] → cardine della terapia
+	- [[Ciclosporina]] → cardine della terapia
 	- [[Immunofarmacologia#Azatioprina|azatioprina]]
 	- [[Immunofarmacologia#Inibitori di mTOR|rapamicina]]
 	- [[Immunofarmacologia#Micofenolato mofetile|mofetil micofenolato]]
@@ -289,7 +289,7 @@ Tag: #Patologia #Immunologia #SistemaImmunitario #ChirugiaGenerale
 	- viene identificato un donatore compatibile per il complesso HLA (in genere un familiare)
 	- i pazienti vengono preparati (condizionamento) con chemioterapia ad alte dosi o radioterapia, dopo di che vengono infuse le cellule staminali del donatore
 - La sindrome GVH è molto frequente:
-	1. anche se ai pazienti vengono somministrati immunosoppressori ([[ciclosporina]], [[metotrexato]] e altri) durante le fasi iniziali di un intervento di trapianto per prevenire la GVH, essa può comunque verificarsi nonostante la terapia
+	1. anche se ai pazienti vengono somministrati immunosoppressori ([[Ciclosporina]], [[metotrexato]] e altri) durante le fasi iniziali di un intervento di trapianto per prevenire la GVH, essa può comunque verificarsi nonostante la terapia
 	2. vengono aggiunti altri farmaci
 		1. iniziando, di regola, con glucocorticoidi ad alte dosi
 		2. aggiungendo, poi, farmaci quali micofenolato mofetile, sirolimus, tacrolimus, daclizumab, ecc. con percentuali di successo variabili

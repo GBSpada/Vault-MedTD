@@ -53,7 +53,7 @@ Tag: #Microbiologia
 - [[Streptococcus pyogenes]] appartiene al gruppo A
 - [[Streptococcus agalactiae]] appartiene al gruppo B
 - [[Pneumococchi - Streptococcus pneumoniae]] non ha un antigene estraibile come altri batteri del cavo orale
-
+ 
 ## 1. [[Streptococcus pyogenes]]
 ## 2. Streptococchi del gruppo b: [[Streptococcus agalactiae]]
 ## 3. [[Streptococchi viridanti]]

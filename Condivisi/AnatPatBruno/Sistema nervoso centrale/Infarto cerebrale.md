@@ -8,7 +8,7 @@ Tag: #SistemaNervoso #Anatomiapatologica
 > **Infarto cerebrale**: area di necrosi localizzata al territorio di irrorazione del vaso occluso. L'occlusione vascolare può essere secondaria a trombosi o embolia.
 ## Eziopatogenesi
 ### Occlusione trombotica dei vasi cerebrali
-- La maggioranza delle occlusioni è causata da [[Patogenesi, prevenzione e trattamento dell'aterosclerosi|aterosclerosi]]
+- La maggioranza delle occlusioni è causata da [[Aterosclerosi|aterosclerosi]]
 	- ![SNC, aterosclerosi dei vasi del poligono di Willis: l'arteria basilare e le arterie vertebrali appaiono dilatate e lasciano trasparire abbondanti placche fibroateromasiche.](https://i.imgur.com/ZccWNli.png)
 - Sedi più comuni
 	- biforcazione carotidea

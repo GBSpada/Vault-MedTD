@@ -295,7 +295,7 @@ Può essere indotta da fattori di crescita nelle cellule mature e nelle cellule 
 	- Incapacità di produrre ATP e necrosi
 - Struttura
 	- Tra le componenti strutturali c'è la **ciclofillina D**
-		- ==Bersaglio della [[ciclosporina]]==, farmaco antirigetto
+		- ==Bersaglio della [[Ciclosporina]]==, farmaco antirigetto
 ##### Rilascio proteine apoptotiche
 - Il [[citocromo c]] e alcune proteine attivanti le [[caspasi]] si trovano tra le due membrane mitocondriali
 - La fuoriuscita di queste proteine determina [[apoptosi]]

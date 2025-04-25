@@ -5,7 +5,7 @@ Tag: #SistemaEndocrino #Anatomiapatologica
 ---
 # Anatomia patologica
 >[!info]
->**Iperaldosteronismo**: termine applicato a un gruppo di condizioni caratterizzate da un'iperproduzione cronica di *aldosterone*, che comporta ritenzione sodica ed ==eccessiva escrezione di potassio== ([[ipokaliemia]]), con conseguente [[ipertensione]] e [[ipopotassiemia]].
+>**Iperaldosteronismo**: termine applicato a un gruppo di condizioni caratterizzate da un'iperproduzione cronica di *aldosterone*, che comporta ritenzione sodica ed ==eccessiva escrezione di potassio== ([[ipokaliemia]]), con conseguente [[Ipertensione arteriosa]] e [[ipopotassiemia]].
 - Si distinguono
 	- *forme primarie*, da patologie primitive corticosurrenaliche
 	- *forme secondarie* ad aumento dei livelli plasmatici di renina
@@ -26,14 +26,14 @@ Tag: #SistemaEndocrino #Anatomiapatologica
 			- [[arteriosclerosi]]
 		- *ipovolemia*
 		- *edema generalizzato*
-			- [[scompenso cardiaco]]
+			- [[Scompenso cardiaco]]
 			- sindrome nefrosica
 		- rari tumori producenti renina
 ### Quadro clinico
 #### Ipopotassiemia
 - Dovuta all'aumentata escrezione renale
 - Conseguente ==affaticabilità muscolare==
-#### [[Ipertensione|Ipertensione arteriosa]]
+#### [[Ipertensione arteriosa|Ipertensione arteriosa]]
 - Ca. l'1% di tutte le ipertensioni
 - Conseguente, principalmente, a ritenzione sodica
 #### Poliuria e albuminuria

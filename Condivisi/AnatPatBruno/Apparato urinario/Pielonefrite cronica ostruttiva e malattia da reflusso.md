@@ -30,7 +30,7 @@ Tag: #ApparatoUrinario #Anatomiapatologica
 		- il rene risparmiato va incontro a ipertrofia compensatoria
 	- bilaterale
 		- può presentare lesioni dovute a
-			- [[ipertensione]]
+			- [[Ipertensione arteriosa]]
 			- comparsa di una [[Glomerulosclerosi focale-segmentata|GSFS]] secondaria di tipo adattativo da riduzione di massa nefronica
 - ![Rene, rappresentazione schematica della sede delle lesioni cicatriziali nella PNC da reflusso (a) e da ostruzione (b).](https://i.imgur.com/fSkJJ0m.png)
 ###### Forma da reflusso

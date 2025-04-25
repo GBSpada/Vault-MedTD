@@ -41,7 +41,7 @@ Tag: #ApparatoUrinario #Anatomiapatologica
 			2. una volta esteriorizzati sulla membrana cellulare, interagiscono con gli ANCA, innescando la flogosi
 			3. liberazione di enzimi tossici e litici
 >[!info]
->**Fun fact**: la necrosi fibrinoide è tipica delle vasculiti o comunque di tutti i processi in cui intervenga la deposizione di immunocomplessi (quindi quelli da [[Ipersensibilità mediata da immunocomplessi (tipo III)|ipersensibilità di tipo III]], non a caso è caratteristica del [[Lupus eritematoso sistemico (LES)|LES]]). Visto come si collegano le cose???
+>**Fun fact**: la necrosi fibrinoide è tipica delle vasculiti o comunque di tutti i processi in cui intervenga la deposizione di immunocomplessi (quindi quelli da [[Ipersensibilità mediata da immunocomplessi (tipo III)|ipersensibilità di tipo III]], non a caso è caratteristica del [[Lupus eritematoso sistemico|LES]]). Visto come si collegano le cose???
 ## Epidemiologia
 - Costituisce il 5-7% delle GN
 - Frequenza

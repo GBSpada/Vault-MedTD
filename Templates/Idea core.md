@@ -1,10 +1,7 @@
 ---
-stato: ideaL
-tags:
-  - MedicinaInterna
-  - Cardiologia
+stato: 
+tags: 
 sistema/apparato:
-  - CardioCircolatorio
 ---
 \{{date}} \{{time}}
 
@@ -21,9 +18,14 @@ sistema/apparato:
 
 
 
-
-
+--- 
+# Reference:
 
 
 --- 
-# Reference:
+# Appendice:
+[^1]: 
+[^2]:
+[^3]:
+[^4]: 
+[^5]:

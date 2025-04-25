@@ -48,7 +48,7 @@ Tag: #ApparatoUrinario #Anatomiapatologica
 - Tipico aspetto granulare
 	- a granuli ravvicinati nelle MBG di IgG e C3
 	- le altre Ig e frazioni complementari sono modestamente rappresentate o più spesso assenti
-		- con l'eccezione della forma in corso di [[Lupus eritematoso sistemico (LES)|LES]]
+		- con l'eccezione della forma in corso di [[Lupus eritematoso sistemico|LES]]
 ## Stadiazione
 - ![Rene, stadiazione della GN membranosa (secondo Ehrenreich e Churg) 1](https://i.imgur.com/V98Cosi.png)
 - ![Rene, stadiazione della GN membranosa (secondo Ehrenreich e Churg) 2](https://i.imgur.com/Z2fwXjM.png)

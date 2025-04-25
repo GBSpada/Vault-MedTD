@@ -43,7 +43,7 @@ Tag: #Farmacologia #Chemioterapici #Antibiotici
 	- [[Bartonella Henselae]]
 	- B. quintana (pt. 2)
 	- alcune specie di [[Rickettsie]]
-	- [[Treponema Pallidum]]
+	- [[Treponema Pallidum - sifilide]]
 	- *Campylobacter*
 - L'[[Haemophilus Influenzae]] è, in un certo qual modo, meno sensibile
 ### Resistenza

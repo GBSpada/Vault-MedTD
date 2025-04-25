@@ -30,7 +30,7 @@ Tag: #Microbiologia
 >Per ricordare i terreni di coltura basta tenere a mente quelli particolari
 >	- [[Emofili]]
 >	- Batteri anerobi o microaerofili
->	- Non ancora coltivati o parassiti intracellulari: [[Treponema Pallidum|treponemi]] - [[Rickettsie]] e [[Chlamydie]]
+>	- Non ancora coltivati o parassiti intracellulari: [[Treponema Pallidum - sifilide|treponemi]] - [[Rickettsie]] e [[Chlamydie]]
 
 
 

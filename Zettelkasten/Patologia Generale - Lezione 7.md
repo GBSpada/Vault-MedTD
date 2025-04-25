@@ -162,4 +162,3 @@ Da tenere a mente che in caso di ascessi i batteri nidificano a tal punto da cre
 # References 
 
 [[Patologia Generale - Lezioni]]
-![[Patologia generale rec 7 _2023-04-15_17-38-22.ogg]]

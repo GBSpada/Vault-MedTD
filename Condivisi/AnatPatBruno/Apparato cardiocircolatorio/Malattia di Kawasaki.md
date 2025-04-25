@@ -89,7 +89,7 @@ Tag: #Cardiologia
 		- può portare a stenosi emodinamiche significative
 			- possono complicarsi per la sovrapposizione di [[Emostasi e trombosi|trombosi occlusiva]]
 ### Fase acuta
-- Il cuore può mostrare un'[[Endocardite infettiva|endocardite]] e una [[Cardiomiopatie#Miocardite|miocardite]]
+- Il cuore può mostrare un'[[Endocardite infettiva|endocardite]] e una [[Miocardiopatie e miocarditi#Miocardite|miocardite]]
 	- rischio di ==morte improvvisa==
 ### [[Infarto miocardico]]
 - Può manifestarsi

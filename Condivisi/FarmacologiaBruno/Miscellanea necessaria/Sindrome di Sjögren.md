@@ -11,7 +11,7 @@ Tag: #Patologia
 	- associata ad un'altra patologia autoimmune (forma secondaria):
 		- più frequentemente
 		- soprattutto [[Zettelkasten/Artrite reumatoide|artrite reumatoide]]
-		- anche [[Lupus eritematoso sistemico (LES)|LES]], sclerodermia, polimiosite, [[Vasculiti|vasculite]], connettivite mista e tiroidite
+		- anche [[Lupus eritematoso sistemico|LES]], sclerodermia, polimiosite, [[Vasculiti|vasculite]], connettivite mista e tiroidite
 ## Eziologia e patogenesi
 ### Quadro flogistico
 #### Infiltrazione linfocitaria
@@ -24,7 +24,7 @@ Tag: #Patologia
 - *Anticorpo anti-IgG autologhe*
 - Presente nel 75% dei pazienti affetti
 	- indipendentemente dalla concomitanza con l'artrite reumatoide
-###### [[Lupus eritematoso sistemico (LES)#Autoanticorpi antinucleo (ANA)|ANA]]
+###### [[Lupus eritematoso sistemico#Autoanticorpi antinucleo (ANA)|ANA]]
 - Il 50-80% dei pazienti è ANA-positivo
 ###### Vari autoanticorpi organo-specifici
 - I più importanti sono gli *autoanticorpi anti-SS-A* (*Ro*) e *anti-SS-B* (*La*)
@@ -109,7 +109,7 @@ Tag: #Patologia
 - Fibrosi polmonare diffusa
 - Neuropatia periferica
 - Lesioni glomerulari
-	- estremamente rare, contrariamente al [[Lupus eritematoso sistemico (LES)|LES]]
+	- estremamente rare, contrariamente al [[Lupus eritematoso sistemico|LES]]
 ## Diagnosi
 - *Sindrome di Mikulicz*
 	- flogosi combinata delle ghiandole lacrimali e salivari

@@ -7,7 +7,7 @@ tags:
 sistema/apparato:
   - CardioCircolatorio
 ---
-\04-05-2025 \00:07
+\27-04-2025 \00:40
 
 ---
 
@@ -15,25 +15,29 @@ sistema/apparato:
 >
 
 ## Epidemiologia
-### 
+## Eziologia
 ## Patogenesi e Fisiopatologia
+## Morfologia
 ## Semeiotica
 ### Manifestazioni cliniche
 ### Esame obiettivo
 ### Indagini strumentali
-#### Elettrocardiocramma
-#### Marker cardiaci sierici
-#### Imaging cardiaco
-## Stratificazione e gestione del rischio nel periodo post-infarto
-## Prevenzione secondaria
 
 ## Trattamento
-### Iniziale
-### Nella fase ospedaliera
-### Farmacoterapia
-### Delle complicanze 
 
 ## Prognosi
+
+
+
+## Intervento coronarico percutaneo
+### Indicazioni e selezione dei pazienti
+### Rischi
+### Efficacia
+## Intervento di bypass aortocoronarico
+### Criteri di scelta tra PCI e rivascolarizzazione mediante bypass aortocoronarico
+## Terapie non convenzionali per la cardiopatia ischemica
+
+
 
 
 
@@ -42,7 +46,7 @@ sistema/apparato:
 
 --- 
 # Reference:
-[[Zettelkasten/Malattie vascolari|Malattie vascolari]]
+[[Cardiopatia ischemica (IHD)]]
 
 --- 
 # Appendice:

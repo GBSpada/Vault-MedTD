@@ -215,7 +215,7 @@ Tag: #Farmacologia #ApparatoDigerente
 - Normalmente, ambiente acido gastrico = barriera nei riguardi della colonizzazione e delle infezioni
 - Un **aumento delle conte batteriche** è riscontrabile nello stomaco di pazienti in terapia con PPI
 	- aumento del rischio di CAP e di polmoniti nosocomiali
-	- aumento di 2-3 volte del rischio di contrarre infezioni da [[Clostridium difficile]]
+	- aumento di 2-3 volte del rischio di contrarre infezioni da [[Clostridium difficile 2]]
 		- sia in comunità che in ambiente ospedaliero
 		- piccolo aumento del rischio di contrarre altre infezioni enteriche, soprattutto nel caso di viaggi in Paesi in via di sviluppo
 ### Potenziali problemi derivanti dall'ipergastrinemia

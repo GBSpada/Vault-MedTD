@@ -23,7 +23,7 @@ Tag: #Farmacologia #Chemioterapici #Antibiotici
 - Le sostituzioni alla frazione 6-amminopenicillanica determinano le caratteristiche farmacologiche e antibatteriche essenziali delle molecole che ne risultano
 - Le penicilline possono essere assegnate a tre gruppi
 	- in questi, sono presenti composti relativamente stabili all'acidità gastrica e, quindi, somministrabili *per os* (es. ==penicillina V==, ==dicloxacillina== e ==amoxicillina==)
-##### Peniciline
+##### Penicilline
 >Es. ==penicillina G==
 - I composti appartenenti a questo gruppo rappresentano la massima attività nei confronti di
 	- microrganismi [[Gli involucri esterni dei Gram-positivi|gram-positivi]]
@@ -224,7 +224,7 @@ Tag: #Farmacologia #Chemioterapici #Antibiotici
 	- oxacillina o nafcillina somministrate alla dose di 8-12 g al giorno per infusione endovenosa intermittente, 1,2 g ogni 4-6 h
 		- per i bambini, la dose di ==nafcillina== è di 50-100 mg/kg al giorno
 #### Penicilline ad ampio spettro, amminopenicilline, carbossipenicilline e ureidopenicilline
-- Questi batteri hanno maggiore attività della penicillina G contro batteri gram-negativi
+- Questi antibiotici hanno maggiore attività della penicillina G contro batteri gram-negativi
 	- **aumentata capacità di penetrare la membrana esterna dei gram-negativi**
 - Inattivate da molte $\beta$-lattamasi
 >[!info]
@@ -263,7 +263,7 @@ Tag: #Farmacologia #Chemioterapici #Antibiotici
 ###### Ticarcillina
 - Attività simile alla carbenicillina
 - Meno attiva dell'==ampicillina== contro gli enterococchi
-###### Ureidopenicilline
+##### Ureidopenicilline
 - ==Piperacillina==, ==mezlocillina== e ==azlocillina== risultano utili nelle infezioni sostenute da determinati bacilli gram-negativi, inclusa *Klebsiella pneumoniae*
 ### Azioni sfavorevoli
 >Le penicilline sono rimarchevolmente **non tossiche**

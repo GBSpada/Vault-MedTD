@@ -230,12 +230,10 @@ https://medicine.nus.edu.sg/pathweb/normal-histology/prostate/
 - Di fatto rappresenta la ==diffusione tumorale invasiva all’interno di dotti e acini== durante la progressione di neoplasie prostatiche aggressive di origine acinare o duttale
 ##### Carcinoma invasivo
 ![](https://i.imgur.com/HfuB1mz.png)
-
 ###### Macroscopicamente 
 
 - Il carcinoma della prostata è di solito ==multicentrico== e prevalentemente localizzato ==alla periferia dell’organo==.
 - La **superficie di taglio** del carcinoma si presenta sotto forma di ==noduli multipli, bianco- giallastri==, ==di consistenza aumentata==, “sottocapsulari” difficilmente riconoscibili rispetto al parenchima non neoplastico. 
-
 ###### Microscopicamente
 - Il ==98%== degli adenocarcinomi prostatici origina ==dalla porzione acinare== delle ghiandole prostatiche, i restanti originano dalla porzione duttale.
 - Il **carcinoma** appare composto da ==piccole ghiandole dismorfiche==, più o meno confluenti, affollate e disorganizzate, ==che infiltrano lo stroma prostatico== e scompaginano il disegno ghiandolare dell’organo. 

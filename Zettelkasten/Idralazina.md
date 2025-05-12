@@ -19,7 +19,7 @@ Tag: #Farmacologia
 	- somministrazione 2-3 volte al giorno
 ## Tossicità
 - I più comuni effetti sfavorevoli sono **cefalea**, **nausea**, **anoressia**, **palpitazioni**, **sudorazioni** e **vampate di calore**
-- Nei pazienti sofferenti di [[Cardiopatia ischemica (IHD)|cardiopatia ischemica]], la tachicardia riflessa e la stimolazione simpatica possono far comparire *dolore anginoso* o *aritmie ischemiche*
+- Nei pazienti sofferenti di [[Zettelkasten/Cardiopatia ischemica (IHD)|cardiopatia ischemica]], la tachicardia riflessa e la stimolazione simpatica possono far comparire *dolore anginoso* o *aritmie ischemiche*
 - Dosi => 400 mg/g: ==sindrome somigliante al [[Lupus eritematoso sistemico|LES]]==
 	- prevalentemente nelle persone che acetilano lentamente
 	- caratterizzata da artralgie, mialgie, eruzioni cutanee e febbre

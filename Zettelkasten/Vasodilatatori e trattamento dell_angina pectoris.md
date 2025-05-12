@@ -3,7 +3,7 @@ Stato: #idealibro
 Tag: #Farmacologia #ApparatoCardiocircolatorio 
 
 ---
->Per la fisiopatologia vedi [[Cardiopatia ischemica (IHD)|IHD]]
+>Per la fisiopatologia vedi [[Zettelkasten/Cardiopatia ischemica (IHD)|IHD]]
 - Farmaci impiegati
 	- nitrati organici (es. ==nitroglicerina==): rappresentano un gruppo fondamentale di riferimento per il sollievo
 	- bloccanti dei canali del $Ca^{2+}$

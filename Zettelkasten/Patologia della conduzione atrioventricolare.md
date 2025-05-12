@@ -284,7 +284,7 @@ sistema/apparato:
 - Il **pacing artificiale**, temporaneo o permanente, è il ==trattamento migliore== per i pazienti con malattia sintomatica del sistema di conduzione AV.
 	- Tuttavia, **in ciascun paziente** è ==essenziale escludere le cause reversibili== di blocco AV e valutare la necessità di un supporto temporaneo alla frequenza cardiaca, in base alle condizioni emodinamiche.
 
-### Misure Correttive
+### Farmacologica
 - Le seguenti misure possono aumentare la frequenza cardiaca:
 	- Correzione degli ==squilibri elettrolitici== e dell'==ischemia==
 	- Inibizione di un ==tono vagale eccessivo==
@@ -292,24 +292,85 @@ sistema/apparato:
 - Se il **blocco** si trova **nel nodo AV**, può essere utile un ==trattamento farmacologico aggiuntivo con atropina o isoproterenolo==.
 - Poiché la maggior parte delle terapie farmacologiche richiede un certo lasso di tempo per diventare efficace, può essere necessario un pacing temporaneo.
 
-### Tecniche di Pacing
-#### Pacing transcutaneo
+### Pacemaker
+
+![](https://i.imgur.com/0H6Lpcx.png)
+
+#### Tipologie
+##### Pacing transcutaneo
 - La **tecnica più veloce** consiste nell'uso di un ==pacing transcutaneo==, ponendo le placche anteriormente sopra l'apice cardiaco (catodo) e posteriormente fra la colonna vertebrale e la scapola o sopra l'altezza del capezzolo destro (anodo). 
 
-##### Efficacia del Pacing Transcutaneo
+###### Efficacia del Pacing Transcutaneo
 
 - **In fase acuta**, il pacing transcutaneo è ==altamente efficace==
 - Ma la sua **durata** è **limitata** 
 	- Dal disagio del paziente 
 	- Dalla ==difficoltà nel catturare il ventricolo== a causa di modifiche dell'impedenza dei cateteri. 
 
-#### Pacing Temporaneo Transvenoso
+##### Pacing Temporaneo Transvenoso
 
 - Se un paziente richiede un **supporto** pacemaker che **duri più di alcuni minuti**, è meglio istituire un ==pacing temporaneo transvenoso==. 
 - I **cateteri** per il pacing temporaneo possono essere posizionati nel sistema venoso giugulare o nella succlavia e fatti avanzare ==fino al ventricolo destro==, così da permettere, se necessario, un pacing temporaneo stabile per parecchi giorni.
 
-#### Impianto di Pacemaker Permanente
+##### Impianto di Pacemaker Permanente
 - Nella maggior parte dei casi, **in assenza di una rapida risoluzione**, un blocco di conduzione distale rispetto al nodo AV richiede l'==impianto di un pacemaker permanente==.
+
+#### Indicazioni generali
+##### Blocco AV di Tipo II Mobitz Acquisito
+- Nei pazienti con blocco AV di tipo II Mobitz acquisito, blocco AV di alto grado o blocco AV di terzo grado non reversibile o fisiologico, si raccomanda il pacing permanente ==indipendentemente dai sintomi==.
+
+##### Altri Tipi di Blocco AV
+- Per tutti gli altri tipi di blocco AV, in assenza di condizioni associate a anomalie progressive della conduzione AV, il pacing permanente dovrebbe generalmente essere considerato ==solo in presenza di sintomi== correlati al blocco.
+
+##### Malattie Neuromuscolari e Cardiomiopatie Progressive
+- **Nei pazienti con malattie neuromuscolari e altre cardiomiopatie progressive** che colpiscono il sistema di conduzione, ==si raccomanda== l'impianto di un pacemaker permanente per blocco AV di primo grado marcato e blocco AV di tipo I Mobitz.
+
+##### Indicazioni per l'Impianto di un Pacemaker
+- L'impianto di un pacemaker dovrebbe essere eseguito in qualsiasi paziente con ==bradicardia sintomatica== e ==blocco AV irreversibile== di secondo o terzo grado, indipendentemente dalla causa o dal livello di blocco nel sistema di conduzione.
+- I **sintomi** possono includere:
+	- Bradicardia
+	- Bassa gittata cardiaca
+	- Insufficienza cardiaca in peggioramento
+	- Angina
+	- Intolleranza a un farmaco essenziale
+##### Pacing nei Pazienti Asintomatici
+- Il pacing nei pazienti con blocco AV asintomatico deve essere personalizzato. 
+- Le situazioni in cui il pacing dovrebbe essere considerato includono:
+	- Pazienti con ==blocco cardiaco completo acquisito==, soprattutto in caso di dilatazione cardiaca
+	- ==Disfunzione del ventricolo sinistro==
+	- ==Frequenze cardiache di veglia ≤ 40== battiti/min
+
+###### Blocco AV di Secondo Grado Asintomatico
+- I pazienti con blocco AV di secondo grado asintomatico di qualsiasi tipo dovrebbero essere considerati per il pacing se il blocco 
+	- Si dimostra ==intra- o infra-His== 
+	- È associato a un ==ampio complesso QRS==.
+
+###### Altre circostanze particolari
+- Il pacing può essere indicato in pazienti asintomatici in circostanze speciali, come:
+	- Pazienti con ==blocco di primo grado profondo== e ==disfunzione ventricolare sinistra==, in cui un intervallo AV più breve produce un miglioramento emodinamico
+	- Forme più lievi di ritardo della conduzione AV in ==pazienti con malattie neuromuscolari predisposte== al sistema di conduzione.
+
+#### Nell'Infarto Miocardico
+
+- Il ==blocco== AV in caso di infarto miocardico acuto è ==spesso transitorio==, specialmente in caso di infarto inferiore. 
+- Le **circostanze** in cui il pacing è **indicato** includono:
+	- ==Blocco AV di secondo o terzo grado persistente==, in particolare se sintomatico.
+	- ==Blocco AV di secondo o terzo grado transitorio== associato a blocco di branca.
+- Il pacing **non è generalmente indicato** nel blocco AV transitorio 
+	- In ==assenza di ritardi di conduzione intraventricolare== 
+	- In presenza di ==blocco fascicolare o di primo grado== che si sviluppa nel contesto di un blocco di branca preesistente
+		- Anche i **blocchi fascicolari** che si verificano in caso di infarto miocardico acuto, in assenza di altre forme di blocco AV, ==non richiedono pacing==.
+
+#### Blocchi distali
+- Le **forme distali** di blocco di conduzione AV possono richiedere l'impianto di un pacemaker in determinate situazioni cliniche. 
+- Le seguenti categorie di pazienti **dovrebbero essere considerate**:
+	- ==Pazienti con blocco bifascicolare o trifascicolare e sintomi==, in particolare sincope non attribuibile ad altre cause, dovrebbero essere sottoposti a impianto di pacemaker.
+	- ==Pazienti asintomatici con blocco bifascicolare o trifascicolare== che presentano blocco di terzo grado intermittente, blocco AV di secondo grado tipo II o blocco di branca alternante.
+	- Nei pazienti con blocco **fascicolare** 
+		- Sottoposti a studio elettrofisiologico con
+			- ==Intervallo HV notevolmente prolungato== 
+			- ==Blocco sotto il fascio di His== a lungo ciclo 
+		- Con ==malattie neuromuscolari== precedentemente descritte 
 
 --- 
 # Reference:

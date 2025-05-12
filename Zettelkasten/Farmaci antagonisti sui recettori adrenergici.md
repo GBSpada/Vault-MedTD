@@ -285,7 +285,7 @@ Tag: #Farmacologia #Farmacologiagenerale
 	- i $\beta_1$ antagonisti (es. ==metoprololo== e ==atenololo==) sono preferibili, ma nessuno dei due è sufficientemente specifico da evitare *completamente* l'interazione coi recettori $\beta_2$
 2. **Si dovrebbe evitare** l'uso di questi farmaci nei pazienti asmatici
 ##### BPCO
-- Alcuni pazienti riescono a tollerare molto bene questi farmaci ed i benefici possono essere superiori ai rischi (es. pazienti con [[Cardiopatia ischemica (IHD)|IHD]])
+- Alcuni pazienti riescono a tollerare molto bene questi farmaci ed i benefici possono essere superiori ai rischi (es. pazienti con [[Zettelkasten/Cardiopatia ischemica (IHD)|IHD]])
 #### Effetti sull'occhio
 - Diversi agenti riducono la pressione endoculare, specialmente nell'**occhio glaucomatoso**
 #### Effetti metabolici ed endocrini
@@ -516,7 +516,7 @@ Tag: #Farmacologia #Farmacologiagenerale
 		- **insufficienza cardiaca**
 		- **anormalità della conduzione cardiaca**
 - Pericoli derivanti dall'*interruzione brusca della terapia con un β-bloccante dopo un uso prolungato*
-	- notevole rischio per pazienti affetti da [[Cardiopatia ischemica (IHD)|IHD]] o ipertensione nefrovascolare
+	- notevole rischio per pazienti affetti da [[Zettelkasten/Cardiopatia ischemica (IHD)|IHD]] o ipertensione nefrovascolare
 	- meccanismo incerto, ma è possibile che, durante il trattamento cronico con un $\beta$-antagonista, si abbia un aumento del numero dei recettori ("*up regulation*")
 >[!Pazienti diabetici]
 >L'incidenza di *episodi di ipoglicemia* esacerbati dai $\beta$-bloccanti non è conosciuta, ma è sconsigliabile prescriverli a diabetici insulino-dipendenti soggetti a frequenti reazioni ipoglicemiche, se esistono terapie alternative.

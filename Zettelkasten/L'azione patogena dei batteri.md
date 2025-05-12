@@ -291,7 +291,7 @@ Tag: #Microbiologia
 #### Agenti sul citoscheletro
 > Nella maggior parte dei casi sempre tossine binarie con due componenti (come quelle precedenti): una A (active) e una B (binding). Hanno attività ADP-ribosil transferasica e come bersaglio proteine citoscheletriche
 ##### Primo gruppo
-###### Tossine monomeriche A e B di [[Clostridium difficile]]
+###### Tossine monomeriche A e B di [[Clostridium difficile 2]]
 - Agiscono come monoglucosil transferasi, se ne parla meglio dopo
 ###### Tossina C2 di [[Clostridium Botulinum]]
 - Prototipo di tutta la famiglia di tossine

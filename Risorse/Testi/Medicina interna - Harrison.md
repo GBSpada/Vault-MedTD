@@ -290,7 +290,7 @@ tags:
 212. [[Schistosomiasi e altre infestazioni da trematodi]]
 213. [[Cestodi]]
 
-## Parte VIII: bioterrorismo e medicina clinica
+## Parte VIII- bioterrorismo e medicina clinica
 214. [[Bioterrorismo microbico]]
 215. [[Bioterrorismo chimico]]
 216. [[Bioterrorismo da radiazioni]]
@@ -316,7 +316,7 @@ tags:
 
 ## Parte 11: Terapia intensiva
 ### Sezione 1: [[terapia intensiva respiratoria]]
-### Sezione 2: [[shock e arresto cardiaco]]
+### Sezione 2: [[Shock e arresto cardiaco]]
 ### Sezione 3: [[terapia intensiva neurologica]]
 ### Sezione 4: [[emergenze oncologiche]]
 

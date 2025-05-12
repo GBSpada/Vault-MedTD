@@ -231,7 +231,7 @@ Tag: #Farmacologia #Diuretici #Fisiopatologia #MedicinaInterna #ApparatoCardioci
 >[!info]
 >Il blocco della sintesi di prostaglandine con [[FANS; farmaci antireumatici; antidolorifici non oppioidi e farmaci usati nella gotta#Agenti antinfiammatori non steroidei|FANS]] può, pertanto, interferire con l'attività dei diuretici dell'ansa.
 ### Peptidi
->Vedi [[peptidi vasoattivi]]
+>Vedi [[Peptidi vasoattivi]]
 #### Peptidi cardiaci
 ##### ANP e BNP
 - Sintetizzati nel cuore

@@ -290,7 +290,7 @@ Tag: #Farmacologia #Farmacologiagenerale
 	- determina quanto rapidamente la molecola sia in grado di spostarsi dal mezzo lipidico al mezzo acquoso
 - Nel caso di acidi e basi deboli, la capacità di spostarsi dall'acqua ai lipidi o viceversa varia col pH del mezzo
 	- le molecole cariche elettronicamente attraggono le molecole d'acqua
-	- rapporto tra forma liposolubile e idrosolubile espresso dall'[[Introduzione - farmacologia#C. Ionizzazione di acidi e basi deboli; l'equazione di Henderson-Hasselbalch|equazione di Henderson-Hasselbalch]]
+	- rapporto tra forma liposolubile e idrosolubile espresso dall'[[Introduzione - farmacologia#Ionizzazione di acidi e basi deboli; l'equazione di Henderson-Hasselbalch|equazione di Henderson-Hasselbalch]]
 #### 3. Trasportatori speciali
 - Molecole promuoventi il movimento
 	- per trasporto attivo o per diffusione facilitata

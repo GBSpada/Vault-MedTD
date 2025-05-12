@@ -3,7 +3,7 @@ stato: "#ideaMia"
 tags:
   - Microbiologia
 ---
-katz\28-10-2024 \16:39
+\28-10-2024 \16:39
 
 --- 
 
@@ -25,8 +25,8 @@ katz\28-10-2024 \16:39
 ### Legami
 ![Collegamenti peptidoglicano](https://i.imgur.com/PIdKmyt.png)
 #### Tra i polimeri lineari
-- Possono avvenire 
-	- Tramite legami diretti tra i tetrapeptidi 
+- Possono avvenire
+	- Tramite legami diretti tra i tetrapeptidi
 		- In genere tra la D-Alanina terminale di un tetrapeptide e l'm-DAP in posizione 3
 	- Attraverso un ponte omopolimerico di 5 o 7 aminoacidi
 		- Nello [[Stafilococchi|S.aureus]] è una pentaglicina
@@ -78,18 +78,8 @@ katz\28-10-2024 \16:39
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 --- 
 # Reference:
 [[Microbiologia - La Placa]]
 [[Farmacologia - Katzung]]
+

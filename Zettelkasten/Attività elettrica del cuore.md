@@ -437,7 +437,7 @@ Dubin
 
 --- 
 # Appendice:
-[^1]: Proprietà  di un sistema di avere caratteristiche diverse in direzioni diverse
+
 [^2]: depolarizzazione veloce o fase 0
 [^3]: [^3]: Soprattutto Na$^+$, K$^+$, Ca$^{2+}$ e Cl$^-$.
 [^4]: Vale a dire che i canali selettivi per quello ione sono aperti.

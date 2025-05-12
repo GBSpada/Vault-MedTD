@@ -483,7 +483,7 @@ Tag: #Farmacologia #SistemaNervoso #Antidolorifici
 		- ridotta *percezione* dell'ostacolata funzione respiratoria
 		- ridotto precarico (riduzione del tono venoso)
 		- ridotto postcarico (diminuzione delle resistenze periferiche)
-	- la morfina può essere particolarmente utile quando usata per trattare il dolore da [[Cardiopatia ischemica (IHD)|IHD]] associato ad edema polmonare
+	- la morfina può essere particolarmente utile quando usata per trattare il dolore da [[Zettelkasten/Cardiopatia ischemica (IHD)|IHD]] associato ad edema polmonare
 #### Tosse
 - L'effetto bechico può essere ottenuto con dosi più bassi di quelle richieste per indurre analgesia
 - In questi ultimi anni, l'uso di analgesici oppioidi nel trattamento della tosse è divenuto sempre meno frequente: sono stati sintetizzati farmaci che non producono analgesia e non sono tossicomanigeni

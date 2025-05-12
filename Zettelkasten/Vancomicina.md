@@ -40,7 +40,7 @@ Tag: #Farmacologia #Chemioterapici #Antibiotici
 - Agisce sinergicamente con la [[gentamicina]] e la [[streptomicina]] nei confronti dei ceppi di $Enterococcus faecium$ ed $Enterococcus faecalis$ che non possiedono alti livelli di resistenza agli amminoglicosidi
 ## Farmacocinetica
 - Assorbita scarsamente dal [[Tratto gastrointestinale|tratto gastrointestinale]]
-	- viene somministrata *per os* solamente nei casi di ==enterocoliti== associate ad antibiotici ==causate da ==[[Clostridium difficile|C. difficile]]
+	- viene somministrata *per os* solamente nei casi di ==enterocoliti== associate ad antibiotici ==causate da ==[[Clostridium difficile 2|C. difficile]]
 - Dosi parenterali vanno somministrate IV
 	- un'infusione della durata di 1 h di 1 g produce livelli ematici di 15-30 $\mu$g/mL per ca. 1-2 h
 - Distribuzione

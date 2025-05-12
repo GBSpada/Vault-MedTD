@@ -11,7 +11,7 @@ Tag: #Farmacologia #Farmacologiagenerale
 	2. **I recettori sono responsabili della selettività dell'azione farmacologica**
 		- dimensione molecolare, struttura e carica elettrica di un farmaco determinano se - e con quale affinità - esso si legherà ad un particolare recettore
 		- funzione regolatrice
-	1. **I recettori mediano le azioni degli agonisti e degli antagonisti farmacologici**
+	3. **I recettori mediano le azioni degli agonisti e degli antagonisti farmacologici**
 # Natura macromolecolare dei recettori per farmaci
 >[!info]- Identificazione dei recettori nel tempo
 >- Tradizionalmente, sono stati usati studi di legame (*binding*);
@@ -126,7 +126,7 @@ Tag: #Farmacologia #Farmacologiagenerale
 	- **svantaggio**: potrebbero insorgere problematiche gravi in seguito a somministrazione di dosi eccessive
 		- si dovranno antagonizzare "fisiologicamente" gli eccessivi effetti dell'antagonista (es. utilizzando un farmaco pressorio che non agisce mediante i recettori $\alpha$-adrenergici)
 #### Ulteriore meccanismo d'azione
-- Legame ad un sito della proteina recettoriale differente dal sito di legame per l'agonista, prevendendo, in tal modo, l'attivazione recettoriale senza bloccare il legame dell'agonista stesso (guarda l'[[Introduzione - farmacologia#A. Tipi di interazioni farmaco-recettore|img 1.3C e D]])
+- Legame ad un sito della proteina recettoriale differente dal sito di legame per l'agonista, prevendendo, in tal modo, l'attivazione recettoriale senza bloccare il legame dell'agonista stesso (guarda l'[[Introduzione - farmacologia#Tipi di interazioni farmaco-recettore|img 1.3C e D]])
 	- tali farmaci sono definiti **modulatori allosterici**
 	- es. legame delle ==benzodiazepine== ai canali ionici attivati dal *GABA*, aumentandone l'effetto sulla conduttanza
 ## Agonisti parziali
@@ -334,7 +334,6 @@ Tag: #Farmacologia #Farmacologiagenerale
 	- altri farmaci agiscono sull'inibizione competitiva della degradazione del cAMP:
 		- ==caffeina==
 		- ==teofillina==
-		- altre metilxantine
 >[!info]
 > La specificità degli effetti regolatori mediati da cAMP è legata ai distinti substrati proteici delle chinasi, che sono espresse in differenti cellule.
 > - Es. il fegato è ricco di *fosforilasi-chinasi* e *glicogeno-sintetasi*, due enzimi che determinano l'immagazzinamento ed il rilascio dei carboidrati (entrambi regolati da cAMP).

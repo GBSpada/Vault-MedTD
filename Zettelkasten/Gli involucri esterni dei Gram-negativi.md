@@ -1,11 +1,10 @@
-
 07-05-2023 16:10
 Stato: #ideaL
 Tag: #Microbiologia 
 
 ![Struttura parete gram negativi](https://i.imgur.com/yn8lyjW.png)
 
-> I batteri gram negativi ovviano all'assenza di uno strato di peptidoglicano abbastanza spesso da poter garantire adeguati benefici (tra cui un bilancio idrico fisiologico) tramite una ==seconda membrana esterna==
+> I batteri gram negativi ovviano all'assenza di uno strato di peptidoglicano abbastanza spesso di modo da poter garantire adeguati benefici (tra cui un bilancio idrico fisiologico) tramite una ==seconda membrana esterna==
 
 # Membrana esterna
 - Struttura bilaminare come quella citoplasmatica ma **asimmetrica**

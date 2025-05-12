@@ -8,7 +8,7 @@ Tag: #PatologiaGenerale
 # [[Malattie delle valvole cardiache]]
 # [[Alterazioni fisiopatologiche dei vasi sanguigni]]
 # [[Scompenso cardiaco]]
-# [[Cardiopatia ischemica (IHD)]]
+# [[Zettelkasten/Cardiopatia ischemica (IHD)]]
 
 
 

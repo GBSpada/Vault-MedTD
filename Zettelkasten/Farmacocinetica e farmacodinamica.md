@@ -3,7 +3,7 @@ Stato: #idealibro
 Tag: #Farmacologia #Farmacologiagenerale 
 
 ---
-- ![Farmacologia generale, relazione dose-effetto suddivisa nella componente farmacocinetica (relazione dose-concentrazione) ed in quella farmacodinamica (relazione concentrazione-effetto).](https://i.imgur.com/cICY7Ym.png)
+![Farmacologia generale, relazione dose-effetto suddivisa nella componente farmacocinetica (relazione dose-concentrazione) ed in quella farmacodinamica (relazione concentrazione-effetto).](https://i.imgur.com/cICY7Ym.png)
 	- Relazione dose-effetto:
 		- farmacodinamica: rapporti tra *concentrazione* ed *effetto*
 		- farmacocinetica: rapporti tra *dose* e *concentrazione*
@@ -25,7 +25,8 @@ Tag: #Farmacologia #Farmacologiagenerale
 >[!info]
 > **Volume di distribuzione** (**V**): relazione che lega il quantitativo totale di farmaco nell'organismo con la concentrazione del farmaco stesso (C) nel sangue o nel plasma:
 > - $V = \frac{\text{Quantitativo di farmaco nell'organismo}}{\text{C}}$
- - Definibile rispetto a
+
+- Definibile rispetto a
 	 - sangue ($C_{sangue}$)
 	 - plasma ($C_{plasma}$)
 	 - acqua plasmatica ($C_{\text{farmaco libero}}$)
@@ -56,7 +57,7 @@ Tag: #Farmacologia #Farmacologiagenerale
 >Anche detta *eliminazione dose-* o *concentrazione-dipendente*, *di ordine misto*, *non-lineare* o *di Michaelis-Menten*
 - La clearance varia a seconda della concentrazione del farmaco che si è raggiunta
 	- la maggior parte delle vie di eliminazione dei farmaci diviene saturabile se la dose è sufficientemente elevata
-	- $\text{Velocità di eliminazione} = \frac{V_{max}\text{ x C}}{K_m + m}$
+	- $\text{Velocità di eliminazione} = \frac{V_{max}\text{ x C}}{K_m + \,C}$
 		- $V_{max}$ = massima velocità di eliminazione
 		- $K_m$ = concentrazione de farmaco alla quale la velocità di eliminazione del farmaco è pari al 50% della $V_{max}$
 - Considerazioni:
@@ -70,6 +71,7 @@ Tag: #Farmacologia #Farmacologiagenerale
 	- (addirittura eliminazione al primo passaggio del farmaco in esso)
 	- l'eliminazione dipende dalla **velocità di rilascio del farmaco all'organo di eliminazione**
 - Tali farmaci vengono detti *farmaci "ad elevata estrazione"*
+
 >[!warning]
 >Il legame alle proteine plasmatiche o a componenti cellulari del sangue può essere rilevante per quei farmaci estesamente legati che sono altamente estratti.
 ## Emivita
@@ -91,7 +93,7 @@ Tag: #Farmacologia #Farmacologiagenerale
 ## Accumulo del farmaco
 - Quando le **somministrazioni** di un farmaco sono **ripetute**, il farmaco tenderà ad **accumularsi nell'organismo** fintanto che il **regime posologico non venga interrotto**
 	- in teoria, il tempo necessario ad eliminare interamente una determinata dose somministrata è infinito
-	- in pratica, se l'intervallo tra le due dosi > 4 emivite, si verificherà un accumulo
+	- in pratica, se l'intervallo tra le due dosi < 4 emivite, si verificherà un accumulo
 - Un utile indice di accumulo è il **fattore di accumulo**: $\text{Frazione di accumulo} = \frac{1}{\text{frazione di farmaco eliminata in ogni intervallo fra le dosi}} = \frac{1}{1\text{ - frazione residua di farmaco}}$
 	- questo indice permette di prevedere il rapporto fra la concentrazione allo steady-state e la concentrazione che si misura dopo lo stesso lasso di tempo, in seguito a somministrazione della prima dose di farmaco
 	- l'accumulo è *inversamente proporzionale* alla frazione della dose eliminata in ciascun intervallo tra le somministrazioni
@@ -204,7 +206,7 @@ Tag: #Farmacologia #Farmacologiagenerale
 #### Via rettale
 - Processo:
 	1. il farmaco, sotto forma di *supposta* (talora *microclisteri*), sia introdotto nel canale anale, subito al di là dello **sfintere anale esterno**;
-	2. da qui, il farmaco arriva nel [[Intestino crasso - Anatomia#Retto|retto]], dove la T corporea facilita lo scioglimento della supposta e l'assorbimento del principio attivo da parte della mucosa rettale
+	2. da qui, il farmaco arriva nel [[Zettelkasten/Intestino crasso#Vasi e nervi|retto]], dove la T corporea facilita lo scioglimento della supposta e l'assorbimento del principio attivo da parte della mucosa rettale
 	3. il sangue refluo del retto viene veicolato dalle *vene rettali*, di cui
 		- superiore → tributaria della vena porta
 		- media ed inferiore → tributarie della vena cava inferiore

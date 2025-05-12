@@ -58,6 +58,8 @@ sistema/apparato:
 - Almeno una forma è causata da una mutazione con aumento di funzione nel gene del canale del K$^+$ *KCNQ1*
 
 ## Fisiopatologia
+![](https://i.imgur.com/kSZE0QN.png)
+
 - Le aritmie possono essere classificate in base a due principali categorie di alterazioni:
 	1. **Alterazioni della formazione dell'impulso**: Riguardano la generazione anomala degli impulsi elettrici.
 	2. **Alterazioni della conduzione dell'impulso**: Si riferiscono a problemi nella propagazione degli impulsi attraverso il tessuto cardiaco
@@ -315,46 +317,7 @@ sistema/apparato:
 
 
 ## [[Bradiaritmie]]
-## Tachiaritmie
-#### Sintomi delle tachiaritmie
-#### Test diagnostici nella valutazione delle tachiaritmie
-#### Meccanismi patogenetici delle tachiaritmie
-##### Anomalie della formazione dell'impulso
-##### Anomalie della propagazione dell'impulso
-### Tachiaritmie sopraventricolari
-#### Complessi prematuri atriali
-#### Complessi prematuri giunzionali
-#### Tachicardia sinusale
-#### Fibrillazione atriale
-#### Flutter atriale e tachicardie atriali macrorientranti
-#### Tachicardia atriale multifocale
-#### Tachicardie atriali focali
-#### Tachicardie del nodo AV
-#### Tachicardie associate a vie accessorie
-### Tachiaritmie ventricolari
-#### Complessi prematuri ventricolari
-#### Ritmo idioventricolare accelerato
-#### tachicardia ventricolare
-#### Sindormi con TV particolari
-#### Anomalie geneticamente determinate che predispongono alle aritmie ventricolari polimorfiche
-#### Sintomi delle tachiaritmie
-
-### Tachiaritmie sopraventricolari
-#### Complessi prematuri atriali
-#### Complessi prematuri giunzionali
-#### Tachicardia sinusale
-#### Fibrillazione atriale
-#### Flutter atriale e tachicardie atriali macrorientranti
-#### Tachicardia atriale multifocale
-#### Tachicardie atriali focali
-#### Tachicardie del nodo AV
-#### Tachicardie associate a vie accessorie
-### Tachiaritmie ventricolari
-#### Complessi prematuri ventricolari
-#### Ritmo idioventricolare accelerato
-#### tachicardia ventricolare
-#### Sindormi con TV particolari
-#### Anomalie geneticamente determinate che predispongono alle aritmie ventricolari polimorfiche
+## [[Tachiaritmie]]
 
 
 
@@ -369,4 +332,3 @@ sistema/apparato:
 [^3]:
 [^4]: 
 [^5]:
-[^9]: Cellule che mostrano fase 4 di depolarizzazione lenta perfino in condizioni normali (es. alcune fibre di Purkinje)

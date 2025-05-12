@@ -37,7 +37,7 @@ tags:
 | Fattore causale  | Meccanismo                                                                                                                       | Effetti Lec                                                 | Effetti lic                                               |
 | ---------------- | -------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- | --------------------------------------------------------- |
 | Aumento di sodio | Iperaldosteronismo, sindrome di cushing, formula neonati                                                                         | Ipervolemia, Distensione venosa, crisi convulsive           | Disidratazione intracellulare, Grossi effetti neurologici |
-| Carenza idrica   | Diarree ([[Clostridium difficile]]), diabete, Anziani o pazienti con difficoltà di comunicazione della sete, diaforesi eccessiva | Ipovolemia, Perdita di peso, pulsazioni deboli, tachicardia |                                                           |
+| Carenza idrica   | Diarree ([[Clostridium difficile 2]]), diabete, Anziani o pazienti con difficoltà di comunicazione della sete, diaforesi eccessiva | Ipovolemia, Perdita di peso, pulsazioni deboli, tachicardia |                                                           |
 | Altri fattori    | Iperglicemia: ricorda che il glucosio determina a sua volta l'osmolarità plasmatica                                              | Iperna                                                      |                                                           |
 
 pression ipocondrio destro e aumento vene?? (semeiotica)

@@ -7,6 +7,7 @@ tags:
 sistema/apparato:
   - CardioCircolatorio
 ---
+
 2023-10-04 14:59
 
 ---
@@ -15,43 +16,156 @@ sistema/apparato:
 - L'aterosclerosi rappresenta la **principale causa di mortalità e disabilità nei Paesi sviluppati**
 - Nonostante sia ormai ben conosciuta, ==alcuni== dei suoi ==aspetti fondamentali== restano ancora poco chiari o ignoti
 
-### Fattori di Rischio 
+## Fattori di Rischio 
 
 - Per quanto i **fattori di rischio** generali o sistemici che conferiscono una predisposizione allo sviluppo di questa malattia siano molteplici
 - La patologia colpisce ==di preferenza alcune regioni== con ==manifestazioni cliniche diverse a seconda del letto vascolare colpito==. 
 
-### Sedi
-#### Emodinamica e Sedi preferenziali
+![Principali fattori di rischio (escluso il colesterolo LDL) che modificano gli obiettivi del colesterolo LDL](https://i.imgur.com/x1A7IYC.png)
+- Fattori di rischio riconosciuti dall'attuale *National Cholesterol Education Project Adult Treatment Panel III* (*ATP III*)
+- Lo **studio** sistematico dei fattori di rischio per l'aterosclerosi è ==emerso da una serie di risultati sperimentali==, così come da studi trasversali e longitudinali condotti sull'uomo. 
+	- Il *Framingham Heart Study*, uno studio prospettico di comunità, ha fornito un forte sostegno al concetto secondo cui l'ipercolesterolemia, l'ipertensione e altri fattori sono correlati al rischio cardiovascolare. 
+	- ==Analoghi studi osservazionali== condotti a livello mondiale hanno rinforzato il concetto di "fattori di rischio" per la patologia cardiovascolare. 
 
-- **Nell'ambito di un dato letto arterioso**, le stenosi causate dall'aterosclerosi tendono a colpire una ==zona localizzata==, solitamente in certe regioni predisposte. 
-##### Coronarie
-![Circolo coronarico](https://i.imgur.com/RtvfiPI.png)
-- **Nel circolo coronarico**, per esempio, il ==segmento prossimale della coronaria sinistra discendente anteriore== presenta una particolare predisposizione allo sviluppo di malattia occlusiva aterosclerotica.
-##### Rene e cervello
-- Allo stesso modo, l'aterosclerosi colpisce **preferenzialmente** 
-	- le **porzioni prossimali** delle ==arterie renali==
-	- nel ==circolo cerebrovascolare==, la **biforcazione carotidea**
-- Infatti, le lesioni aterosclerotiche **spesso si formano** in corrispondenza dei ==punti di ramificazione delle arterie==, regioni in cui il flusso ematico è turbolento ([[Trombosi#Triade di Virchow]])
-#### Altre localizzazioni e manifestazioni associate
+- Da un punto di vista pratico, i fattori di rischio cardiovascolari emersi da tali studi **si suddividono in due categorie**:
+	- Quelli ==modificabili== mediante cambiamento dello stile di vita e/o dalla farmacoterapia
+	- Quelli ==immutabili==, quali l'età e il sesso.
+- Il **peso delle prove a sostegno** dei diversi fattori di rischio è ==variabile==, per esempio:
+	- L'==ipercolesterolemia== e l'==ipertensione== sono ==indubbiamente== fattori predittivi di rischio coronarico
+	- Rimane **controverso il ruolo di** altri fattori di rischio, denominati non tradizionali, come i livelli di ==omocisteina==, la ==lipoproteina (a)== o ==le infezioni==; 
+		- Così come non è sicuro il ruolo di alcuni biomarcatori, come la proteina C-reattiva (PCR). 
+### Dislipidemie
+##### Screening lipidico
+![Obiettivi del colesterolo LDL, soglie per la modificazione terapeutica dello stile di vita e terapia farmacologica in diverse categorie a rischio](https://i.imgur.com/oy4leAS.png)
+- Le attuali guide ATP III raccomandano lo screening lipidico ==in tutti gli adulti di età > 20 anni==.
+- **Profilo lipidico a digiuno** (==da ripetere ogni 5 anni==):
+	- Colesterolo totale
+	- Trigliceridi
+	- HDL
+	- LDL
+###### Categorie
+- Collocazione degli individui in **tre categorie di trattamento** in funzione di ulteriori fattori di rischio
+- **Meno di due fattori di rischio**
+	- ==Categoria più bassa== per il trattamento
+	- ==Obiettivo di LDL== < 4,1 mmol/L (160 mg/dl)
+- **Due o più fattori di rischio**
+	- In questo caso si stabilisce la categoria di appartenenza in funzione del rischio di sviluppare una malattia coronarica in 10 anni
+		- Per calcolarlo si applica [un algoritmo](https://tools.acc.org/ascvd-risk-estimator-plus/)
+	- Ottenuto il rischio possiamo quindi distinguere tre ulteriori categorie
+		- **Categoria intermedia** se il rischio <= 20%.
+			- ==obiettivo di LDL < 3,4 mmol/L== 
+		- **Categoria più alta** se il rischio >= 20%
+			- ==obiettivo di LDL < 2,6 mmol/L==
+			- Presentano segni di aterosclerosi definita o diabete.
+		- **Categoria molto alta** 
+			- ==obiettivo di LDL < 1,8 mmol/L==
 
-- La **porzione distale dell'aorta addominale**
-	- Interessata in maniera molto più cospicua di quella toracica
-- L'aterosclerosi delle arterie **coronarie** determina solitamente:
-	- ==Angina pectoris== (vedi Cap. 237)
-	- ==Infarto miocardico== (vedi Cap. 239)
-- L'aterosclerosi delle **arterie che alimentano il sistema nervoso centrale** provoca di frequente:
-	- ==Ischemia cerebrale transitoria (TIA)==
-	- ==Ictus== (vedi Cap. 364)
-- Se colpisce la **circolazione periferica**, l'aterosclerosi può determinare:
-	- ==Claudicatio intermittens==
-	- ==Gangrena== che compromette la funzionalità degli arti
-- Il coinvolgimento del **circolo splancnico** può dare origine a:
-	- ==Ischemia mesenterica==
-- L'aterosclerosi può interessare **il rene**
-	- Sia ==direttamente== 
-		- Determinando, per esempio, stenosi dell'arteria renale
-	- Sia ==indirettamente==
-		- Come sede di eventi ateroembolici (vedi [[Malattie dell'aorta]]).
+
+##### Provvedimenti per Raggiungere l'Obiettivo LDL Ottimale
+
+###### 1. Modificazioni terapeutiche dello stile di vita
+
+- Diete specifiche ed esercizio fisico.
+
+![L'abbassamento dei lipidi riduce gli eventi coronarici](https://i.imgur.com/7pDvTD1.png)
+
+- La riduzione del rischio cardiovascolare è garantita
+	- Nei pazienti con AC definita
+	- Nei soggetti che non hanno mai sofferto di eventi coronarici.
+
+- **Azione delle terapie ipolipemizzanti sulle lesioni aterosclerotiche**
+	- ==Non causano== marcata "==regressione==" delle ==lesioni coronariche== ostruttive
+		- Al massimo una ==modesta diminuzione delle stenosi== coronariche.
+	- Ciò nonostante, si hanno riduzioni sostanziali degli eventi coronarici per via della =="stabilizzazione" delle lesioni==.
+
+ >[!danger] Insidie angiografiche
+ > Poiché le lesioni di grandi dimensioni possono protrudere verso l'esterno anziché verso il lume, la riduzione del volume delle placche potrebbe non risultare evidente all'esame angiografico.
+
+###### 2. *Terapia farmacologica*
+- Se LDL > 0,8 mmol/L rispetto agli obiettivi del proprio gruppo di rischio → candidabile 
+- Terapia con **inibitori della HMG-CoA reduttasi** (**statine**):
+	- Efficacia dipendente 
+		- sia da effetti salutari sul profilo lipidico 
+		- sia dalla modulazione diretta della biologia della placca.
+- **Farmaci agenti sulla** *NPC1L1* (*Niemann-Pick C1-like 1*) [^5] 
+	- Il farmaco **ezetimibe** blocca l'NPC1L1 causando una riduzione dell'assorbimento del colesterolo, con una riduzione nel sangue tra il 15-20%.
+
+###### 3. Terapia a base di **vitamine antiossidanti**:
+- Poiché il meccanismo mediante il quale elevati livelli di LDL favoriscono l'aterosclerosi implica alterazioni ossidative.
+- Studi clinici rigorosi e ben monitorati non ne hanno dimostrato l'efficacia.
+
+##### Ruolo delle HDL
+
+- In verità, nell'era "post statine", i ==pazienti con livelli di LDL pari o al di sotto dell'obiettivo presentano frequentemente SCA==
+	- Bassi livelli di HDL rimangono l'**effettivo problema** e il loro ==livello varia inversamente a quello dei trigliceridi==.
+	- Il controllo dei **livelli di HDL** è divenuto preminente. 
+- Aumentano con:
+	- Calo ponderale + esercizio fisico
+###### Terapia farmacologica
+- Statine + *acido nicotinico*:
+	- Quest'ultimo, anche con adattamento del dosaggio, causa flushing [^6] e prurito, difficili da accettare per il paziente.
+- **Agonisti dei recettori nucleari** che aumentano i livelli di HDL: *PPAR-α* e *γ* (*peroxisome proliferator-activated receptor α*):￼￼peroxisome proliferator-activated receptor α￼￼):1
+	- ==Aumentano i livelli di HDL== mediante riduzione della trascrizione dell'*apolipoproteina AI*,
+	- ==Aumentano il catabolismo dei trigliceridi== mediante riduzione della trascrizione dell'*apolipoproteina CIII*, inibitore della lipoproteina lipasi.
+
+### Ipertensione
+- Una grande mole di dati epidemiologici avvalora l'esistenza di una correlazione tra l'ipertensione e il rischio aterosclerotico.
+- Oltre a ciò, molti dati clinici hanno dimostrato che il **trattamento farmacologico dell'ipertensione può ridurre il rischio**
+	- Di ictus
+	- Di scompenso cardiaco 
+	- Di manifestazioni coronariche.
+
+
+### Diabete mellito, resistenza all'insulina e sindrome metabolica
+![Fattori di rischio per la sindrome metabolica](https://i.imgur.com/odI9qxz.png)
+
+- La **maggior parte dei pazienti** con diabete mellito ==muore a causa di aterosclerosi== e delle sue complicanze
+#### Fisiopatologia
+- Il profilo lipoproteico anormale associato all'insulino-resistenza (*dislipidemia diabetica*) ne è responsabile:
+	- **LDL** vicine alla media, ma particelle ==più piccole e dense== (più *aterogene*);
+	- ==Bassi livelli di HDL==;
+	- ==Elevati livelli di trigliceridi==;
+- L'**ipertensione**, spesso, ==accompagna== questa condizione.
+#### Trattamento secondo le linee guida ATP III:
+- Stabilire uno **stretto controllo della glicemia** per i pazienti diabetici di tipo 2 risulta **difficile** -> ==non si hanno prove sicure che esso possa ridurre il rischio== coronarico 
+	- Ci si focalizza, a maggior ragione, su altri aspetti)
+- La **metformina** pare l'==agente== ipoglicemico orale ==più efficace==;
+##### Statine
+ - Efficaci a tutti i livelli di LDL
+- In generale, raccomandate per persone con diabete con
+	- Età > 40 anni
+	- Colesterolo totale > 135;
+##### Agonisti di recettori nucleari che aumentano le HDLL
+- Il **gemfibrozil** (==agonista PPAR-α==) riduce l'incidenza di malattia coronarica e ictus
+	- Il *pioglitazone* (altro agonista) non ha raggiunto, invece, il suo end-point primario multiplo, ma ha dimostrato significativa riduzione di tutte le cause di mortalità
+##### Strategie ipertensive
+- Particolare giovamento tratto da **strategie antipertensive bloccanti l'angiotensina II**:
+	- ==Bloccanti dell'ACE==,
+	- ==Bloccanti per i recettori dell'angiotensina==.
+
+
+### Sesso maschile/stato postmenopausale
+- Gli uomini presentano maggiore rischio coronarico che le donne nel periodo premenopausa:
+	- **Post menopausa**, il rischio aumenta, poiché i ==livelli== relativamente elevati di HDL scendono
+		- La terapia estrogenica abbassa il colesterolo LDL ed innalza l'HDL
+#### Terapia estrogenica 
+#####  HERS (Heart and Estrogen/Progestin Replacement Study)
+- donne in condizione menopausale (sopravvissute all'infarto miocardico acuto)
+- terapia con associazione estrogeno-progestinica o a placebo
+	- in realtà, effettivo aumento degli eventi vascolari nei primi 5 anni
+##### WHI (Women's Health Initiative)
+- Terapia analoga con estrogeni e progesterone, interrotta a causa di un piccolo rischio di eventi cardiovascolari, ictus e cancro alla mammella
+
+>[!info]-
+>Analisi successive ad hoc hanno dimostrato che la terapia a base di estrogeni nelle donne più giovani di quelle in menopausa conferiscono **benefici cardiovascolari**
+### Alterazioni della coagulazione o della fibrinolisi
+- Come già detto, la **trombosi** provocata dalla rottura di un ateroma e la **successiva cicatrizzazione** possono ==favorire la crescita della placca==
+- La **stabilità di un trombo arterioso** dipende dall'==equilibrio fra fattori fibrinolitici==, come 
+	- La ==plasmina==
+	- Gli ==inibitori del sistema fibrinolitico== 
+		- Ad esempio, il *PAI 1*, *plasminogen activator inhibitor 1*
+	- Elevati livelli di ==fibrinogeno== potrebbero favorire la trombosi, il che lo rende reagente di fase acuta e marker infiammatorio
+- L'**acido acetilsalicilico** (**aspirina**) riduce gli eventi coronarici in numerosi contesti
 
 
 ## Patogenesi e morfologia
@@ -60,30 +174,12 @@ sistema/apparato:
 - L'aterogenesi nell'uomo è un processo che ==dura molti decenni==. 
 - Tuttavia, la **crescita delle placche** aterosclerotiche è un ==processo discontinuo e non lineare==, con periodi di relativa quiescenza alternati a episodi di rapida evoluzione. 
 
-#### Aterogenesi e manifestazioni cliniche
-![placca aterosclerotica, sezione istologica](https://i.imgur.com/jPb5EdO.png)
-- **Dopo un periodo "silente"** solitamente prolungato, l'aterosclerosi può diventare clinicamente manifesta. 
-- Le sue espressioni cliniche possono essere:
-	- **Croniche**, come nel caso di:
-		- ==Angina pectoris== da sforzo *stabile*
-		- ==Claudicatio intermittens== prevedibile e riproducibile
-	- **Acute**, come un evento clinico grave:
-		- Infarto miocardico
-		- Episodio cerebrovascolare
 
-- **In altri casi**, non compaiono ==mai manifestazioni cliniche di patologie== a carico delle arterie, anche se all'autopsia viene dimostrata la presenza di aterosclerosi diffusa.
-
-##### Alterazioni non occlusive
-- **Non tutte le manifestazioni** aterosclerotiche derivano ==da stenosi e da occlusioni==.
-	- **Spesso**, nell'aorta possono svilupparsi:
-		- ==Ectasie==
-		- ==Aneurismi== (vedi Cap. 247)
-	- Oltre alle stenosi focali e flussolimitanti, l'aterosclerosi intima non occlusiva ricorre ==diffusamente== anche nelle arterie affette, come dimostrato dall'ecografia intravascolare e dagli studi autoptici.
 
 ### Processi Iniziali (Strie Lipidiche)
 ![Visione trasversale di un'arteria che descrive le fasi di sviluppo di un ateroma](https://i.imgur.com/am3jf4M.png)
 - Un'analisi integrata di risultati di studi sperimentali e clinici sull'aterosclerosi *suggerisce* che le «strie lipidiche» rappresentino la **lesione iniziale** dell'aterosclerosi. 
-	- Cominciano a formarsi nei punti più suscettibili al successivo sviluppo di placche (ciò suggerisce evoluzione temporale)
+	- Cominciano a formarsi ==nei punti più suscettibili== al successivo sviluppo di placche (ciò suggerisce evoluzione temporale)
 >[!warning] Attenzione:
 > - Non necessariamente destinate a divenire placche
 > - Alcune possono essere già presenti nell'aorta dei bambini
@@ -195,7 +291,7 @@ sistema/apparato:
 - Non sempre la stria lipidica implica formazione di un ateroma complesso
 	- Alcuni macrofagi ricchi di lipidi possono allontanarsi dalla parete arteriosa e liberarla, così, dai lipidi
 
->[!info] Ruolo delle HDL nella regressione dell'ateroma
+>[!info]- Ruolo delle HDL nella regressione dell'ateroma
 >- Il ***trasporto inverso del colesterolo mediato dalle HDL*** può rappresentare una via indipendente per la rimozione di lipidi dall'ateroma
 >	- L'obiettivo finale è il trasferimento di colesterolo al fegato
 >	- Gli epatociti trasformano lo sterolo in acidi biliari
@@ -273,13 +369,7 @@ sistema/apparato:
 	- Questa fibrinolisi può portare a una ulteriore progressione della lesione
 - Tra le **molecole trombolitiche** si annoverano la *trombomodulina*, gli attivatori tissutali di plasminogeno e urochinasi-simili, nonché i proteoglicani
 	- Anche i proteoglicani *eparansolfato*, *prostaciclina* e *NO*
-#### Esiti clinici (accenno)
-- Quando i **meccanismi fibrinolitici** endogeni vengono sopraffatti, il coagulo può propagarsi e determinare *occlusione dell'arteria*
-- Le **conseguenze dipendono dall'entità del circolo collaterale**:
-	1. In caso di paziente con *malattia coronarica occlusiva multivasale cronica*
-		- Spesso si forma un **circolo collaterale tale** che anche una stenosi totale dell'arteria interessata causi un ==infarto inaspettatamente modesto==
-	2. **In caso di paziente con patologia meno avanzata**, anche un'improvvisa rottura della placca od occlusione dell'arteria producono ==infarto infausto==
-	3. **In alcuni casi**, il trombo può andare incontro a ==lisi od organizzarsi in trombo murale, senza necessariamente occludere il vaso==
+
 #### Microvasi e Calcificazioni
 ![micrografia a forte ingrandimento della giunzione tra cappuccio fibroso e core, che mostra l’infiltrato diffuso di cellule infiammatorie, le calcificazioni (punta di freccia) e la neovascolarizzazione (frecce piccole).](https://i.imgur.com/uqdYaTN.png)
 - Man mano che le lesioni aterosclerotiche avanzano, ==si sviluppano plessi di microvasi== in connessione coi **vasa vasorum dell'arteria interessata**
@@ -293,31 +383,52 @@ sistema/apparato:
 	- *osteocalcina*
 	- *osteopontina* 
 
+#### Dilatazione compensatoria
+- Il rimodellamento arterioso durante la formazione dell'ateroma rappresenta un **aspetto** ==frequentemente sottovalutato==, ma ==clinicamente rilevante== dell'evoluzione della lesione. 
+	- **Durante le fasi iniziali** dello sviluppo dell'ateroma, la placca solitamente ==cresce nella direzione opposta al lume==.
+		- **Fino a quando la placca non copre più del 40%** circa della circonferenza della lamina elastica interna, essa ==non inizia a invadere il lume== dell'arteria. 
+	- I vasi colpiti da aterogenesi tendono ad aumentare di diametro, un tipo di rimodellamento vasale noto come *dilatazione compensatoria*. 
+- Dunque, ==per la maggior parte della sua evoluzione==, l'ateroma ==non determina una stenosi che possa limitare la perfusione tissutale==.
+###### Nelle coronarie
+
+- Con il **progressivo peggioramento di una stenosi** nel segmento prossimale dell'arteria epicardica, i ==vasi di resistenza distali== (quando funzionano normalmente) ==si dilatano== per ridurre la resistenza vascolare e mantenere il flusso coronarico. 
+- Un ==gradiente di pressione== si sviluppa lungo le stenosi prossimali, determinando la caduta della pressione poststenotica.
+- **Quando** i vasi di resistenza sono ==dilatati al massimo==, la **circolazione miocardica** diventa ==dipendente== dalla pressione dell'arteria ==coronaria distale all'ostruzione==. 
 #### Ultimo stadio
 ![Aspetto macroscopico dell'aterosclerosi aortica](https://i.imgur.com/gK1NIZy.png)
 - Gli **ateromi complessi** hanno, spesso, un ==carattere prettamente fibroso== e ==mancano dell'aspetto ipercellulare== tipico delle lesioni in stadio meno avanzato.
 	- Ciò può derivare dalla **predominanza di mediatori citostatici** (TGFβ e IFNγ), che possono ==inibire la proliferazione== di cellule muscolari lisce
 ![Principali costituenti di una placca ateromatosa intimale ben sviluppata](https://i.imgur.com/TQmye9F.png)
-### Sindromi cliniche dell'aterosclerosi
-
+## Aspetti clinici dell'aterosclerosi
 
 - Le lesioni aterosclerotiche sono diffuse nelle popolazioni di tutti i Paesi occidentali. 
 - La **maggior parte degli ateromi** è ==asintomatica== e molti ==non causa==no mai ==manifestazioni cliniche==.
 - **Numerosi pazienti affetti** da aterosclerosi diffusa ==possono morire per malattie non collegabili a essa==, senza mai avere avuto in precedenza una manifestazione clinica significativa di aterosclerosi. 
+#### Aterogenesi e manifestazioni cliniche
+![placca aterosclerotica, sezione istologica](https://i.imgur.com/jPb5EdO.png)
+- **Dopo un periodo "silente"** solitamente prolungato, l'aterosclerosi può diventare clinicamente manifesta. 
+- Le sue espressioni cliniche possono essere:
+	- **Croniche**, come nel caso di:
+		- ==Angina pectoris== da sforzo *stabile*
+		- ==Claudicatio intermittens== prevedibile e riproducibile
+	- **Acute**, come un evento clinico grave:
+		- Infarto miocardico
+		- Episodio cerebrovascolare
 
-##### Fattori di Variabilità dell'Espressione Clinica
+- **In altri casi**, non compaiono ==mai manifestazioni cliniche di patologie== a carico delle arterie, anche se all'autopsia viene dimostrata la presenza di aterosclerosi diffusa.
+
+##### Alterazioni non occlusive
+- **Non tutte le manifestazioni** aterosclerotiche derivano ==da stenosi e da occlusioni==.
+	- Spesso, **nell'aorta** possono svilupparsi:
+		- ==Ectasie==
+		- ==Aneurismi== (vedi Cap. 247)
+	- Oltre alle stenosi focali e flussolimitanti, l'aterosclerosi intima non occlusiva ricorre ==diffusamente== anche nelle arterie affette, come dimostrato dall'ecografia intravascolare e dagli studi autoptici.
+#### Fattori alla base della variabilità clinica
 
 - A quali fattori è attribuibile una tale variabilità dell'espressione clinica della malattia aterosclerotica? 
 
-###### Rimodellamento Arterioso
-
-- Il rimodellamento arterioso durante la formazione dell'ateroma (Fig. 235 - 2A) rappresenta un **aspetto** ==frequentemente sottovalutato==, ma ==clinicamente rilevante== dell'evoluzione della lesione. 
-	- **Durante le fasi iniziali** dello sviluppo dell'ateroma, la placca solitamente ==cresce nella direzione opposta al lume==.
-		- **Fino a quando la placca non copre più del 40%** circa della circonferenza della lamina elastica interna, essa ==non inizia a invadere il lume== dell'arteria. 
-	- I vasi colpiti da aterogenesi tendono ad aumentare di diametro, un tipo di rimodellamento vasale non come *dilatazione compensatoria*. 
-- Dunque, ==per la maggior parte della sua evoluzione==, l'ateroma ==non determina una stenosi che possa limitare la perfusione tissutale==.
-
-###### Stenosi e Flusso Sanguigno
+##### [[#Dilatazione compensatoria|Rimodellamento Arterioso]]
+##### Compensi cronici
 
 - Le **stenosi che limitano il flusso** si formano ==solitamente in una fase tardiva== dell'evoluzione della placca. 
 	- Molte di queste placche **causano sindromi stabili** come:
@@ -326,22 +437,24 @@ sistema/apparato:
 - **Nel circolo coronarico** o in altri distretti, ==perfino le occlusioni totali== dovute all'ateroma ==non conducono inevitabilmente all'infarto==.
 	- **Lo stimolo ipossico** derivante da attacchi ischemici ripetuti ==induce== normalmente la ==formazione==, nel miocardio, di ==vasi collaterali== ([[#microvasi e circoli collaterali]]) che consentono di mitigare le conseguenze di un'occlusione acuta di un'arteria coronaria epicardica.
 
-###### Lesioni Aterosclerotiche Acute
+##### Instabilità delle lesioni acute
+
 
 - D'altro canto, **molte lesioni** che determinano **sindromi aterosclerotiche acute o instabili** possono ==derivare da placche== aterosclerotiche che ==non producono una stenosi che limita il flusso==
 	- Soprattutto nel circolo coronarico
 - Tali lesioni **possono apparire**, alle angiografie tradizionali, ==come irregolarità di minima entità== del lume vasale 
 	- Spesso non rispondono ai criteri convenzionali per la "significatività" in arteriografia. 
 - L'instabilità di queste stenosi non occlusive può costituire ==uno dei motivi per cui l'infarto miocardico è la prima manifestazione della coronaropatia in almeno un terzo dei casi==, spiegando perché l'anamnesi di questi pazienti non include episodi di angina pectoris, sindrome solitamente provocata da stenosi che limitano il flusso.
-\
 
-#### Instabilità e rottura della placca
+
+
+### Instabilità e rottura della placca
 ![Rottura della placca, trombosi e cicatrizzazione](https://i.imgur.com/cdlmykn.png)
 - Gli studi istopatologici approfondiscono in modo particolare gli **aspetti microanatomici** che sono ==alla base dell'"instabilità"== delle placche non propriamente stenotiche.
 - Ne è **responsabile** solitamente l'==erosione superficiale== dell'endotelio, oppure la ==rottura o fissurazione dell'involucro== della placca
 	- Da questi processi possono originare trombi.
 
-##### Conseguenze del trombo
+#### Conseguenze del trombo
 
 - Il **trombo può poi determinare**:
 	- Un episodio di ==angina pectoris instabile==
@@ -349,32 +462,32 @@ sistema/apparato:
 
 - Nel caso dell'**ateroma carotideo**, un'ulcerazione più profonda che funge da fulcro per la formazione di trombi piastrinici può essere ==alla base di attacchi ischemici transitori==.
 
-##### Meccanismi di rottura della placca
+#### Meccanismi di rottura della placca
 
 - La **rottura della lamina fibromuscolare** consente ai **fattori ematici** di coagulazione di entrare in contatto con il [[Tromboplastina - Tissue Factor|TF]] delle cellule schiumose derivate dai macrofagi nel "core" lipidico della placca.
     - Un **trombo** **non occlusivo** può essere asintomatico o causare **sintomi ischemici episodici** come l'angina a riposo.
     - I **trombi occlusivi** possono causare **infarto miocardico**, soprattutto in assenza di un circolo collaterale.
 
-###### Evoluzione delle lesioni fibrose
+##### Evoluzione delle lesioni fibrose
 
 - **Rotture e cicatrizzazioni** ripetute possono far evolvere le strie lipidiche in ==lesioni fibrose più complesse==, attraverso la deposizione di nuova matrice extracellulare
 - Non tutti gli ateromi hanno la stessa predisposizione alla rottura
 
-##### Aspetti anatomopatologici
+#### Aspetti anatomopatologici
 - Studi anatomopatologici su lesioni che hanno causato infarto miocardico mostrano che le placche responsabili tendono a avere:
     - Una sottile lamina fibromuscolare
     - Un nucleo lipidico ampio
     - Un elevato contenuto di macrofagi
 - **Studi morfometrici** evidenziano una ==preponderanza di macrofagi e linfociti T== nel sito di rottura, con carenza di cellule muscolari lisce
 
-###### *Marcatori* dell'attivazione infiammatoria
+##### *Marcatori* dell'attivazione infiammatoria
 
 - Le cellule nelle zone di rottura esprimono **marcatori infiammatori** come l'_antigene HLA-DR_, indicativo del grado di infiammazione dell'ateroma
-##### Infiammazione e aterosclerosi
+#### Infiammazione e aterosclerosi
 
 - I pazienti con aterosclerosi attiva e **sindrome coronarica acuta** presentano segni di infiammazione disseminata.
 
-###### *Mediatori* dell'infiammazione
+##### *Mediatori* dell'infiammazione
 
 - I **mediatori** infiammatori modulano l'integrità della lamina fibromuscolare e la sua propensione alla rottura.
 - **Citochina [[#Ruolo delle cellule T|IFN-γ]]**:
@@ -382,163 +495,13 @@ sistema/apparato:
     - Induce l'HLA-DR nelle zone di rottura
 - **Citochine** derivate da macrofagi e cellule T ==possono stimolare l'espressione di enzimi proteolitici== che degradano la matrice extracellulare, indebolendo la lamina fibromuscolare.
 
-##### Resistenza delle placche
+#### Resistenza delle placche
 
 - Le placche con matrice extracellulare densa e lamina fibromuscolare spessa, prive di nucleo lipidico, sono generalmente resistenti alla rottura e raramente causano trombosi.
 
 
-## Prevenzione e trattamento
-### Il concetto di fattori di rischio aterosclerotico
-![Principali fattori di rischio (escluso il colesterolo LDL) che modificano gli obiettivi del colesterolo LDL](https://i.imgur.com/x1A7IYC.png)
-- Fattori di rischio riconosciuti dall'attuale *National Cholesterol Education Project Adult Treatment Panel III* (*ATP III*)
-- Lo **studio** sistematico dei fattori di rischio per l'aterosclerosi è ==emerso da una serie di risultati sperimentali==, così come da studi trasversali e longitudinali condotti sull'uomo. 
-	- Il *Framingham Heart Study*, uno studio prospettico di comunità, ha fornito un forte sostegno al concetto secondo cui l'ipercolesterolemia, l'ipertensione e altri fattori sono correlati al rischio cardiovascolare. 
-	- ==Analoghi studi osservazionali== condotti a livello mondiale hanno rinforzato il concetto di "fattori di rischio" per la patologia cardiovascolare. 
 
-- Da un punto di vista pratico, i fattori di rischio cardiovascolari emersi da tali studi **si suddividono in due categorie**:
-	- Quelli ==modificabili== mediante cambiamento dello stile di vita e/o dalla farmacoterapia
-	- Quelli ==immutabili==, quali l'età e il sesso.
-- Il **peso delle prove a sostegno** dei diversi fattori di rischio è ==variabile==, per esempio:
-	- L'==ipercolesterolemia== e l'==ipertensione== sono ==indubbiamente== fattori predittivi di rischio coronarico
-	- Rimane **controverso il ruolo di** altri fattori di rischio, denominati non tradizionali, come i livelli di ==omocisteina==, la ==lipoproteina (a)== o ==le infezioni==; 
-		- Così come non è sicuro il ruolo di alcuni biomarcatori, come la proteina C-reattiva (PCR). 
-#### Dislipidemie
-##### Screening lipidico
-![Obiettivi del colesterolo LDL, soglie per la modificazione terapeutica dello stile di vita e terapia farmacologica in diverse categorie a rischio](https://i.imgur.com/oy4leAS.png)
-- Le attuali guide ATP III raccomandano lo screening lipidico ==in tutti gli adulti di età > 20 anni==.
-- **Profilo lipidico a digiuno** (==da ripetere ogni 5 anni==):
-	- Colesterolo totale
-	- Trigliceridi
-	- HDL
-	- LDL
-###### Categorie
-- Collocazione degli individui in **tre categorie di trattamento** in funzione di ulteriori fattori di rischio
-- **Meno di due fattori di rischio**
-	- ==Categoria più bassa== per il trattamento
-	- ==Obiettivo di LDL== < 4,1 mmol/L (160 mg/dl)
-- **Due o più fattori di rischio**
-	- In questo caso si stabilisce la categoria di appartenenza in funzione del rischio di sviluppare una malattia coronarica in 10 anni
-		- Per calcolarlo si applica [un algoritmo](https://tools.acc.org/ascvd-risk-estimator-plus/)
-	- Ottenuto il rischio possiamo quindi distinguere tre ulteriori categorie
-		- **Categoria intermedia** se il rischio <= 20%.
-			- ==obiettivo di LDL < 3,4 mmol/L== 
-		- **Categoria più alta** se il rischio >= 20%
-			- ==obiettivo di LDL < 2,6 mmol/L==
-			- Presentano segni di aterosclerosi definita o diabete.
-		- **Categoria molto alta** 
-			- ==obiettivo di LDL < 1,8 mmol/L==
-
-
-##### Provvedimenti per Raggiungere l'Obiettivo LDL Ottimale
-
-###### 1. Modificazioni terapeutiche dello stile di vita
-
-- Diete specifiche ed esercizio fisico.
-
-![L'abbassamento dei lipidi riduce gli eventi coronarici](https://i.imgur.com/7pDvTD1.png)
-
-- La riduzione del rischio cardiovascolare è garantita
-	- Nei pazienti con AC definita
-	- Nei soggetti che non hanno mai sofferto di eventi coronarici.
-
-- **Azione delle terapie ipolipemizzanti sulle lesioni aterosclerotiche**
-	- ==Non causano== marcata "==regressione==" delle ==lesioni coronariche== ostruttive
-		- Al massimo una ==modesta diminuzione delle stenosi== coronariche.
-	- Ciò nonostante, si hanno riduzioni sostanziali degli eventi coronarici per via della =="stabilizzazione" delle lesioni==.
-
- >[!danger] Insidie angiografiche
- > Poiché le lesioni di grandi dimensioni possono protrudere verso l'esterno anziché verso il lume, la riduzione del volume delle placche potrebbe non risultare evidente all'esame angiografico.
-
-###### 2. *Terapia farmacologica*
-- Se LDL > 0,8 mmol/L rispetto agli obiettivi del proprio gruppo di rischio → candidabile 
-- Terapia con **inibitori della HMG-CoA reduttasi** (**statine**):
-	- Efficacia dipendente 
-		- sia da effetti salutari sul profilo lipidico 
-		- sia dalla modulazione diretta della biologia della placca.
-- **Farmaci agenti sulla** *NPC1L1* (*Niemann-Pick C1-like 1*) [^5] 
-	- Il farmaco **ezetimibe** blocca l'NPC1L1 causando una riduzione dell'assorbimento del colesterolo, con una riduzione nel sangue tra il 15-20%.
-
-###### 3. Terapia a base di **vitamine antiossidanti**:
-- Poiché il meccanismo mediante il quale elevati livelli di LDL favoriscono l'aterosclerosi implica alterazioni ossidative.
-- Studi clinici rigorosi e ben monitorati non ne hanno dimostrato l'efficacia.
-
-##### Ruolo delle HDL
-
-- In verità, nell'era "post statine", i ==pazienti con livelli di LDL pari o al di sotto dell'obiettivo presentano frequentemente SCA==
-	- Bassi livelli di HDL rimangono l'**effettivo problema** e il loro ==livello varia inversamente a quello dei trigliceridi==.
-	- Il controllo dei **livelli di HDL** è divenuto preminente. 
-- Aumentano con:
-	- Calo ponderale + esercizio fisico
-###### Terapia farmacologica
-- Statine + *acido nicotinico*:
-	- Quest'ultimo, anche con adattamento del dosaggio, causa flushing [^6] e prurito, difficili da accettare per il paziente.
-- **Agonisti dei recettori nucleari** che aumentano i livelli di HDL: *PPAR-α* e *γ* (*peroxisome proliferator-activated receptor α*):￼￼peroxisome proliferator-activated receptor α￼￼):1
-	- ==Aumentano i livelli di HDL== mediante riduzione della trascrizione dell'*apolipoproteina AI*,
-	- ==Aumentano il catabolismo dei trigliceridi== mediante riduzione della trascrizione dell'*apolipoproteina CIII*, inibitore della lipoproteina lipasi.
-
-#### Ipertensione
-- Una grande mole di dati epidemiologici avvalora l'esistenza di una correlazione tra l'ipertensione e il rischio aterosclerotico.
-- Oltre a ciò, molti dati clinici hanno dimostrato che il **trattamento farmacologico dell'ipertensione può ridurre il rischio**
-	- Di ictus
-	- Di scompenso cardiaco 
-	- Di manifestazioni coronariche.
-
-
-#### Diabete mellito, resistenza all'insulina e sindrome metabolica
-![Fattori di rischio per la sindrome metabolica](https://i.imgur.com/odI9qxz.png)
-
-- La **maggior parte dei pazienti** con diabete mellito ==muore a causa di aterosclerosi== e delle sue complicanze
-##### Fisiopatologia
-- Il profilo lipoproteico anormale associato all'insulino-resistenza (*dislipidemia diabetica*) ne è responsabile:
-	- **LDL** vicine alla media, ma particelle ==più piccole e dense== (più *aterogene*);
-	- ==Bassi livelli di HDL==;
-	- ==Elevati livelli di trigliceridi==;
-- L'**ipertensione**, spesso, ==accompagna== questa condizione.
-##### Trattamento secondo le linee guida ATP III:
-- Stabilire uno **stretto controllo della glicemia** per i pazienti diabetici di tipo 2 risulta **difficile** -> ==non si hanno prove sicure che esso possa ridurre il rischio== coronarico 
-	- Ci si focalizza, a maggior ragione, su altri aspetti)
-- La **metformina** pare l'==agente== ipoglicemico orale ==più efficace==;
-###### Statine
- - Efficaci a tutti i livelli di LDL
-- In generale, raccomandate per persone con diabete con
-	- Età > 40 anni
-	- Colesterolo totale > 135;
-###### Agonisti di recettori nucleari che aumentano le HDLL
-- Il **gemfibrozil** (==agonista PPAR-α==) riduce l'incidenza di malattia coronarica e ictus
-	- Il *pioglitazone* (altro agonista) non ha raggiunto, invece, il suo end-point primario multiplo, ma ha dimostrato significativa riduzione di tutte le cause di mortalità
-###### Strategie ipertensive
-- Particolare giovamento tratto da **strategie antipertensive bloccanti l'angiotensina II**:
-	- ==Bloccanti dell'ACE==,
-	- ==Bloccanti per i recettori dell'angiotensina==.
-
-
-#### Sesso maschile/stato postmenopausale
-- Gli uomini presentano maggiore rischio coronarico che le donne nel periodo premenopausa:
-	- **Post menopausa**, il rischio aumenta, poiché i ==livelli== relativamente elevati di HDL scendono
-		- La terapia estrogenica abbassa il colesterolo LDL ed innalza l'HDL
-##### Terapia estrogenica 
-######  HERS (Heart and Estrogen/Progestin Replacement Study)
-- donne in condizione menopausale (sopravvissute all'infarto miocardico acuto)
-- terapia con associazione estrogeno-progestinica o a placebo
-	- in realtà, effettivo aumento degli eventi vascolari nei primi 5 anni
-###### WHI (Women's Health Initiative)
-- terapia analoga con estrogeni e progesterone, interrotta a causa di un piccolo rischio di eventi cardiovascolari, ictus e cancro alla mammella
-
->[!info]-
->Analisi successive ad hoc hanno dimostrato che la terapia a base di estrogeni nelle donne più giovani di quelle in menopausa conferiscono **benefici cardiovascolari**
-#### Alterazioni della coagulazione o della fibrinolisi
-- Come già detto, la **trombosi** provocata dalla rottura di un ateroma e la **successiva cicatrizzazione** possono ==favorire la crescita della placca==
-- La **stabilità di un trombo arterioso** dipende dall'==equilibrio fra fattori fibrinolitici==, come 
-	- La ==plasmina==
-	- Gli ==inibitori del sistema fibrinolitico== 
-		- Ad esempio, il *PAI 1*, *plasminogen activator inhibitor 1*
-	- Elevati livelli di ==fibrinogeno== potrebbero favorire la trombosi, il che lo rende reagente di fase acuta e marker infiammatorio
-- L'**acido acetilsalicilico** (**aspirina**) riduce gli eventi coronarici in numerosi contesti
-
-
-
-
---- 
+---
 # Reference:
 [[Malattie vascolari]]
 [[Arteriosclerosi]]

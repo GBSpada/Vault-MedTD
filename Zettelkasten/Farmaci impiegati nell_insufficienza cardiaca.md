@@ -220,7 +220,7 @@ Tag: #Farmacologia #ApparatoCardiocircolatorio
 >[!info]
 >Un possibile meccanismo va trovato nel fatto che l'*aldosterone*, a parte i suoi effetti renali, può anche causare [[fibrosi]] miocardica e vascolare e disfunzione barorecettoriale.
 ### Inibitori dell'ACE, antagonisti recettoriali dell'angiotensina e agenti correlati
->Vedi [[inibitori dell'angiotensina]] e [[peptidi vasoattivi]]
+>Vedi [[inibitori dell'angiotensina]] e [[Peptidi vasoattivi]]
 - Meccanismo d'azione:
 	- ↓ resistenze periferiche → ↓ postcarico
 	- ↓ ritenzione d'acqua e sali → ↓ secrezione di aldosterone → ↓ precarico

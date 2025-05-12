@@ -12,7 +12,7 @@ sistema/apparato:
 
 ## [[Aterosclerosi]]
 ## [[Sindrome metabolica]]
-## [[Condivisi/PatGenCardio/Cardiopatia ischemica (IHD)|Cardiopatia ischemica (IHD)]]
+## [[Cardiopatia ischemica (IHD)]]
 ## [[Angina instabile e infarto miocardico senza sopraslivellamento del tratto ST]]
 ## [[Infarto miocardico con sopraslivellamento del tratto ST]]
 ## [[Rivascolarizzazione coronarica percutanea]]
@@ -20,16 +20,6 @@ sistema/apparato:
 ## [[Malattie dell'aorta]]
 ## [[Malattie dei vasi periferici]]
 ## [[Ipertensione polmonare]]
-
-
-
-
-
-
-
-
-
-
 
 
 --- 

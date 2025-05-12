@@ -341,6 +341,53 @@ I tre sintomi principali che caratterizzano la stenosi aortica pura sono:
 	- Nei pazienti con stenosi aortica severa (< 1.0 cm²), l'**attività fisica strenua va evitata**, ==anche durante la fase asintomatica== 
 	- È necessaria **attenzione** al fine di ==evitare la disidratazione e l'ipovolemia== e proteggere il paziente da una significativa riduzione della portata cardiaca. 
 
+> [!NOTE]- Mega algoritmo
+> ```mermaid
+> flowchart TD
+>     A1["Anomalia valvolare aortica con apertura sistolica ridotta"] --> A2{"Sintomi dovuti a stenosi aortica (AS)?"}
+>     
+> 	A2 -- Sì --> A3{"Gravità AS"}
+>     A2 -- No --> A20{"Stadio AS"}
+>     A3 -- "Severa D1: Vmax >= 4 m/s o DeltaPmean >= 40 mmHg" --> A4{"Frazione di eiezione <50%?"}
+>     A3 -- "Severa D2: DSE Vmax >= 4 m/s" --> A5["Indicazione a sostituzione valvolare (AVR)"]
+>     A3 -- "Severa D3: AVA <= 0.6 cm2/m2 e SVi <= 35 mL/m2" --> A5
+>     A4 -- Sì --> A5
+>     A4 -- No --> A5
+>     A20 -- "Stadio C: Vmax >= 4 m/s" --> A21{"Frazione di eiezione <50%?"}
+>     A20 -- "Stadio B: Vmax 3-3.9 m/s" --> A27["AVR non indicata"]
+>     A21 -- Sì --> A5
+>     A21 -- No --> A22{"Altra chirurgia cardiaca?"}
+>     A22 -- Sì --> A5
+>     A22 -- No --> A23{"Test da sforzo con ipotensione o scarsa capacità?"}
+>     A23 -- Sì --> A5
+>     A23 -- No --> A24{"Vmax >=5 m/s oppure BNP >3x normale oppure progressione rapida?"}
+>     A24 -- Sì --> A25{"Rischio chirurgico basso?"}
+>     A24 -- No --> A27
+>     A25 -- Sì --> A26["SAVR raccomandata (classe 2a)"]
+>     A25 -- No --> A27
+>     A5 --> B1["Discussione con Heart Team: scelta tra SAVR e TAVI"]
+>     B1 --> B2{"Valutazione rischio"}
+>     B2 -- "Rischio NON estremo o proibitivo" --> B3{"Possibile anticoagulazione con VKA?"}
+>     B2 -- "Rischio estremo o proibitivo" --> B10{"Vita >1 anno e preferenze paziente?"}
+>     B3 -- Sì --> B4{"Età del paziente"}
+>     B3 -- No --> B8["Bioprotesi raccomandata (classe 1)"]
+>     B4 -- "<50 anni" --> B5["Sostituzione valvolare meccanica (classe 2a)"]
+>     B4 -- "50-65 anni" --> B6["Valvola meccanica o bioprotesica (classe 2a)"]
+>     B4 -- ">65 anni" --> B7["Valvola bioprotesica (classe 1)"]
+>     B8 --> B9{"Stenosi aortica severa sintomatica o FE <50%?"}
+>     B9 -- No --> B20["Nessun intervento"]
+>     B9 -- Sì --> B11{"Anatomia adatta per TAVI transfemorale?"}
+>     B11 -- No --> B12{"Età e aspettativa di vita"}
+>     B11 -- Sì --> B13["TAVI transfemorale (classe 1)"]
+>     B12 -- "<65 anni" --> B14["SAVR (classe 1)"]
+>     B12 -- "65-80 anni" --> B15["TAVI transfemorale (classe 1)"]
+>     B12 -- ">80 anni" --> B16["SAVR (classe 2a)"]
+> 
+>     B10 -- "Vita >1 anno" --> B11
+>     B10 -- "Vita <1 anno" --> B17["Cure palliative (classe 1)"]
+> 
+> ```
+
 ### Terapia Medica
 
 - I **farmaci utilizzati nel trattamento dell'ipertensione arteriosa e della coronaropatia**, inclusi i ==beta-bloccanti== e gli ==ACE-inibitori==, sono generalmente ==sicuri nei pazienti asintomatici== con una funzione sistolica del ventricolo sinistro conservata. 

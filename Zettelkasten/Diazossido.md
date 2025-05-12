@@ -35,7 +35,7 @@ Tag: #Farmacologia
 >- L'effetto ipotensivo del diazossido è, inoltre, più elevato se i pazienti sono stati pretrattati con [[Farmaci antagonisti sui recettori adrenergici#Farmacologia di base degli antagonisti sui recettori $ beta$-adrenergici|β-bloccanti]], al fine di prevenire la tachicardia riflessa e l'aumento conseguente della gittata cardiaca.
 ## Tossicità
 - Il più importante effetto tossico è l'**eccessiva ipotensione** (può derivare anche dall'uso raccomandato: 300 mg per tutti i pazienti)
-	- la risposta riflessa simpatica può provocare anche [[Angina pectoris|angina]], segni elettrocardiografici di ischemia e [[Scompenso cardiaco|insufficienza cardiaca]] in pazienti con [[Cardiopatia ischemica (IHD)|IHD]] (andrebbe evitato in questa situazione)
+	- la risposta riflessa simpatica può provocare anche [[Angina pectoris|angina]], segni elettrocardiografici di ischemia e [[Scompenso cardiaco|insufficienza cardiaca]] in pazienti con [[Zettelkasten/Cardiopatia ischemica (IHD)|IHD]] (andrebbe evitato in questa situazione)
 - Inibisce il rilascio di [[insulina]] dal pancreas
 	- probabilmente attraverso l'apertura, da esso indotta, dei canali $K^+$ della membrana delle cellule $\beta$
 	- ==impiegato per trattare l'ipoglicemia secondaria ad insulinoma==

@@ -2,7 +2,7 @@
 Stato: #ideaL
 Tag: #Microbiologia 
 
-[[Clostridium difficile]]
+[[Clostridium difficile 2]]
 [[Clostridium perfringens]]
 
 

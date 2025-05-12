@@ -49,7 +49,7 @@ Tag: #Farmacologia #ApparatoUrinario #ApparatoCardiocircolatorio
 ## Effetti espletati
 - Abbassano la pressione arteriosa principalmente per diminuzione delle resistenze vascolari periferiche
 	- gittata e frequenza non risultano significativamente modificate
-	- a differenza dei vasodilatatori diretti, gl'inibitori dell'enzima convertente non provocano un'attivazione riflessa simpatica e possono, quindi, essere usati con sicurezza dalle persone con [[Cardiopatia ischemica (IHD)|IHD]]
+	- a differenza dei vasodilatatori diretti, gl'inibitori dell'enzima convertente non provocano un'attivazione riflessa simpatica e possono, quindi, essere usati con sicurezza dalle persone con [[Zettelkasten/Cardiopatia ischemica (IHD)|IHD]]
 - ==Assenza di tachicardia riflessa==: potrebbe essere dovuta ad un riassestamento verso il basso dei barorecettori o ad aumentata attività parasimpatica
 >[!info]
 >Sebbene gl'inibitori dell'enzima di conversione risultino più efficaci in condizioni in cui è presente nel plasma un'elevata attività reninica, non si rileva, nei soggetti trattati, una buona correlazione tra attività reninica plasmatica e risposta ipotensiva; di conseguenza, non è necessario determinare preliminarmente i livelli di renina.

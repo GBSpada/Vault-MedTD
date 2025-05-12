@@ -29,26 +29,26 @@ mindmap-plugin: basic
 			- Ulcere necrotizzanti alle mucose (infezioni)
 - Leucocitosi e linfoadenopatie reattive (infiammatorie)
 	- Leucocitosi
-		- > Aumento leucociti circolanti, dipende dalla popolazione cellulare
+		- Aumento leucociti circolanti, dipende dalla popolazione cellulare
 		- Fisiopatologia
-			- Aumentata produzione e rilascio dal midollo
-			- Diminuita marginazione
-			- Diminuita fuoriuscita nei tessuti
+		- Aumentata produzione e rilascio dal midollo
+		- Diminuita marginazione
+		- Diminuita fuoriuscita nei tessuti
 		- Eziologia
-			- Reattiva: infezioni, sepsi
-			- Neoplastica
-	- Linfoadenite
+		- Reattiva: infezioni, sepsi
+		- Neoplastica
+		- Linfoadenite
 		- Intro
-			- Decorso dei linfociti
+		- Decorso dei linfociti
 		- Linfoadenite acuta aspecifica
-			- Manifestazioni: zone
-			- Eziologia: infezioni gravi/sistemiche
-			- Morfologia: fagociti
+		- Manifestazioni: zone
+		- Eziologia: infezioni gravi/sistemiche
+		- Morfologia: fagociti
 		- Linfoadenite cronica aspecifica
-			- Iperplasia follicolare: stimoli risposta umorale
-				- Follicoli oblunghi
-			- Iperplasia paracorticale: infezioni virali
-			- Istiocitosi dei seni
+		- Iperplasia follicolare: stimoli risposta umorale
+		- Follicoli oblunghi
+		- Iperplasia paracorticale: infezioni virali
+		- Istiocitosi dei seni
 - Proliferazioni neoplastiche dei leucociti
 	- Fattori eziologici e patogenetici delle neoplasie dei globuli bianchi
 		- Traslocazioni

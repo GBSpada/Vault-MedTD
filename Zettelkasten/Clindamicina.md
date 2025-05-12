@@ -59,7 +59,7 @@ Tag: #Farmacologia #Chemioterapici #Antibiotici
 	- ridotta funzionalità epatica (con o senza ittero)
 	- neutropenia
 >[!warning]
-> Il trattamento con clindamicina è un fattore di rischio per lo sviluppo di diarrea ed enterocolite da [[Clostridium difficile]].
+> Il trattamento con clindamicina è un fattore di rischio per lo sviluppo di diarrea ed enterocolite da [[Clostridium difficile 2]].
 
 
 

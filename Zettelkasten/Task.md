@@ -49,6 +49,24 @@ kanban-plugin: basic
 - [ ] Antivirali: 37
 
 
+## Fisiologia
+
+- [ ] Aggiustare fisio digerente
+- [ ] Introduzione alla funzione renale e al bilancio idrosalino
+- [ ] Funzioni glomerulari
+- [ ] Regolazione dell'osmolarità
+- [ ] Funzioni tubulari
+- [ ] Regolazione e autoregolazione renale
+- [ ] Regolazione endocrina del metabolismo di calcio fosforo e glucosio 65
+- [ ] Regolazione delle funzioni sessuali e riproduttiva 67
+- [ ] Fisiologia e biomeccanica della locomozione 68
+- [ ] Fisiologia dell'esercizio fisico: adattamenti muscolari
+
+
+## Fisiopatologia
+
+
+
 ***
 
 ## Archive

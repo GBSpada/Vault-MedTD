@@ -21,7 +21,7 @@ C[Resistenze al flusso di aria]
 ```
 
 - Si associa spesso *asma cardiaca*
-	- Essenziale differenziare dall'[[Condivisi/FarmacologiaBruno/Miscellanea necessaria/Asma bronchiale|Asma bronchiale]]
+	- Essenziale differenziare dall'[[Asma bronchiale]]
 - Non si allevia in posizione seduta
 
 

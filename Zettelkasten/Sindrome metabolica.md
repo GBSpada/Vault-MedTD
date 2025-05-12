@@ -450,7 +450,6 @@ sistema/apparato:
 		- Una **riduzione di peso superiore al 10% è necessaria** per determinare una ==diminuzione dei trigliceridi a digiuno==. 
 #### Fibrati
 - I [[Farmaci impiegati nelle dislipidemie#Derivati dell'acido fibroico (fibrati)|fibrati]] (gemfibrozil o fenofibrato) sono la ==prima opzione== e di solito riescono a ottenere un abbassamento dei trigliceridi a digiuno del 35-50%.
-
 - Nel **Veterans Affairs HDL Intervention Trial** (VA-HIT) è stato somministrato il gemfibrozil a uomini con
 	- Coronaropatia certa 
 	- Livelli di colesterolo HDL inferiori a 40 mg/dl. 

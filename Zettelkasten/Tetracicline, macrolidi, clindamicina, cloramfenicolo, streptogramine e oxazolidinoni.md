@@ -224,7 +224,7 @@ Tag: #Farmacologia #Chemioterapici #Antibiotici
 		- **disturbi funzionali dell'intestino**
 		- prurito anale
 		- candidosi orale o vaginale
-		- colite associata a [[Clostridium difficile]]
+		- colite associata a [[Clostridium difficile 2]]
 ### Strutture ossee e dentarie
 >Come già detto, si legano prontamente al $Ca^{2+}$
 - L'assunzione durante la gravidanza, può generare nei denti del feto **fluorescenza**, **alterazione del colore** e **displasia dello smalto**
@@ -337,13 +337,13 @@ Tag: #Farmacologia #Chemioterapici #Antibiotici
 ### Farmacocinetica
 - Biodisponibilità per somministrazione orale = 57%
 - Penetrazione tessutale ed intracellulare sono buone
-#### Telitromicina
+### Telitromicina
 - Metabolizzata nel fegato ed eliminata per via renale e biliare
 - Somministrata in singola dose di 800 mg/g → concentraz. plasmatica di picco di ca. 2 $\mu$g/mL
-##### Azioni sfavorevoli
+#### Azioni sfavorevoli
 - Inibitore di *CYP3A4*
 - Piò provocare un lieve allungamento dell'intervallo $QT_C$
-##### Usi clinici
+#### Usi clinici
 - Negli USA indicata solamente per il trattamento di ==polmoniti acquisite in comunità==
 	- non altre infezioni respiratorie per via del rischio di [[epatiti|epatite]] e insufficienza epatica
 >[!info]

@@ -130,7 +130,7 @@ sistema/apparato:
 
 --- 
 # Appendice:
-[^1]: 
+[^1]: Proprietà  di un sistema di avere caratteristiche diverse in direzioni diverse 
 [^2]:
 [^3]:
 [^4]: 

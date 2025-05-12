@@ -3,7 +3,7 @@ stato: ideaL
 tags:
   - Microbiologia
 ---
-{{date}} {{time}}
+\{{date}} \{{time}}
 
 --- 
 

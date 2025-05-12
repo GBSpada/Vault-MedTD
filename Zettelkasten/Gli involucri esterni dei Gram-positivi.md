@@ -40,6 +40,7 @@ E assieme ad essi i loro derivati come gli acidi teicuronici
 #### Nel caso di ambienti isotonici?
 - In ambienti isotonici i batteri riescono a sopravvivere anche alla perdita della parete cellulare ma cambiano la loro morfologia diventando *protoplasti* cioè sferici
 - Eventualmente questi batteri possono risintetizzare la loro parete ma necessitano di terreni di coltura appropriati
+#### Ipertonici
 - ==Consente di resistere in ambienti a concentrazioni saline più elevate senza essere batteri *alofili sensu stricto*== 
 ###  Sinceramente bho 
 - Probabilmente aiuta, legando grandi quantità di cationi, a mantenere un ambiente adeguato per gli enzimi sintetici della membrana
